@@ -1,0 +1,1109 @@
+{
+  "id": {
+    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b0"
+  },
+  "type": "Block",
+  "styleNames": [
+    "modal-2"
+  ],
+  "settings": {
+    "tag": "div",
+    "visibility": true,
+    "block": {
+      "tag": "div"
+    }
+  },
+  "children": [
+    {
+      "id": {
+        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b1"
+      },
+      "type": "Block",
+      "styleNames": [
+        "modal-wrp",
+        "book-a-demo-wrp"
+      ],
+      "settings": {
+        "tag": "div",
+        "visibility": true,
+        "block": {
+          "tag": "div"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b2"
+          },
+          "type": "Block",
+          "styleNames": [
+            "img-book"
+          ],
+          "attributes": {
+            "scroll": "enable"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b3"
+              },
+              "type": "Image",
+              "styleNames": [
+                "Image 1116"
+              ],
+              "settings": {
+                "visibility": true,
+                "assetId": "6899ffe04a85e00f2b8cf601"
+              }
+            }
+          ]
+        },
+        {
+          "id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b4"
+          },
+          "type": "Block",
+          "styleNames": [
+            "modal-content2"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b5"
+              },
+              "type": "Block",
+              "styleNames": [
+                "person-content",
+                "book-content"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b6"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "close-modal"
+                  ],
+                  "attributes": {
+                    "scroll": "enable"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b7"
+                      },
+                      "type": "Link",
+                      "styleNames": [
+                        "close-molal-link"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b8"
+                          },
+                          "type": "Image",
+                          "styleNames": [
+                            "Image 1111"
+                          ],
+                          "settings": {
+                            "visibility": true,
+                            "assetId": "6899ffe04a85e00f2b8cf5c6"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286b9"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "item-content"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ba"
+                      },
+                      "type": "FormWrapper",
+                      "styleNames": [
+                        "Form Block"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "form": {
+                          "name": "book-a-demo-form",
+                          "formSettings": {
+                            "action": "",
+                            "method": "get",
+                            "name": "book-a-demo-form",
+                            "redirect": "",
+                            "state": "normal"
+                          }
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286bb"
+                          },
+                          "type": "FormForm",
+                          "styleNames": [
+                            "form"
+                          ],
+                          "attributes": {
+                            "id": "book-a-demo-form"
+                          },
+                          "settings": {
+                            "visibility": true,
+                            "form": {
+                              "name": "book-a-demo-form",
+                              "formSettings": {
+                                "action": "",
+                                "method": "get",
+                                "name": "book-a-demo-form",
+                                "redirect": "",
+                                "state": "normal"
+                              }
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286bc"
+                              },
+                              "type": "Heading",
+                              "styleNames": [
+                                "h3-modal"
+                              ],
+                              "settings": {
+                                "tag": "h3",
+                                "visibility": true,
+                                "headingLevel": 3
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286bd"
+                                  },
+                                  "type": "String",
+                                  "textContent": "Розблокуйте можливості автоматизації ШІ"
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286be"
+                              },
+                              "type": "ComponentInstance",
+                              "instanceDetails": {
+                                "type": "ComponentInstance",
+                                "id": "b353f866-47b7-dc8c-628c-624c3e4c4048",
+                                "name": "hidden-input",
+                                "props": [],
+                                "slots": []
+                              }
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286bf"
+                              },
+                              "type": "HFlex",
+                              "styleNames": [
+                                "Flex Block 2"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c0"
+                                  },
+                                  "type": "VFlex",
+                                  "styleNames": [
+                                    "Form field wrapper"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c1"
+                                      },
+                                      "type": "Block",
+                                      "styleNames": [
+                                        "input-t"
+                                      ],
+                                      "settings": {
+                                        "tag": "div",
+                                        "visibility": true,
+                                        "block": {
+                                          "tag": "div"
+                                        }
+                                      },
+                                      "children": [
+                                        {
+                                          "id": {
+                                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c2"
+                                          },
+                                          "type": "String",
+                                          "textContent": "Ім'я"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c3"
+                                      },
+                                      "type": "FormTextInput",
+                                      "styleNames": [
+                                        "input"
+                                      ],
+                                      "attributes": {
+                                        "id": "First-name-2"
+                                      },
+                                      "settings": {
+                                        "visibility": true,
+                                        "input": {
+                                          "isRequired": true,
+                                          "inputName": "First name",
+                                          "inputType": "text"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c4"
+                                  },
+                                  "type": "VFlex",
+                                  "styleNames": [
+                                    "Form field wrapper"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c5"
+                                      },
+                                      "type": "Block",
+                                      "styleNames": [
+                                        "input-t"
+                                      ],
+                                      "settings": {
+                                        "tag": "div",
+                                        "visibility": true,
+                                        "block": {
+                                          "tag": "div"
+                                        }
+                                      },
+                                      "children": [
+                                        {
+                                          "id": {
+                                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c6"
+                                          },
+                                          "type": "String",
+                                          "textContent": "Прізвище"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c7"
+                                      },
+                                      "type": "FormTextInput",
+                                      "styleNames": [
+                                        "input"
+                                      ],
+                                      "attributes": {
+                                        "id": "Last-name-2"
+                                      },
+                                      "settings": {
+                                        "visibility": true,
+                                        "input": {
+                                          "isRequired": true,
+                                          "inputName": "Last name",
+                                          "inputType": "text"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c8"
+                              },
+                              "type": "VFlex",
+                              "styleNames": [
+                                "Form field wrapper"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286c9"
+                                  },
+                                  "type": "Block",
+                                  "styleNames": [
+                                    "input-t"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true,
+                                    "block": {
+                                      "tag": "div"
+                                    }
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ca"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Email"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286cb"
+                                  },
+                                  "type": "FormTextInput",
+                                  "styleNames": [
+                                    "input"
+                                  ],
+                                  "attributes": {
+                                    "id": "Email-9"
+                                  },
+                                  "settings": {
+                                    "visibility": true,
+                                    "input": {
+                                      "isRequired": true,
+                                      "inputName": "Email",
+                                      "inputType": "email"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286cc"
+                              },
+                              "type": "HFlex",
+                              "styleNames": [
+                                "Flex Block 2"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286cd"
+                                  },
+                                  "type": "VFlex",
+                                  "styleNames": [
+                                    "Form field wrapper"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ce"
+                                      },
+                                      "type": "Block",
+                                      "styleNames": [
+                                        "input-t"
+                                      ],
+                                      "settings": {
+                                        "tag": "div",
+                                        "visibility": true,
+                                        "block": {
+                                          "tag": "div"
+                                        }
+                                      },
+                                      "children": [
+                                        {
+                                          "id": {
+                                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286cf"
+                                          },
+                                          "type": "String",
+                                          "textContent": "Компанія"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d0"
+                                      },
+                                      "type": "FormTextInput",
+                                      "styleNames": [
+                                        "input"
+                                      ],
+                                      "attributes": {
+                                        "id": "Company-4"
+                                      },
+                                      "settings": {
+                                        "visibility": true,
+                                        "input": {
+                                          "isRequired": true,
+                                          "inputName": "Company",
+                                          "inputType": "text"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d1"
+                                  },
+                                  "type": "VFlex",
+                                  "styleNames": [
+                                    "Form field wrapper"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d2"
+                                      },
+                                      "type": "Block",
+                                      "styleNames": [
+                                        "input-t"
+                                      ],
+                                      "settings": {
+                                        "tag": "div",
+                                        "visibility": true,
+                                        "block": {
+                                          "tag": "div"
+                                        }
+                                      },
+                                      "children": [
+                                        {
+                                          "id": {
+                                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d3"
+                                          },
+                                          "type": "String",
+                                          "textContent": "Посада"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d4"
+                                      },
+                                      "type": "FormTextInput",
+                                      "styleNames": [
+                                        "input"
+                                      ],
+                                      "attributes": {
+                                        "id": "Job-title"
+                                      },
+                                      "settings": {
+                                        "visibility": true,
+                                        "input": {
+                                          "isRequired": true,
+                                          "inputName": "Job title",
+                                          "inputType": "text"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d5"
+                              },
+                              "type": "VFlex",
+                              "styleNames": [
+                                "Form field wrapper",
+                                "select-wrp"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d6"
+                                  },
+                                  "type": "Block",
+                                  "styleNames": [
+                                    "input-t"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true,
+                                    "block": {
+                                      "tag": "div"
+                                    }
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d7"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Де зараз перебуває ваша організація на шляху впровадження ШІ?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d8"
+                                  },
+                                  "type": "FormSelect",
+                                  "styleNames": [
+                                    "input",
+                                    "select-field",
+                                    "wide"
+                                  ],
+                                  "attributes": {
+                                    "id": "Looking-for-2"
+                                  },
+                                  "settings": {
+                                    "visibility": true,
+                                    "input": {
+                                      "isRequired": true,
+                                      "inputName": "Looking for"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286d9"
+                                  },
+                                  "type": "Image",
+                                  "styleNames": [
+                                    "input-arrow"
+                                  ],
+                                  "settings": {
+                                    "visibility": true,
+                                    "assetId": "6899ffe04a85e00f2b8cf5c7"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286da"
+                              },
+                              "type": "VFlex",
+                              "styleNames": [
+                                "Form field wrapper"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286db"
+                                  },
+                                  "type": "Block",
+                                  "styleNames": [
+                                    "input-t"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true,
+                                    "block": {
+                                      "tag": "div"
+                                    }
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286dc"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Пориньте у свої цілі ШІ"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286dd"
+                                  },
+                                  "type": "FormTextarea",
+                                  "styleNames": [
+                                    "input",
+                                    "input-comment"
+                                  ],
+                                  "attributes": {
+                                    "id": "Message-8"
+                                  },
+                                  "settings": {
+                                    "visibility": true,
+                                    "input": {
+                                      "isRequired": true,
+                                      "inputName": "Message"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286de"
+                              },
+                              "type": "HFlex",
+                              "styleNames": [
+                                "tel-wrp"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286df"
+                                  },
+                                  "type": "Image",
+                                  "styleNames": [
+                                    "Image 1115"
+                                  ],
+                                  "settings": {
+                                    "visibility": true,
+                                    "assetId": "64e4a64f8f306e5687e5972b"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e0"
+                              },
+                              "type": "Block",
+                              "styleNames": [
+                                "copy-t"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true,
+                                "block": {
+                                  "tag": "div"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e1"
+                                  },
+                                  "type": "String",
+                                  "textContent": "Ми використовуватимемо вашу особисту інформацію лише для надання продуктів і послуг, які ви в нас запитували. Ми також хотіли б час від часу зв’язуватися з вами щодо наших продуктів і послуг:"
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e2"
+                              },
+                              "type": "FormCheckboxWrapper",
+                              "styleNames": [
+                                "Checkbox Field"
+                              ],
+                              "settings": {
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e3"
+                                  },
+                                  "type": "FormCheckboxInput",
+                                  "styleNames": [
+                                    "Checkbox"
+                                  ],
+                                  "attributes": {
+                                    "id": "News-and-updates"
+                                  },
+                                  "settings": {
+                                    "visibility": true,
+                                    "input": {
+                                      "inputName": "News and updates"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e4"
+                                  },
+                                  "type": "FormInlineLabel",
+                                  "styleNames": [
+                                    "Checkbox Label"
+                                  ],
+                                  "settings": {
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e5"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Я погоджуюся отримувати новини та оновлення від Tur.ai"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e6"
+                              },
+                              "type": "FormCheckboxWrapper",
+                              "styleNames": [
+                                "Checkbox Field"
+                              ],
+                              "settings": {
+                                "visibility": true
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e7"
+                                  },
+                                  "type": "FormCheckboxInput",
+                                  "styleNames": [
+                                    "Checkbox"
+                                  ],
+                                  "attributes": {
+                                    "id": "Personal-data"
+                                  },
+                                  "settings": {
+                                    "visibility": true,
+                                    "input": {
+                                      "isRequired": true,
+                                      "inputName": "Personal data"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e8"
+                                  },
+                                  "type": "FormInlineLabel",
+                                  "styleNames": [
+                                    "Checkbox Label"
+                                  ],
+                                  "settings": {
+                                    "visibility": true
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e9"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Я дозволяю "
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "25287909-d5fa-2248-f360-a46550ed26f6"
+                                      },
+                                      "type": "Link",
+                                      "settings": {
+                                        "visibility": true,
+                                        "link": {
+                                          "linkType": "url",
+                                          "href": "https://tur.ai/"
+                                        }
+                                      },
+                                      "children": [
+                                        {
+                                          "id": {
+                                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                            "element": "24ba9b94-33f2-db99-d513-0991cdc5ab74"
+                                          },
+                                          "type": "String",
+                                          "textContent": "Tur.ai"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ab11ba4d-faee-902c-5ae4-66a5e5acd82d"
+                                      },
+                                      "type": "String",
+                                      "textContent": " зберігати та обробляти мої персональні дані"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ea"
+                              },
+                              "type": "FormButton",
+                              "styleNames": [
+                                "btn 3",
+                                "submit"
+                              ],
+                              "settings": {
+                                "visibility": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": {
+                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286eb"
+                          },
+                          "type": "FormSuccessMessage",
+                          "styleNames": [
+                            "Success Message"
+                          ],
+                          "settings": {
+                            "visibility": true
+                          },
+                          "children": [
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ec"
+                              },
+                              "type": "Block",
+                              "styleNames": [
+                                "Div Block 25",
+                                "book-sm"
+                              ],
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true,
+                                "block": {
+                                  "tag": "div"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ed"
+                                  },
+                                  "type": "Block",
+                                  "styleNames": [
+                                    "mas"
+                                  ],
+                                  "settings": {
+                                    "tag": "div",
+                                    "visibility": true,
+                                    "block": {
+                                      "tag": "div"
+                                    }
+                                  },
+                                  "children": [
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ee"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Дякуємо!"
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ef"
+                                      },
+                                      "type": "",
+                                      "settings": {
+                                        "visibility": true
+                                      }
+                                    },
+                                    {
+                                      "id": {
+                                        "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                        "element": "ddcbea1b-1392-25e9-9672-4d7ba34286f0"
+                                      },
+                                      "type": "String",
+                                      "textContent": "Ваш запит успішно відправлено."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": {
+                            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286f1"
+                          },
+                          "type": "FormErrorMessage",
+                          "styleNames": [
+                            "Error Message"
+                          ],
+                          "settings": {
+                            "visibility": true
+                          },
+                          "children": [
+                            {
+                              "id": {
+                                "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                "element": "ddcbea1b-1392-25e9-9672-4d7ba34286f2"
+                              },
+                              "type": "Block",
+                              "settings": {
+                                "tag": "div",
+                                "visibility": true,
+                                "block": {
+                                  "tag": "div"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": {
+                                    "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+                                    "element": "ddcbea1b-1392-25e9-9672-4d7ba34286f3"
+                                  },
+                                  "type": "String",
+                                  "textContent": "Oh! An error occurred while submitting the form."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

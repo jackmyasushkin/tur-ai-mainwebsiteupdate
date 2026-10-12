@@ -1,0 +1,63 @@
+{
+  "checks": [
+    {
+      "case": "baseline-keep",
+      "expected_pass": true,
+      "observed": "EDITORIAL_LIMITS_PASS",
+      "error_count": 0
+    },
+    {
+      "case": "rich-segments-preserved",
+      "expected_pass": true,
+      "observed": "EDITORIAL_LIMITS_PASS",
+      "error_count": 0
+    },
+    {
+      "case": "reject-over-limit",
+      "expected_pass": false,
+      "observed": "FAIL",
+      "error_count": 2
+    },
+    {
+      "case": "reject-missing-row",
+      "expected_pass": false,
+      "observed": "FAIL",
+      "error_count": 1
+    },
+    {
+      "case": "reject-unapproved-quote",
+      "expected_pass": false,
+      "observed": "FAIL",
+      "error_count": 1
+    },
+    {
+      "case": "reject-lost-space",
+      "expected_pass": false,
+      "observed": "FAIL",
+      "error_count": 2
+    },
+    {
+      "case": "reject-missing-evidence",
+      "expected_pass": false,
+      "observed": "FAIL",
+      "error_count": 1
+    }
+  ],
+  "dom_nonempty_text_gaps": [],
+  "ignored_aggregate_dom_containers": [
+    {
+      "id": "b0ff4f5b-a8f4-3988-84d9-f6f8ed7a652f",
+      "reason": "aggregate of separately exported child labels"
+    },
+    {
+      "id": "d4775e29-0c8c-aca9-118d-34e001e49573",
+      "reason": "aggregate of separately exported child labels"
+    }
+  ],
+  "rich_text_fields": 19,
+  "total_fields": 228,
+  "alt_fields": 35,
+  "metadata_fields": 2,
+  "all_character_counts_verified": true,
+  "homepage_last_updated_unchanged": "2026-10-12T20:33:03.194Z"
+}

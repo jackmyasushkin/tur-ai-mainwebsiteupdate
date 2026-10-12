@@ -1,0 +1,123 @@
+{
+  "id": {
+    "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+    "element": "6e75afeb-ea0b-0674-7230-dec39e99b3b7"
+  },
+  "type": "Block",
+  "styleNames": [
+    "hero_nav"
+  ],
+  "settings": {
+    "tag": "div",
+    "visibility": true,
+    "block": {
+      "tag": "div"
+    }
+  },
+  "children": [
+    {
+      "id": {
+        "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+        "element": "6e75afeb-ea0b-0674-7230-dec39e99b3b8"
+      },
+      "type": "Link",
+      "styleNames": [
+        "brand_nav"
+      ],
+      "settings": {
+        "visibility": true,
+        "link": {
+          "linkType": "page",
+          "pageId": "6899ffe04a85e00f2b8cf5ac"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+            "element": "6e75afeb-ea0b-0674-7230-dec39e99b3b9"
+          },
+          "type": "Image",
+          "styleNames": [
+            "brand_logo"
+          ],
+          "settings": {
+            "visibility": true,
+            "assetId": "6899ffe04a85e00f2b8cf675",
+            "altText": "Tur.ai Logo - Full"
+          }
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+        "element": "6e75afeb-ea0b-0674-7230-dec39e99b3ba"
+      },
+      "type": "Block",
+      "styleNames": [
+        "hero_nav-button-wrap"
+      ],
+      "settings": {
+        "tag": "div",
+        "visibility": true,
+        "block": {
+          "tag": "div"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+            "element": "6e75afeb-ea0b-0674-7230-dec39e99b3bb"
+          },
+          "type": "ComponentInstance",
+          "instanceDetails": {
+            "type": "ComponentInstance",
+            "id": "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+            "name": "Button - Light",
+            "props": [
+              {
+                "propId": "36704c9c-e307-8dd1-8623-c5843148514f",
+                "value": "Book a Demo",
+                "hasOverride": false,
+                "name": "Button Text"
+              }
+            ],
+            "slots": []
+          }
+        },
+        {
+          "id": {
+            "component": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+            "element": "6e75afeb-ea0b-0674-7230-dec39e99b3bc"
+          },
+          "type": "ComponentInstance",
+          "instanceDetails": {
+            "type": "ComponentInstance",
+            "id": "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+            "name": "Button - Dark",
+            "props": [
+              {
+                "propId": "79d4a0d2-c276-80a0-3cda-029fed34cbe3",
+                "value": "Contact Us",
+                "hasOverride": false,
+                "name": "Button Text"
+              },
+              {
+                "propId": "fa7598c9-e22d-88ff-f5a1-96a7c828705c",
+                "value": {
+                  "mode": "url",
+                  "to": "#"
+                },
+                "hasOverride": false,
+                "name": "Button Link"
+              }
+            ],
+            "slots": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6899ffe04a85e00f2b8cf5ac",
+  "siteId": "6899ffe04a85e00f2b8cf5ab",
+  "title": "Home",
+  "createdOn": "2024-05-04T19:36:09.808Z",
+  "lastUpdated": "2026-10-12T20:33:03.194Z",
+  "archived": false,
+  "draft": false,
+  "shouldPublish": true,
+  "canBranch": true,
+  "isBranch": false,
+  "seo": {
+    "title": "Tur.ai - Headless Hyperautomation platform",
+    "description": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo."
+  },
+  "openGraph": {
+    "titleCopied": true,
+    "descriptionCopied": true,
+    "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp",
+    "imageAssetId": null
+  },
+  "publishedPath": "/"
+}

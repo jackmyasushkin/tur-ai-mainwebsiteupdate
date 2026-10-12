@@ -1,0 +1,62 @@
+{
+  "records": 228,
+  "source_string_occurrences": 199,
+  "covered_string_occurrences": 199,
+  "sections": {
+    "hero": 11,
+    "transform": 17,
+    "quote": 4,
+    "streamline": 21,
+    "retail": 35,
+    "integration": 23,
+    "testimonials": 7,
+    "process": 19,
+    "microsoft": 2,
+    "faq": 20,
+    "contact": 10,
+    "footer": 11,
+    "modal_demo": 9,
+    "modal_contact": 9,
+    "hidden_test": 6,
+    "legacy_ua": 22,
+    "metadata": 2
+  },
+  "roles": {
+    "cta": 19,
+    "h1": 1,
+    "body": 57,
+    "h2": 10,
+    "card_title": 15,
+    "metric_or_step": 27,
+    "h3": 7,
+    "faq_question": 8,
+    "faq_answer": 8,
+    "field_label": 17,
+    "form_success": 4,
+    "form_error": 4,
+    "link_label": 3,
+    "h4": 1,
+    "alt": 35,
+    "placeholder": 2,
+    "data-wait": 2,
+    "select_option": 6,
+    "seo.title": 1,
+    "seo.description": 1
+  },
+  "hidden_default": 79,
+  "not_measured": 0,
+  "shared_component_records": 61,
+  "dom_only_testimonial_text_ids": [
+    "HOME-177",
+    "HOME-178",
+    "HOME-179"
+  ],
+  "max_char_check": "all baseline counts equal budgets",
+  "widths_px": [
+    320,
+    393,
+    667,
+    820,
+    1383
+  ]
+}

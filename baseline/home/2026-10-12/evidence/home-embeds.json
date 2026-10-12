@@ -1,0 +1,162 @@
+[
+  {
+    "label": "Export embed 22acff74-80b3-20c7-8a64-c4164b0a265b",
+    "action": "get_settings",
+    "result": [
+      {
+        "status": "success",
+        "message": "Settings retrieved",
+        "data": {
+          "type": "all_raw_settings",
+          "total_matches": 4,
+          "matches": [
+            {
+              "key": "domId",
+              "value": ""
+            },
+            {
+              "key": "visibility",
+              "value": true
+            },
+            {
+              "key": "code",
+              "value": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5SQ8FTNR\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+            },
+            {
+              "key": "attributes",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Export embed f1f49ab6-5ad0-85a1-e23f-3412301147d5",
+    "action": "get_settings",
+    "result": [
+      {
+        "status": "success",
+        "message": "Settings retrieved",
+        "data": {
+          "type": "all_raw_settings",
+          "total_matches": 4,
+          "matches": [
+            {
+              "key": "domId",
+              "value": ""
+            },
+            {
+              "key": "visibility",
+              "value": true
+            },
+            {
+              "key": "code",
+              "value": "<style>\n    body {\n        -webkit-font-smoothing: antialiased;\n        -moz-font-smoothing: antialiased;\n        -o-font-smoothing: antialiased;\n    }\n</style>"
+            },
+            {
+              "key": "attributes",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Export embed f87945d5-473b-fa0c-0c30-f68ac7697980",
+    "action": "get_settings",
+    "result": [
+      {
+        "status": "success",
+        "message": "Settings retrieved",
+        "data": {
+          "type": "all_raw_settings",
+          "total_matches": 4,
+          "matches": [
+            {
+              "key": "domId",
+              "value": ""
+            },
+            {
+              "key": "visibility",
+              "value": true
+            },
+            {
+              "key": "code",
+              "value": "<style>\n/*width*/\n.streamline_list::-webkit-scrollbar {\nheight:4px;\n}\n/*track*/\n.streamline_list::-webkit-scrollbar-track {\nbackground:var(--brand-colors-blue-tints--80);\nborder-width:1px;\nborder-style:none;\nmargin:5rem;\n}\n\n/*Tablet Scrollbar Margin*/\n@media only screen and (max-width: 991px) {\n.streamline_list::-webkit-scrollbar-track {\nmargin:3rem;\n}\n/*Mobile Scrollbar Margin*/\n@media only screen and (max-width: 767px) {\n.streamline_list::-webkit-scrollbar-track {\nmargin:1.5rem;\n}\n\n/*thumb*/\n.streamline_list::-webkit-scrollbar-thumb {\nbackground:var(--brand-colors--blue);\n}\n</style>"
+            },
+            {
+              "key": "attributes",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Export embed 2255577c-d9a9-2b2a-e948-235d2a200b2e",
+    "action": "get_settings",
+    "result": [
+      {
+        "status": "success",
+        "message": "Settings retrieved",
+        "data": {
+          "type": "all_raw_settings",
+          "total_matches": 4,
+          "matches": [
+            {
+              "key": "domId",
+              "value": ""
+            },
+            {
+              "key": "visibility",
+              "value": true
+            },
+            {
+              "key": "code",
+              "value": "<style>\n\n.swiper-pagination.review-swiper {\n  position: relative;\n  left: 0 !important;\n  top: 0 !important; \n  bottom: 0 !important;\n  display: flex;\n  width: auto !important;  \n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet {\n\twidth: 0.75rem;\n  height: 0.75rem;\n  background: white;\n  opacity: .5;\n  transition: opacity 0.35s ease;\n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet.swiper-pagination-bullet-active {\t\n  background: white !important; \n  opacity: 1;\n}\n\n.swiper-slide.review-thumbs.swiper-slide-thumb-active .review_card-thumbs{\n\tborder-top-color: var(--white);\n}\n</style>"
+            },
+            {
+              "key": "attributes",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Export embed 7e63be91-152e-47de-c425-8cf0352cfb01",
+    "action": "get_settings",
+    "result": [
+      {
+        "status": "success",
+        "message": "Settings retrieved",
+        "data": {
+          "type": "all_raw_settings",
+          "total_matches": 4,
+          "matches": [
+            {
+              "key": "domId",
+              "value": ""
+            },
+            {
+              "key": "visibility",
+              "value": true
+            },
+            {
+              "key": "code",
+              "value": "<style>\n/*width*/\n.process_card-wrapper.is-mobile::-webkit-scrollbar {\nheight:4px;\n}\n/*track*/\n.process_card-wrapper.is-mobile::-webkit-scrollbar-track {\nbackground:var(--brand-colors-blue-tints--80);\nborder-width:1px;\nborder-style:none;\nmargin:5rem;\n}\n\n/*Tablet Scrollbar Margin*/\n@media only screen and (max-width: 991px) {\n.process_card-wrapper.is-mobile::-webkit-scrollbar-track {\nmargin:3rem;\n}\n/*Mobile Scrollbar Margin*/\n@media only screen and (max-width: 767px) {\n.process_card-wrapper.is-mobile::-webkit-scrollbar-track {\nmargin:1.5rem;\n}\n\n/*thumb*/\n.process_card-wrapper.is-mobile::-webkit-scrollbar-thumb {\nbackground:var(--brand-colors--blue);\n}\n</style>"
+            },
+            {
+              "key": "attributes",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

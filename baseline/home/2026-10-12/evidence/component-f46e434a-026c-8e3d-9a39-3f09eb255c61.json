@@ -1,0 +1,13 @@
+{
+  "id": {
+    "component": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+    "element": "f46e434a-026c-8e3d-9a39-3f09eb255c61"
+  },
+  "type": "HtmlEmbed",
+  "styleNames": [
+    "global-styles"
+  ],
+  "settings": {
+    "visibility": true
+  }
+}
