@@ -1,0 +1,5 @@
+Complete 228-field Home proposal for content review: 104 rewrite, 88 keep, 36 hold.
+Positioning direction and the token-cost correction are approved; the full copy is proposed.
+Local source/character/segment prechecks passed. This marker requires the full
+repository checker in the existing GitHub Actions workflow.
+No Webflow changes, visual acceptance or publication approval.
