@@ -1,0 +1,8 @@
+{
+  "calls": 22,
+  "weightedOperations": 30,
+  "maxPer60s": 10,
+  "pauses": 13,
+  "429s": 0,
+  "scope": "Explicit MCP action weights; internal HTTP request counts and browser asset requests are not assumed known"
+}

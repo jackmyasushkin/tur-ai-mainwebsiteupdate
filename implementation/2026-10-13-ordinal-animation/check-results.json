@@ -1,0 +1,38 @@
+[
+  {
+    "i": 0,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": "{\n  \"status\": \"EDITORIAL_LIMITS_PASS\",\n  \"complete_required\": true,\n  \"decisions\": {\n    \"keep\": 88,\n    \"rewrite\": 104,\n    \"hold\": 36,\n    \"pending\": 0\n  },\n  \"pending_ids\": [],\n  \"errors\": [],\n  \"warnings\": [\n    \"HOME-007: shorter than the soft target; review visual balance\",\n    \"HOME-011: shorter than the soft target; review visual balance\",\n    \"HOME-015: shorter than the soft target; review visual balance\",\n    \"HOME-015: longer unbroken word/token; check wrapping\",\n    \"HOME-027: shorter than the soft target; review visual balance\",\n    \"HOME-029: shorter than the soft target; review visual balance\",\n    \"HOME-035: shorter than the soft target; review visual balance\",\n    \"HOME-043: longer unbroken word/token; check wrapping\",\n    \"HOME-044: longer unbroken word/token; check wrapping\",\n    \"HOME-045: shorter than the soft target; review visual balance\",\n    \"HOME-047: shorter than the soft target; review visual balance\",\n    \"HOME-056: longer unbroken word/token; check wrapping\",\n    \"HOME-059: shorter than the soft target; review visual balance\",\n    \"HOME-066: shorter than the soft target; review visual balance\",\n    \"HOME-073: shorter than the soft target; review visual balance\",\n    \"HOME-076: shorter than the soft target; review visual balance\",\n    \"HOME-085: longer unbroken word/token; check wrapping\",\n    \"HOME-088: shorter than the soft target; review visual balance\",\n    \"HOME-113: longer unbroken word/token; check wrapping\",\n    \"HOME-114: longer unbroken word/token; check wrapping\",\n    \"HOME-117: shorter than the soft target; review visual balance\",\n    \"HOME-118: longer unbroken word/token; check wrapping\",\n    \"HOME-119: shorter than the soft target; review visual balance\",\n    \"HOME-119: longer unbroken word/token; check wrapping\",\n    \"HOME-120: shorter than the soft target; review visual balance\",\n    \"HOME-120: longer unbroken word/token; check wrapping\",\n    \"HOME-121: shorter than the soft target; review visual balance\",\n    \"HOME-121: longer unbroken word/token; check wrapping\",\n    \"HOME-122: longer unbroken word/token; check wrapping\",\n    \"HOME-123: longer unbroken word/token; check wrapping\",\n    \"HOME-133: longer unbroken word/token; check wrapping\",\n    \"HOME-135: shorter than the soft target; review visual balance\",\n    \"HOME-135: longer unbroken word/token; check wrapping\",\n    \"HOME-143: longer unbroken word/token; check wrapping\",\n    \"HOME-152: longer unbroken word/token; check wrapping\",\n    \"HOME-003: exact approved H1 uses a documented segment-budget exception; visual review required\"\n  ],\n  \"approved_copy_exceptions\": [\n    {\n      \"id\": \"H1-CATEGORY-2026-10-13\",\n      \"field_id\": \"HOME-003\",\n      \"approved_text\": \"Enterprise Process Orchestration Platform\",\n      \"total_chars\": 41,\n      \"original_total_limit\": 50,\n      \"original_segment_limits\": [\n        2,\n        8,\n        35,\n        2\n      ],\n      \"actual_segment_lengths\": [\n        10,\n        7,\n        13,\n        8\n      ],\n      \"method\": \"Exact-value/source-descriptor check here; frozen validator receives HOME-003 as keep only. All other 227 fields retain frozen validation.\",\n      \"visual_acceptance\": \"pending\"\n    }\n  ],\n  \"visual_acceptance\": \"NOT_CHECKED\",\n  \"claim_truth\": \"NOT_CHECKED\",\n  \"webflow_changed\": false\n}\n"
+  },
+  {
+    "i": 1,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": ".....................\n----------------------------------------------------------------------\nRan 21 tests in 0.437s\n\nOK\n"
+  },
+  {
+    "i": 2,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": "{\n  \"status\": \"HANDOFF_CONSISTENCY_PASS\",\n  \"validation_scope\": \"Prepared copy only; live application evidence is in implementation/report.json\",\n  \"errors\": [],\n  \"decisions\": {\n    \"rewrite\": 104,\n    \"keep\": 88,\n    \"hold\": 36\n  },\n  \"webflow_changed\": false,\n  \"visual_acceptance\": \"NOT_CHECKED\",\n  \"publication\": \"NOT_PERFORMED\"\n}\n"
+  },
+  {
+    "i": 3,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": "PASS: rolling budget, call spacing, batch size, Retry-After, fallback backoff, stop threshold, partial/unknown write reconciliation\n"
+  },
+  {
+    "i": 4,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": "IMPLEMENTATION_EVIDENCE_PASS: 104 applied; 124 no-write; exact trees; known findings retained; unpublished\n"
+  },
+  {
+    "i": 5,
+    "status": "fulfilled",
+    "exit_code": 0,
+    "output": "PASS: four-marker-only source diff, Home-only formatter, exact compiled code, 12 widths, real Chrome frames, source fallback, Home animation/toggle, rate policy and publication boundary\n"
+  }
+]

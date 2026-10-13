@@ -1,5 +1,11 @@
 # Home implementation status
 
+## Subsequent ordinal animation fix — issue #3
+
+The owner approved preserving the count animation and formatting the four ordinals to two digits. Four target markers and a Home-only registered footer script are applied; see [the dedicated run](../../implementation/2026-10-13-ordinal-animation/REPORT.md). Source text and all original animation attributes remain unchanged. Producer QA covers real Chrome frame samples, actual Home Preview, 12 widths and both toggle states on desktop/mobile. No publication was performed in this run; its before/after reads both show the pre-existing sandbox publication at `2026-10-13T01:53:31.599Z`.
+
+The status below is the historical content-transfer run; its retained-animation finding and unpublished status were true when recorded and are superseded by the dedicated fix record and current publication reads.
+
 Edition: `enterprise-orchestration-handoff-v2`; source commit `086ce563960473a70221dccb8c7092507fa93e3b`.
 
 **104 replacements applied and read back; 124 keep/hold decisions preserved.** See the [implementation report](../../implementation/2026-10-13-enterprise-orchestration/REPORT.md) and its per-ID evidence.

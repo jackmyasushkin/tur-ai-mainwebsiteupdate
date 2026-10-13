@@ -1,0 +1,18 @@
+{
+  "widths": [
+    1383,
+    820,
+    667,
+    393,
+    320,
+    1440,
+    991,
+    992,
+    767,
+    768,
+    479,
+    480
+  ],
+  "result": "PASS",
+  "comparison": "exact values, counter geometry, computed styles, wrapper widths, document width and DOM attributes after removing the four approved formatting markers"
+}

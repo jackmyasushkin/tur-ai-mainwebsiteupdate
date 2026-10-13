@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Tur.ai ordinal animation — isolated browser QA</title>
+<style>
+body{font:20px system-ui;margin:32px;color:#123} .numbers{display:flex;gap:32px;flex-wrap:wrap} .value{font-size:48px;font-variant-numeric:tabular-nums} .metric{font-size:32px} pre{font-size:12px;white-space:pre-wrap} #result{display:block;margin-top:30px} .spacer{height:120vh}
+</style>
+<h1>Isolated ordinal animation QA</h1>
+<p>Real Finsweet v1.2.1 with the exact Home formatter. This fixture is not the Webflow page.</p>
+<div class="spacer"></div>
+<section id="numbers" class="numbers">
+<div><div class="value" data-tur-number-format="ordinal-2" fs-numbercount-element="number">01</div><span>.</span></div>
+<div><div class="value" data-tur-number-format="ordinal-2" fs-numbercount-element="number">02</div><span>.</span></div>
+<div><div class="value" data-tur-number-format="ordinal-2" fs-numbercount-element="number">03</div><span>.</span></div>
+<div><div class="value" data-tur-number-format="ordinal-2" fs-numbercount-element="number">04</div><span>.</span></div>
+</section>
+<section class="numbers">
+<div class="metric" fs-numbercount-element="number">62</div>
+<div class="metric" fs-numbercount-element="number">82</div>
+<div class="metric" fs-numbercount-element="number">83</div>
+<div class="metric" fs-numbercount-element="number">3</div>
+</section>
+<button id="start">Start / scroll to counters</button>
+<button id="repeat">Execute formatter again</button>
+<button id="return">Return to top</button>
+<output id="result">Loading</output>
+<pre id="evidence"></pre>
+<script src="/formatter.js"></script>
+<script src="/driver.js"></script>
+</html>

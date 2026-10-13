@@ -1,0 +1,120 @@
+{
+  "files": [
+    {
+      "path": "REPORT.md",
+      "sha256": "f98187a7493ea9dd72c671a8ae5af90f8a7342434c2e985db0be650a6c37194f"
+    },
+    {
+      "path": "after-home.json",
+      "sha256": "529b442ba67e8db74c720b46b744b10755f31d08518c520b8097781fd2e8d645"
+    },
+    {
+      "path": "after-layouts.json",
+      "sha256": "1c6773be8eab374b7b9117bc46df4992993d444c0668b346b4cf8da50079720b"
+    },
+    {
+      "path": "after-site.json",
+      "sha256": "bf6b6666a4f9891658b302def58f827a95f2cda834be82e2ebfffb76c612832e"
+    },
+    {
+      "path": "application.json",
+      "sha256": "6dd552e2971c9666a7f3264073f24db5852e4e80af51e046eab815f4146c8356"
+    },
+    {
+      "path": "before-custom-code-redacted.json",
+      "sha256": "86299ce90b18d5ee22dfed2b7491d43f923e66cb635f3c1be62620b1f0594bd1"
+    },
+    {
+      "path": "before-home.json",
+      "sha256": "3a88a9705048d7eef445d89c448e62c3d6f2d50e1d93bd1a2ce6625126d00b29"
+    },
+    {
+      "path": "before-layouts.json",
+      "sha256": "4f729114ad4df843f8d5c7f6382ad5d4b57af269d813583b202be4251eeb932d"
+    },
+    {
+      "path": "before-site.json",
+      "sha256": "8297cba5fee595664863299a12f31b95af4d257c7c9c5e7ff405de8d509edffb"
+    },
+    {
+      "path": "check-results.json",
+      "sha256": "21070a1eb32f93caa8780234eee68f5cd57e3da9c7fd07e4f385dcbef4270486"
+    },
+    {
+      "path": "chrome-fixture-in-view-delayed.json",
+      "sha256": "61b6b382f3fe14ae2c5f43e383a4c76eb54306b2309063ced3fa9316dc83bced"
+    },
+    {
+      "path": "chrome-fixture-missing.json",
+      "sha256": "83f3b013231dafff4b8173383a09dfd63ebc3da0caec7b27c5952ca18cd93971"
+    },
+    {
+      "path": "chrome-fixture-scroll.json",
+      "sha256": "22e3158988c25016f71b69ff007fdf9994cd9926171287c3aa3ac1e310fa2855"
+    },
+    {
+      "path": "compiled-code-check.json",
+      "sha256": "845536446cafbf166b6d8cb7dcf2a6cb3b34265daf9eaec84b501ecca3913df2"
+    },
+    {
+      "path": "compiled-formatter.js",
+      "sha256": "dd5abde41dc2793f71949da7e6eab874ac066415f68d0126a1c49c04042af37a"
+    },
+    {
+      "path": "executor-source.json",
+      "sha256": "7006f6670c151ae5528ae5c3910d4a3dee5d040f3f6bae7b219dad1746e60b0a"
+    },
+    {
+      "path": "node-integration-test.txt",
+      "sha256": "e90819eeaafc2ad7610bf3b6e59f7b3e3bd8e45a9d913043b3f7858259cc56df"
+    },
+    {
+      "path": "preview-desktop-animation-samples.json",
+      "sha256": "1617fbd4559f3a4c06516444bc9b66e4fd65143b7cd58606e956e5b5801a24b8"
+    },
+    {
+      "path": "preview-desktop-before-entry-samples.json",
+      "sha256": "ffb6c64bb0bd1f12b2bbbd790d6bca76759a2f1f0553d0fb2a83723332c28114"
+    },
+    {
+      "path": "preview-desktop-toggle.png",
+      "sha256": "5cbc26f72f4b7d11291e54166e54f5c1276afc377fabd11ed59bb8a081c24792"
+    },
+    {
+      "path": "preview-desktop.png",
+      "sha256": "8adb39598cf2c03230adbff5435c9c73ef68792562e35ba5f6b4649fbb1e3c11"
+    },
+    {
+      "path": "preview-mobile-navigation-samples.json",
+      "sha256": "cd7057c7a29bb585bb54dea93c4230591cbd54ed3689c3264029d37e846c30fb"
+    },
+    {
+      "path": "preview-mobile-recompile.json",
+      "sha256": "312217ee20b20f42a74dfc8237d80b604f201d111e39bd21393f24dcb52c378d"
+    },
+    {
+      "path": "preview-mobile-toggle-check.json",
+      "sha256": "d0a5278cb14f676ccfd26e06b2d911562a3e68da66a64bded0a87cc058cfada4"
+    },
+    {
+      "path": "preview-mobile-toggle.png",
+      "sha256": "c68d6698885f809b8ade9533d722074207ce881c87282a61f100a4c4210c0930"
+    },
+    {
+      "path": "preview-mobile.png",
+      "sha256": "e39ae2356ff2968548366befb2f3d046f397521d344e7af1a3d01af068eca0ff"
+    },
+    {
+      "path": "rate-log.json",
+      "sha256": "d16f8a5d0dd8081c2063d42490dfa6d5a73f0e3733c8e38663505985535954fe"
+    },
+    {
+      "path": "rate-summary.json",
+      "sha256": "24bcb4c8d88b036329fb9ade2cf0d726bf9d6bf4b22b0a37cc52aad660691712"
+    },
+    {
+      "path": "responsive-check.json",
+      "sha256": "135e8ab391b855af4a674a87e0e8ddb5d6bebb4a6fe62ecefd86d4267d916428"
+    }
+  ]
+}
