@@ -3,7 +3,7 @@ name: Prepare approved Home handoff once
 on:
   push:
     branches: [content/home-operational-plane-2026-10-13]
-    paths: [tools/prepare_home_handoff.py]
+    paths: [tools/prepare_home_handoff.py, .github/workflows/prepare-home-handoff.yml]
 
 permissions:
   contents: read
@@ -25,16 +25,17 @@ jobs:
           python-version: '3.12'
       - name: Prepare exact copy, handoff and run full tests
         run: python3 tools/prepare_home_handoff.py
-      - name: Commit prepared files to the existing content branch only
+      - name: Commit prepared content without changing workflows
         shell: bash
         run: |
           set -euo pipefail
           git diff --exit-code -- baseline/
+          git diff --exit-code -- .github/workflows/
           git fetch origin "$GITHUB_REF_NAME"
           test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
-          rm .github/workflows/prepare-home-handoff.yml tools/prepare_home_handoff.py
+          rm tools/prepare_home_handoff.py
           rm -r tools/handoff_v2
-          git add -A -- content/home docs tools README.md AGENTS.md .github/workflows
+          git add -A -- content/home docs tools README.md AGENTS.md
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m 'Finalize approved enterprise orchestration Home and implementation handoff'

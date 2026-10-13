@@ -22,3 +22,6 @@ jobs:
       - name: Require complete copy when ready for review
         if: hashFiles('content/home/READY_FOR_REVIEW') != ''
         run: python3 tools/check.py --complete
+      - name: Verify implementation handoff consistency
+        if: hashFiles('content/home/apply-plan.json') != ''
+        run: python3 tools/verify_home_handoff.py
