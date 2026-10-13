@@ -1,0 +1,7 @@
+{
+  "width": 320,
+  "exactFormatterIgnoringTerminalWhitespace": true,
+  "sourceChars": 1173,
+  "compiledChars": 1172,
+  "note": "Webflow trims one terminal newline in compiled script text"
+}

@@ -1,0 +1,3158 @@
+[
+  {
+    "width": 1383,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "127.051px",
+        "height": 101.640625,
+        "lineHeight": "101.641px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 142.046875,
+        "wrapperWidth": 269.984375
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "127.051px",
+        "height": 101.640625,
+        "lineHeight": "101.641px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 140.96875,
+        "wrapperWidth": 269.984375
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "127.051px",
+        "height": 101.640625,
+        "lineHeight": "101.641px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 137.9765625,
+        "wrapperWidth": 269.984375
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "127.051px",
+        "height": 101.640625,
+        "lineHeight": "101.641px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 67.34375,
+        "wrapperWidth": 269.984375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "111.17px",
+        "height": 88.9375,
+        "lineHeight": "88.9357px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 100.8828125,
+        "wrapperWidth": 134.90625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "111.17px",
+        "height": 88.9375,
+        "lineHeight": "88.9357px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 127.6796875,
+        "wrapperWidth": 161.703125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "111.17px",
+        "height": 88.9375,
+        "lineHeight": "88.9357px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 124.34375,
+        "wrapperWidth": 158.3671875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "111.17px",
+        "height": 88.9375,
+        "lineHeight": "88.9357px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 122.5078125,
+        "wrapperWidth": 156.53125
+      }
+    ],
+    "documentWidth": 1383,
+    "viewport": 1383
+  },
+  {
+    "width": 820,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.677px",
+        "height": 94.140625,
+        "lineHeight": "94.1419px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 131.5625,
+        "wrapperWidth": 336.453125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.677px",
+        "height": 94.140625,
+        "lineHeight": "94.1419px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 130.5625,
+        "wrapperWidth": 336.4609375
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.677px",
+        "height": 94.140625,
+        "lineHeight": "94.1419px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 127.796875,
+        "wrapperWidth": 336.453125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.677px",
+        "height": 94.140625,
+        "lineHeight": "94.1419px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 62.375,
+        "wrapperWidth": 336.4609375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.968px",
+        "height": 82.375,
+        "lineHeight": "82.3742px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 93.4453125,
+        "wrapperWidth": 124.953125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.968px",
+        "height": 82.375,
+        "lineHeight": "82.3742px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 118.2578125,
+        "wrapperWidth": 149.765625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.968px",
+        "height": 82.375,
+        "lineHeight": "82.3742px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 115.171875,
+        "wrapperWidth": 146.6796875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.968px",
+        "height": 82.375,
+        "lineHeight": "82.3742px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 113.46875,
+        "wrapperWidth": 144.9765625
+      }
+    ],
+    "documentWidth": 820,
+    "viewport": 820
+  },
+  {
+    "width": 667,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "115.13px",
+        "height": 92.1015625,
+        "lineHeight": "92.1041px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 128.71875,
+        "wrapperWidth": 623.828125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "115.13px",
+        "height": 92.1015625,
+        "lineHeight": "92.1041px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 127.7421875,
+        "wrapperWidth": 623.828125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "115.13px",
+        "height": 92.1015625,
+        "lineHeight": "92.1041px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 125.03125,
+        "wrapperWidth": 623.828125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "115.13px",
+        "height": 92.1015625,
+        "lineHeight": "92.1041px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 61.0234375,
+        "wrapperWidth": 623.828125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "100.739px",
+        "height": 80.59375,
+        "lineHeight": "80.5911px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 91.421875,
+        "wrapperWidth": 122.25
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "100.739px",
+        "height": 80.59375,
+        "lineHeight": "80.5911px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 115.6953125,
+        "wrapperWidth": 146.5234375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "100.739px",
+        "height": 80.59375,
+        "lineHeight": "80.5911px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 112.6796875,
+        "wrapperWidth": 143.5078125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "100.739px",
+        "height": 80.59375,
+        "lineHeight": "80.5911px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 111.015625,
+        "wrapperWidth": 141.84375
+      }
+    ],
+    "documentWidth": 667,
+    "viewport": 667
+  },
+  {
+    "width": 393,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "122.243px",
+        "height": 97.7890625,
+        "lineHeight": "97.7941px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 136.671875,
+        "wrapperWidth": 347.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "122.243px",
+        "height": 97.7890625,
+        "lineHeight": "97.7941px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 135.6328125,
+        "wrapperWidth": 347.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "122.243px",
+        "height": 97.7890625,
+        "lineHeight": "97.7941px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 132.7578125,
+        "wrapperWidth": 347.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "122.243px",
+        "height": 97.7890625,
+        "lineHeight": "97.7941px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 64.7890625,
+        "wrapperWidth": 347.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "106.962px",
+        "height": 85.5625,
+        "lineHeight": "85.5699px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 97.0703125,
+        "wrapperWidth": 130.484375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "106.962px",
+        "height": 85.5625,
+        "lineHeight": "85.5699px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 122.84375,
+        "wrapperWidth": 156.2578125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "106.962px",
+        "height": 85.5625,
+        "lineHeight": "85.5699px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 119.640625,
+        "wrapperWidth": 153.0546875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "106.962px",
+        "height": 85.5625,
+        "lineHeight": "85.5699px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 117.875,
+        "wrapperWidth": 151.2890625
+      }
+    ],
+    "documentWidth": 393,
+    "viewport": 393
+  },
+  {
+    "width": 320,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.356px",
+        "height": 93.8828125,
+        "lineHeight": "93.8845px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 131.203125,
+        "wrapperWidth": 276
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.356px",
+        "height": 93.8828125,
+        "lineHeight": "93.8845px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 130.2109375,
+        "wrapperWidth": 276
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.356px",
+        "height": 93.8828125,
+        "lineHeight": "93.8845px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 127.453125,
+        "wrapperWidth": 276
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "117.356px",
+        "height": 93.8828125,
+        "lineHeight": "93.8845px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 62.203125,
+        "wrapperWidth": 276
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.686px",
+        "height": 82.1484375,
+        "lineHeight": "82.149px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 93.1875,
+        "wrapperWidth": 120.390625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.686px",
+        "height": 82.1484375,
+        "lineHeight": "82.149px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 117.9375,
+        "wrapperWidth": 145.140625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.686px",
+        "height": 82.1484375,
+        "lineHeight": "82.149px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 114.859375,
+        "wrapperWidth": 142.0625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.686px",
+        "height": 82.1484375,
+        "lineHeight": "82.149px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 113.1640625,
+        "wrapperWidth": 140.3671875
+      }
+    ],
+    "documentWidth": 320,
+    "viewport": 320
+  },
+  {
+    "width": 1440,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 143.109375,
+        "wrapperWidth": 272
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 142.0234375,
+        "wrapperWidth": 272
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 139.015625,
+        "wrapperWidth": 272
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 67.84375,
+        "wrapperWidth": 272
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 101.640625,
+        "wrapperWidth": 135.9140625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 128.6328125,
+        "wrapperWidth": 162.90625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 125.2734375,
+        "wrapperWidth": 159.546875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 123.4296875,
+        "wrapperWidth": 157.703125
+      }
+    ],
+    "documentWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "width": 991,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.524px",
+        "height": 96.4140625,
+        "lineHeight": "96.4196px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 134.7421875,
+        "wrapperWidth": 420.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.524px",
+        "height": 96.4140625,
+        "lineHeight": "96.4196px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 133.71875,
+        "wrapperWidth": 420.1796875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.524px",
+        "height": 96.4140625,
+        "lineHeight": "96.4196px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 130.890625,
+        "wrapperWidth": 420.171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.524px",
+        "height": 96.4140625,
+        "lineHeight": "96.4196px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 63.8828125,
+        "wrapperWidth": 420.1796875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.459px",
+        "height": 84.3671875,
+        "lineHeight": "84.3671px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 95.703125,
+        "wrapperWidth": 127.9765625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.459px",
+        "height": 84.3671875,
+        "lineHeight": "84.3671px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 121.1171875,
+        "wrapperWidth": 153.390625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.459px",
+        "height": 84.3671875,
+        "lineHeight": "84.3671px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 117.953125,
+        "wrapperWidth": 150.2265625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.459px",
+        "height": 84.3671875,
+        "lineHeight": "84.3671px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 116.21875,
+        "wrapperWidth": 148.4921875
+      }
+    ],
+    "documentWidth": 991,
+    "viewport": 991
+  },
+  {
+    "width": 992,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.541px",
+        "height": 96.4296875,
+        "lineHeight": "96.4329px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 134.765625,
+        "wrapperWidth": 180.203125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.541px",
+        "height": 96.4296875,
+        "lineHeight": "96.4329px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 133.7421875,
+        "wrapperWidth": 180.203125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.541px",
+        "height": 96.4296875,
+        "lineHeight": "96.4329px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 130.9140625,
+        "wrapperWidth": 180.203125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "120.541px",
+        "height": 96.4296875,
+        "lineHeight": "96.4329px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 63.890625,
+        "wrapperWidth": 180.203125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.473px",
+        "height": 84.375,
+        "lineHeight": "84.3788px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 95.71875,
+        "wrapperWidth": 128
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.473px",
+        "height": 84.375,
+        "lineHeight": "84.3788px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 121.1328125,
+        "wrapperWidth": 153.4140625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.473px",
+        "height": 84.375,
+        "lineHeight": "84.3788px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 117.96875,
+        "wrapperWidth": 150.25
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "105.473px",
+        "height": 84.375,
+        "lineHeight": "84.3788px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 116.234375,
+        "wrapperWidth": 148.515625
+      }
+    ],
+    "documentWidth": 992,
+    "viewport": 992
+  },
+  {
+    "width": 767,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.795px",
+        "height": 93.4375,
+        "lineHeight": "93.436px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 130.578125,
+        "wrapperWidth": 670.78125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.795px",
+        "height": 93.4375,
+        "lineHeight": "93.436px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 129.5859375,
+        "wrapperWidth": 670.78125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.795px",
+        "height": 93.4375,
+        "lineHeight": "93.436px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 126.84375,
+        "wrapperWidth": 670.78125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.795px",
+        "height": 93.4375,
+        "lineHeight": "93.436px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 61.90625,
+        "wrapperWidth": 670.78125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.196px",
+        "height": 81.75,
+        "lineHeight": "81.7565px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 92.7421875,
+        "wrapperWidth": 124.015625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.196px",
+        "height": 81.75,
+        "lineHeight": "81.7565px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 117.375,
+        "wrapperWidth": 148.6484375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.196px",
+        "height": 81.75,
+        "lineHeight": "81.7565px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 114.3125,
+        "wrapperWidth": 145.5859375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.196px",
+        "height": 81.75,
+        "lineHeight": "81.7565px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 112.625,
+        "wrapperWidth": 143.8984375
+      }
+    ],
+    "documentWidth": 767,
+    "viewport": 767
+  },
+  {
+    "width": 768,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.812px",
+        "height": 93.4453125,
+        "lineHeight": "93.4493px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 130.59375,
+        "wrapperWidth": 311
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.812px",
+        "height": 93.4453125,
+        "lineHeight": "93.4493px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 129.6015625,
+        "wrapperWidth": 311.0078125
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.812px",
+        "height": 93.4453125,
+        "lineHeight": "93.4493px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 126.859375,
+        "wrapperWidth": 311
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "116.812px",
+        "height": 93.4453125,
+        "lineHeight": "93.4493px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 61.9140625,
+        "wrapperWidth": 311.0078125
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.21px",
+        "height": 81.765625,
+        "lineHeight": "81.7682px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 92.7578125,
+        "wrapperWidth": 124.0390625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.21px",
+        "height": 81.765625,
+        "lineHeight": "81.7682px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 117.390625,
+        "wrapperWidth": 148.671875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.21px",
+        "height": 81.765625,
+        "lineHeight": "81.7682px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 114.328125,
+        "wrapperWidth": 145.609375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "102.21px",
+        "height": 81.765625,
+        "lineHeight": "81.7682px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 112.640625,
+        "wrapperWidth": 143.921875
+      }
+    ],
+    "documentWidth": 768,
+    "viewport": 768
+  },
+  {
+    "width": 479,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 143.109375,
+        "wrapperWidth": 431
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 142.0234375,
+        "wrapperWidth": 431
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 139.015625,
+        "wrapperWidth": 431
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "128px",
+        "height": 102.3984375,
+        "lineHeight": "102.4px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 67.84375,
+        "wrapperWidth": 431
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 101.640625,
+        "wrapperWidth": 142.359375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 128.6328125,
+        "wrapperWidth": 169.3515625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 125.2734375,
+        "wrapperWidth": 165.9921875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112px",
+        "height": 89.59375,
+        "lineHeight": "89.6px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 123.4296875,
+        "wrapperWidth": 164.1484375
+      }
+    ],
+    "documentWidth": 479,
+    "viewport": 479
+  },
+  {
+    "width": 480,
+    "counters": [
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112.017px",
+        "height": 89.609375,
+        "lineHeight": "89.6133px",
+        "overflow": "visible",
+        "text": "62",
+        "width": 125.234375,
+        "wrapperWidth": 438
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112.017px",
+        "height": 89.609375,
+        "lineHeight": "89.6133px",
+        "overflow": "visible",
+        "text": "82",
+        "width": 124.28125,
+        "wrapperWidth": 438
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112.017px",
+        "height": 89.609375,
+        "lineHeight": "89.6133px",
+        "overflow": "visible",
+        "text": "83",
+        "width": 121.6484375,
+        "wrapperWidth": 438
+      },
+      {
+        "attributes": [
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+          },
+          {
+            "name": "class",
+            "value": "transform_number"
+          }
+        ],
+        "className": "transform_number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "112.017px",
+        "height": 89.609375,
+        "lineHeight": "89.6133px",
+        "overflow": "visible",
+        "text": "3",
+        "width": 59.375,
+        "wrapperWidth": 438
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "98.0146px",
+        "height": 78.40625,
+        "lineHeight": "78.4117px",
+        "overflow": "visible",
+        "text": "01",
+        "width": 88.9453125,
+        "wrapperWidth": 118.9375
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "98.0146px",
+        "height": 78.40625,
+        "lineHeight": "78.4117px",
+        "overflow": "visible",
+        "text": "02",
+        "width": 112.5703125,
+        "wrapperWidth": 142.5625
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "98.0146px",
+        "height": 78.40625,
+        "lineHeight": "78.4117px",
+        "overflow": "visible",
+        "text": "03",
+        "width": 109.625,
+        "wrapperWidth": 139.6171875
+      },
+      {
+        "attributes": [
+          {
+            "name": "data-tur-number-format",
+            "value": "ordinal-2"
+          },
+          {
+            "name": "fs-numbercount-element",
+            "value": "number"
+          },
+          {
+            "name": "data-w-id",
+            "value": "7fa98413-1326-a093-303c-f065fd623c34"
+          },
+          {
+            "name": "data-wf-id",
+            "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+          },
+          {
+            "name": "class",
+            "value": "integration-number"
+          }
+        ],
+        "className": "integration-number",
+        "display": "block",
+        "fontFamily": "\"League Spartan\"",
+        "fontSize": "98.0146px",
+        "height": 78.40625,
+        "lineHeight": "78.4117px",
+        "overflow": "visible",
+        "text": "04",
+        "width": 108.0078125,
+        "wrapperWidth": 138
+      }
+    ],
+    "documentWidth": 512,
+    "viewport": 480
+  }
+]

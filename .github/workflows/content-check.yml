@@ -30,3 +30,8 @@ jobs:
       - name: Verify saved implementation evidence
         if: hashFiles('implementation/2026-10-13-enterprise-orchestration/report.json') != ''
         run: python3 tools/verify_home_implementation.py
+      - name: Verify ordinal formatting safeguards
+        run: node tools/test_home_ordinal_format.cjs
+      - name: Verify ordinal animation implementation evidence
+        if: hashFiles('implementation/2026-10-13-ordinal-animation/application.json') != ''
+        run: python3 tools/verify_home_ordinal_implementation.py

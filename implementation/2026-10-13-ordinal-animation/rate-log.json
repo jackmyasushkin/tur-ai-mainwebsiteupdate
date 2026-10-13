@@ -1,0 +1,312 @@
+[
+  {
+    "type": "call",
+    "label": "preflight-instructions",
+    "tool": "mcp__codex_apps__webflow_data_agent_instructions_tool",
+    "startedAt": "2026-10-13T02:12:35.114Z",
+    "endedAt": "2026-10-13T02:12:40.001Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "preflight-site",
+    "at": "2026-10-13T02:12:40.004Z",
+    "waitMs": 1997
+  },
+  {
+    "type": "call",
+    "label": "preflight-site",
+    "tool": "mcp__codex_apps__webflow_data_sites_tool",
+    "startedAt": "2026-10-13T02:12:42.004Z",
+    "endedAt": "2026-10-13T02:12:45.842Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "preflight-custom-code",
+    "at": "2026-10-13T02:12:45.842Z",
+    "waitMs": 2000
+  },
+  {
+    "type": "call",
+    "label": "preflight-custom-code",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:12:47.844Z",
+    "endedAt": "2026-10-13T02:12:52.114Z",
+    "weight": 2,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "preflight-home",
+    "at": "2026-10-13T02:12:52.115Z",
+    "waitMs": 1999
+  },
+  {
+    "type": "call",
+    "label": "preflight-home",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:12:54.118Z",
+    "endedAt": "2026-10-13T02:13:01.660Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "prewrite-footer",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:19:37.713Z",
+    "endedAt": "2026-10-13T02:19:43.261Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "prewrite-home",
+    "at": "2026-10-13T02:19:43.263Z",
+    "waitMs": 1998
+  },
+  {
+    "type": "call",
+    "label": "prewrite-home",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:19:45.266Z",
+    "endedAt": "2026-10-13T02:19:53.235Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "write-four-markers",
+    "at": "2026-10-13T02:19:53.244Z",
+    "waitMs": 1991
+  },
+  {
+    "type": "call",
+    "label": "write-four-markers",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:19:55.237Z",
+    "endedAt": "2026-10-13T02:19:59.833Z",
+    "weight": 4,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "readback-markers",
+    "at": "2026-10-13T02:19:59.834Z",
+    "waitMs": 1999
+  },
+  {
+    "type": "call",
+    "label": "readback-markers",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:20:01.837Z",
+    "endedAt": "2026-10-13T02:20:08.562Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "write-home-formatter",
+    "at": "2026-10-13T02:20:08.573Z",
+    "waitMs": 1989,
+    "outcome": "API error; reconciled",
+    "status": 404
+  },
+  {
+    "type": "call",
+    "label": "write-home-formatter",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:20:10.563Z",
+    "endedAt": "2026-10-13T02:20:14.198Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false,
+    "outcome": "API error; reconciled",
+    "status": 404
+  },
+  {
+    "type": "pause",
+    "label": "readback-custom-code",
+    "at": "2026-10-13T02:20:14.199Z",
+    "waitMs": 1999
+  },
+  {
+    "type": "call",
+    "label": "readback-custom-code",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:20:16.200Z",
+    "endedAt": "2026-10-13T02:20:19.208Z",
+    "weight": 2,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "discover-code-path",
+    "tool": "mcp__codex_apps__webflow_get_more_tools",
+    "startedAt": "2026-10-13T02:23:38.005Z",
+    "endedAt": "2026-10-13T02:23:38.882Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "register-home-formatter",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:23:55.165Z",
+    "endedAt": "2026-10-13T02:24:00.012Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false,
+    "outcome": "API error; reconciled",
+    "status": 400
+  },
+  {
+    "type": "call",
+    "label": "register-home-formatter-compatible-name",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:24:08.035Z",
+    "endedAt": "2026-10-13T02:24:11.781Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "apply-home-footer-script",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:24:29.649Z",
+    "endedAt": "2026-10-13T02:24:35.058Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false,
+    "outcome": "API error; reconciled",
+    "status": 404
+  },
+  {
+    "type": "pause",
+    "label": "readback-home-registered-script",
+    "at": "2026-10-13T02:24:35.059Z",
+    "waitMs": 1999,
+    "outcome": "API error; reconciled",
+    "status": 404
+  },
+  {
+    "type": "call",
+    "label": "readback-home-registered-script",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:24:37.060Z",
+    "endedAt": "2026-10-13T02:24:40.423Z",
+    "weight": 2,
+    "is429": false,
+    "isError": false,
+    "outcome": "API error; reconciled",
+    "status": 404
+  },
+  {
+    "type": "call",
+    "label": "create-home-script-application",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:25:15.200Z",
+    "endedAt": "2026-10-13T02:25:18.770Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "readback-created-home-script-application",
+    "at": "2026-10-13T02:25:18.770Z",
+    "waitMs": 2000
+  },
+  {
+    "type": "call",
+    "label": "readback-created-home-script-application",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:25:20.772Z",
+    "endedAt": "2026-10-13T02:25:24.162Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "verify-code-scope",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:26:04.425Z",
+    "endedAt": "2026-10-13T02:26:07.769Z",
+    "weight": 3,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "verify-final-home-tree",
+    "at": "2026-10-13T02:26:07.769Z",
+    "waitMs": 2000
+  },
+  {
+    "type": "call",
+    "label": "verify-final-home-tree",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:26:09.771Z",
+    "endedAt": "2026-10-13T02:26:16.757Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "call",
+    "label": "final-site",
+    "tool": "mcp__codex_apps__webflow_data_sites_tool",
+    "startedAt": "2026-10-13T02:52:43.825Z",
+    "endedAt": "2026-10-13T02:52:47.406Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "final-home-tree",
+    "at": "2026-10-13T02:52:47.406Z",
+    "waitMs": 2000
+  },
+  {
+    "type": "call",
+    "label": "final-home-tree",
+    "tool": "mcp__codex_apps__webflow_data_element_tool",
+    "startedAt": "2026-10-13T02:52:49.408Z",
+    "endedAt": "2026-10-13T02:53:02.404Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  },
+  {
+    "type": "pause",
+    "label": "final-script-application",
+    "at": "2026-10-13T02:53:02.413Z",
+    "waitMs": 1991
+  },
+  {
+    "type": "call",
+    "label": "final-script-application",
+    "tool": "mcp__codex_apps__webflow_data_scripts_tool",
+    "startedAt": "2026-10-13T02:53:04.406Z",
+    "endedAt": "2026-10-13T02:53:08.088Z",
+    "weight": 1,
+    "is429": false,
+    "isError": false
+  }
+]

@@ -2,7 +2,9 @@
 
 **Current edition: enterprise-orchestration-handoff-v2**
 
-**104 replacements are applied in the sandbox; 124 keep/hold decisions are preserved. Publication has not occurred.** Start at [the implementation report](implementation/2026-10-13-enterprise-orchestration/REPORT.md). It records producer QA, the owner's decision to retain the ordinal animation issue, and the limits of form-state verification.
+**104 replacements are applied in the sandbox; 124 keep/hold decisions are preserved.** Start at [the content implementation report](implementation/2026-10-13-enterprise-orchestration/REPORT.md). Its animation decision and publication status describe that historical run. The subsequent owner-approved [ordinal animation fix](implementation/2026-10-13-ordinal-animation/REPORT.md) preserves Number Count and displays `01–04` with leading zeros. **The owner has published the fix and confirmed it works.** See the [publication and owner acceptance record](implementation/2026-10-13-ordinal-animation-acceptance/ACCEPTANCE.md).
+
+Current Webflow metadata confirms the sandbox publication at `2026-10-13T05:42:48.576Z`. The agent did not publish or merge PRs. Historical before/after reads remain intact.
 
 The [original implementation handoff](docs/IMPLEMENTATION_HANDOFF.md) describes the prepared source edition; its preparation-stage statements are historical.
 
@@ -27,7 +29,7 @@ python3 tools/verify_home_handoff.py
 
 HOME-003 has one explicit exact-copy segment exception. The original baseline and budgets are unchanged. See `implementation-overrides.json`; do not silence arbitrary validation errors.
 
-Webflow changes are applied and read back. Producer review is recorded with findings; independent acceptance and publication have not occurred. PR #1 remains open; a merge does not publish the website.
+Webflow changes are applied and read back. Producer review and owner acceptance of the published ordinal animation fix are recorded. Form-state limits remain documented in the content run. PR #1 remains open; a merge does not publish the website.
 
 ## Source snapshot
 

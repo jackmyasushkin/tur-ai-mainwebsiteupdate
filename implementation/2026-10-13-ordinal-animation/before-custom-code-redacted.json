@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Home custom code before",
+    "action": "get_page_freeform_code",
+    "result": [
+      {
+        "location": "head",
+        "content": "<style>\n.word {\n  position: relative;\n}\n.line-mask {\n  position: absolute;\n  top: 0;\n  right: 0;\n  background-color: #fefefe;\n  opacity: 0.8;\n  height: 105%;\n  width: 105%;\n  z-index: 2;\n}\n</style>"
+      },
+      {
+        "location": "footer",
+        "content": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js\"></script>\n<script src=\"https://unpkg.com/split-type\"></script>\n\n<script>\nlet typeSplit;\n\n// Split the text up\nfunction runSplit() {\n  typeSplit = new SplitType(\".quote_text\", {\n    types: \"lines, words\"\n  });\n  $(\".word\").append(\"<div class='line-mask'></div>\");\n  createAnimation();\n}\n\nrunSplit();\n\n// Register GSAP plugins\ngsap.registerPlugin(ScrollTrigger);\n\n// Create staggered animation\nfunction createAnimation() {\n  let allMasks = $(\".word\").map(function() {\n    return $(this).find(\".line-mask\");\n  }).get();\n\n  let tl = gsap.timeline({\n    scrollTrigger: {\n      trigger: \".quote_text\",\n      start: \"top center\",\n      end: \"bottom center\",\n      scrub: 1\n    }\n  });\n\n  tl.to(allMasks, {\n    width: \"0%\",\n    duration: 1,\n    stagger: 0.5\n  });\n}\n</script>\n\n\n<!-- [Attributes by Finsweet] Number Count -->\n<script defer src=\"https://cdn.jsdelivr.net/npm/@finsweet/attributes-numbercount@1/numbercount.js\"></script>\n\n<!-- [Attributes by Finsweet] Disable scrolling -->\n<script defer src=\"https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js\"></script>\n\n<script>\nvar Webflow = Webflow || [];\nWebflow.push(function() {\n  var l = $('#flowbaseSlider .w-slider-arrow-left');\n  var r = $('#flowbaseSlider .w-slider-arrow-right');\n  $('#flowbaseSlider')\n    .on('click', '.back-button', function() {\n      l.trigger('tap');\n    })\n    .on('click', '.next-button', function() {\n      r.trigger('tap');\n    });\n});\n</script>\n\n<script src=\"https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js\"></script>\n\n<script>\nconst lenis = new Lenis({\n  duration: 1.2,\n  easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // https://www.desmos.com/calculator/brs54l4xou\n  direction: 'vertical', // vertical, horizontal\n  gestureDirection: 'vertical', // vertical, horizontal, both\n  smooth: true,\n  mouseMultiplier: 1,\n  smoothTouch: false,\n  touchMultiplier: 2,\n  infinite: false,\n})\n\n//get scroll value\nlenis.on('scroll', ({ scroll, limit, velocity, direction, progress }) => {\n  console.log({ scroll, limit, velocity, direction, progress })\n})\n\nfunction raf(time) {\n  lenis.raf(time)\n  requestAnimationFrame(raf)\n}\n\nrequestAnimationFrame(raf)\n</script>\n\n<!-- Project Settings > Custom Code > Footer Code -->\n\n<script src=\"https://unpkg.com/@botpoison/browser\" async></script>\n\n<script type=\"text/javascript\">\n  $('form[action^=\"https://submit-form.com\"]').each(function (i, el) {\n    var form = $(el);\n    form.submit(function (e) {\n      e.preventDefault();\n      form = $(e.target);\n      var action = form.attr(\"action\");\n      var botpoison = new Botpoison({\n        publicKey: \"[PUBLIC_FORM_KEY_REDACTED]\",\n      });\n      botpoison\n        .challenge()\n        .then(function (result) {\n          var data = form.serialize();\n          data += \"&_botpoison=\" + result.solution;\n          $.ajax({\n            url: action,\n            method: \"POST\",\n            data: data,\n            dataType: \"json\",\n            success: function () {\n              var parent = $(form.parent());\n              parent.children(\"form\").css(\"display\", \"none\");\n              parent.children(\".w-form-done\").css(\"display\", \"block\");\n            },\n            error: function () {\n              var parent = $(form.parent());\n              parent.find(\".w-form-fail\").css(\"display\", \"block\");\n            },\n          });\n        })\n        .catch(function () {\n          var parent = $(form.parent());\n          parent.find(\".w-form-fail\").css(\"display\", \"block\");\n        });\n    });\n  });\n</script>"
+      }
+    ]
+  },
+  {
+    "label": "Site custom code before",
+    "action": "get_site_freeform_code",
+    "result": [
+      {
+        "location": "head",
+        "content": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5SQ8FTNR');</script>\n<!-- End Google Tag Manager -->\n\n<script id=\"Cookiebot\" src=\"https://consent.cookiebot.com/uc.js\" data-cbid=\"eb271658-2251-4ea8-bffa-3a0a3caa34a1\" data-blockingmode=\"auto\" type=\"text/javascript\"></script>"
+      },
+      {
+        "location": "footer",
+        "content": ""
+      }
+    ]
+  }
+]

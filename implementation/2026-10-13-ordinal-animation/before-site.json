@@ -1,0 +1,28 @@
+{
+  "id": "6899ffe04a85e00f2b8cf5ab",
+  "workspaceId": "64e46e54768b6be8f6bb27ce",
+  "displayName": "Copy of Tur.ai",
+  "shortName": "tur-ai-9ad25f67865b7ebb8e05b7460738fd68",
+  "previewUrl": "https://screenshots.webflow.com/sites/6899ffe04a85e00f2b8cf5ab/20261013015332_87d80d31e38a23e9eaeedd483d54d380.png",
+  "timeZone": "Europe/Chisinau",
+  "createdOn": "2025-08-11T14:36:20.137Z",
+  "lastUpdated": "2026-10-13T01:53:39.897Z",
+  "lastPublished": "2026-10-13T01:53:31.599Z",
+  "fullSiteCompiledAt": "2026-10-13T01:53:31.599Z",
+  "customDomains": [],
+  "locales": {
+    "primary": {
+      "id": "68dd24e5cec17f2325f7a088",
+      "cmsLocaleId": "68dd24e5cec17f2325f7a078",
+      "enabled": false,
+      "displayName": "English",
+      "redirect": true,
+      "subdirectory": "",
+      "tag": "en"
+    },
+    "secondary": []
+  },
+  "dataCollectionEnabled": false,
+  "dataCollectionType": "always",
+  "googleTagIds": []
+}

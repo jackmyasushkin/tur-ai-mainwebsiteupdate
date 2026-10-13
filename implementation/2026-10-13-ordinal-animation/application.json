@@ -1,0 +1,50 @@
+{
+  "issue": 3,
+  "approval": "Owner: роби",
+  "siteId": "6899ffe04a85e00f2b8cf5ab",
+  "pageId": "6899ffe04a85e00f2b8cf5ac",
+  "markerIds": [
+    "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358",
+    "a0edc565-33f4-669d-bb64-10f688dbe525",
+    "430b0ffe-6ee7-6925-1ff4-9c288826292f",
+    "7fa98413-1326-a093-303c-f065fd623c34"
+  ],
+  "marker": "data-tur-number-format=ordinal-2",
+  "method": "registered inline script; Home-only footer application via set_page_scripts (create)",
+  "script": {
+    "id": "turaihomeordinalformatterissue3",
+    "canCopy": true,
+    "displayName": "TuraiHomeOrdinalFormatterIssue3",
+    "hostedLocation": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab%2F689e5ba67671442434f3ca35%2F6acd964b78b1c9fe98e7a0af%2Fturaihomeordinalformatterissue3-1.0.0.js",
+    "createdOn": "2026-10-13T02:24:11.672Z",
+    "version": "1.0.0"
+  },
+  "application": {
+    "scripts": [
+      {
+        "id": "turaihomeordinalformatterissue3",
+        "displayName": "TuraiHomeOrdinalFormatterIssue3",
+        "version": "1.0.0",
+        "location": "footer",
+        "attributes": {}
+      }
+    ],
+    "lastUpdated": "2026-10-13T02:25:18.705Z",
+    "createdOn": "2026-10-13T02:25:18.705Z"
+  },
+  "freeformHomeUnchanged": true,
+  "freeformSiteUnchanged": true,
+  "siteApplicationResult": {
+    "label": "Verify no site-wide registered application",
+    "action": "get_site_scripts",
+    "error": {
+      "name": "Error",
+      "message": "NotFoundError\nStatus code: 404\nBody: {\n  \"message\": \"Requested resource not found: Custom code block not found\",\n  \"code\": \"resource_not_found\",\n  \"details\": []\n}",
+      "status": 404,
+      "code": "resource_not_found"
+    }
+  },
+  "homeTreeMarkerOnlyDiff": true,
+  "publishedByAgent": false,
+  "methodReason": "Freeform write returned 404; native freeform field is plan-locked. add_page_script helper returned 404 on absent block. Official upsert endpoint creates the previously absent registered-script application."
+}

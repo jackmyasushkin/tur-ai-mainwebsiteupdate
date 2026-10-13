@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "ACCEPTANCE.md",
+      "sha256": "0821f30ec4269c63aca0fb626d7e39b97f649d98db58d1c386762404f31ea31a"
+    },
+    {
+      "path": "owner-acceptance.json",
+      "sha256": "9845219860135b5eb7873d2c6c668c150e8512c893866b820de47295aa3e0f3b"
+    },
+    {
+      "path": "published-site-read.json",
+      "sha256": "cd87ac1a77806e0fd30f406d8669bfb65397010a00f07b05a969ab588288ed0a"
+    }
+  ]
+}

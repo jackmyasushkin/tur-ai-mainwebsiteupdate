@@ -4,9 +4,11 @@ The latest owner-approved homepage category is **Enterprise Process Orchestratio
 
 `HOME-003` alone has a documented, exact-value exception to legacy segment budgets. Keep original `max_chars`, IDs and raw source descriptors intact. `tools/check.py` validates it explicitly through `hero_copy_exception.py`, then validates all other fields using the frozen checker. No other exceptions are authorized.
 
-The owner assigned implementation of the pinned edition and explicitly approved all 7 shared-definition changes across the six English pages. The run is recorded in implementation/2026-10-13-enterprise-orchestration/REPORT.md. Do not replay applied writes without a new task and live reconciliation. The owner explicitly chose to preserve the number-count animation issue on HOME-071/074/077/080; do not disable it automatically. Never publish without separate authorization.
+The owner assigned implementation of the pinned edition and explicitly approved all 7 shared-definition changes across the six English pages. The run is recorded in implementation/2026-10-13-enterprise-orchestration/REPORT.md. Do not replay applied writes without a new task and live reconciliation. The owner subsequently approved issue #3: preserve Finsweet animation and format HOME-071/074/077/080 to two digits. The applied formatter is a registered script in the English Home footer only; four data-tur-number-format markers select the targets. See implementation/2026-10-13-ordinal-animation/REPORT.md. Do not disable the animation or apply the formatter globally. Never publish without separate authorization.
 
 # Робота агентів у цьому репозиторії
+
+The owner subsequently published the ordinal fix and confirmed it works. Current acceptance is recorded in implementation/2026-10-13-ordinal-animation-acceptance/ACCEPTANCE.md; Webflow lastPublished is 2026-10-13T05:42:48.576Z. Treat issue #3 as resolved and owner-accepted. Do not reapply the fix or treat historical unpublished snapshots as the current publication state. This acceptance does not authorize new publication, merge, or unrelated scope changes.
 
 ## Контекст
 
