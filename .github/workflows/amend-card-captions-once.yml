@@ -1,0 +1,45 @@
+name: Amend two card captions once
+
+on:
+  push:
+    branches: [content/home-operational-plane-2026-10-13]
+    paths: [tools/update_card_captions_once.py]
+
+permissions:
+  contents: read
+
+jobs:
+  amend:
+    if: github.repository == 'jackmyasushkin/tur-ai-mainwebsiteupdate' && github.ref == 'refs/heads/content/home-operational-plane-2026-10-13'
+    permissions:
+      contents: write
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+          ref: ${{ github.sha }}
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+      - name: Apply guarded caption revision and validate
+        run: python3 tools/update_card_captions_once.py
+      - name: Commit content amendment to existing branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --exit-code -- baseline/ .github/workflows/
+          git fetch origin "$GITHUB_REF_NAME"
+          test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
+          rm tools/update_card_captions_once.py
+          git add -- content/home/rewrite.json content/home/apply-plan.json content/home/edition-delta.json content/home/proposal.md content/home/evidence.md content/home/decisions.md content/home/business-brief.md content/home/card-caption-delta.json content/home/preparation-report.json content/home/STATUS.md content/home/validation.md docs/IMPLEMENTATION_HANDOFF.md tools/update_card_captions_once.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Clarify task-specific model savings and same-team process delivery'
+          git push origin "HEAD:$GITHUB_REF_NAME"
+          echo "AMENDED_COMMIT_SHA=$(git rev-parse HEAD)"
+      - name: Verify committed content
+        run: |
+          python3 tools/check.py --complete
+          python3 tools/verify_home_handoff.py
