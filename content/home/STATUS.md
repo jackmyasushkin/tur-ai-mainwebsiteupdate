@@ -1,25 +1,24 @@
-# Home handoff status
+# Home implementation status
 
-Edition: `enterprise-orchestration-handoff-v2`.
+Edition: `enterprise-orchestration-handoff-v2`; source commit `086ce563960473a70221dccb8c7092507fa93e3b`.
+
+**104 replacements applied and read back; 124 keep/hold decisions preserved.** See the [implementation report](../../implementation/2026-10-13-enterprise-orchestration/REPORT.md) and its per-ID evidence.
 
 | Stage | Status |
 |---|---|
-| Exact category and hero | Owner approved in this conversation |
-| Rest of Home | Aligned under the owner's instruction |
-| All 228 decisions | 104 rewrite / 88 keep / 36 hold |
-| Full validation | PASS; one transparent exact-copy H1 exception |
-| Regression and handoff checks | PASS; see preparation-report.json |
-| Ready for implementation agent | Yes, using docs/IMPLEMENTATION_HANDOFF.md |
-| Webflow writes | Not performed |
-| Visual / functional acceptance | Pending |
-| Publication | Not performed; separate authorization required |
+| Source copy | Owner approved hero; prepared alignment preserved exactly |
+| Shared scope | Owner explicitly approved all 7 definition changes across six English pages |
+| Editorial and handoff checks | PASS; 21 Python tests; exact H1 exception retained |
+| Application | 122 String writes + native placeholder + two SEO fields confirmed |
+| Source/structure integrity | Exact expected trees; unrelated page trees unchanged |
+| Rate control | Sequential; at most 10 actions per batch; rolling budget 30/min; no 429 |
+| Responsive checks | Before/after data for 12 widths; producer review documented |
+| Interactions | Tabs, mobile slides, toggle, FAQ and normal modals checked; no lead submitted |
+| Form success/error | Source values/configuration checked; live post-submit rendering not verified |
+| Ordinal animation | Owner chose to retain the leading-zero issue; no animation attribute edits |
+| Independent acceptance | Not performed |
+| Publication | Not performed; lastPublished unchanged |
 
-[Actual validation run](https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38327652085) verifies the generated replacement set. Rewrite SHA-256: `1eec9a705ecf93a3488500155617b45730a9bbfb8121e5e7be98a3e9cde30ab3`. The preparation container had no GitHub network access; full tests ran in GitHub Actions, not locally.
+Producer QA includes findings and limits; do not call it unconditional visual approval. Prepared rewrite rows retain `layout_review: pending`, and the historical handoff checker describes the replacement set only. Applied state and QA evidence are in the implementation run.
 
-## Approval scope
-
-The exact hero is explicitly approved. The remaining alignment was delegated for preparation by the owner, not independently signed off sentence by sentence. The implementation agent must preserve the prepared edition, leave holds untouched, and report visual/content conflicts without inventing replacements. The current request authorizes preparation only; an implementation invocation authorizes sandbox edits, not publication.
-
-## Historical validation
-
-local-precheck.json records the earlier v1 precheck only and is not validation of this edition. Current evidence is preparation-report.json and validation.md.
+The original preparation evidence remains in preparation-report.json and validation.md. PR #1 is not automatically merged. No publish is authorized by this run.

@@ -25,3 +25,8 @@ jobs:
       - name: Verify implementation handoff consistency
         if: hashFiles('content/home/apply-plan.json') != ''
         run: python3 tools/verify_home_handoff.py
+      - name: Verify controlled Webflow rate policy
+        run: node tools/test_webflow_rate_policy.cjs
+      - name: Verify saved implementation evidence
+        if: hashFiles('implementation/2026-10-13-enterprise-orchestration/report.json') != ''
+        run: python3 tools/verify_home_implementation.py

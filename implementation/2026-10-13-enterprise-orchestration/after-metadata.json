@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Final Home metadata\",\"action\":\"get_page_metadata\",\"result\":{\"id\":\"6899ffe04a85e00f2b8cf5ac\",\"siteId\":\"6899ffe04a85e00f2b8cf5ab\",\"title\":\"Home\",\"createdOn\":\"2024-05-04T19:36:09.808Z\",\"lastUpdated\":\"2026-10-13T01:10:52.740Z\",\"archived\":false,\"draft\":false,\"shouldPublish\":true,\"canBranch\":true,\"isBranch\":false,\"seo\":{\"title\":\"Tur.ai | Enterprise Process Orchestration\",\"description\":\"Run regulated processes across existing systems. Orchestrate systems, AI and people to work faster today and change faster tomorrow.\"},\"openGraph\":{\"titleCopied\":true,\"descriptionCopied\":true,\"imageUrl\":\"https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp\",\"imageAssetId\":null},\"publishedPath\":\"/\",\"localeId\":\"68dd24e5cec17f2325f7a088\"}}"
+    }
+  ],
+  "isError": false
+}

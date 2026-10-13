@@ -1,0 +1,2044 @@
+[
+  {
+    "label": "metrics-and-context-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-006\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-007-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-007-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-007-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-008\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-009\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-011\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-012\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-013\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-015\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-006",
+        "field_id": "HOME-006",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "8d0699a1-57c9-05de-24f3-854a2bc59025"
+        },
+        "before": "Experience Proven ROI in the First Year – Book a Demo to Discover How!",
+        "expected": "See how to run, control and change a process across your systems.",
+        "actual": "See how to run, control and change a process across your systems.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-007-0",
+        "field_id": "HOME-007",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "02b63847-bb12-574e-7515-0cb13b323593"
+        },
+        "before": "Unlock the ",
+        "expected": "Work and ",
+        "actual": "Work and ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-007-1",
+        "field_id": "HOME-007",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "fe6558be-54c4-407c-3abc-a8f7ab7277af"
+        },
+        "before": "Transformative Power",
+        "expected": "change faster.",
+        "actual": "change faster.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-007-2",
+        "field_id": "HOME-007",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "3ba5231c-1e7a-2715-ec00-94c510a3243f"
+        },
+        "before": " of AI Tailored to Your Business Needs",
+        "expected": " Results from banking engagements.",
+        "actual": " Results from banking engagements.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-008",
+        "field_id": "HOME-008",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "3e9d6fb2-d26f-e0c2-d772-4f8959394279"
+        },
+        "before": "Less Human Interaction",
+        "expected": "Shorter process cycles",
+        "actual": "Shorter process cycles",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-009",
+        "field_id": "HOME-009",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "7a1d631e-4a36-87c4-19b1-03c3c3a8489b"
+        },
+        "before": "50",
+        "expected": "62",
+        "actual": "62",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-011",
+        "field_id": "HOME-011",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "945818af-ca60-09a2-4eaf-60bf092ba087"
+        },
+        "before": "Cut down on repetitive queries with AI, reserving human expertise for complex cases.",
+        "expected": "One European bank: customer onboarding fell from 16 days to 6.",
+        "actual": "One European bank: customer onboarding fell from 16 days to 6.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-012",
+        "field_id": "HOME-012",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0535"
+        },
+        "before": "Initial Resolution Rate",
+        "expected": "Lower staffing needs",
+        "actual": "Lower staffing needs",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-013",
+        "field_id": "HOME-013",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0538"
+        },
+        "before": "90",
+        "expected": "82",
+        "actual": "82",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-015",
+        "field_id": "HOME-015",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff053c"
+        },
+        "before": "Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.",
+        "expected": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+        "actual": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "metrics-and-context-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-016\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-017\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-019\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-020\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-021\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-022\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-023\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-117\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-118\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-016",
+        "field_id": "HOME-016",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2f8"
+        },
+        "before": "Tasks Automated",
+        "expected": "Lower LLM costs",
+        "actual": "Lower LLM costs",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-017",
+        "field_id": "HOME-017",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2fb"
+        },
+        "before": "70",
+        "expected": "83",
+        "actual": "83",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-019",
+        "field_id": "HOME-019",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2ff"
+        },
+        "before": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
+        "expected": "Banking case: annual token spend fell from €1.8M to €300K.",
+        "actual": "Banking case: annual token spend fell from €1.8M to €300K.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-020",
+        "field_id": "HOME-020",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd999"
+        },
+        "before": "Sales Productivity Boost",
+        "expected": "Faster process delivery",
+        "actual": "Faster process delivery",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-021",
+        "field_id": "HOME-021",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99c"
+        },
+        "before": "5",
+        "expected": "3",
+        "actual": "3",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-022",
+        "field_id": "HOME-022",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99e"
+        },
+        "before": "%",
+        "expected": "×",
+        "actual": "×",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-023",
+        "field_id": "HOME-023",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd9a0"
+        },
+        "before": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
+        "expected": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+        "actual": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-117",
+        "field_id": "HOME-117",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fbd"
+        },
+        "before": "What can we expect in terms of improving our first response to customer inquiries?",
+        "expected": "What do the results on this page actually measure?",
+        "actual": "What do the results on this page actually measure?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-118",
+        "field_id": "HOME-118",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fc5"
+        },
+        "before": "Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution",
+        "expected": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+        "actual": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "orchestration-steps-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-024-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-024-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-024-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-027-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-027-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-029\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-030\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-032\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-033\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-035\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-024-0",
+        "field_id": "HOME-024",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "bc3c9039-c403-caaf-4f49-25eee512f379"
+        },
+        "before": "We democratized AI so every retailer can benefit from its transformative power - ",
+        "expected": "We built Tur.ai so businesses can work and change faster without replacing their ",
+        "actual": "We built Tur.ai so businesses can work and change faster without replacing their ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-024-1",
+        "field_id": "HOME-024",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e9e125d0-c254-c662-22df-63e5ebb3fe3b"
+        },
+        "before": "hassle-free",
+        "expected": "core",
+        "actual": "core",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-024-2",
+        "field_id": "HOME-024",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "6bda841c-a4f6-8e9e-a5fc-2f19270b02e1"
+        },
+        "before": ".",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-027-0",
+        "field_id": "HOME-027",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "4012293c-11b6-5290-0192-440506bdd014"
+        },
+        "before": "Streamline",
+        "expected": "Coordinate",
+        "actual": "Coordinate",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-027-1",
+        "field_id": "HOME-027",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "b8ba1d74-ee1a-5251-102a-aa501377d683"
+        },
+        "before": " Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+        "expected": " Systems, AI and People in One Governed Process.",
+        "actual": " Systems, AI and People in One Governed Process.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-029",
+        "field_id": "HOME-029",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "a81fe0b6-1eaa-db91-a3ad-953fed0a86d2"
+        },
+        "before": "Initial Contact",
+        "expected": "Work intake",
+        "actual": "Work intake",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-030",
+        "field_id": "HOME-030",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "5f281bc3-2e17-7fb7-b9f1-7917698bd741"
+        },
+        "before": "Deliver meaningful, personalized, and engaging responses to customers within minutes.",
+        "expected": "Bring requests, documents and system data into one process with shared context.",
+        "actual": "Bring requests, documents and system data into one process with shared context.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-032",
+        "field_id": "HOME-032",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "d8136f0d-4ebe-3a6d-841a-c29436dcc1c1"
+        },
+        "before": "Smart Routing",
+        "expected": "Task routing",
+        "actual": "Task routing",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-033",
+        "field_id": "HOME-033",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "811bf050-7e46-e70c-5cc4-9f06b2861a80"
+        },
+        "before": "Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.",
+        "expected": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+        "actual": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-035",
+        "field_id": "HOME-035",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "6acbbf19-9d86-f21c-41fc-fcd0c69fad43"
+        },
+        "before": "Sales & Service Automation",
+        "expected": "Controlled execution",
+        "actual": "Controlled execution",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "orchestration-steps-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-036\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-038\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-039\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-041\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-042\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-036",
+        "field_id": "HOME-036",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "58db77d7-9a5a-3631-9868-0f818a755175"
+        },
+        "before": "Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.",
+        "expected": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+        "actual": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-038",
+        "field_id": "HOME-038",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "6d5b1297-45ef-e960-7cc0-17efb59b1ded"
+        },
+        "before": "Smooth Aftercare",
+        "expected": "Human decisions",
+        "actual": "Human decisions",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-039",
+        "field_id": "HOME-039",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "44410543-1595-11f8-4499-ee1256b3e143"
+        },
+        "before": "Automated returns and smart exchange processing.",
+        "expected": "Route exceptions to the right person to decide.",
+        "actual": "Route exceptions to the right person to decide.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-041",
+        "field_id": "HOME-041",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f38ba30e-1c8b-8607-e846-a7300aeab29d"
+        },
+        "before": "Satisfaction Ensured",
+        "expected": "Traceable outcomes",
+        "actual": "Traceable outcomes",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-042",
+        "field_id": "HOME-042",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b6"
+        },
+        "before": "Consistent, pleasing resolutions for every customer.",
+        "expected": "Record actions and decisions for review and audit.",
+        "actual": "Record actions and decisions for review and audit.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "architecture-and-ordinals-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-068-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-068-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-068-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-069-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-069-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-070-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-070-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-071\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-072\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-073\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-068-0",
+        "field_id": "HOME-068",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "b7c6a201-5e2f-770a-586c-f11a52d9aeb5"
+        },
+        "before": "Where AI Integration Meets ",
+        "expected": "The operational plane: ",
+        "actual": "The operational plane: ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-068-1",
+        "field_id": "HOME-068",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "43a0cbff-d26a-524c-73ab-f58990897807"
+        },
+        "before": "Simplicity",
+        "expected": "your rules",
+        "actual": "your rules",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-068-2",
+        "field_id": "HOME-068",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "834dde35-c53b-2e6f-e2b0-6bfc896787d6"
+        },
+        "before": ", Bypassing Hassle and Lavish Outlays.",
+        "expected": ", across your existing systems.",
+        "actual": ", across your existing systems.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-069-0",
+        "field_id": "HOME-069",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151f"
+        },
+        "before": "Click to see features",
+        "expected": "Click to see how",
+        "actual": "Click to see how",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-069-1",
+        "field_id": "HOME-069",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d1521"
+        },
+        "before": "that make you smile",
+        "expected": "Tur.ai changes this",
+        "actual": "Tur.ai changes this",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-070-0",
+        "field_id": "HOME-070",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050b"
+        },
+        "before": "Click to see features",
+        "expected": "Click to see how",
+        "actual": "Click to see how",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-070-1",
+        "field_id": "HOME-070",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050d"
+        },
+        "before": "that make you smile",
+        "expected": "Tur.ai changes this",
+        "actual": "Tur.ai changes this",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-071",
+        "field_id": "HOME-071",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32359"
+        },
+        "before": "42",
+        "expected": "01",
+        "actual": "01",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-072",
+        "field_id": "HOME-072",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "8d7be475-aa0c-b63d-b172-a0c223302b3c"
+        },
+        "before": "%",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-073",
+        "field_id": "HOME-073",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "48b57b5c-3e24-204a-c4cc-5e69829f7fe5"
+        },
+        "before": "Are lacking talent with the right skills for AI",
+        "expected": "One model for every task",
+        "actual": "One model for every task",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "architecture-and-ordinals-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-074\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-075\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-076\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-077\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-078\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-079\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-080\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-081\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-082\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-083\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-074",
+        "field_id": "HOME-074",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe526"
+        },
+        "before": "30",
+        "expected": "02",
+        "actual": "02",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-075",
+        "field_id": "HOME-075",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe528"
+        },
+        "before": "%",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-076",
+        "field_id": "HOME-076",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe52a"
+        },
+        "before": "Have silos blocking full AI solution implementation",
+        "expected": "People bridging systems and teams",
+        "actual": "People bridging systems and teams",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-077",
+        "field_id": "HOME-077",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262930"
+        },
+        "before": "24",
+        "expected": "03",
+        "actual": "03",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-078",
+        "field_id": "HOME-078",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262932"
+        },
+        "before": "%",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-079",
+        "field_id": "HOME-079",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262934"
+        },
+        "before": "Are missing system and data compatibility",
+        "expected": "Process changes held up by core releases",
+        "actual": "Process changes held up by core releases",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-080",
+        "field_id": "HOME-080",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "7fa98413-1326-a093-303c-f065fd623c35"
+        },
+        "before": "43",
+        "expected": "04",
+        "actual": "04",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-081",
+        "field_id": "HOME-081",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "7fa98413-1326-a093-303c-f065fd623c37"
+        },
+        "before": "%",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-082",
+        "field_id": "HOME-082",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "7fa98413-1326-a093-303c-f065fd623c39"
+        },
+        "before": "Don't have the tools for scaling ML Ops",
+        "expected": "Retries that waste tokens and time",
+        "actual": "Retries that waste tokens and time",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-083",
+        "field_id": "HOME-083",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a2962"
+        },
+        "before": "No special skills needed for AI tasks",
+        "expected": "AI models matched to each task",
+        "actual": "AI models matched to each task",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "architecture-and-ordinals-3",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-084\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-085\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-086\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-084",
+        "field_id": "HOME-084",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a296f"
+        },
+        "before": "Orchestrated cross-functional AI integration",
+        "expected": "One governed flow across systems and teams",
+        "actual": "One governed flow across systems and teams",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-085",
+        "field_id": "HOME-085",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a297c"
+        },
+        "before": "Works with the systems and data you have",
+        "expected": "Change processes above existing systems",
+        "actual": "Change processes above existing systems",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-086",
+        "field_id": "HOME-086",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a2989"
+        },
+        "before": "Ready-to-use AI models for your business context",
+        "expected": "Bounded retries, checks and human decisions",
+        "actual": "Bounded retries, checks and human decisions",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "case-summaries-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-043-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-043-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-043-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-044\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-045-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-045-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-047\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-048\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-051\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-056\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-043-0",
+        "field_id": "HOME-043",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "188684cf-4252-7dc6-66e6-4fab8ab9d3e0"
+        },
+        "before": "Global Retail Leaders Employ ",
+        "expected": "Real operations powered by ",
+        "actual": "Real operations powered by ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-043-1",
+        "field_id": "HOME-043",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e27bb508-97d9-dcfd-5404-90e9ac73dece"
+        },
+        "before": "Tur.ai",
+        "expected": "Tur.ai",
+        "actual": "Tur.ai",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-043-2",
+        "field_id": "HOME-043",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "366dbd54-6333-5a60-095b-ea35ea158053"
+        },
+        "before": ".",
+        "expected": ".",
+        "actual": ".",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-044",
+        "field_id": "HOME-044",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "3cff5fdb-d7b3-0353-9054-6422c25df8c8"
+        },
+        "before": "Lead to quote automation",
+        "expected": "Lead-to-quote automation",
+        "actual": "Lead-to-quote automation",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-045-0",
+        "field_id": "HOME-045",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "c25331a6-b739-dd3d-8514-8d8256889ce2"
+        },
+        "before": "10x faster",
+        "expected": "3x faster",
+        "actual": "3x faster",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-045-1",
+        "field_id": "HOME-045",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "71c19e01-c6f5-d8f8-4d91-6723beefee91"
+        },
+        "before": " response rate",
+        "expected": " quotes",
+        "actual": " quotes",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-047",
+        "field_id": "HOME-047",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cd"
+        },
+        "before": "Brand-owned cashback campaigns automation",
+        "expected": "Cashback campaign operations",
+        "actual": "Cashback campaign operations",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-048",
+        "field_id": "HOME-048",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "50b3e01d-5242-0803-f3c4-71fa3e1f4e3a"
+        },
+        "before": "Nation-wide campaigns managed by small team in parallel to day to day work",
+        "expected": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "actual": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-051",
+        "field_id": "HOME-051",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "353d0820-b470-c4d5-b61c-fff519184750"
+        },
+        "before": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+        "expected": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "actual": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-056",
+        "field_id": "HOME-056",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "c7a3014d-22ed-c91e-b538-158213fc630a"
+        },
+        "before": "Lead to quote automation",
+        "expected": "Lead-to-quote automation",
+        "actual": "Lead-to-quote automation",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "case-summaries-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-057\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-059\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-060\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-063\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-066\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-057",
+        "field_id": "HOME-057",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "1488f37f-c619-d847-7b40-8bda7209dbc5"
+        },
+        "before": "Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.",
+        "expected": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+        "actual": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-059",
+        "field_id": "HOME-059",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2018"
+        },
+        "before": "Brand-owned cashback campaigns automation",
+        "expected": "Cashback campaign operations",
+        "actual": "Cashback campaign operations",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-060",
+        "field_id": "HOME-060",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e201a"
+        },
+        "before": "Nation-wide campaigns managed by small team in parallel to day to day work.",
+        "expected": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "actual": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-063",
+        "field_id": "HOME-063",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfdb"
+        },
+        "before": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+        "expected": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "actual": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-066",
+        "field_id": "HOME-066",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "5653bac9-a2a7-6f94-4da7-6d8ab7742d06"
+        },
+        "before": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI.",
+        "expected": "Heineken cut vendor onboarding from months to weeks.",
+        "actual": "Heineken cut vendor onboarding from months to weeks.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "pilot-launch-scale-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-088-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-088-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-088-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-089\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-091\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-093\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-095\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-096\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-097\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-098\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-088-0",
+        "field_id": "HOME-088",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "1bbb8a07-5871-c727-8eba-4792b70c7e2f"
+        },
+        "before": "Our ",
+        "expected": "One ",
+        "actual": "One ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-088-1",
+        "field_id": "HOME-088",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e700c5fc-6b44-fe9f-2c2b-e8b8069ba016"
+        },
+        "before": "Trademark Process",
+        "expected": "platform",
+        "actual": "platform",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-088-2",
+        "field_id": "HOME-088",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f0bc4674-258a-d50b-f943-6fe16c2e828d"
+        },
+        "before": " Lets You Transform Your Retail Operations",
+        "expected": " to pilot, run and scale your processes",
+        "actual": " to pilot, run and scale your processes",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-089",
+        "field_id": "HOME-089",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "bbd687c2-d28c-04a9-048d-f3640bee1447"
+        },
+        "before": "EXPLORE",
+        "expected": "PILOT",
+        "actual": "PILOT",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-091",
+        "field_id": "HOME-091",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "2fd55856-84ab-2bf7-98fb-82b5f7186592"
+        },
+        "before": "EMPOWER",
+        "expected": "LAUNCH",
+        "actual": "LAUNCH",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-093",
+        "field_id": "HOME-093",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e633f893-9851-606a-06f4-89cc869805ee"
+        },
+        "before": "THRIVE",
+        "expected": "SCALE",
+        "actual": "SCALE",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-095",
+        "field_id": "HOME-095",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "22341e4b-d5cb-5fa3-2502-0f546b6c998e"
+        },
+        "before": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+        "expected": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "actual": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-096",
+        "field_id": "HOME-096",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "6664dfe7-9884-cc17-824d-b1be819b5dcc"
+        },
+        "before": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+        "expected": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "actual": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-097",
+        "field_id": "HOME-097",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "42240082-acf2-2393-855f-a3f33b96a468"
+        },
+        "before": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+        "expected": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "actual": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-098",
+        "field_id": "HOME-098",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f30a751c-fe45-d11d-438a-056949caffe6"
+        },
+        "before": "EXPLORE",
+        "expected": "PILOT",
+        "actual": "PILOT",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "pilot-launch-scale-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-100\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-101\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-103\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-104\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-106\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-107\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-100",
+        "field_id": "HOME-100",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "05ba6d71-702b-b650-b513-b0f7010020b9"
+        },
+        "before": "In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+        "expected": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "actual": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-101",
+        "field_id": "HOME-101",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6be"
+        },
+        "before": "EMPOWER",
+        "expected": "LAUNCH",
+        "actual": "LAUNCH",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-103",
+        "field_id": "HOME-103",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6c3"
+        },
+        "before": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+        "expected": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "actual": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-104",
+        "field_id": "HOME-104",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ca70429a-1278-34ba-7dcf-289fc7780d95"
+        },
+        "before": "THRIVE",
+        "expected": "SCALE",
+        "actual": "SCALE",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-106",
+        "field_id": "HOME-106",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "ca70429a-1278-34ba-7dcf-289fc7780d9a"
+        },
+        "before": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+        "expected": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "actual": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-107",
+        "field_id": "HOME-107",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f026b1a3-2142-e335-b4f3-3291efb603ab"
+        },
+        "before": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.",
+        "expected": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+        "actual": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "faq-and-contact-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-109\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-110-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-110-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-110-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-111\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-112\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-113\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-114-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-114-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-114-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-109",
+        "field_id": "HOME-109",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "3d03967d-d43f-5775-5050-1246dca38874"
+        },
+        "before": "How difficult is it to start with your solution?",
+        "expected": "How do we start and measure the first value?",
+        "actual": "How do we start and measure the first value?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-110-0",
+        "field_id": "HOME-110",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71f"
+        },
+        "before": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months",
+        "expected": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.",
+        "actual": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-110-1",
+        "field_id": "HOME-110",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "d56f7ece-17cb-a71a-61a2-d9d2be0696d7"
+        },
+        "before": "Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start",
+        "expected": "We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.",
+        "actual": "We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-110-2",
+        "field_id": "HOME-110",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "0fdbc9fb-2347-fdf2-d394-ed83bf4f51cd"
+        },
+        "before": "Solution is suitable for efficient added value developments by any IT team",
+        "expected": "Use measured results to decide whether to expand, adapt or stop.",
+        "actual": "Use measured results to decide whether to expand, adapt or stop.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-111",
+        "field_id": "HOME-111",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "b2887f49-c191-5f40-4549-9d16283dcee8"
+        },
+        "before": "How complicated is the integration process for your AI solution?",
+        "expected": "Can we change processes without replacing our existing systems?",
+        "actual": "Can we change processes without replacing our existing systems?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-112",
+        "field_id": "HOME-112",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "b2887f49-c191-5f40-4549-9d16283dcef0"
+        },
+        "before": "Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.",
+        "expected": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+        "actual": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-113",
+        "field_id": "HOME-113",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "9a127a0e-e1b3-9d48-b589-0b23db682151"
+        },
+        "before": "Can we use your solution standalone ? How is our data protected?",
+        "expected": "How do we fit Tur.ai into our security and data requirements?",
+        "actual": "How do we fit Tur.ai into our security and data requirements?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-114-0",
+        "field_id": "HOME-114",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "9a127a0e-e1b3-9d48-b589-0b23db682159"
+        },
+        "before": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only.",
+        "expected": "Agree the deployment design with your IT and security teams: system access, data flows and model use.",
+        "actual": "Agree the deployment design with your IT and security teams: system access, data flows and model use.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-114-1",
+        "field_id": "HOME-114",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "5f59265d-d1e2-9f06-6657-f84816fff9bb"
+        },
+        "before": "Your data never leaves the security perimeter of your organization this way. ",
+        "expected": "Define where data is processed, who can access it and what is retained. ",
+        "actual": "Define where data is processed, who can access it and what is retained. ",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-114-2",
+        "field_id": "HOME-114",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "3c563cdc-6309-3780-59ee-2f6fa93df589"
+        },
+        "before": "If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+        "expected": "Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+        "actual": "Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "faq-and-contact-2",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-115\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-116\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-119\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-120\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-121\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-122\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-123\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-124\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-126\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-133\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-115",
+        "field_id": "HOME-115",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "89130b50-e358-e731-a5ac-42603b44f528"
+        },
+        "before": "How will Tur.ai enhance our capability to scale sales globally?",
+        "expected": "How does Tur.ai keep AI costs under control as we scale?",
+        "actual": "How does Tur.ai keep AI costs under control as we scale?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-116",
+        "field_id": "HOME-116",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "89130b50-e358-e731-a5ac-42603b44f530"
+        },
+        "before": "Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.",
+        "expected": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+        "actual": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-119",
+        "field_id": "HOME-119",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f3fc0199-85e4-58ec-eed3-83315f5a4085"
+        },
+        "before": "In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?",
+        "expected": "How does Tur.ai fit with our ERP, automation tools and AI?",
+        "actual": "How does Tur.ai fit with our ERP, automation tools and AI?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-120",
+        "field_id": "HOME-120",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "f3fc0199-85e4-58ec-eed3-83315f5a408d"
+        },
+        "before": "Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated",
+        "expected": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+        "actual": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-121",
+        "field_id": "HOME-121",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "21c1861b-473f-4876-442a-5bca042080aa"
+        },
+        "before": "How will Tur.ai help us minimize the need for human contact in our service without losing our touch?",
+        "expected": "What happens when AI needs human judgment or an exception occurs?",
+        "actual": "What happens when AI needs human judgment or an exception occurs?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-122",
+        "field_id": "HOME-122",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "21c1861b-473f-4876-442a-5bca042080b2"
+        },
+        "before": "Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts",
+        "expected": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+        "actual": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-123",
+        "field_id": "HOME-123",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "51e1cef9-aba4-7c54-d8d4-83dbe7247291"
+        },
+        "before": "Can I preview changes before they go live?",
+        "expected": "Which processes are a good fit for Tur.ai?",
+        "actual": "Which processes are a good fit for Tur.ai?",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-124",
+        "field_id": "HOME-124",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "51e1cef9-aba4-7c54-d8d4-83dbe7247297"
+        },
+        "before": "Yes. This test site is meant for preview-first review, so you can check updates in the preview URL before any publish step.",
+        "expected": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+        "actual": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-126",
+        "field_id": "HOME-126",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "1316a488-0c25-2701-ea9e-cb281008a5f1"
+        },
+        "before": "Book a call and learn more about AI's tailored impact on your operations.",
+        "expected": "Discuss process delivery, AI costs and the controls you need.",
+        "actual": "Discuss process delivery, AI costs and the controls you need.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-133",
+        "field_id": "HOME-133",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "24d29c62-a38b-c16b-7920-6143552a7b99"
+        },
+        "before": "Dive into Your AI Goals",
+        "expected": "Your process and goals",
+        "actual": "Your process and goals",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "faq-and-contact-3",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-135\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-136\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-135",
+        "field_id": "HOME-135",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe08"
+        },
+        "before": "Thank you! We'll get back to you soon!",
+        "expected": "Thank you! We'll be in touch.",
+        "actual": "Thank you! We'll be in touch.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-136",
+        "field_id": "HOME-136",
+        "id": {
+          "component": "6899ffe04a85e00f2b8cf5ac",
+          "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0b"
+        },
+        "before": "Oops! Something went wrong while submitting the form.",
+        "expected": "Your message was not sent. Please try again.",
+        "actual": "Your message was not sent. Please try again.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "shared-d4775e29-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-141\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-141",
+        "field_id": "HOME-141",
+        "id": {
+          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "element": "d4775e29-0c8c-aca9-118d-34e001e49581"
+        },
+        "before": "© 2024 Tur.ai. All rights reserved.",
+        "expected": "© 2026 Tur.ai. All rights reserved.",
+        "actual": "© 2026 Tur.ai. All rights reserved.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "shared-e7c0820d-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-143\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-149\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-150\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-143",
+        "field_id": "HOME-143",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9ad"
+        },
+        "before": "Enter your contact info to witness AI's tailored impact on your operations.",
+        "expected": "See a process run across systems, with controls and task-matched AI.",
+        "actual": "See a process run across systems, with controls and task-matched AI.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-149",
+        "field_id": "HOME-149",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cc"
+        },
+        "before": "Thank you! Your submission has been received!",
+        "expected": "Thank you! We'll contact you about your demo.",
+        "actual": "Thank you! We'll contact you about your demo.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-150",
+        "field_id": "HOME-150",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cf"
+        },
+        "before": "Oops! Something went wrong while submitting the form.",
+        "expected": "Your message was not sent. Please try again.",
+        "actual": "Your message was not sent. Please try again.",
+        "status": "applied"
+      }
+    ]
+  },
+  {
+    "label": "shared-da519de6-1",
+    "write": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-152\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-158\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        },
+        {
+          "type": "text",
+          "text": "{\"label\":\"HOME-159\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+        }
+      ],
+      "isError": false
+    },
+    "checks": [
+      {
+        "label": "HOME-152",
+        "field_id": "HOME-152",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef476979"
+        },
+        "before": "Enter your contact info and we’ll get back to you.",
+        "expected": "Share your details to discuss orchestration.",
+        "actual": "Share your details to discuss orchestration.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-158",
+        "field_id": "HOME-158",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef476999"
+        },
+        "before": "Thank you! Your submission has been received!",
+        "expected": "Thank you! We'll contact you about your call.",
+        "actual": "Thank you! We'll contact you about your call.",
+        "status": "applied"
+      },
+      {
+        "label": "HOME-159",
+        "field_id": "HOME-159",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef47699c"
+        },
+        "before": "Oops! Something went wrong while submitting the form.",
+        "expected": "Your message was not sent. Please try again.",
+        "actual": "Your message was not sent. Please try again.",
+        "status": "applied"
+      }
+    ]
+  }
+]

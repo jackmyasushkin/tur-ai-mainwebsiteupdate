@@ -1,8 +1,10 @@
-# Tur.ai Home: implementation handoff
+# Tur.ai Home: sandbox implementation
 
 **Current edition: enterprise-orchestration-handoff-v2**
 
-Start at **[the implementation handoff](docs/IMPLEMENTATION_HANDOFF.md)**.
+**104 replacements are applied in the sandbox; 124 keep/hold decisions are preserved. Publication has not occurred.** Start at [the implementation report](implementation/2026-10-13-enterprise-orchestration/REPORT.md). It records producer QA, the owner's decision to retain the ordinal animation issue, and the limits of form-state verification.
+
+The [original implementation handoff](docs/IMPLEMENTATION_HANDOFF.md) describes the prepared source edition; its preparation-stage statements are historical.
 
 - [Exact replacements](content/home/rewrite.json) and [machine apply plan](content/home/apply-plan.json)
 - [Copy in page order](content/home/proposal.md)
@@ -25,7 +27,7 @@ python3 tools/verify_home_handoff.py
 
 HOME-003 has one explicit exact-copy segment exception. The original baseline and budgets are unchanged. See `implementation-overrides.json`; do not silence arbitrary validation errors.
 
-Webflow changes, visual acceptance and publication have NOT been performed. PR #1 remains the review/change record; a merge does not publish the website.
+Webflow changes are applied and read back. Producer review is recorded with findings; independent acceptance and publication have not occurred. PR #1 remains open; a merge does not publish the website.
 
 ## Source snapshot
 

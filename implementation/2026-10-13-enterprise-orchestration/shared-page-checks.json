@@ -1,0 +1,257 @@
+[
+  {
+    "page": "heineken-procurement",
+    "footer": [
+      {
+        "width": 1383,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      },
+      {
+        "width": 320,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      }
+    ],
+    "forms": [
+      {
+        "form": "Book a Demo",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 579.46875,
+          "height": 315.515625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 263.953125,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 263.953125
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      },
+      {
+        "form": "Book a Call",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 592.1640625,
+          "height": 340.9140625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 251.25,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 251.25
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      }
+    ],
+    "submitted": false,
+    "mobileModalCheck": "Shared definitions match Home; direct mobile Nav entrypoints hidden by existing responsive styles. Live modal render verified on Home at 320."
+  },
+  {
+    "page": "heineken-cashback",
+    "footer": [
+      {
+        "width": 1383,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      },
+      {
+        "width": 320,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      }
+    ],
+    "forms": [
+      {
+        "form": "Book a Demo",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 579.46875,
+          "height": 315.515625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 263.953125,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 263.953125
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      },
+      {
+        "form": "Book a Call",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 592.1640625,
+          "height": 340.9140625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 251.25,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 251.25
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      }
+    ],
+    "submitted": false,
+    "mobileModalCheck": "Shared definitions match Home; direct mobile Nav entrypoints hidden by existing responsive styles. Live modal render verified on Home at 320."
+  },
+  {
+    "page": "radio-holland",
+    "footer": [
+      {
+        "width": 1383,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      },
+      {
+        "width": 320,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      }
+    ],
+    "forms": [
+      {
+        "form": "Book a Demo",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 579.46875,
+          "height": 315.515625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 263.953125,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 263.953125
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      },
+      {
+        "form": "Book a Call",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 592.1640625,
+          "height": 340.9140625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 251.25,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 251.25
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      }
+    ],
+    "submitted": false,
+    "mobileModalCheck": "Shared definitions match Home; direct mobile Nav entrypoints hidden by existing responsive styles. Live modal render verified on Home at 320."
+  },
+  {
+    "page": "imprint-en",
+    "footer": [
+      {
+        "width": 1383,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      },
+      {
+        "width": 320,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      }
+    ],
+    "forms": [
+      {
+        "form": "Book a Demo",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 579.46875,
+          "height": 315.515625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 263.953125,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 263.953125
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      },
+      {
+        "form": "Book a Call",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 592.1640625,
+          "height": 340.9140625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 251.25,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 251.25
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      }
+    ],
+    "submitted": false,
+    "mobileModalCheck": "Shared definitions match Home; direct mobile Nav entrypoints hidden by existing responsive styles. Live modal render verified on Home at 320."
+  },
+  {
+    "page": "privacy-en",
+    "footer": [
+      {
+        "width": 1383,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      },
+      {
+        "width": 320,
+        "text": "© 2026 Tur.ai. All rights reserved."
+      }
+    ],
+    "forms": [
+      {
+        "form": "Book a Demo",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 579.46875,
+          "height": 315.515625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 263.953125,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 263.953125
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      },
+      {
+        "form": "Book a Call",
+        "width": 1383,
+        "clientWidth": 1185,
+        "rect": {
+          "bottom": 592.1640625,
+          "height": 340.9140625,
+          "left": 239.3359375,
+          "right": 1424.671875,
+          "top": 251.25,
+          "width": 1185.3359375,
+          "x": 239.3359375,
+          "y": 251.25
+        },
+        "scrollWidth": 1185,
+        "visible": true
+      }
+    ],
+    "submitted": false,
+    "mobileModalCheck": "Shared definitions match Home; direct mobile Nav entrypoints hidden by existing responsive styles. Live modal render verified on Home at 320."
+  }
+]
