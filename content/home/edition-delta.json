@@ -1,0 +1,30 @@
+{
+  "edition": "enterprise-orchestration-handoff-v2",
+  "previous_rewrite_blob": "c792821fc5b6d5a2f788090748f605766544c782",
+  "changed_ids": [
+    "HOME-003",
+    "HOME-004",
+    "HOME-006",
+    "HOME-019",
+    "HOME-023",
+    "HOME-027",
+    "HOME-032",
+    "HOME-033",
+    "HOME-068",
+    "HOME-088",
+    "HOME-119",
+    "HOME-120",
+    "HOME-126",
+    "HOME-143",
+    "HOME-152",
+    "HOME-209",
+    "HOME-227",
+    "HOME-228"
+  ],
+  "counts": {
+    "rewrite": 104,
+    "keep": 88,
+    "hold": 36
+  },
+  "content_revision": "card-captions-2026-10-13"
+}

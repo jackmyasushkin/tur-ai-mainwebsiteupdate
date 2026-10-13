@@ -1,15 +1,7 @@
-# Завдання агенту з оновлення текстів
+# Next agent: implement the prepared Home edition
 
-Підготуй редакцію головної сторінки Tur.ai відповідно до змістового брифу власника, зберігши чинну верстку. Усі матеріали й результати тримай у цьому репозиторії.
+Start with [IMPLEMENTATION_HANDOFF.md](IMPLEMENTATION_HANDOFF.md).
 
-1. Прочитай `AGENTS.md`, `content/home/business-brief.md`, повний бриф і фактичні розбіжності в `baseline/home/2026-10-12/`.
-2. Якщо власник надав новий змістовий бриф у чаті, зафіксуй його в `content/home/business-brief.md`, відокремлюючи погоджене від власних пропозицій. Наразі нового позиціонування не задано; не вигадуй його як погоджене рішення.
-3. Для кожного з 228 полів у `content/home/rewrite.json` обери `keep`, `rewrite` або `hold`. Для замін заповни `new_text`, складені `new_segments`, пояснення та потрібні джерела фактів. Оригінали й бюджети збережи.
-4. Дотримуйся загальних і сегментних лімітів, структури абзаців, граничних пробілів та узгодженості мобільних і настільних повторів. Довші альтернативи оформлюй лише як пропозицію зміни макета.
-5. У `content/home/proposal.md` подай нові тексти в порядку секцій з ID, ключові рішення, джерела та відкриті питання. Не дублюй непотрібно весь вихідний інвентар.
-6. Запусти `python3 tools/check.py --complete`. Перевір попередження вручну, зокрема довгі слова, коротші заголовки та візуальний баланс. Коли набір повний, додай `content/home/READY_FOR_REVIEW` і онови `content/home/STATUS.md`.
-7. Передай результат через pull request із поясненням змістових змін, результатом перевірки та питаннями власнику. Внесення у Webflow й візуальна перевірка відбуваються на наступному етапі.
+Content preparation is complete for edition `enterprise-orchestration-handoff-v2`. Do not restart positioning or use the old hero from Git history. Read the branch named in the handoff; `main` can still contain the initial export until the PR is merged.
 
-Машинний інвентар містить точні прив’язки Webflow. Три поля відгуку `HOME-177–179` доповнено з DOM Designer, тому спосіб їхнього запису через MCP потрібно окремо перевірити перед внесенням. Спільні компоненти можуть вплинути на інші сторінки; перевіряй рівень зміни й можливість перевизначення конкретного instance.
-
-Критерій передачі: повні тексти з ID та джерелами, редакційні ліміти пройдені, нерозв’язані питання видимі. Кількість символів сама по собі не підтверджує збереження верстки.
+The exact approved category is **Enterprise Process Orchestration Platform**. Read `content/home/rewrite.json`, the explicit H1 exception, and the baseline bindings before any write. No Webflow write or publication was performed during preparation. Site changes require an explicit implementation task; publication always requires separate authorization.

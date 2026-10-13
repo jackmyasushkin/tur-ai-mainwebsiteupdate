@@ -1,0 +1,26 @@
+{
+  "revision": "card-captions-2026-10-13",
+  "base_commit": "086ce563960473a70221dccb8c7092507fa93e3b",
+  "previous_rewrite_blob": "5578f2fbe717f2b592cf0729084a092489d7cc37",
+  "rewrite_sha256": "f10420511d5216995c1fe4034d872c1bd9d1887439a18742b0a587504f8157e7",
+  "source": "Owner-provided card screenshot in the homepage conversation, 13 October 2026",
+  "scope": "Two captions only; other 226 item records unchanged; no Webflow writes",
+  "items": [
+    {
+      "id": "HOME-019",
+      "previous_prepared_text": "Banking case: annual token spend fell from €1.8M to €300K.",
+      "owner_screenshot_text": "Banking case: annual token spend fell due to large to specialized models use.",
+      "new_text": "Banking case: lower annual token spend with task-specific models.",
+      "chars": 65,
+      "max_chars": 73
+    },
+    {
+      "id": "HOME-023",
+      "previous_prepared_text": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+      "owner_screenshot_text": "A European bank: 3x faster process delivery within same transformation team.",
+      "new_text": "A European bank: processes delivered 3x faster by the same transformation team.",
+      "chars": 79,
+      "max_chars": 92
+    }
+  ]
+}

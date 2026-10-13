@@ -6,6 +6,7 @@ from pathlib import Path
 import subprocess
 import sys
 import tempfile
+from hero_copy_exception import prepare_for_baseline
 
 ROOT = Path(__file__).resolve().parents[1]
 BASELINE = ROOT / "baseline/home/2026-10-12"
@@ -82,12 +83,17 @@ def check(complete=False, candidate=None):
             errors.append(f"{rid}: action must be keep, rewrite, hold or null")
 
     validation = {}
+    exceptions = []
+    validator_working = working
     if complete and pending:
         errors.append(f"Incomplete editorial decisions: {len(pending)} fields")
     if not errors:
+        validator_working, exceptions, exception_errors = prepare_for_baseline(working)
+        errors.extend(exception_errors)
+    if not errors:
         with tempfile.TemporaryDirectory(prefix="turai-content-check-") as temp:
             candidate_path = Path(temp) / "rewrite.json"
-            candidate_path.write_text(json.dumps(working, ensure_ascii=False), encoding="utf-8")
+            candidate_path.write_text(json.dumps(validator_working, ensure_ascii=False), encoding="utf-8")
             result = subprocess.run(
                 [sys.executable, str(BASELINE / "validate_rewrite.py"), str(candidate_path)],
                 text=True, capture_output=True, check=False,
@@ -104,7 +110,8 @@ def check(complete=False, candidate=None):
         "decisions": counts,
         "pending_ids": pending,
         "errors": errors,
-        "warnings": validation.get("warnings", []),
+        "warnings": validation.get("warnings", []) + (["HOME-003: exact approved H1 uses a documented segment-budget exception; visual review required"] if exceptions else []),
+        "approved_copy_exceptions": exceptions,
         "visual_acceptance": "NOT_CHECKED",
         "claim_truth": "NOT_CHECKED",
         "webflow_changed": False,

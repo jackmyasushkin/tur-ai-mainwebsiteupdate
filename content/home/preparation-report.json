@@ -1,0 +1,102 @@
+{
+  "status": "EDITORIAL_LIMITS_PASS",
+  "complete_required": true,
+  "decisions": {
+    "keep": 88,
+    "rewrite": 104,
+    "hold": 36,
+    "pending": 0
+  },
+  "pending_ids": [],
+  "errors": [],
+  "warnings": [
+    "HOME-007: shorter than the soft target; review visual balance",
+    "HOME-011: shorter than the soft target; review visual balance",
+    "HOME-015: shorter than the soft target; review visual balance",
+    "HOME-015: longer unbroken word/token; check wrapping",
+    "HOME-019: longer unbroken word/token; check wrapping",
+    "HOME-027: shorter than the soft target; review visual balance",
+    "HOME-029: shorter than the soft target; review visual balance",
+    "HOME-035: shorter than the soft target; review visual balance",
+    "HOME-043: longer unbroken word/token; check wrapping",
+    "HOME-044: longer unbroken word/token; check wrapping",
+    "HOME-045: shorter than the soft target; review visual balance",
+    "HOME-047: shorter than the soft target; review visual balance",
+    "HOME-056: longer unbroken word/token; check wrapping",
+    "HOME-059: shorter than the soft target; review visual balance",
+    "HOME-066: shorter than the soft target; review visual balance",
+    "HOME-073: shorter than the soft target; review visual balance",
+    "HOME-076: shorter than the soft target; review visual balance",
+    "HOME-085: longer unbroken word/token; check wrapping",
+    "HOME-088: shorter than the soft target; review visual balance",
+    "HOME-113: longer unbroken word/token; check wrapping",
+    "HOME-114: longer unbroken word/token; check wrapping",
+    "HOME-117: shorter than the soft target; review visual balance",
+    "HOME-118: longer unbroken word/token; check wrapping",
+    "HOME-119: shorter than the soft target; review visual balance",
+    "HOME-119: longer unbroken word/token; check wrapping",
+    "HOME-120: shorter than the soft target; review visual balance",
+    "HOME-120: longer unbroken word/token; check wrapping",
+    "HOME-121: shorter than the soft target; review visual balance",
+    "HOME-121: longer unbroken word/token; check wrapping",
+    "HOME-122: longer unbroken word/token; check wrapping",
+    "HOME-123: longer unbroken word/token; check wrapping",
+    "HOME-133: longer unbroken word/token; check wrapping",
+    "HOME-135: shorter than the soft target; review visual balance",
+    "HOME-135: longer unbroken word/token; check wrapping",
+    "HOME-143: longer unbroken word/token; check wrapping",
+    "HOME-152: longer unbroken word/token; check wrapping",
+    "HOME-003: exact approved H1 uses a documented segment-budget exception; visual review required"
+  ],
+  "approved_copy_exceptions": [
+    {
+      "id": "H1-CATEGORY-2026-10-13",
+      "field_id": "HOME-003",
+      "approved_text": "Enterprise Process Orchestration Platform",
+      "total_chars": 41,
+      "original_total_limit": 50,
+      "original_segment_limits": [
+        2,
+        8,
+        35,
+        2
+      ],
+      "actual_segment_lengths": [
+        10,
+        7,
+        13,
+        8
+      ],
+      "method": "Exact-value/source-descriptor check here; frozen validator receives HOME-003 as keep only. All other 227 fields retain frozen validation.",
+      "visual_acceptance": "pending"
+    }
+  ],
+  "visual_acceptance": "NOT_CHECKED",
+  "claim_truth": "NOT_CHECKED",
+  "webflow_changed": false,
+  "edition": "enterprise-orchestration-handoff-v2",
+  "content_revision": "card-captions-2026-10-13",
+  "execution_environment": "GitHub Actions",
+  "source_rewrite_blob": "5578f2fbe717f2b592cf0729084a092489d7cc37",
+  "rewrite_sha256": "f10420511d5216995c1fe4034d872c1bd9d1887439a18742b0a587504f8157e7",
+  "regression_tests": ".....................\n----------------------------------------------------------------------\nRan 21 tests in 0.319s\n\nOK",
+  "handoff_check": {
+    "status": "HANDOFF_CONSISTENCY_PASS",
+    "errors": [],
+    "decisions": {
+      "rewrite": 104,
+      "keep": 88,
+      "hold": 36
+    },
+    "webflow_changed": false,
+    "visual_acceptance": "NOT_CHECKED",
+    "publication": "NOT_PERFORMED"
+  },
+  "run_url": "https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38407789365",
+  "unchanged_item_records": 226,
+  "changed_ids": [
+    "HOME-019",
+    "HOME-023"
+  ],
+  "recorded_at": "2026-10-13T13:47:07.669022+00:00"
+}

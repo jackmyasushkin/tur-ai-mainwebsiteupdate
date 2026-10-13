@@ -1,0 +1,32 @@
+{
+  "source_blob_sha": "0c887e4b43b99e3d90f65c65ac717d363c307245",
+  "source_exact_blob_reconstruction": "MATCH",
+  "candidate_sha256": "56e63ae0b89623f81935c6c5645fcbeb6dae277ee2122c5c5c9318ad2632e4c8",
+  "status": "LOCAL_EDITORIAL_PRECHECK_PASS",
+  "decisions": {
+    "keep": 88,
+    "rewrite": 104,
+    "hold": 36
+  },
+  "field_count": 228,
+  "rich_text_field_count": 19,
+  "rich_text_segment_count": 51,
+  "checks": [
+    "all IDs and order",
+    "unchanged source text and budgets",
+    "unchanged segment source IDs/raw text/budgets",
+    "nonempty replacement strings",
+    "whole-field and segment lengths",
+    "exact segment boundary whitespace",
+    "no replacements on keep/hold",
+    "paired desktop/mobile copy"
+  ],
+  "errors": [],
+  "repository_full_checker": "PENDING_CI",
+  "baseline_manifest_verification": "PENDING_CI",
+  "visual_acceptance": "NOT_CHECKED",
+  "claim_truth": "NOT_INDEPENDENTLY_AUDITED",
+  "webflow_changed": false,
+  "note": "Source JSON bytes reconstructed from connector reads and verified against their Git blob SHA. Direct container network checkout unavailable; existing full repository CI is required.",
+  "candidate_blob_sha": "c792821fc5b6d5a2f788090748f605766544c782"
+}
