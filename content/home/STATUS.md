@@ -1,5 +1,9 @@
 # Home implementation status
 
+## Current acceptance — issue #3
+
+**PUBLISHED_AND_OWNER_ACCEPTED.** On 13 October 2026 the owner reported publishing the ordinal animation fix and confirmed it works. A fresh site metadata read confirms `lastPublished: 2026-10-13T05:42:48.576Z` for Copy of Tur.ai. See [the acceptance record](../../implementation/2026-10-13-ordinal-animation-acceptance/ACCEPTANCE.md). This is owner acceptance of the ordinal issue; the agent did not perform a new full published-site QA or merge PRs. Historical run evidence below remains unchanged.
+
 ## Subsequent ordinal animation fix — issue #3
 
 The owner approved preserving the count animation and formatting the four ordinals to two digits. Four target markers and a Home-only registered footer script are applied; see [the dedicated run](../../implementation/2026-10-13-ordinal-animation/REPORT.md). Source text and all original animation attributes remain unchanged. Producer QA covers real Chrome frame samples, actual Home Preview, 12 widths and both toggle states on desktop/mobile. No publication was performed in this run; its before/after reads both show the pre-existing sandbox publication at `2026-10-13T01:53:31.599Z`.

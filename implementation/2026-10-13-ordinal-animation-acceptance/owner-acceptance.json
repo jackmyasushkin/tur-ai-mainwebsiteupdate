@@ -1,0 +1,31 @@
+{
+  "scope": "Ordinal animation fix — issue #3, HOME-071/074/077/080",
+  "implementationCommit": "5e3fad4edca6bb6d10268ea27df376a59e27e8d9",
+  "ownerConfirmation": {
+    "quote": "проблема була вирішена, я опублікував - все працює\n\nфіксуй",
+    "source": "Direct owner message in this task",
+    "receivedDate": "2026-10-13",
+    "publishedByOwnerReported": true,
+    "functionalSuccessConfirmed": true
+  },
+  "publication": {
+    "siteId": "6899ffe04a85e00f2b8cf5ab",
+    "displayName": "Copy of Tur.ai",
+    "lastPublished": "2026-10-13T05:42:48.576Z",
+    "customDomains": [],
+    "metadataVerified": true,
+    "previousRunLastPublished": "2026-10-13T01:53:31.599Z",
+    "newPublication": true
+  },
+  "read": {
+    "startedAt": "2026-10-13T06:28:46.637Z",
+    "endedAt": "2026-10-13T06:28:51.498Z",
+    "tool": "get_site",
+    "weight": 1
+  },
+  "status": "PUBLISHED_AND_OWNER_ACCEPTED",
+  "agentPublished": false,
+  "newAutomatedPublishedBrowserQA": false,
+  "mergeAuthorized": false,
+  "notes": "Owner acceptance concerns the ordinal animation issue; historical producer QA and form limitations are not rewritten."
+}

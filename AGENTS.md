@@ -8,6 +8,8 @@ The owner assigned implementation of the pinned edition and explicitly approved 
 
 # Робота агентів у цьому репозиторії
 
+The owner subsequently published the ordinal fix and confirmed it works. Current acceptance is recorded in implementation/2026-10-13-ordinal-animation-acceptance/ACCEPTANCE.md; Webflow lastPublished is 2026-10-13T05:42:48.576Z. Treat issue #3 as resolved and owner-accepted. Do not reapply the fix or treat historical unpublished snapshots as the current publication state. This acceptance does not authorize new publication, merge, or unrelated scope changes.
+
 ## Контекст
 
 Оновлюємо контент основного сайту Tur.ai, починаючи з Home у Webflow-пісочниці. Аудиторія: бізнес-керівники, C-level та власники трансформації процесів; AI automation для B2B, зокрема регульованих галузей. Ринки: Україна, Нідерланди та США. Консультаційний продаж, конкретна цінність, підтверджені кейси; без тиску, маніпуляцій, вигаданих можливостей і джерел Gartner.
