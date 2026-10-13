@@ -1,0 +1,42 @@
+[
+  {
+    "scope": "Home",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "da519de6-fd09-ebd6-cb27-c995ef476971",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+    "exactExpectedTree": true
+  },
+  {
+    "scope": "b353f866-47b7-dc8c-628c-624c3e4c4048",
+    "exactExpectedTree": true
+  }
+]

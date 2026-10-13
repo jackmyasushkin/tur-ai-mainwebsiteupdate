@@ -1,0 +1,482 @@
+[
+  {
+    "test": "desktop-tabs",
+    "results": [
+      {
+        "name": "LAUNCH / 02",
+        "rect": {
+          "bottom": 1005.4337463378906,
+          "height": 906.1640625,
+          "left": 691.5,
+          "right": 1326.75,
+          "top": 99.26968383789062,
+          "width": 635.25,
+          "x": 691.5,
+          "y": 99.26968383789062
+        },
+        "text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "visible": true
+      },
+      {
+        "name": "SCALE / 03",
+        "rect": {
+          "bottom": 788.4921875,
+          "height": 870.4375,
+          "left": 691.5,
+          "right": 1326.75,
+          "top": -81.9453125,
+          "width": 635.25,
+          "x": 691.5,
+          "y": -81.9453125
+        },
+        "text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "visible": true
+      },
+      {
+        "name": "PILOT / 01",
+        "rect": {
+          "bottom": 1137.9921875,
+          "height": 870.4375,
+          "left": 691.5,
+          "right": 1326.75,
+          "top": 267.5546875,
+          "width": 635.25,
+          "x": 691.5,
+          "y": 267.5546875
+        },
+        "text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "test": "desktop-faq",
+    "results": [
+      {
+        "index": 0,
+        "expanded": "true",
+        "display": "block",
+        "rect": {
+          "bottom": 700.328125,
+          "height": 285.828125,
+          "left": 56.25,
+          "right": 918.375,
+          "top": 414.5,
+          "width": 862.125,
+          "x": 56.25,
+          "y": 414.5
+        },
+        "text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.Use measured results to decide whether to expand, adapt or stop.",
+        "retestedVia": "native accessibility Expand"
+      },
+      {
+        "index": 1,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 514.1953125,
+          "height": 105.2734375,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 408.921875,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 408.921875
+        },
+        "scrollWidth": 862,
+        "text": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core."
+      },
+      {
+        "index": 2,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 531.4140625,
+          "height": 222.3359375,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 309.078125,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 309.078125
+        },
+        "scrollWidth": 862,
+        "text": "Agree the deployment design with your IT and security teams: system access, data flows and model use.Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities."
+      },
+      {
+        "index": 3,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 355,
+          "height": 166.734375,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 188.265625,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 188.265625
+        },
+        "scrollWidth": 862,
+        "text": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost."
+      },
+      {
+        "index": 4,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 444.1953125,
+          "height": 196.5078125,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 247.6875,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 247.6875
+        },
+        "scrollWidth": 862,
+        "text": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts."
+      },
+      {
+        "index": 5,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 355.0703125,
+          "height": 136.9609375,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 218.109375,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 218.109375
+        },
+        "scrollWidth": 862,
+        "text": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them."
+      },
+      {
+        "index": 6,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 444.265625,
+          "height": 166.734375,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 277.53125,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 277.53125
+        },
+        "scrollWidth": 862,
+        "text": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability."
+      },
+      {
+        "index": 7,
+        "expanded": "true",
+        "clientWidth": 862,
+        "display": "block",
+        "rect": {
+          "bottom": 355.140625,
+          "height": 107.1875,
+          "left": 56.2421875,
+          "right": 918.3671875,
+          "top": 247.953125,
+          "width": 862.125,
+          "x": 56.2421875,
+          "y": 247.953125
+        },
+        "scrollWidth": 862,
+        "text": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations."
+      }
+    ]
+  },
+  {
+    "test": "demo-desktop",
+    "visible": true,
+    "submitted": false
+  },
+  {
+    "test": "call-desktop",
+    "visible": true,
+    "submitted": false
+  },
+  {
+    "test": "mobile-case-slides-fresh-preview",
+    "results": [
+      {
+        "slide": 1,
+        "pressed": "true",
+        "ariaHidden": null,
+        "rect": {
+          "bottom": 858.40625,
+          "height": 471.1328125,
+          "left": 51.3359375,
+          "right": 268.6640625,
+          "top": 387.2734375,
+          "width": 217.328125,
+          "x": 51.3359375,
+          "y": 387.2734375
+        },
+        "text": "Lead-to-quote automationRadio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.Learn More"
+      },
+      {
+        "slide": 2,
+        "pressed": "true",
+        "ariaHidden": null,
+        "rect": {
+          "bottom": 837.515625,
+          "height": 450.2421875,
+          "left": 51.3360595703125,
+          "right": 268.6641845703125,
+          "top": 387.2734375,
+          "width": 217.328125,
+          "x": 51.3360595703125,
+          "y": 387.2734375
+        },
+        "text": "Cashback campaign operationsHeineken ran 12 nationwide campaigns with a small in-house team.Learn More"
+      },
+      {
+        "slide": 3,
+        "pressed": "true",
+        "ariaHidden": null,
+        "rect": {
+          "bottom": 807.8125,
+          "height": 420.5390625,
+          "left": 51.336181640625,
+          "right": 268.664306640625,
+          "top": 387.2734375,
+          "width": 217.328125,
+          "x": 51.336181640625,
+          "y": 387.2734375
+        },
+        "text": "Service desk automationNoordwest supported service enquiries through an ERP rollout with a small team.Learn More"
+      },
+      {
+        "slide": 4,
+        "pressed": "true",
+        "ariaHidden": null,
+        "rect": {
+          "bottom": 782.515625,
+          "height": 395.2421875,
+          "left": 51.3363037109375,
+          "right": 268.6644287109375,
+          "top": 387.2734375,
+          "width": 217.328125,
+          "x": 51.3363037109375,
+          "y": 387.2734375
+        },
+        "text": "Procurement automationHeineken cut vendor onboarding from months to weeks.Learn More"
+      }
+    ]
+  },
+  {
+    "test": "mobile-toggle-first-click",
+    "state": [
+      {
+        "classes": "integration_component",
+        "rect": {
+          "bottom": 1170.40625,
+          "height": 1058.9765625,
+          "left": 22,
+          "right": 298,
+          "top": 111.4296875,
+          "width": 276,
+          "x": 22,
+          "y": 111.4296875
+        },
+        "text": "The operational plane: your rules, across your existing systems.Click to see howTur.ai changes thisClick to see howTur.ai changes this0.One model for every task02.People bridging systems and teams03.Process changes held up by core releases04.Retries that waste tokens and timeAI models matched to each taskOne governed flow across systems and teamsChange processes above existing systemsBounded retries, checks and human decisions"
+      },
+      {
+        "classes": "integration_button-mobile",
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "text": "Click to see howTur.ai changes this"
+      }
+    ]
+  },
+  {
+    "test": "mobile-faq",
+    "results": [
+      {
+        "index": 0,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 964.9447021484376,
+          "height": 560.5703125,
+          "left": 22,
+          "right": 298,
+          "top": 404.3743896484375,
+          "width": 276,
+          "x": 22,
+          "y": 404.3743896484375
+        },
+        "scrollWidth": 276,
+        "text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.Use measured results to decide whether to expand, adapt or stop."
+      },
+      {
+        "index": 1,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 293.7109375,
+          "height": 181.1171875,
+          "left": 22,
+          "right": 298,
+          "top": 112.59375,
+          "width": 276,
+          "x": 22,
+          "y": 112.59375
+        },
+        "scrollWidth": 276,
+        "text": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core."
+      },
+      {
+        "index": 2,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 641.7578125,
+          "height": 408.7890625,
+          "left": 22,
+          "right": 298,
+          "top": 232.96875,
+          "width": 276,
+          "x": 22,
+          "y": 232.96875
+        },
+        "scrollWidth": 276,
+        "text": "Agree the deployment design with your IT and security teams: system access, data flows and model use.Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities."
+      },
+      {
+        "index": 3,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 383.9453125,
+          "height": 307.6015625,
+          "left": 22,
+          "right": 298,
+          "top": 76.34375,
+          "width": 276,
+          "x": 22,
+          "y": 76.34375
+        },
+        "scrollWidth": 276,
+        "text": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost."
+      },
+      {
+        "index": 4,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 503.2109375,
+          "height": 383.4921875,
+          "left": 22,
+          "right": 298,
+          "top": 119.71875,
+          "width": 276,
+          "x": 22,
+          "y": 119.71875
+        },
+        "scrollWidth": 276,
+        "text": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts."
+      },
+      {
+        "index": 5,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 418.6953125,
+          "height": 307.6015625,
+          "left": 22,
+          "right": 298,
+          "top": 111.09375,
+          "width": 276,
+          "x": 22,
+          "y": 111.09375
+        },
+        "scrollWidth": 276,
+        "text": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them."
+      },
+      {
+        "index": 6,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 473.8671875,
+          "height": 332.8984375,
+          "left": 22,
+          "right": 298,
+          "top": 140.96875,
+          "width": 276,
+          "x": 22,
+          "y": 140.96875
+        },
+        "scrollWidth": 276,
+        "text": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability."
+      },
+      {
+        "index": 7,
+        "expanded": "true",
+        "clientWidth": 276,
+        "display": "block",
+        "rect": {
+          "bottom": 273.9296875,
+          "height": 155.8203125,
+          "left": 22,
+          "right": 298,
+          "top": 118.109375,
+          "width": 276,
+          "x": 22,
+          "y": 118.109375
+        },
+        "scrollWidth": 276,
+        "text": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations."
+      }
+    ]
+  },
+  {
+    "test": "demo-mobile",
+    "visible": true,
+    "submitted": false
+  },
+  {
+    "test": "call-mobile",
+    "visible": true,
+    "submitted": false
+  },
+  {
+    "test": "mobile-toggle-settled",
+    "visibleTexts": [
+      "AI models matched to each task",
+      "One governed flow across systems and teams",
+      "Change processes above existing systems",
+      "Bounded retries, checks and human decisions"
+    ],
+    "evidence": "preview-toggle-mobile-feature-detail.png",
+    "numberAnimationIssueRetained": true
+  }
+]

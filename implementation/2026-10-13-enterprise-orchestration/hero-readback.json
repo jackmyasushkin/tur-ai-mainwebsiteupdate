@@ -1,0 +1,59 @@
+{
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"label\":\"HOME-003-0\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+      },
+      {
+        "type": "text",
+        "text": "{\"label\":\"HOME-003-1\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+      },
+      {
+        "type": "text",
+        "text": "{\"label\":\"HOME-003-2\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+      },
+      {
+        "type": "text",
+        "text": "{\"label\":\"HOME-003-3\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+      },
+      {
+        "type": "text",
+        "text": "{\"label\":\"HOME-004\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+      }
+    ],
+    "isError": false
+  },
+  "checks": [
+    {
+      "id": "HOME-003",
+      "element": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2f",
+      "exact": true,
+      "actual": "Enterprise "
+    },
+    {
+      "id": "HOME-003",
+      "element": "2b066328-9a94-c967-16e0-a7eb5632acf0",
+      "exact": true,
+      "actual": "Process "
+    },
+    {
+      "id": "HOME-003",
+      "element": "27e5d944-a647-2835-857a-f6cce18f23ad",
+      "exact": true,
+      "actual": "Orchestration "
+    },
+    {
+      "id": "HOME-003",
+      "element": "d289d6ed-e2cb-f2c5-ed95-3ce79ffdebe2",
+      "exact": true,
+      "actual": "Platform"
+    },
+    {
+      "id": "HOME-004",
+      "element": "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad4",
+      "exact": true,
+      "actual": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "width": 1383,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-116",
+        "text": "Tur.ai uses models matched to each task rather than one model for ever",
+        "before_height": 89.3203125,
+        "after_height": 119.09375
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 820,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-111",
+        "text": "Can we change processes without replacing our existing systems?",
+        "before_height": 22.0625,
+        "after_height": 44.125
+      },
+      {
+        "id": "HOME-114",
+        "text": "Agree the deployment design with your IT and security teams: system ac",
+        "before_height": 165.515625,
+        "after_height": 193.1015625
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 667,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-124",
+        "text": "Cross-system processes with documents, approvals and exceptions: custo",
+        "before_height": 53.96875,
+        "after_height": 80.953125
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 393,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-116",
+        "text": "Tur.ai uses models matched to each task rather than one model for ever",
+        "before_height": 210.8125,
+        "after_height": 237.1640625
+      },
+      {
+        "id": "HOME-124",
+        "text": "Cross-system processes with documents, approvals and exceptions: custo",
+        "before_height": 105.40625,
+        "after_height": 131.7578125
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 320,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-043",
+        "text": "Real operations powered by Tur.ai.",
+        "before_height": 105.609375,
+        "after_height": 140.8125
+      },
+      {
+        "id": "HOME-111",
+        "text": "Can we change processes without replacing our existing systems?",
+        "before_height": 60.703125,
+        "after_height": 80.9375
+      },
+      {
+        "id": "HOME-116",
+        "text": "Tur.ai uses models matched to each task rather than one model for ever",
+        "before_height": 252.96875,
+        "after_height": 278.265625
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 1440,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-116",
+        "text": "Tur.ai uses models matched to each task rather than one model for ever",
+        "before_height": 90,
+        "after_height": 120
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 991,
+    "style_changes": [],
+    "height_increases": [],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 992,
+    "style_changes": [],
+    "height_increases": [],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 767,
+    "style_changes": [],
+    "height_increases": [],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 768,
+    "style_changes": [],
+    "height_increases": [],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 479,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-004",
+        "text": "Run regulated processes across existing systems. Customers trust us to",
+        "before_height": 90,
+        "after_height": 120
+      },
+      {
+        "id": "HOME-116",
+        "text": "Tur.ai uses models matched to each task rather than one model for ever",
+        "before_height": 165.5625,
+        "after_height": 193.15625
+      },
+      {
+        "id": "HOME-124",
+        "text": "Cross-system processes with documents, approvals and exceptions: custo",
+        "before_height": 82.78125,
+        "after_height": 110.375
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  },
+  {
+    "width": 480,
+    "style_changes": [],
+    "height_increases": [
+      {
+        "id": "HOME-124",
+        "text": "Cross-system processes with documents, approvals and exceptions: custo",
+        "before_height": 78.75,
+        "after_height": 105
+      }
+    ],
+    "new_horizontal_scroll_candidates": [],
+    "same_target_set": true
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "issue": "Finsweet number count removes leading zero from HOME-071/074/077/080 after animation.",
+  "decision": "Owner explicitly chose to preserve animation and record the problem.",
+  "fixApplied": false,
+  "attributesChanged": false,
+  "fields": [
+    "HOME-071",
+    "HOME-074",
+    "HOME-077",
+    "HOME-080"
+  ]
+}

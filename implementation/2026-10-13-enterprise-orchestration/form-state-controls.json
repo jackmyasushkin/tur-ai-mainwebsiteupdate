@@ -1,0 +1,10 @@
+{
+  "component": "Modal Demo",
+  "successControlExercised": true,
+  "errorControl": [
+    "\t\t\t\t\t1446 radio button Description: Error, Value: 1",
+    "The focused UI element is 1446 radio button Description: Error, Value: 1"
+  ],
+  "rendering": "component root remains display:none; live post-submit rendering not tested",
+  "noSubmission": true
+}

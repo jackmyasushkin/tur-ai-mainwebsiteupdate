@@ -1,0 +1,5612 @@
+[
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf675_logo.svg"
+      },
+      {
+        "name": "loading",
+        "value": "eager"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5c832e96-65d8-9bab-d677-65739407831c\",\"6e75afeb-ea0b-0674-7230-dec39e99b3b9\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "6e75afeb-ea0b-0674-7230-dec39e99b3b9"
+      },
+      {
+        "name": "alt",
+        "value": "Tur.ai Logo - Full"
+      },
+      {
+        "name": "class",
+        "value": "brand_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3b9"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5c832e96-65d8-9bab-d677-65739407831c\",\"6e75afeb-ea0b-0674-7230-dec39e99b3bb\",\"38e1ce34-89dc-8e51-8705-41d79264eaf2\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3bb",
+      "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+    ],
+    "tag": "DIV",
+    "text": "Book a Demo"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5c832e96-65d8-9bab-d677-65739407831c\",\"6e75afeb-ea0b-0674-7230-dec39e99b3bc\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3bc",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Contact Us"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"370cbcb9-ca44-e3fa-3af5-ffcc49e12e2e\"]"
+      },
+      {
+        "name": "class",
+        "value": "hero_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2e"
+    ],
+    "tag": "H1",
+    "text": "Enterprise Process Orchestration Platform"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad3"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"fbe0ec56-d4fe-6874-de40-32e8aa8e5ad3\"]"
+      },
+      {
+        "name": "class",
+        "value": "hero_subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad3"
+    ],
+    "tag": "DIV",
+    "text": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"16965bd6-f912-50ac-382b-356a42c76396\",\"38e1ce34-89dc-8e51-8705-41d79264eaf2\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "16965bd6-f912-50ac-382b-356a42c76396",
+      "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+    ],
+    "tag": "DIV",
+    "text": "Book a Demo"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "8d0699a1-57c9-05de-24f3-854a2bc59024"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"8d0699a1-57c9-05de-24f3-854a2bc59024\"]"
+      },
+      {
+        "name": "class",
+        "value": "hero_caption"
+      }
+    ],
+    "options": null,
+    "path": [
+      "8d0699a1-57c9-05de-24f3-854a2bc59024"
+    ],
+    "tag": "DIV",
+    "text": "See how to run, control and change a process across your systems."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf62a_Union-min.png"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5cad4aa3-5325-8fbf-dc37-56ad27d7db44\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "5cad4aa3-5325-8fbf-dc37-56ad27d7db44"
+      },
+      {
+        "name": "alt",
+        "value": "Heineken Logo - White"
+      },
+      {
+        "name": "class",
+        "value": "hero_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5cad4aa3-5325-8fbf-dc37-56ad27d7db44"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf61c_image%2012-min.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"0cec75fb-036d-bce4-effd-dacc9ef108da\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "0cec75fb-036d-bce4-effd-dacc9ef108da"
+      },
+      {
+        "name": "alt",
+        "value": "Noordwest Logo - White"
+      },
+      {
+        "name": "class",
+        "value": "hero_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "0cec75fb-036d-bce4-effd-dacc9ef108da"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf62b_image%2014-min.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ce7f0770-1fbc-f4f6-b3d0-5d28a9f6129f\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "ce7f0770-1fbc-f4f6-b3d0-5d28a9f6129f"
+      },
+      {
+        "name": "alt",
+        "value": "Radio Holland - White"
+      },
+      {
+        "name": "class",
+        "value": "hero_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ce7f0770-1fbc-f4f6-b3d0-5d28a9f6129f"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf61d_Union-1-min.png"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"825acb04-ad82-35fd-90ae-9fecda538a86\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "825acb04-ad82-35fd-90ae-9fecda538a86"
+      },
+      {
+        "name": "alt",
+        "value": "NOC NSF Logo - White"
+      },
+      {
+        "name": "class",
+        "value": "hero_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "825acb04-ad82-35fd-90ae-9fecda538a86"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "02b63847-bb12-574e-7515-0cb13b323592"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"02b63847-bb12-574e-7515-0cb13b323592\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      },
+      {
+        "name": "style",
+        "value": "opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+      }
+    ],
+    "options": null,
+    "path": [
+      "02b63847-bb12-574e-7515-0cb13b323592"
+    ],
+    "tag": "H2",
+    "text": "Work and change faster. Results from banking engagements."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "3e9d6fb2-d26f-e0c2-d772-4f8959394278"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3e9d6fb2-d26f-e0c2-d772-4f8959394278\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3e9d6fb2-d26f-e0c2-d772-4f8959394278"
+    ],
+    "tag": "DIV",
+    "text": "Shorter process cycles"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"7a1d631e-4a36-87c4-19b1-03c3c3a8489a\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 62"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 62"
+      }
+    ],
+    "options": null,
+    "path": [
+      "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+    ],
+    "tag": "DIV",
+    "text": "62"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "47452983-279a-a31c-1e88-dbead9703b54"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"47452983-279a-a31c-1e88-dbead9703b54\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "47452983-279a-a31c-1e88-dbead9703b54"
+    ],
+    "tag": "DIV",
+    "text": "%"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "945818af-ca60-09a2-4eaf-60bf092ba086"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"945818af-ca60-09a2-4eaf-60bf092ba086\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "945818af-ca60-09a2-4eaf-60bf092ba086"
+    ],
+    "tag": "DIV",
+    "text": "One European bank: customer onboarding fell from 16 days to 6."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0534"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0534\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0534"
+    ],
+    "tag": "DIV",
+    "text": "Lower staffing needs"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0537\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 82"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 82"
+      }
+    ],
+    "options": null,
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+    ],
+    "tag": "DIV",
+    "text": "82"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff0539"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff0539\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0539"
+    ],
+    "tag": "DIV",
+    "text": "%"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "740e8327-fe90-a3d4-a2e7-ced5e9ff053b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"740e8327-fe90-a3d4-a2e7-ced5e9ff053b\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff053b"
+    ],
+    "tag": "DIV",
+    "text": "The same bank's onboarding staffing requirement fell from 34 FTE to 6."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f9318e29-354a-45cd-23aa-0f92b790b2f7"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2f7\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2f7"
+    ],
+    "tag": "DIV",
+    "text": "Lower LLM costs"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fa\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 83"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 83"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+    ],
+    "tag": "DIV",
+    "text": "83"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f9318e29-354a-45cd-23aa-0f92b790b2fc"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fc\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fc"
+    ],
+    "tag": "DIV",
+    "text": "%"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f9318e29-354a-45cd-23aa-0f92b790b2fe"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f9318e29-354a-45cd-23aa-0f92b790b2fe\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fe"
+    ],
+    "tag": "DIV",
+    "text": "Banking case: annual token spend fell from €1.8M to €300K."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ea335017-1cf5-c5c9-6756-e98bc54cd998"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd998\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd998"
+    ],
+    "tag": "DIV",
+    "text": "Faster process delivery"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99b\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 3"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 3"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+    ],
+    "tag": "DIV",
+    "text": "3"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99d"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99d\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99d"
+    ],
+    "tag": "DIV",
+    "text": "×"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ea335017-1cf5-c5c9-6756-e98bc54cd99f"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ea335017-1cf5-c5c9-6756-e98bc54cd99f\"]"
+      },
+      {
+        "name": "class",
+        "value": "transform_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99f"
+    ],
+    "tag": "DIV",
+    "text": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf689_image%2017-min.webp"
+      },
+      {
+        "name": "loading",
+        "value": "eager"
+      },
+      {
+        "name": "width",
+        "value": "500"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"60c16104-8bb8-79ea-a079-53e50ddf2be2\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Image of Ievgen Miasushkin, CEO of Tur.ai"
+      },
+      {
+        "name": "data-w-id",
+        "value": "60c16104-8bb8-79ea-a079-53e50ddf2be2"
+      },
+      {
+        "name": "class",
+        "value": "quote_image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "60c16104-8bb8-79ea-a079-53e50ddf2be2"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "bc3c9039-c403-caaf-4f49-25eee512f378"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"bc3c9039-c403-caaf-4f49-25eee512f378\"]"
+      },
+      {
+        "name": "class",
+        "value": "quote_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "bc3c9039-c403-caaf-4f49-25eee512f378"
+    ],
+    "tag": "DIV",
+    "text": "We built Tur.ai so businessescan work and change fasterwithout replacing their core."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "97fbec33-b423-0566-c4fd-d7b7bf712651"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"97fbec33-b423-0566-c4fd-d7b7bf712651\"]"
+      },
+      {
+        "name": "class",
+        "value": "quote_name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "97fbec33-b423-0566-c4fd-d7b7bf712651"
+    ],
+    "tag": "DIV",
+    "text": "Ievgen Miasushkin"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "77841641-5533-d365-e180-ef71edd242f2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"77841641-5533-d365-e180-ef71edd242f2\"]"
+      },
+      {
+        "name": "class",
+        "value": "quote_title"
+      }
+    ],
+    "options": null,
+    "path": [
+      "77841641-5533-d365-e180-ef71edd242f2"
+    ],
+    "tag": "DIV",
+    "text": "CEO of Tur.ai"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "b8ba1d74-ee1a-5251-102a-aa501377d680"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b8ba1d74-ee1a-5251-102a-aa501377d680\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_heading"
+      },
+      {
+        "name": "style",
+        "value": "opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b8ba1d74-ee1a-5251-102a-aa501377d680"
+    ],
+    "tag": "H2",
+    "text": "Coordinate Systems, AI and People in One Governed Process."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf68d_Message.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b1d63737-06b4-7c88-a60b-8c432154113f\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "b1d63737-06b4-7c88-a60b-8c432154113f"
+      },
+      {
+        "name": "alt",
+        "value": "Message Icon"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b1d63737-06b4-7c88-a60b-8c432154113f"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "b3b01857-d86a-fb13-3011-5b6599c681c4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b3b01857-d86a-fb13-3011-5b6599c681c4\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b3b01857-d86a-fb13-3011-5b6599c681c4"
+    ],
+    "tag": "DIV",
+    "text": "/ 01"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "a81fe0b6-1eaa-db91-a3ad-953fed0a86d1"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"a81fe0b6-1eaa-db91-a3ad-953fed0a86d1\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "a81fe0b6-1eaa-db91-a3ad-953fed0a86d1"
+    ],
+    "tag": "H3",
+    "text": "Work intake"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "5f281bc3-2e17-7fb7-b9f1-7917698bd740"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5f281bc3-2e17-7fb7-b9f1-7917698bd740\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5f281bc3-2e17-7fb7-b9f1-7917698bd740"
+    ],
+    "tag": "DIV",
+    "text": "Bring requests, documents and system data into one process with shared context."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf688_Filter.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"982b468e-8b61-6b55-827f-60d59ad5fec3\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "982b468e-8b61-6b55-827f-60d59ad5fec3"
+      },
+      {
+        "name": "alt",
+        "value": "Filter Icon"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec3"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "982b468e-8b61-6b55-827f-60d59ad5fec4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"982b468e-8b61-6b55-827f-60d59ad5fec4\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec4"
+    ],
+    "tag": "DIV",
+    "text": "/ 02"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d8136f0d-4ebe-3a6d-841a-c29436dcc1c0"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"d8136f0d-4ebe-3a6d-841a-c29436dcc1c0\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "d8136f0d-4ebe-3a6d-841a-c29436dcc1c0"
+    ],
+    "tag": "H3",
+    "text": "Task routing"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "982b468e-8b61-6b55-827f-60d59ad5fec9"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"982b468e-8b61-6b55-827f-60d59ad5fec9\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec9"
+    ],
+    "tag": "DIV",
+    "text": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf68e_Setting.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca6b2b31-d6c2-c9c5-af2f-42999be32cbd\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "ca6b2b31-d6c2-c9c5-af2f-42999be32cbd"
+      },
+      {
+        "name": "alt",
+        "value": "Gears Icon"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cbd"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ca6b2b31-d6c2-c9c5-af2f-42999be32cbe"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca6b2b31-d6c2-c9c5-af2f-42999be32cbe\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cbe"
+    ],
+    "tag": "DIV",
+    "text": "/ 03"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "6acbbf19-9d86-f21c-41fc-fcd0c69fad42"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"6acbbf19-9d86-f21c-41fc-fcd0c69fad42\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "6acbbf19-9d86-f21c-41fc-fcd0c69fad42"
+    ],
+    "tag": "H3",
+    "text": "Controlled execution"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ca6b2b31-d6c2-c9c5-af2f-42999be32cc3"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca6b2b31-d6c2-c9c5-af2f-42999be32cc3\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cc3"
+    ],
+    "tag": "DIV",
+    "text": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf68a_Activity.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"44410543-1595-11f8-4499-ee1256b3e13c\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "44410543-1595-11f8-4499-ee1256b3e13c"
+      },
+      {
+        "name": "alt",
+        "value": "Activity Icon"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e13c"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "44410543-1595-11f8-4499-ee1256b3e13d"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"44410543-1595-11f8-4499-ee1256b3e13d\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e13d"
+    ],
+    "tag": "DIV",
+    "text": "/ 04"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "6d5b1297-45ef-e960-7cc0-17efb59b1dec"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"6d5b1297-45ef-e960-7cc0-17efb59b1dec\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "6d5b1297-45ef-e960-7cc0-17efb59b1dec"
+    ],
+    "tag": "H3",
+    "text": "Human decisions"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "44410543-1595-11f8-4499-ee1256b3e142"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"44410543-1595-11f8-4499-ee1256b3e142\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e142"
+    ],
+    "tag": "DIV",
+    "text": "Route exceptions to the right person to decide."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf68c_Tick.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2749fb7c-13e2-f72c-9c08-3fe9b4d891af\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "2749fb7c-13e2-f72c-9c08-3fe9b4d891af"
+      },
+      {
+        "name": "alt",
+        "value": "Tick Icon"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891af"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b0"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2749fb7c-13e2-f72c-9c08-3fe9b4d891b0\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891b0"
+    ],
+    "tag": "DIV",
+    "text": "/ 05"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f38ba30e-1c8b-8607-e846-a7300aeab29c"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f38ba30e-1c8b-8607-e846-a7300aeab29c\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f38ba30e-1c8b-8607-e846-a7300aeab29c"
+    ],
+    "tag": "H3",
+    "text": "Traceable outcomes"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2749fb7c-13e2-f72c-9c08-3fe9b4d891b5\"]"
+      },
+      {
+        "name": "class",
+        "value": "streamline_item-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891b5"
+    ],
+    "tag": "DIV",
+    "text": "Record actions and decisions for review and audit."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "188684cf-4252-7dc6-66e6-4fab8ab9d3dd"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"188684cf-4252-7dc6-66e6-4fab8ab9d3dd\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "188684cf-4252-7dc6-66e6-4fab8ab9d3dd"
+    ],
+    "tag": "H2",
+    "text": "Real operations powered by Tur.ai."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf637_image%2014.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "114.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"aeae0bd6-52bc-d358-da19-93133e4584ad\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Radio Holland Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "aeae0bd6-52bc-d358-da19-93133e4584ad"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "aeae0bd6-52bc-d358-da19-93133e4584ad"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "3cff5fdb-d7b3-0353-9054-6422c25df8c7"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3cff5fdb-d7b3-0353-9054-6422c25df8c7\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_caption"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3cff5fdb-d7b3-0353-9054-6422c25df8c7"
+    ],
+    "tag": "DIV",
+    "text": "Lead-to-quote automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "71c19e01-c6f5-d8f8-4d91-6723beefee90"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"71c19e01-c6f5-d8f8-4d91-6723beefee90\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "71c19e01-c6f5-d8f8-4d91-6723beefee90"
+    ],
+    "tag": "DIV",
+    "text": "3x faster quotes"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"91b78124-22fd-10b5-21e0-f53911d9fd69\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "91b78124-22fd-10b5-21e0-f53911d9fd69",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf636_Union.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "108.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"50b3e01d-5242-0803-f3c4-71fa3e1f4e36\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Heineken Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "50b3e01d-5242-0803-f3c4-71fa3e1f4e36"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "50b3e01d-5242-0803-f3c4-71fa3e1f4e36"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cc"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cc\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_caption"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cc"
+    ],
+    "tag": "DIV",
+    "text": "Cashback campaign operations"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "50b3e01d-5242-0803-f3c4-71fa3e1f4e37"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"50b3e01d-5242-0803-f3c4-71fa3e1f4e37\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "50b3e01d-5242-0803-f3c4-71fa3e1f4e37"
+    ],
+    "tag": "DIV",
+    "text": "Heineken ran 12 nationwide campaigns with a small in-house team."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e9ee7751-2cac-8ff6-b669-ef34433fdd49\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e9ee7751-2cac-8ff6-b669-ef34433fdd49",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf634_image%2012.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "109.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"353d0820-b470-c4d5-b61c-fff51918474c\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Noordwest Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "353d0820-b470-c4d5-b61c-fff51918474c"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "353d0820-b470-c4d5-b61c-fff51918474c"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f4e4a820-c29f-4695-6dcb-c09fc9bb2115"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f4e4a820-c29f-4695-6dcb-c09fc9bb2115\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_caption"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f4e4a820-c29f-4695-6dcb-c09fc9bb2115"
+    ],
+    "tag": "DIV",
+    "text": "Service desk automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "353d0820-b470-c4d5-b61c-fff51918474d"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"353d0820-b470-c4d5-b61c-fff51918474d\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "353d0820-b470-c4d5-b61c-fff51918474d"
+    ],
+    "tag": "DIV",
+    "text": "Noordwest supported service enquiries through an ERP rollout with a small team."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"751c9f21-95a8-d737-2d1d-e0f6bf70c8df\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "751c9f21-95a8-d737-2d1d-e0f6bf70c8df",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf635_Unioni.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "32.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"91cbbd24-9bfd-7deb-9649-52cb63408961\"]"
+      },
+      {
+        "name": "alt",
+        "value": "NOC NSF Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "91cbbd24-9bfd-7deb-9649-52cb63408961"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "91cbbd24-9bfd-7deb-9649-52cb63408961"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "3d04e975-ced1-58ca-a30c-64dc34136d95"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3d04e975-ced1-58ca-a30c-64dc34136d95\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_caption"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3d04e975-ced1-58ca-a30c-64dc34136d95"
+    ],
+    "tag": "DIV",
+    "text": "Procurement automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "91cbbd24-9bfd-7deb-9649-52cb63408962"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"91cbbd24-9bfd-7deb-9649-52cb63408962\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "91cbbd24-9bfd-7deb-9649-52cb63408962"
+    ],
+    "tag": "DIV",
+    "text": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"94cfbaa3-90f9-0c30-a353-2c95bf013e65\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "94cfbaa3-90f9-0c30-a353-2c95bf013e65",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf637_image%2014.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "114.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"c7a3014d-22ed-c91e-b538-158213fc6307\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Radio Holland Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "c7a3014d-22ed-c91e-b538-158213fc6307"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "c7a3014d-22ed-c91e-b538-158213fc6307"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "c7a3014d-22ed-c91e-b538-158213fc6308"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"c7a3014d-22ed-c91e-b538-158213fc6308\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "c7a3014d-22ed-c91e-b538-158213fc6308"
+    ],
+    "tag": "DIV",
+    "text": "Lead-to-quote automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "1488f37f-c619-d847-7b40-8bda7209dbc4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"1488f37f-c619-d847-7b40-8bda7209dbc4\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text-benefit"
+      }
+    ],
+    "options": null,
+    "path": [
+      "1488f37f-c619-d847-7b40-8bda7209dbc4"
+    ],
+    "tag": "DIV",
+    "text": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "8f032244-2e08-dc21-01f2-7637feb446a9"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"8f032244-2e08-dc21-01f2-7637feb446a9\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "8f032244-2e08-dc21-01f2-7637feb446a9"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf636_Union.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "108.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2b29d4a-64c6-0c22-cd1e-2838c98b25b9\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Heineken Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e2b29d4a-64c6-0c22-cd1e-2838c98b25b9"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2b29d4a-64c6-0c22-cd1e-2838c98b25b9"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2017"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"4c03f6fa-0bb7-d0b6-959d-ac2ff59e2017\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2017"
+    ],
+    "tag": "DIV",
+    "text": "Cashback campaign operations"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2019"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"4c03f6fa-0bb7-d0b6-959d-ac2ff59e2019\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text-benefit"
+      }
+    ],
+    "options": null,
+    "path": [
+      "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2019"
+    ],
+    "tag": "DIV",
+    "text": "Heineken ran 12 nationwide campaigns with a small in-house team."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "4b8f34fb-5182-3f63-1e5d-6f0780b8222b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"4b8f34fb-5182-3f63-1e5d-6f0780b8222b\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "4b8f34fb-5182-3f63-1e5d-6f0780b8222b"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf634_image%2012.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "109.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f93e3e47-c117-b615-344b-72f0cf1d787f\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Noordwest Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "f93e3e47-c117-b615-344b-72f0cf1d787f"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f93e3e47-c117-b615-344b-72f0cf1d787f"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfd8"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"35b8f57e-ce7c-ec53-2a89-afb83cf3cfd8\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "35b8f57e-ce7c-ec53-2a89-afb83cf3cfd8"
+    ],
+    "tag": "DIV",
+    "text": "Service desk automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfda"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"35b8f57e-ce7c-ec53-2a89-afb83cf3cfda\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text-benefit"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "35b8f57e-ce7c-ec53-2a89-afb83cf3cfda"
+    ],
+    "tag": "DIV",
+    "text": "Noordwest supported service enquiries through an ERP rollout with a small team."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"28e64429-2720-e6fa-0f8a-3a36bc343dfd\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "28e64429-2720-e6fa-0f8a-3a36bc343dfd",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf636_Union.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "108.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"d0f02db6-e055-54fb-6b6a-950091751ac4\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Heineken Logo - Black"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d0f02db6-e055-54fb-6b6a-950091751ac4"
+      },
+      {
+        "name": "class",
+        "value": "retail_logo"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "d0f02db6-e055-54fb-6b6a-950091751ac4"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "5653bac9-a2a7-6f94-4da7-6d8ab7742d03"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5653bac9-a2a7-6f94-4da7-6d8ab7742d03\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5653bac9-a2a7-6f94-4da7-6d8ab7742d03"
+    ],
+    "tag": "DIV",
+    "text": "Procurement automation"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "5653bac9-a2a7-6f94-4da7-6d8ab7742d05"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5653bac9-a2a7-6f94-4da7-6d8ab7742d05\"]"
+      },
+      {
+        "name": "class",
+        "value": "retail_text-benefit"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5653bac9-a2a7-6f94-4da7-6d8ab7742d05"
+    ],
+    "tag": "DIV",
+    "text": "Heineken cut vendor onboarding from months to weeks."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "63e737d2-abf6-8be8-6b10-ca4b6d63c68e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"63e737d2-abf6-8be8-6b10-ca4b6d63c68e\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      },
+      {
+        "name": "aria-hidden",
+        "value": "true"
+      }
+    ],
+    "options": null,
+    "path": [
+      "63e737d2-abf6-8be8-6b10-ca4b6d63c68e"
+    ],
+    "tag": "DIV",
+    "text": "Learn More"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf684_1.svg"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"8384bcef-fc83-461d-73f8-adfa63626654\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "8384bcef-fc83-461d-73f8-adfa63626654"
+      },
+      {
+        "name": "alt",
+        "value": "Left Arrow - Black"
+      },
+      {
+        "name": "class",
+        "value": "sl-arrow-2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "8384bcef-fc83-461d-73f8-adfa63626654"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf67d_2.svg"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"38a2679f-c696-5bbd-aa31-eb618de761e3\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "38a2679f-c696-5bbd-aa31-eb618de761e3"
+      },
+      {
+        "name": "alt",
+        "value": "Right Arrow - Black"
+      },
+      {
+        "name": "class",
+        "value": "sl-arrow-2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "38a2679f-c696-5bbd-aa31-eb618de761e3"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "b7c6a201-5e2f-770a-586c-f11a52d9aeb4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b7c6a201-5e2f-770a-586c-f11a52d9aeb4\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      },
+      {
+        "name": "style",
+        "value": "opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b7c6a201-5e2f-770a-586c-f11a52d9aeb4"
+    ],
+    "tag": "H2",
+    "text": "The operational plane: your rules, across your existing systems."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151d"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f7dc3ce6-68d7-9eda-a0d0-b1102b0d151d\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151d"
+    ],
+    "tag": "DIV",
+    "text": "Click to see howTur.ai changes this"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "477ed19d-e1ac-fc79-f74b-c94e29c70509"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"477ed19d-e1ac-fc79-f74b-c94e29c70509\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "477ed19d-e1ac-fc79-f74b-c94e29c70509"
+    ],
+    "tag": "DIV",
+    "text": "Click to see howTur.ai changes this"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration-number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 1"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 1"
+      }
+    ],
+    "options": null,
+    "path": [
+      "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+    ],
+    "tag": "DIV",
+    "text": "1"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "8d7be475-aa0c-b63d-b172-a0c223302b3b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"8d7be475-aa0c-b63d-b172-a0c223302b3b\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "8d7be475-aa0c-b63d-b172-a0c223302b3b"
+    ],
+    "tag": "DIV",
+    "text": "."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "48b57b5c-3e24-204a-c4cc-5e69829f7fe4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"48b57b5c-3e24-204a-c4cc-5e69829f7fe4\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "48b57b5c-3e24-204a-c4cc-5e69829f7fe4"
+    ],
+    "tag": "DIV",
+    "text": "One model for every task"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "a0edc565-33f4-669d-bb64-10f688dbe525"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe525\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration-number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 2"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe525"
+    ],
+    "tag": "DIV",
+    "text": "2"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "a0edc565-33f4-669d-bb64-10f688dbe527"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe527\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe527"
+    ],
+    "tag": "DIV",
+    "text": "."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "a0edc565-33f4-669d-bb64-10f688dbe529"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"a0edc565-33f4-669d-bb64-10f688dbe529\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe529"
+    ],
+    "tag": "DIV",
+    "text": "People bridging systems and teams"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"430b0ffe-6ee7-6925-1ff4-9c288826292f\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration-number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 3"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 3"
+      }
+    ],
+    "options": null,
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+    ],
+    "tag": "DIV",
+    "text": "3"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "430b0ffe-6ee7-6925-1ff4-9c2888262931"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"430b0ffe-6ee7-6925-1ff4-9c2888262931\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c2888262931"
+    ],
+    "tag": "DIV",
+    "text": "."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "430b0ffe-6ee7-6925-1ff4-9c2888262933"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"430b0ffe-6ee7-6925-1ff4-9c2888262933\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c2888262933"
+    ],
+    "tag": "DIV",
+    "text": "Process changes held up by core releases"
+  },
+  {
+    "attributes": [
+      {
+        "name": "fs-numbercount-element",
+        "value": "number"
+      },
+      {
+        "name": "data-w-id",
+        "value": "7fa98413-1326-a093-303c-f065fd623c34"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"7fa98413-1326-a093-303c-f065fd623c34\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration-number"
+      },
+      {
+        "name": "role",
+        "value": "marquee"
+      },
+      {
+        "name": "aria-roledescription",
+        "value": "Number count animation from 0 to 4"
+      },
+      {
+        "name": "aria-description",
+        "value": "Number count animation from 0 to 4"
+      }
+    ],
+    "options": null,
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c34"
+    ],
+    "tag": "DIV",
+    "text": "4"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "7fa98413-1326-a093-303c-f065fd623c36"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"7fa98413-1326-a093-303c-f065fd623c36\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_percent"
+      }
+    ],
+    "options": null,
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c36"
+    ],
+    "tag": "DIV",
+    "text": "."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "7fa98413-1326-a093-303c-f065fd623c38"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"7fa98413-1326-a093-303c-f065fd623c38\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c38"
+    ],
+    "tag": "DIV",
+    "text": "Retries that waste tokens and time"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf69b_Play.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a2960\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a2960"
+      },
+      {
+        "name": "alt",
+        "value": "Play Icon"
+      },
+      {
+        "name": "class",
+        "value": "integration_icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2960"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a2961"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a2961\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text is-black"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2961"
+    ],
+    "tag": "DIV",
+    "text": "AI models matched to each task"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf698_Arrow.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a296d\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a296d"
+      },
+      {
+        "name": "alt",
+        "value": "Arrow Icon"
+      },
+      {
+        "name": "class",
+        "value": "integration_icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a296d"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a296e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a296e\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text is-black"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a296e"
+    ],
+    "tag": "DIV",
+    "text": "One governed flow across systems and teams"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf695_Paper%20Plus.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a297a\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a297a"
+      },
+      {
+        "name": "alt",
+        "value": "Document+ Icon"
+      },
+      {
+        "name": "class",
+        "value": "integration_icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a297a"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a297b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a297b\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text is-black"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a297b"
+    ],
+    "tag": "DIV",
+    "text": "Change processes above existing systems"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf697_Document.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a2987\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a2987"
+      },
+      {
+        "name": "alt",
+        "value": "Document Icon"
+      },
+      {
+        "name": "class",
+        "value": "integration_icon"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2987"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e2530e15-d39e-cf4d-b44e-19861a6a2988"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e2530e15-d39e-cf4d-b44e-19861a6a2988\"]"
+      },
+      {
+        "name": "class",
+        "value": "integration_text is-black"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2988"
+    ],
+    "tag": "DIV",
+    "text": "Bounded retries, checks and human decisions"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ae54d5a3-a766-bbb7-7b42-16d26c128849"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ae54d5a3-a766-bbb7-7b42-16d26c128849\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ae54d5a3-a766-bbb7-7b42-16d26c128849"
+    ],
+    "tag": "H2",
+    "text": "What people say about Tur.ai."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf670_arrow.svg"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"861277f8-4acc-4ac3-768a-c9abd376e7b4\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "861277f8-4acc-4ac3-768a-c9abd376e7b4"
+      },
+      {
+        "name": "alt",
+        "value": "Left Arrow - White"
+      },
+      {
+        "name": "class",
+        "value": "sl-arrow"
+      }
+    ],
+    "options": null,
+    "path": [
+      "861277f8-4acc-4ac3-768a-c9abd376e7b4"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf671_arrow2.svg"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ded30cf3-ab7a-0cec-2c17-8313317624e8\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "ded30cf3-ab7a-0cec-2c17-8313317624e8"
+      },
+      {
+        "name": "alt",
+        "value": "Right Arrow - White"
+      },
+      {
+        "name": "class",
+        "value": "sl-arrow"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ded30cf3-ab7a-0cec-2c17-8313317624e8"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "25df6792-9aeb-75f7-0076-10fdb2dd2bcb"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"25df6792-9aeb-75f7-0076-10fdb2dd2bcb\"]"
+      },
+      {
+        "name": "class",
+        "value": "quote"
+      }
+    ],
+    "options": null,
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bcb"
+    ],
+    "tag": "H3",
+    "text": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”"
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf68f_tg_image_1291522592%201.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "width",
+        "value": "62.5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"c63b7e1a-ff0e-6144-e9a3-2f5ca340a895\"]"
+      },
+      {
+        "name": "alt",
+        "value": "Image of Faissel el Mourid"
+      },
+      {
+        "name": "data-w-id",
+        "value": "c63b7e1a-ff0e-6144-e9a3-2f5ca340a895"
+      },
+      {
+        "name": "class",
+        "value": "sl-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "c63b7e1a-ff0e-6144-e9a3-2f5ca340a895"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "25df6792-9aeb-75f7-0076-10fdb2dd2bdc"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"25df6792-9aeb-75f7-0076-10fdb2dd2bdc\"]"
+      },
+      {
+        "name": "class",
+        "value": "name-slider"
+      }
+    ],
+    "options": null,
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bdc"
+    ],
+    "tag": "H4",
+    "text": "Faissel el Mouridi"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "25df6792-9aeb-75f7-0076-10fdb2dd2bde"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"25df6792-9aeb-75f7-0076-10fdb2dd2bde\"]"
+      },
+      {
+        "name": "class",
+        "value": "name-slider-1"
+      }
+    ],
+    "options": null,
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bde"
+    ],
+    "tag": "DIV",
+    "text": "CFO, Radio Holland"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "1bbb8a07-5871-c727-8eba-4792b70c7e2e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"1bbb8a07-5871-c727-8eba-4792b70c7e2e\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      },
+      {
+        "name": "style",
+        "value": "opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+      }
+    ],
+    "options": null,
+    "path": [
+      "1bbb8a07-5871-c727-8eba-4792b70c7e2e"
+    ],
+    "tag": "H2",
+    "text": "One platform to pilot, run and scale your processes"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "bbd687c2-d28c-04a9-048d-f3640bee1446"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"bbd687c2-d28c-04a9-048d-f3640bee1446\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "bbd687c2-d28c-04a9-048d-f3640bee1446"
+    ],
+    "tag": "DIV",
+    "text": "PILOT"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "bbd687c2-d28c-04a9-048d-f3640bee1448"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"bbd687c2-d28c-04a9-048d-f3640bee1448\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "bbd687c2-d28c-04a9-048d-f3640bee1448"
+    ],
+    "tag": "DIV",
+    "text": "/ 01"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "2fd55856-84ab-2bf7-98fb-82b5f7186591"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2fd55856-84ab-2bf7-98fb-82b5f7186591\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name is-inactive"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2fd55856-84ab-2bf7-98fb-82b5f7186591"
+    ],
+    "tag": "DIV",
+    "text": "LAUNCH"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "2fd55856-84ab-2bf7-98fb-82b5f7186593"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2fd55856-84ab-2bf7-98fb-82b5f7186593\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number is-inactive"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2fd55856-84ab-2bf7-98fb-82b5f7186593"
+    ],
+    "tag": "DIV",
+    "text": "/ 02"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e633f893-9851-606a-06f4-89cc869805ed"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e633f893-9851-606a-06f4-89cc869805ed\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e633f893-9851-606a-06f4-89cc869805ed"
+    ],
+    "tag": "DIV",
+    "text": "SCALE"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e633f893-9851-606a-06f4-89cc869805ef"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e633f893-9851-606a-06f4-89cc869805ef\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e633f893-9851-606a-06f4-89cc869805ef"
+    ],
+    "tag": "DIV",
+    "text": "/ 03"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "22341e4b-d5cb-5fa3-2502-0f546b6c998d"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"22341e4b-d5cb-5fa3-2502-0f546b6c998d\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "22341e4b-d5cb-5fa3-2502-0f546b6c998d"
+    ],
+    "tag": "DIV",
+    "text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "6664dfe7-9884-cc17-824d-b1be819b5dcb"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"6664dfe7-9884-cc17-824d-b1be819b5dcb\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "6664dfe7-9884-cc17-824d-b1be819b5dcb"
+    ],
+    "tag": "DIV",
+    "text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "42240082-acf2-2393-855f-a3f33b96a467"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"42240082-acf2-2393-855f-a3f33b96a467\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "42240082-acf2-2393-855f-a3f33b96a467"
+    ],
+    "tag": "DIV",
+    "text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f30a751c-fe45-d11d-438a-056949caffe5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f30a751c-fe45-d11d-438a-056949caffe5\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f30a751c-fe45-d11d-438a-056949caffe5"
+    ],
+    "tag": "DIV",
+    "text": "PILOT"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "2f3d7dc5-286a-145c-4018-a13fa700426a"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2f3d7dc5-286a-145c-4018-a13fa700426a\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2f3d7dc5-286a-145c-4018-a13fa700426a"
+    ],
+    "tag": "DIV",
+    "text": "/ 01"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "05ba6d71-702b-b650-b513-b0f7010020b8"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"05ba6d71-702b-b650-b513-b0f7010020b8\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "05ba6d71-702b-b650-b513-b0f7010020b8"
+    ],
+    "tag": "DIV",
+    "text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ef3bf8af-3805-4bef-b0e2-633f8faec6bd"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ef3bf8af-3805-4bef-b0e2-633f8faec6bd\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6bd"
+    ],
+    "tag": "DIV",
+    "text": "LAUNCH"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ef3bf8af-3805-4bef-b0e2-633f8faec6bf"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ef3bf8af-3805-4bef-b0e2-633f8faec6bf\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6bf"
+    ],
+    "tag": "DIV",
+    "text": "/ 02"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ef3bf8af-3805-4bef-b0e2-633f8faec6c2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ef3bf8af-3805-4bef-b0e2-633f8faec6c2\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6c2"
+    ],
+    "tag": "DIV",
+    "text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ca70429a-1278-34ba-7dcf-289fc7780d94"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca70429a-1278-34ba-7dcf-289fc7780d94\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d94"
+    ],
+    "tag": "DIV",
+    "text": "SCALE"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ca70429a-1278-34ba-7dcf-289fc7780d96"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca70429a-1278-34ba-7dcf-289fc7780d96\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-number"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d96"
+    ],
+    "tag": "DIV",
+    "text": "/ 03"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ca70429a-1278-34ba-7dcf-289fc7780d99"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"ca70429a-1278-34ba-7dcf-289fc7780d99\"]"
+      },
+      {
+        "name": "class",
+        "value": "process_tabs-content-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d99"
+    ],
+    "tag": "DIV",
+    "text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf69f_MS_Startups_Celebration_Badge_Dark%20(2).webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"5875a3ea-d2bb-fb44-3cd6-e3dca6ab2dc8\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "5875a3ea-d2bb-fb44-3cd6-e3dca6ab2dc8"
+      },
+      {
+        "name": "alt",
+        "value": "Microsoft for Startups Badge"
+      },
+      {
+        "name": "class",
+        "value": "microsoft_image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "5875a3ea-d2bb-fb44-3cd6-e3dca6ab2dc8"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "id",
+        "value": "w-node-f026b1a3-2142-e335-b4f3-3291efb603aa-2b8cf5ac"
+      },
+      {
+        "name": "data-w-id",
+        "value": "f026b1a3-2142-e335-b4f3-3291efb603aa"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f026b1a3-2142-e335-b4f3-3291efb603aa\"]"
+      },
+      {
+        "name": "class",
+        "value": "microsoft_heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f026b1a3-2142-e335-b4f3-3291efb603aa"
+    ],
+    "tag": "DIV",
+    "text": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e3f4a765-050a-8f2c-f46d-159d5ffc4d38"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e3f4a765-050a-8f2c-f46d-159d5ffc4d38\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      },
+      {
+        "name": "style",
+        "value": "opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e3f4a765-050a-8f2c-f46d-159d5ffc4d38"
+    ],
+    "tag": "H2",
+    "text": "Your Questions Answered."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "3d03967d-d43f-5775-5050-1246dca38873"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3d03967d-d43f-5775-5050-1246dca38873\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3d03967d-d43f-5775-5050-1246dca38873"
+    ],
+    "tag": "DIV",
+    "text": "How do we start and measure the first value?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"a17923f8-9e7a-d97d-dcdb-9cea9a4fa71e\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71e"
+    ],
+    "tag": "DIV",
+    "text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.Use measured results to decide whether to expand, adapt or stop."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "b2887f49-c191-5f40-4549-9d16283dcee7"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b2887f49-c191-5f40-4549-9d16283dcee7\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b2887f49-c191-5f40-4549-9d16283dcee7"
+    ],
+    "tag": "DIV",
+    "text": "Can we change processes without replacing our existing systems?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "b2887f49-c191-5f40-4549-9d16283dceef"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"b2887f49-c191-5f40-4549-9d16283dceef\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "b2887f49-c191-5f40-4549-9d16283dceef"
+    ],
+    "tag": "DIV",
+    "text": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "9a127a0e-e1b3-9d48-b589-0b23db682150"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"9a127a0e-e1b3-9d48-b589-0b23db682150\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "9a127a0e-e1b3-9d48-b589-0b23db682150"
+    ],
+    "tag": "DIV",
+    "text": "How do we fit Tur.ai into our security and data requirements?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "9a127a0e-e1b3-9d48-b589-0b23db682158"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"9a127a0e-e1b3-9d48-b589-0b23db682158\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "9a127a0e-e1b3-9d48-b589-0b23db682158"
+    ],
+    "tag": "DIV",
+    "text": "Agree the deployment design with your IT and security teams: system access, data flows and model use.Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "89130b50-e358-e731-a5ac-42603b44f527"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"89130b50-e358-e731-a5ac-42603b44f527\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "89130b50-e358-e731-a5ac-42603b44f527"
+    ],
+    "tag": "DIV",
+    "text": "How does Tur.ai keep AI costs under control as we scale?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "89130b50-e358-e731-a5ac-42603b44f52f"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"89130b50-e358-e731-a5ac-42603b44f52f\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "89130b50-e358-e731-a5ac-42603b44f52f"
+    ],
+    "tag": "DIV",
+    "text": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "9d6cebfb-3c7c-806d-7942-dc7b42b43fbc"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"9d6cebfb-3c7c-806d-7942-dc7b42b43fbc\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "9d6cebfb-3c7c-806d-7942-dc7b42b43fbc"
+    ],
+    "tag": "DIV",
+    "text": "What do the results on this page actually measure?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "9d6cebfb-3c7c-806d-7942-dc7b42b43fc4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"9d6cebfb-3c7c-806d-7942-dc7b42b43fc4\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "9d6cebfb-3c7c-806d-7942-dc7b42b43fc4"
+    ],
+    "tag": "DIV",
+    "text": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f3fc0199-85e4-58ec-eed3-83315f5a4084"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f3fc0199-85e4-58ec-eed3-83315f5a4084\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f3fc0199-85e4-58ec-eed3-83315f5a4084"
+    ],
+    "tag": "DIV",
+    "text": "How does Tur.ai fit with our ERP, automation tools and AI?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "f3fc0199-85e4-58ec-eed3-83315f5a408c"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"f3fc0199-85e4-58ec-eed3-83315f5a408c\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "f3fc0199-85e4-58ec-eed3-83315f5a408c"
+    ],
+    "tag": "DIV",
+    "text": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "21c1861b-473f-4876-442a-5bca042080a9"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"21c1861b-473f-4876-442a-5bca042080a9\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "21c1861b-473f-4876-442a-5bca042080a9"
+    ],
+    "tag": "DIV",
+    "text": "What happens when AI needs human judgment or an exception occurs?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "21c1861b-473f-4876-442a-5bca042080b1"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"21c1861b-473f-4876-442a-5bca042080b1\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "21c1861b-473f-4876-442a-5bca042080b1"
+    ],
+    "tag": "DIV",
+    "text": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "51e1cef9-aba4-7c54-d8d4-83dbe7247292"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"51e1cef9-aba4-7c54-d8d4-83dbe7247292\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_question-name"
+      }
+    ],
+    "options": null,
+    "path": [
+      "51e1cef9-aba4-7c54-d8d4-83dbe7247292"
+    ],
+    "tag": "DIV",
+    "text": "Which processes are a good fit for Tur.ai?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "51e1cef9-aba4-7c54-d8d4-83dbe7247298"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"51e1cef9-aba4-7c54-d8d4-83dbe7247298\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_answer-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "51e1cef9-aba4-7c54-d8d4-83dbe7247298"
+    ],
+    "tag": "DIV",
+    "text": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "94e35a51-531b-4e8c-d7ac-120aa7df2af6"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"94e35a51-531b-4e8c-d7ac-120aa7df2af6\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_contact-heading"
+      }
+    ],
+    "options": null,
+    "path": [
+      "94e35a51-531b-4e8c-d7ac-120aa7df2af6"
+    ],
+    "tag": "DIV",
+    "text": "More Questions?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "1316a488-0c25-2701-ea9e-cb281008a5f0"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"1316a488-0c25-2701-ea9e-cb281008a5f0\"]"
+      },
+      {
+        "name": "class",
+        "value": "faq_contact-subtext"
+      }
+    ],
+    "options": null,
+    "path": [
+      "1316a488-0c25-2701-ea9e-cb281008a5f0"
+    ],
+    "tag": "DIV",
+    "text": "Discuss process delivery, AI costs and the controls you need."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"65748472-5f25-1892-4171-ebafd3a07c84\",\"ed545407-4d33-d0b8-cc9e-d37c0b006e21\"]"
+      },
+      {
+        "name": "data-has-binding-on-children",
+        "value": "true"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "65748472-5f25-1892-4171-ebafd3a07c84",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "tag": "DIV",
+    "text": "Contact Us"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "500cdcb9-ac37-3301-2aaa-f243dee5a4ce"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"500cdcb9-ac37-3301-2aaa-f243dee5a4ce\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "500cdcb9-ac37-3301-2aaa-f243dee5a4ce"
+    ],
+    "tag": "H2",
+    "text": "Tell us more about your goals."
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "First-Name"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfdff"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e59a2441-c32b-9f3c-7dfa-1cc0b20bfdff\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfdff"
+    ],
+    "tag": "LABEL",
+    "text": "First Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "Last-Name"
+      },
+      {
+        "name": "data-w-id",
+        "value": "993c18bb-749d-9ec7-4762-e4b1570cf84c"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"993c18bb-749d-9ec7-4762-e4b1570cf84c\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "993c18bb-749d-9ec7-4762-e4b1570cf84c"
+    ],
+    "tag": "LABEL",
+    "text": "Last Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "Email"
+      },
+      {
+        "name": "data-w-id",
+        "value": "3d299667-bfcf-7187-d96c-4ae39264aee7"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3d299667-bfcf-7187-d96c-4ae39264aee7\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3d299667-bfcf-7187-d96c-4ae39264aee7"
+    ],
+    "tag": "LABEL",
+    "text": "Email"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "Company"
+      },
+      {
+        "name": "data-w-id",
+        "value": "3d299667-bfcf-7187-d96c-4ae39264aeeb"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3d299667-bfcf-7187-d96c-4ae39264aeeb\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3d299667-bfcf-7187-d96c-4ae39264aeeb"
+    ],
+    "tag": "LABEL",
+    "text": "Company"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "field"
+      },
+      {
+        "name": "data-w-id",
+        "value": "24d29c62-a38b-c16b-7920-6143552a7b98"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"24d29c62-a38b-c16b-7920-6143552a7b98\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "24d29c62-a38b-c16b-7920-6143552a7b98"
+    ],
+    "tag": "LABEL",
+    "text": "Your process and goals"
+  },
+  {
+    "attributes": [
+      {
+        "name": "class",
+        "value": "contact_field-area w-input"
+      },
+      {
+        "name": "maxlength",
+        "value": "5000"
+      },
+      {
+        "name": "name",
+        "value": "field"
+      },
+      {
+        "name": "data-name",
+        "value": "Field"
+      },
+      {
+        "name": "placeholder",
+        "value": "Which process needs to change, and which systems and controls are involved?"
+      },
+      {
+        "name": "data-w-id",
+        "value": "8cc95c90-7715-ba4a-fb6f-181d9f647d47"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"8cc95c90-7715-ba4a-fb6f-181d9f647d47\"]"
+      },
+      {
+        "name": "id",
+        "value": "field"
+      }
+    ],
+    "options": null,
+    "path": [
+      "8cc95c90-7715-ba4a-fb6f-181d9f647d47"
+    ],
+    "tag": "TEXTAREA",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "45b2bdc9-fd72-45a7-c1ec-b240a333ad93"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"45b2bdc9-fd72-45a7-c1ec-b240a333ad93\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "45b2bdc9-fd72-45a7-c1ec-b240a333ad93"
+    ],
+    "tag": "DIV",
+    "text": "Submit"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe07"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e59a2441-c32b-9f3c-7dfa-1cc0b20bfe07\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-success-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe07"
+    ],
+    "tag": "DIV",
+    "text": "Thank you! We'll be in touch."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0a"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0a\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-error-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0a"
+    ],
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf675_logo.svg"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49570\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49570"
+      },
+      {
+        "name": "alt",
+        "value": "Tur.ai Logo - Full"
+      },
+      {
+        "name": "class",
+        "value": "footer_logo"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49570"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49574"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49574\"]"
+      },
+      {
+        "name": "href",
+        "value": "https://nl.linkedin.com/company/tur-ai-automation"
+      },
+      {
+        "name": "target",
+        "value": "_blank"
+      },
+      {
+        "name": "class",
+        "value": "footer_link"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49574"
+    ],
+    "tag": "A",
+    "text": "LinkedIn"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49576"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49576\"]"
+      },
+      {
+        "name": "href",
+        "value": "/privacy-policy"
+      },
+      {
+        "name": "class",
+        "value": "footer_link"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49576"
+    ],
+    "tag": "A",
+    "text": "Privacy Policy"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49578"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49578\"]"
+      },
+      {
+        "name": "href",
+        "value": "/imprint"
+      },
+      {
+        "name": "class",
+        "value": "footer_link"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49578"
+    ],
+    "tag": "A",
+    "text": "Imprint"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e4957b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e4957b\"]"
+      },
+      {
+        "name": "class",
+        "value": "footer_link-top-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e4957b"
+    ],
+    "tag": "DIV",
+    "text": "Back to Top"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49580"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49580\"]"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49580"
+    ],
+    "tag": "DIV",
+    "text": "© 2026 Tur.ai. All rights reserved."
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf67e_64e6129003f895605535cf47_Frame%20101%201.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49583\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49583"
+      },
+      {
+        "name": "alt",
+        "value": "Top B2B Companies Ukraine 2023 - Clutch Award Logo"
+      },
+      {
+        "name": "class",
+        "value": "footer_award-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49583"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf682_64e61290a81ae76f130a040e_Frame%20103.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49584\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49584"
+      },
+      {
+        "name": "alt",
+        "value": "Dutch Interactive Awards Logo"
+      },
+      {
+        "name": "class",
+        "value": "footer_award-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49584"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf683_64e61291ed419ea100f297d5_Frame%20104.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49585\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49585"
+      },
+      {
+        "name": "alt",
+        "value": "Accenture Innovation Awards - Award Logo"
+      },
+      {
+        "name": "class",
+        "value": "footer_award-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49585"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf686_64e612914bf681bb32876cd0_Frame%20102.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49586\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49586"
+      },
+      {
+        "name": "alt",
+        "value": "ML and Intelligent Automation Award Logo"
+      },
+      {
+        "name": "class",
+        "value": "footer_award-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49586"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "src",
+        "value": "https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf680_64e61291a7366bafa1370384_Frame%20105.webp"
+      },
+      {
+        "name": "loading",
+        "value": "lazy"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"e1b74c44-df2c-60ad-b51b-890d23321cf2\",\"d4775e29-0c8c-aca9-118d-34e001e49587\"]"
+      },
+      {
+        "name": "data-w-id",
+        "value": "d4775e29-0c8c-aca9-118d-34e001e49587"
+      },
+      {
+        "name": "alt",
+        "value": "Spinawards - Award Logo"
+      },
+      {
+        "name": "class",
+        "value": "footer_award-image"
+      }
+    ],
+    "options": null,
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49587"
+    ],
+    "tag": "IMG",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9a8"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9a8\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9a8"
+    ],
+    "tag": "H2",
+    "text": "Book a Demo"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9ac"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9ac\"]"
+      },
+      {
+        "name": "class",
+        "value": "text-align-center"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9ac"
+    ],
+    "tag": "DIV",
+    "text": "See a process run across systems, with controls and task-matched AI."
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "first-name-demo-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9b2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9b2\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9b2"
+    ],
+    "tag": "LABEL",
+    "text": "First Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "last-name-demo-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9b6"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9b6\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9b6"
+    ],
+    "tag": "LABEL",
+    "text": "Last Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "email-demo-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9bb"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9bb\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9bb"
+    ],
+    "tag": "LABEL",
+    "text": "Email"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "email-company-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9bf"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9bf\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9bf"
+    ],
+    "tag": "LABEL",
+    "text": "Company"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9c5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9c5\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9c5"
+    ],
+    "tag": "DIV",
+    "text": "Submit"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9cb"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9cb\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-success-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9cb"
+    ],
+    "tag": "DIV",
+    "text": "Thank you! We'll contact you about your demo."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "e7c0820d-4776-575f-b75a-443b3c55d9ce"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"2a3f21c5-7e50-9e42-62cd-0d770737edf9\",\"e7c0820d-4776-575f-b75a-443b3c55d9ce\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-error-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9ce"
+    ],
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476974"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476974\"]"
+      },
+      {
+        "name": "class",
+        "value": "heading-style-h2"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476974"
+    ],
+    "tag": "H2",
+    "text": "Book a Call"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476978"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476978\"]"
+      },
+      {
+        "name": "class",
+        "value": "text-align-center"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476978"
+    ],
+    "tag": "DIV",
+    "text": "Share your details to discuss orchestration."
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "first-name-call-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef47697e"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef47697e\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47697e"
+    ],
+    "tag": "LABEL",
+    "text": "First Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "last-name-call-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476982"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476982\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476982"
+    ],
+    "tag": "LABEL",
+    "text": "Last Name"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "email-call-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476987"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476987\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476987"
+    ],
+    "tag": "LABEL",
+    "text": "Email"
+  },
+  {
+    "attributes": [
+      {
+        "name": "for",
+        "value": "company-call-2"
+      },
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef47698b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef47698b\"]"
+      },
+      {
+        "name": "class",
+        "value": "contact_field-label"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47698b"
+    ],
+    "tag": "LABEL",
+    "text": "Company"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476992"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476992\"]"
+      },
+      {
+        "name": "class",
+        "value": "button-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476992"
+    ],
+    "tag": "DIV",
+    "text": "Submit"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef476998"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef476998\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-success-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476998"
+    ],
+    "tag": "DIV",
+    "text": "Thank you! We'll contact you about your call."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "da519de6-fd09-ebd6-cb27-c995ef47699b"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"3348b763-04f5-f3e6-605f-f37f4f83d113\",\"da519de6-fd09-ebd6-cb27-c995ef47699b\"]"
+      },
+      {
+        "name": "class",
+        "value": "form-error-text"
+      }
+    ],
+    "options": null,
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47699b"
+    ],
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286bc"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286bc\"]"
+      },
+      {
+        "name": "class",
+        "value": "h3-modal"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286bc"
+    ],
+    "tag": "H3",
+    "text": "Розблокуйте можливості автоматизації ШІ"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286c1"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286c1\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c1"
+    ],
+    "tag": "DIV",
+    "text": "Ім'я"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286c5"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286c5\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c5"
+    ],
+    "tag": "DIV",
+    "text": "Прізвище"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286c9"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286c9\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c9"
+    ],
+    "tag": "DIV",
+    "text": "Email"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286ce"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286ce\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ce"
+    ],
+    "tag": "DIV",
+    "text": "Компанія"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286d2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286d2\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d2"
+    ],
+    "tag": "DIV",
+    "text": "Посада"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286d6"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286d6\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d6"
+    ],
+    "tag": "DIV",
+    "text": "Де зараз перебуває ваша організація на шляху впровадження ШІ?"
+  },
+  {
+    "attributes": [
+      {
+        "name": "id",
+        "value": "Looking-for-2"
+      },
+      {
+        "name": "name",
+        "value": "Looking-for"
+      },
+      {
+        "name": "data-name",
+        "value": "Looking for"
+      },
+      {
+        "name": "required",
+        "value": ""
+      },
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286d8"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286d8\"]"
+      },
+      {
+        "name": "class",
+        "value": "input select-field wide w-select"
+      }
+    ],
+    "options": [
+      {
+        "text": "Виберіть варіант",
+        "value": ""
+      },
+      {
+        "text": "Дослідження можливостей ШІ",
+        "value": "Дослідження"
+      },
+      {
+        "text": "Експериментування з ШІ",
+        "value": "Експериментування"
+      },
+      {
+        "text": "Впровадження рішень на базі ШІ",
+        "value": "Впровадження"
+      },
+      {
+        "text": "Оптимізація систем ШІ",
+        "value": "Оптимізація"
+      },
+      {
+        "text": "Розробка та адаптація власних рішень на базі ШІ",
+        "value": "Розробка-та-адаптація"
+      }
+    ],
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d8"
+    ],
+    "tag": "SELECT",
+    "text": "Виберіть варіантДослідження можливостей ШІЕкспериментування з ШІВпровадження рішень на базі ШІОптимізація систем ШІРозробка та адаптація власних рішень на базі ШІ"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286db"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286db\"]"
+      },
+      {
+        "name": "class",
+        "value": "input-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286db"
+    ],
+    "tag": "DIV",
+    "text": "Пориньте у свої цілі ШІ"
+  },
+  {
+    "attributes": [
+      {
+        "name": "class",
+        "value": "input input-comment w-input"
+      },
+      {
+        "name": "maxlength",
+        "value": "5000"
+      },
+      {
+        "name": "name",
+        "value": "Message"
+      },
+      {
+        "name": "data-name",
+        "value": "Message"
+      },
+      {
+        "name": "placeholder",
+        "value": "Поділіться перевагами, які ви очікуєте від штучного інтелекту, або проблемами, які ви збираєтеся вирішити. Крім того, якщо у вас є бажаний графік реалізації, повідомте нас."
+      },
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286dd"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286dd\"]"
+      },
+      {
+        "name": "id",
+        "value": "Message-8"
+      },
+      {
+        "name": "required",
+        "value": ""
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286dd"
+    ],
+    "tag": "TEXTAREA",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286e0"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286e0\"]"
+      },
+      {
+        "name": "class",
+        "value": "copy-t"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e0"
+    ],
+    "tag": "DIV",
+    "text": "Ми використовуватимемо вашу особисту інформацію лише для надання продуктів і послуг, які ви в нас запитували. Ми також хотіли б час від часу зв’язуватися з вами щодо наших продуктів і послуг:"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286e4"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286e4\"]"
+      },
+      {
+        "name": "class",
+        "value": "checkbox-label w-form-label"
+      },
+      {
+        "name": "for",
+        "value": "News-and-updates"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e4"
+    ],
+    "tag": "SPAN",
+    "text": "Я погоджуюся отримувати новини та оновлення від Tur.ai"
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286e8"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286e8\"]"
+      },
+      {
+        "name": "class",
+        "value": "checkbox-label w-form-label"
+      },
+      {
+        "name": "for",
+        "value": "Personal-data"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e8"
+    ],
+    "tag": "SPAN",
+    "text": "Я дозволяю Tur.ai зберігати та обробляти мої персональні дані"
+  },
+  {
+    "attributes": [
+      {
+        "name": "type",
+        "value": "submit"
+      },
+      {
+        "name": "data-wait",
+        "value": "Будь ласка, зачекайте..."
+      },
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286ea"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286ea\"]"
+      },
+      {
+        "name": "class",
+        "value": "btn-3 submit w-button"
+      },
+      {
+        "name": "value",
+        "value": "Надіслати"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ea"
+    ],
+    "tag": "INPUT",
+    "text": ""
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286ed"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286ed\"]"
+      },
+      {
+        "name": "class",
+        "value": "mas"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ed"
+    ],
+    "tag": "DIV",
+    "text": "Дякуємо!Ваш запит успішно відправлено."
+  },
+  {
+    "attributes": [
+      {
+        "name": "data-w-id",
+        "value": "ddcbea1b-1392-25e9-9672-4d7ba34286f2"
+      },
+      {
+        "name": "data-wf-id",
+        "value": "[\"363159e2-e01b-eb9f-f9fe-ad383046bd8d\",\"ddcbea1b-1392-25e9-9672-4d7ba34286f2\"]"
+      }
+    ],
+    "options": null,
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286f2"
+    ],
+    "tag": "DIV",
+    "text": "Oh! An error occurred while submitting the form."
+  }
+]

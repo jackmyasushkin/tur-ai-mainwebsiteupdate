@@ -1,0 +1,47 @@
+{
+  "issue": "Finsweet Number Count removes leading zero at runtime",
+  "change": "Disable number-count animation only on four ordinal numbers by removing fs-numbercount-element; preserve all other attributes and the 62/82/83/3 metrics animations",
+  "rows": [
+    {
+      "id": "HOME-071",
+      "element_id": {
+        "component": "6899ffe04a85e00f2b8cf5ac",
+        "element": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+      },
+      "new_text": "01",
+      "remove_attribute": "fs-numbercount-element",
+      "before_attribute_value": "number"
+    },
+    {
+      "id": "HOME-074",
+      "element_id": {
+        "component": "6899ffe04a85e00f2b8cf5ac",
+        "element": "a0edc565-33f4-669d-bb64-10f688dbe525"
+      },
+      "new_text": "02",
+      "remove_attribute": "fs-numbercount-element",
+      "before_attribute_value": "number"
+    },
+    {
+      "id": "HOME-077",
+      "element_id": {
+        "component": "6899ffe04a85e00f2b8cf5ac",
+        "element": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+      },
+      "new_text": "03",
+      "remove_attribute": "fs-numbercount-element",
+      "before_attribute_value": "number"
+    },
+    {
+      "id": "HOME-080",
+      "element_id": {
+        "component": "6899ffe04a85e00f2b8cf5ac",
+        "element": "7fa98413-1326-a093-303c-f065fd623c34"
+      },
+      "new_text": "04",
+      "remove_attribute": "fs-numbercount-element",
+      "before_attribute_value": "number"
+    }
+  ],
+  "status": "owner chose to retain animation; fix not applied"
+}

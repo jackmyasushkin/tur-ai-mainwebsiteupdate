@@ -1,0 +1,5534 @@
+[
+  {
+    "alt": "Tur.ai Logo - Full",
+    "clientHeight": 44,
+    "clientWidth": 144,
+    "display": "inline-block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3b9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 44.2109375,
+      "width": 143.90625,
+      "x": 261.546875,
+      "y": 28.78125
+    },
+    "scrollHeight": 44,
+    "scrollWidth": 144,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3bb",
+      "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Book a Demo",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "5c832e96-65d8-9bab-d677-65739407831c",
+      "6e75afeb-ea0b-0674-7230-dec39e99b3bc",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Contact Us",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 86,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 35.9781px / 43.1738px \"Wix Madefor Display\"",
+    "fontSize": "35.9781px",
+    "lineHeight": "43.1738px",
+    "overflow": "visible",
+    "path": [
+      "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 159.3359375
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 624,
+    "tag": "H1",
+    "text": "Enterprise Process Orchestration Platform",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 54,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad3"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 53.96875,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 267.265625
+    },
+    "scrollHeight": 54,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 105,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "16965bd6-f912-50ac-382b-356a42c76396",
+      "38e1ce34-89dc-8e51-8705-41d79264eaf2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 105.1328125,
+      "x": 264.7421875,
+      "y": 391.5859375
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 105,
+    "tag": "DIV",
+    "text": "Book a Demo",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 24,
+    "clientWidth": 489,
+    "display": "block",
+    "font": "15.8304px / 23.7456px \"Wix Madefor Display\"",
+    "fontSize": "15.8304px",
+    "lineHeight": "23.7456px",
+    "overflow": "visible",
+    "path": [
+      "8d0699a1-57c9-05de-24f3-854a2bc59024"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 23.7421875,
+      "width": 489.359375,
+      "x": 88.8203125,
+      "y": 457.9765625
+    },
+    "scrollHeight": 24,
+    "scrollWidth": 489,
+    "tag": "DIV",
+    "text": "See how to run, control and change a process across your systems.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Heineken Logo - White",
+    "clientHeight": 29,
+    "clientWidth": 120,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "5cad4aa3-5325-8fbf-dc37-56ad27d7db44"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 28.78125,
+      "width": 120.1015625,
+      "x": 82.078125,
+      "y": 539.3203125
+    },
+    "scrollHeight": 29,
+    "scrollWidth": 120,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Noordwest Logo - White",
+    "clientHeight": 29,
+    "clientWidth": 122,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "0cec75fb-036d-bce4-effd-dacc9ef108da"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 28.78125,
+      "width": 121.765625,
+      "x": 230.9609375,
+      "y": 539.3203125
+    },
+    "scrollHeight": 29,
+    "scrollWidth": 122,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Radio Holland - White",
+    "clientHeight": 29,
+    "clientWidth": 138,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "ce7f0770-1fbc-f4f6-b3d0-5d28a9f6129f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 28.78125,
+      "width": 138.3671875,
+      "x": 381.5078125,
+      "y": 539.3203125
+    },
+    "scrollHeight": 29,
+    "scrollWidth": 138,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "NOC NSF Logo - White",
+    "clientHeight": 29,
+    "clientWidth": 36,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "825acb04-ad82-35fd-90ae-9fecda538a86"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 28.78125,
+      "width": 36.2578125,
+      "x": 548.65625,
+      "y": 539.3203125
+    },
+    "scrollHeight": 29,
+    "scrollWidth": 36,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 69,
+    "clientWidth": 563,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "02b63847-bb12-574e-7515-0cb13b323592"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 69.0625,
+      "width": 562.5859375,
+      "x": 52.203125,
+      "y": 740.7890625
+    },
+    "scrollHeight": 70,
+    "scrollWidth": 563,
+    "tag": "H2",
+    "text": "Work and change faster. Results from banking engagements.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3e9d6fb2-d26f-e0c2-d772-4f8959394278"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 884.3046875
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Shorter process cycles",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 129,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "7a1d631e-4a36-87c4-19b1-03c3c3a8489a"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 128.71875,
+      "x": 21.5859375,
+      "y": 932.9375
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 129,
+    "tag": "DIV",
+    "text": "62",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "47452983-279a-a31c-1e88-dbead9703b54"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 89.34375,
+      "x": 150.3046875,
+      "y": 932.9375
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "%",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "945818af-ca60-09a2-4eaf-60bf092ba086"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1021.8203125
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "One European bank: customer onboarding fell from 16 days to 6.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0534"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1135.484375
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Lower staffing needs",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 128,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0537"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 127.7421875,
+      "x": 21.5859375,
+      "y": 1184.1171875
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 128,
+    "tag": "DIV",
+    "text": "82",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff0539"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 89.34375,
+      "x": 149.328125,
+      "y": 1184.1171875
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "%",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "740e8327-fe90-a3d4-a2e7-ced5e9ff053b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1273
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2f7"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1386.6640625
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Lower LLM costs",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 125,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fa"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 125.03125,
+      "x": 21.5859375,
+      "y": 1435.296875
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 125,
+    "tag": "DIV",
+    "text": "83",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fc"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 89.34375,
+      "x": 146.6171875,
+      "y": 1435.296875
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "%",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "f9318e29-354a-45cd-23aa-0f92b790b2fe"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1524.1796875
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Banking case: annual token spend fell from €1.8M to €300K.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd998"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1637.84375
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "Faster process delivery",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 61,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 61.0234375,
+      "x": 21.5859375,
+      "y": 1686.4765625
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 61,
+    "tag": "DIV",
+    "text": "3",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 92,
+    "clientWidth": 59,
+    "display": "block",
+    "font": "600 115.13px / 92.1041px \"League Spartan\"",
+    "fontSize": "115.13px",
+    "lineHeight": "92.1041px",
+    "overflow": "visible",
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.1015625,
+      "width": 58.890625,
+      "x": 82.609375,
+      "y": 1686.4765625
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 59,
+    "tag": "DIV",
+    "text": "×",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 50,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "ea335017-1cf5-c5c9-6756-e98bc54cd99f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 49.640625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 1775.359375
+    },
+    "scrollHeight": 50,
+    "scrollWidth": 624,
+    "tag": "DIV",
+    "text": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Image of Ievgen Miasushkin, CEO of Tur.ai",
+    "clientHeight": 539,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "60c16104-8bb8-79ea-a079-53e50ddf2be2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 538.7109375,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 1968.90625
+    },
+    "scrollHeight": 539,
+    "scrollWidth": 509,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 117,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 32.3803px / 38.8564px \"Wix Madefor Display\"",
+    "fontSize": "32.3803px",
+    "lineHeight": "38.8564px",
+    "overflow": "visible",
+    "path": [
+      "bc3c9039-c403-caaf-4f49-25eee512f378"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 116.578125,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 2565.1796875
+    },
+    "scrollHeight": 117,
+    "scrollWidth": 509,
+    "tag": "DIV",
+    "text": "We built Tur.ai so businesses can work and change faster without replacing their core.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 190,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "97fbec33-b423-0566-c4fd-d7b7bf712651"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 190.234375,
+      "x": 79.1484375,
+      "y": 2724.9296875
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 190,
+    "tag": "DIV",
+    "text": "Ievgen Miasushkin",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 190,
+    "display": "block",
+    "font": "21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "77841641-5533-d365-e180-ef71edd242f2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 190.234375,
+      "x": 79.1484375,
+      "y": 2754.421875
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 190,
+    "tag": "DIV",
+    "text": "CEO of Tur.ai",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 69,
+    "clientWidth": 624,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "b8ba1d74-ee1a-5251-102a-aa501377d680"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 69.0625,
+      "width": 623.828125,
+      "x": 21.5859375,
+      "y": 2924.2265625
+    },
+    "scrollHeight": 70,
+    "scrollWidth": 624,
+    "tag": "H2",
+    "text": "Coordinate Systems, AI and People in One Governed Process.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Message Icon",
+    "clientHeight": 86,
+    "clientWidth": 98,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "b1d63737-06b4-7c88-a60b-8c432154113f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 97.7578125,
+      "x": 64.7578125,
+      "y": 3079.6328125
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 98,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 39,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "b3b01857-d86a-fb13-3011-5b6599c681c4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 39.3046875,
+      "x": 370.84375,
+      "y": 3109.8515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 39,
+    "tag": "DIV",
+    "text": "/ 01",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 124,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "a81fe0b6-1eaa-db91-a3ad-953fed0a86d1"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.90625,
+      "width": 123.5390625,
+      "x": 64.7578125,
+      "y": 3194.7578125
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 124,
+    "tag": "H3",
+    "text": "Work intake",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 50,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "5f281bc3-2e17-7fb7-b9f1-7917698bd740"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 49.640625,
+      "width": 345.390625,
+      "x": 64.7578125,
+      "y": 3227.859375
+    },
+    "scrollHeight": 50,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Bring requests, documents and system data into one process with shared context.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Filter Icon",
+    "clientHeight": 86,
+    "clientWidth": 106,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec3"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 106.03125,
+      "x": 525.2734375,
+      "y": 3079.6328125
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 106,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 42,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 41.9375,
+      "x": 828.7265625,
+      "y": 3109.8515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 42,
+    "tag": "DIV",
+    "text": "/ 02",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "d8136f0d-4ebe-3a6d-841a-c29436dcc1c0"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.90625,
+      "width": 345.390625,
+      "x": 525.2734375,
+      "y": 3194.7578125
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 345,
+    "tag": "H3",
+    "text": "Task routing",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 74,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "982b468e-8b61-6b55-827f-60d59ad5fec9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 74.4609375,
+      "width": 345.390625,
+      "x": 525.2734375,
+      "y": 3227.859375
+    },
+    "scrollHeight": 74,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Gears Icon",
+    "clientHeight": 86,
+    "clientWidth": 92,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cbd"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 91.5703125,
+      "x": 985.7890625,
+      "y": 3079.6328125
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 92,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 42,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cbe"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 42.28125,
+      "x": 1288.8984375,
+      "y": 3109.8515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 42,
+    "tag": "DIV",
+    "text": "/ 03",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "6acbbf19-9d86-f21c-41fc-fcd0c69fad42"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.90625,
+      "width": 345.390625,
+      "x": 985.7890625,
+      "y": 3194.7578125
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 345,
+    "tag": "H3",
+    "text": "Controlled execution",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 99,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "ca6b2b31-d6c2-c9c5-af2f-42999be32cc3"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 99.28125,
+      "width": 345.390625,
+      "x": 985.7890625,
+      "y": 3227.859375
+    },
+    "scrollHeight": 99,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Activity Icon",
+    "clientHeight": 86,
+    "clientWidth": 94,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e13c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 93.9453125,
+      "x": 1446.3046875,
+      "y": 3079.6328125
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 94,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 43,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e13d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 43.2734375,
+      "x": 1748.421875,
+      "y": 3109.8515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 43,
+    "tag": "DIV",
+    "text": "/ 04",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "6d5b1297-45ef-e960-7cc0-17efb59b1dec"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.90625,
+      "width": 345.390625,
+      "x": 1446.3046875,
+      "y": 3194.7578125
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 345,
+    "tag": "H3",
+    "text": "Human decisions",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 50,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "44410543-1595-11f8-4499-ee1256b3e142"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 49.640625,
+      "width": 345.390625,
+      "x": 1446.3046875,
+      "y": 3227.859375
+    },
+    "scrollHeight": 50,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Route exceptions to the right person to decide.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Tick Icon",
+    "clientHeight": 86,
+    "clientWidth": 90,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891af"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 90.203125,
+      "x": 1906.8203125,
+      "y": 3079.6328125
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 90,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 42,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891b0"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 42.109375,
+      "x": 2210.1015625,
+      "y": 3109.8515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 42,
+    "tag": "DIV",
+    "text": "/ 05",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "f38ba30e-1c8b-8607-e846-a7300aeab29c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.90625,
+      "width": 345.390625,
+      "x": 1906.8203125,
+      "y": 3194.7578125
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 345,
+    "tag": "H3",
+    "text": "Traceable outcomes",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 50,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "2749fb7c-13e2-f72c-9c08-3fe9b4d891b5"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 49.640625,
+      "width": 345.390625,
+      "x": 1906.8203125,
+      "y": 3227.859375
+    },
+    "scrollHeight": 50,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Record actions and decisions for review and audit.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 35,
+    "clientWidth": 468,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "188684cf-4252-7dc6-66e6-4fab8ab9d3dd"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 34.53125,
+      "width": 468.3828125,
+      "x": 99.3046875,
+      "y": 3582.9765625
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 468,
+    "tag": "H2",
+    "text": "Real operations powered by Tur.ai.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Radio Holland Logo - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "aeae0bd6-52bc-d358-da19-93133e4584ad"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "14.3913px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "14.3913px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "3cff5fdb-d7b3-0353-9054-6422c25df8c7"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Lead-to-quote automation",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "71c19e01-c6f5-d8f8-4d91-6723beefee90"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "3x faster quotes",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "91b78124-22fd-10b5-21e0-f53911d9fd69",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Heineken Logo - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "50b3e01d-5242-0803-f3c4-71fa3e1f4e36"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "14.3913px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "14.3913px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cc"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Cashback campaign operations",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "50b3e01d-5242-0803-f3c4-71fa3e1f4e37"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "e9ee7751-2cac-8ff6-b669-ef34433fdd49",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Noordwest Logo - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "353d0820-b470-c4d5-b61c-fff51918474c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "14.3913px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "14.3913px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "f4e4a820-c29f-4695-6dcb-c09fc9bb2115"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Service desk automation",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "353d0820-b470-c4d5-b61c-fff51918474d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "751c9f21-95a8-d737-2d1d-e0f6bf70c8df",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "visible"
+  },
+  {
+    "alt": "NOC NSF Logo - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "91cbbd24-9bfd-7deb-9649-52cb63408961"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "14.3913px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "14.3913px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "3d04e975-ced1-58ca-a30c-64dc34136d95"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Procurement automation",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "91cbbd24-9bfd-7deb-9649-52cb63408962"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "94cfbaa3-90f9-0c30-a353-2c95bf013e65",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Radio Holland Logo - Black",
+    "clientHeight": 36,
+    "clientWidth": 155,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "c7a3014d-22ed-c91e-b538-158213fc6307"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 35.9765625,
+      "width": 155.4453125,
+      "x": 122.3203125,
+      "y": 3747.0234375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 155,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 38,
+    "clientWidth": 318,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "c7a3014d-22ed-c91e-b538-158213fc6308"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 37.78125,
+      "width": 318.1171875,
+      "x": 122.3203125,
+      "y": 3840.5625
+    },
+    "scrollHeight": 38,
+    "scrollWidth": 318,
+    "tag": "DIV",
+    "text": "Lead-to-quote automation",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 97,
+    "clientWidth": 422,
+    "display": "block",
+    "font": "21.5869px / 32.3803px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "32.3803px",
+    "overflow": "visible",
+    "path": [
+      "1488f37f-c619-d847-7b40-8bda7209dbc4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 97.125,
+      "width": 422.359375,
+      "x": 122.3203125,
+      "y": 3892.734375
+    },
+    "scrollHeight": 97,
+    "scrollWidth": 422,
+    "tag": "DIV",
+    "text": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "8f032244-2e08-dc21-01f2-7637feb446a9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 89.4375,
+      "x": 138.7109375,
+      "y": 4060.2109375
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Heineken Logo - Black",
+    "clientHeight": 36,
+    "clientWidth": 150,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e2b29d4a-64c6-0c22-cd1e-2838c98b25b9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 35.9765625,
+      "width": 150.1328125,
+      "x": 631.0234375,
+      "y": 3747.0234375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 150,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 38,
+    "clientWidth": 381,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2017"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 37.78125,
+      "width": 380.5234375,
+      "x": 631.0234375,
+      "y": 3840.5625
+    },
+    "scrollHeight": 38,
+    "scrollWidth": 381,
+    "tag": "DIV",
+    "text": "Cashback campaign operations",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 65,
+    "clientWidth": 422,
+    "display": "block",
+    "font": "21.5869px / 32.3803px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "32.3803px",
+    "overflow": "visible",
+    "path": [
+      "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2019"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 64.75,
+      "width": 422.359375,
+      "x": 631.0234375,
+      "y": 3892.734375
+    },
+    "scrollHeight": 65,
+    "scrollWidth": 422,
+    "tag": "DIV",
+    "text": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "4b8f34fb-5182-3f63-1e5d-6f0780b8222b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 89.4375,
+      "x": 647.4140625,
+      "y": 4027.8359375
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "hidden"
+  },
+  {
+    "alt": "Noordwest Logo - Black",
+    "clientHeight": 36,
+    "clientWidth": 149,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "f93e3e47-c117-b615-344b-72f0cf1d787f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 35.9765625,
+      "width": 148.65625,
+      "x": 1139.7265625,
+      "y": 3747.0234375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 149,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 38,
+    "clientWidth": 300,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "35b8f57e-ce7c-ec53-2a89-afb83cf3cfd8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 37.78125,
+      "width": 300.1953125,
+      "x": 1139.7265625,
+      "y": 3840.5625
+    },
+    "scrollHeight": 38,
+    "scrollWidth": 300,
+    "tag": "DIV",
+    "text": "Service desk automation",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 65,
+    "clientWidth": 422,
+    "display": "block",
+    "font": "21.5869px / 32.3803px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "32.3803px",
+    "overflow": "visible",
+    "path": [
+      "35b8f57e-ce7c-ec53-2a89-afb83cf3cfda"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 64.75,
+      "width": 422.359375,
+      "x": 1139.7265625,
+      "y": 3892.734375
+    },
+    "scrollHeight": 65,
+    "scrollWidth": 422,
+    "tag": "DIV",
+    "text": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "28e64429-2720-e6fa-0f8a-3a36bc343dfd",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 89.4375,
+      "x": 1156.1171875,
+      "y": 4027.8359375
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "hidden"
+  },
+  {
+    "alt": "Heineken Logo - Black",
+    "clientHeight": 36,
+    "clientWidth": 150,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "d0f02db6-e055-54fb-6b6a-950091751ac4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 35.9765625,
+      "width": 150.1328125,
+      "x": 1648.4296875,
+      "y": 3747.0234375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 150,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 38,
+    "clientWidth": 303,
+    "display": "block",
+    "font": "600 25.1847px / 37.7771px \"Wix Madefor Display\"",
+    "fontSize": "25.1847px",
+    "lineHeight": "37.7771px",
+    "overflow": "visible",
+    "path": [
+      "5653bac9-a2a7-6f94-4da7-6d8ab7742d03"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 37.78125,
+      "width": 302.7109375,
+      "x": 1648.4296875,
+      "y": 3840.5625
+    },
+    "scrollHeight": 38,
+    "scrollWidth": 303,
+    "tag": "DIV",
+    "text": "Procurement automation",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 65,
+    "clientWidth": 422,
+    "display": "block",
+    "font": "21.5869px / 32.3803px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "32.3803px",
+    "overflow": "visible",
+    "path": [
+      "5653bac9-a2a7-6f94-4da7-6d8ab7742d05"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 64.75,
+      "width": 422.359375,
+      "x": 1648.4296875,
+      "y": 3892.734375
+    },
+    "scrollHeight": 65,
+    "scrollWidth": 422,
+    "tag": "DIV",
+    "text": "Heineken cut vendor onboarding from months to weeks.",
+    "visibility": "hidden"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "63e737d2-abf6-8be8-6b10-ca4b6d63c68e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 89.4375,
+      "x": 1664.8203125,
+      "y": 4027.8359375
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "Learn More",
+    "visibility": "hidden"
+  },
+  {
+    "alt": "Left Arrow - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "inline-block",
+    "font": "40px / 60px \"Wix Madefor Display\"",
+    "fontSize": "40px",
+    "lineHeight": "60px",
+    "overflow": "clip",
+    "path": [
+      "8384bcef-fc83-461d-73f8-adfa63626654"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Right Arrow - Black",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "inline-block",
+    "font": "40px / 60px \"Wix Madefor Display\"",
+    "fontSize": "40px",
+    "lineHeight": "60px",
+    "overflow": "clip",
+    "path": [
+      "38a2679f-c696-5bbd-aa31-eb618de761e3"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 69,
+    "clientWidth": 563,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "b7c6a201-5e2f-770a-586c-f11a52d9aeb4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 69.0625,
+      "width": 562.5859375,
+      "x": 52.203125,
+      "y": 4284.8984375
+    },
+    "scrollHeight": 70,
+    "scrollWidth": 563,
+    "tag": "H2",
+    "text": "The operational plane: your rules, across your existing systems.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 43,
+    "clientWidth": 153,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 152.9140625,
+      "x": 304.34375,
+      "y": 4448.328125
+    },
+    "scrollHeight": 44,
+    "scrollWidth": 153,
+    "tag": "DIV",
+    "text": "Click to see howTur.ai changes this",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "477ed19d-e1ac-fc79-f74b-c94e29c70509"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Click to see howTur.ai changes this",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 91,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 91.421875,
+      "x": 272.375,
+      "y": 4585.8671875
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 91,
+    "tag": "DIV",
+    "text": "01",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 31,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "8d7be475-aa0c-b63d-b172-a0c223302b3b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 30.828125,
+      "x": 363.796875,
+      "y": 4585.8671875
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 31,
+    "tag": "DIV",
+    "text": ".",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 211,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "48b57b5c-3e24-204a-c4cc-5e69829f7fe4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 211.1640625,
+      "x": 227.9140625,
+      "y": 4680.8515625
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 211,
+    "tag": "DIV",
+    "text": "One model for every task",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 116,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe525"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 115.6953125,
+      "x": 260.234375,
+      "y": 4745.609375
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 116,
+    "tag": "DIV",
+    "text": "02",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 31,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe527"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 30.828125,
+      "x": 375.9296875,
+      "y": 4745.609375
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 31,
+    "tag": "DIV",
+    "text": ".",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 299,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "a0edc565-33f4-669d-bb64-10f688dbe529"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 298.7890625,
+      "x": 184.1015625,
+      "y": 4840.59375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 299,
+    "tag": "DIV",
+    "text": "People bridging systems and teams",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 113,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 112.6796875,
+      "x": 261.7421875,
+      "y": 4905.3515625
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 113,
+    "tag": "DIV",
+    "text": "03",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 31,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c2888262931"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 30.828125,
+      "x": 374.421875,
+      "y": 4905.3515625
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 31,
+    "tag": "DIV",
+    "text": ".",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 348,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "430b0ffe-6ee7-6925-1ff4-9c2888262933"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 348.140625,
+      "x": 159.4296875,
+      "y": 5000.3359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 348,
+    "tag": "DIV",
+    "text": "Process changes held up by core releases",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 111,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c34"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 111.015625,
+      "x": 262.578125,
+      "y": 5065.09375
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 111,
+    "tag": "DIV",
+    "text": "04",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 31,
+    "display": "block",
+    "font": "600 100.739px / 80.5911px \"League Spartan\"",
+    "fontSize": "100.739px",
+    "lineHeight": "80.5911px",
+    "overflow": "visible",
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c36"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.59375,
+      "width": 30.828125,
+      "x": 373.59375,
+      "y": 5065.09375
+    },
+    "scrollHeight": 87,
+    "scrollWidth": 31,
+    "tag": "DIV",
+    "text": ".",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 290,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "7fa98413-1326-a093-303c-f065fd623c38"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 289.6015625,
+      "x": 188.6953125,
+      "y": 5160.078125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 290,
+    "tag": "DIV",
+    "text": "Retries that waste tokens and time",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Play Icon",
+    "clientHeight": 86,
+    "clientWidth": 86,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2960"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 86.34375,
+      "width": 86.34375,
+      "x": 290.3203125,
+      "y": 5224.8359375
+    },
+    "scrollHeight": 86,
+    "scrollWidth": 86,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 269,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2961"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 268.71875,
+      "x": 199.1328125,
+      "y": 5325.5703125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 269,
+    "tag": "DIV",
+    "text": "AI models matched to each task",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Arrow Icon",
+    "clientHeight": 75,
+    "clientWidth": 86,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a296d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 75.015625,
+      "width": 86.34375,
+      "x": 290.3203125,
+      "y": 5390.328125
+    },
+    "scrollHeight": 75,
+    "scrollWidth": 86,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 386,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a296e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 386.1953125,
+      "x": 140.3984375,
+      "y": 5479.734375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 386,
+    "tag": "DIV",
+    "text": "One governed flow across systems and teams",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Document+ Icon",
+    "clientHeight": 79,
+    "clientWidth": 86,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a297a"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 78.8984375,
+      "width": 86.34375,
+      "x": 290.3203125,
+      "y": 5544.4921875
+    },
+    "scrollHeight": 79,
+    "scrollWidth": 86,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 356,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a297b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 356.265625,
+      "x": 155.359375,
+      "y": 5637.78125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 356,
+    "tag": "DIV",
+    "text": "Change processes above existing systems",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Document Icon",
+    "clientHeight": 89,
+    "clientWidth": 86,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2987"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 89.4765625,
+      "width": 86.34375,
+      "x": 290.3203125,
+      "y": 5702.5390625
+    },
+    "scrollHeight": 89,
+    "scrollWidth": 86,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 382,
+    "display": "block",
+    "font": "17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e2530e15-d39e-cf4d-b44e-19861a6a2988"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 382.3125,
+      "x": 142.3359375,
+      "y": 5806.40625
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 382,
+    "tag": "DIV",
+    "text": "Bounded retries, checks and human decisions",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 35,
+    "clientWidth": 403,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "ae54d5a3-a766-bbb7-7b42-16d26c128849"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 34.53125,
+      "width": 403.15625,
+      "x": 131.921875,
+      "y": 5971.8984375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 403,
+    "tag": "H2",
+    "text": "What people say about Tur.ai.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Left Arrow - White",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "861277f8-4acc-4ac3-768a-c9abd376e7b4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Right Arrow - White",
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "ded30cf3-ab7a-0cec-2c17-8313317624e8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 227,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "21.5869px / 32.3803px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "32.3803px",
+    "overflow": "visible",
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bcb"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 226.625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 6049.6015625
+    },
+    "scrollHeight": 227,
+    "scrollWidth": 509,
+    "tag": "H3",
+    "text": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Image of Faissel el Mourid",
+    "clientHeight": 93,
+    "clientWidth": 93,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "c63b7e1a-ff0e-6144-e9a3-2f5ca340a895"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 92.640625,
+      "width": 92.640625,
+      "x": 79.1484375,
+      "y": 6365.8828125
+    },
+    "scrollHeight": 93,
+    "scrollWidth": 93,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 269,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bdc"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 269.359375,
+      "x": 201.3984375,
+      "y": 6372.53125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 269,
+    "tag": "H4",
+    "text": "Faissel el Mouridi",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 36,
+    "clientWidth": 269,
+    "display": "block",
+    "font": "500 29.6148px / 35.5378px \"Wix Madefor Display\"",
+    "fontSize": "29.6148px",
+    "lineHeight": "35.5378px",
+    "overflow": "visible",
+    "path": [
+      "25df6792-9aeb-75f7-0076-10fdb2dd2bde"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 35.5390625,
+      "width": 269.359375,
+      "x": 201.3984375,
+      "y": 6416.328125
+    },
+    "scrollHeight": 37,
+    "scrollWidth": 269,
+    "tag": "DIV",
+    "text": "CFO, Radio Holland",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 69,
+    "clientWidth": 563,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "1bbb8a07-5871-c727-8eba-4792b70c7e2e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 69.0625,
+      "width": 562.5859375,
+      "x": 43.171875,
+      "y": 6602.4296875
+    },
+    "scrollHeight": 70,
+    "scrollWidth": 563,
+    "tag": "H2",
+    "text": "One platform to pilot, run and scale your processes",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "bbd687c2-d28c-04a9-048d-f3640bee1446"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "PILOT",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "bbd687c2-d28c-04a9-048d-f3640bee1448"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "/ 01",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "2fd55856-84ab-2bf7-98fb-82b5f7186591"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "LAUNCH",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "2fd55856-84ab-2bf7-98fb-82b5f7186593"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "/ 02",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e633f893-9851-606a-06f4-89cc869805ed"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "SCALE",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e633f893-9851-606a-06f4-89cc869805ef"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "/ 03",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "22341e4b-d5cb-5fa3-2502-0f546b6c998d"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "6664dfe7-9884-cc17-824d-b1be819b5dcb"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "42240082-acf2-2393-855f-a3f33b96a467"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 52,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "f30a751c-fe45-d11d-438a-056949caffe5"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 52.359375,
+      "x": 64.7578125,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 52,
+    "tag": "DIV",
+    "text": "PILOT",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 33,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "2f3d7dc5-286a-145c-4018-a13fa700426a"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 32.75,
+      "x": 377.3984375,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 33,
+    "tag": "DIV",
+    "text": "/ 01",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 162,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "05ba6d71-702b-b650-b513-b0f7010020b8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 161.90625,
+      "width": 345.390625,
+      "x": 64.7578125,
+      "y": 6853.875
+    },
+    "scrollHeight": 162,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 77,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6bd"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 76.6484375,
+      "x": 525.2734375,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 77,
+    "tag": "DIV",
+    "text": "LAUNCH",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 35,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6bf"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 34.9453125,
+      "x": 835.71875,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 35,
+    "tag": "DIV",
+    "text": "/ 02",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 189,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "ef3bf8af-3805-4bef-b0e2-633f8faec6c2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 188.890625,
+      "width": 345.390625,
+      "x": 525.2734375,
+      "y": 6853.875
+    },
+    "scrollHeight": 189,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 60,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d94"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 60.1640625,
+      "x": 985.7890625,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 60,
+    "tag": "DIV",
+    "text": "SCALE",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 35,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d96"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 35.234375,
+      "x": 1295.9453125,
+      "y": 6757.8359375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 35,
+    "tag": "DIV",
+    "text": "/ 03",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 162,
+    "clientWidth": 345,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "ca70429a-1278-34ba-7dcf-289fc7780d99"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 161.90625,
+      "width": 345.390625,
+      "x": 985.7890625,
+      "y": 6853.875
+    },
+    "scrollHeight": 162,
+    "scrollWidth": 345,
+    "tag": "DIV",
+    "text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Microsoft for Startups Badge",
+    "clientHeight": 217,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "5875a3ea-d2bb-fb44-3cd6-e3dca6ab2dc8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 217.453125,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 7672.84375
+    },
+    "scrollHeight": 217,
+    "scrollWidth": 509,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 216,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 35.9781px / 43.1738px \"Wix Madefor Display\"",
+    "fontSize": "35.9781px",
+    "lineHeight": "43.1738px",
+    "overflow": "visible",
+    "path": [
+      "f026b1a3-2142-e335-b4f3-3291efb603aa"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 215.859375,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 7919.078125
+    },
+    "scrollHeight": 217,
+    "scrollWidth": 509,
+    "tag": "DIV",
+    "text": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 35,
+    "clientWidth": 364,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "e3f4a765-050a-8f2c-f46d-159d5ffc4d38"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 34.53125,
+      "width": 364.2109375,
+      "x": 151.390625,
+      "y": 8278.84375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 364,
+    "tag": "H2",
+    "text": "Your Questions Answered.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "3d03967d-d43f-5775-5050-1246dca38873"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 8385.328125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "How do we start and measure the first value?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 243,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 242.859375,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 8435.6953125
+    },
+    "scrollHeight": 243,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.Use measured results to decide whether to expand, adapt or stop.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 43,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "b2887f49-c191-5f40-4549-9d16283dcee7"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 8757.703125
+    },
+    "scrollHeight": 44,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "Can we change processes without replacing our existing systems?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "b2887f49-c191-5f40-4549-9d16283dceef"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.953125,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 8829.65625
+    },
+    "scrollHeight": 81,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 43,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "9a127a0e-e1b3-9d48-b589-0b23db682150"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 8989.7578125
+    },
+    "scrollHeight": 44,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "How do we fit Tur.ai into our security and data requirements?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 216,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "9a127a0e-e1b3-9d48-b589-0b23db682158"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 215.875,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 9061.7109375
+    },
+    "scrollHeight": 216,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Agree the deployment design with your IT and security teams: system access, data flows and model use.Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "89130b50-e358-e731-a5ac-42603b44f527"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 9356.734375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "How does Tur.ai keep AI costs under control as we scale?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 108,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "89130b50-e358-e731-a5ac-42603b44f52f"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 107.9375,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 9407.1015625
+    },
+    "scrollHeight": 108,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "9d6cebfb-3c7c-806d-7942-dc7b42b43fbc"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 9594.1875
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "What do the results on this page actually measure?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 162,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "9d6cebfb-3c7c-806d-7942-dc7b42b43fc4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 161.90625,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 9644.5546875
+    },
+    "scrollHeight": 162,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "f3fc0199-85e4-58ec-eed3-83315f5a4084"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 9885.609375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "How does Tur.ai fit with our ERP, automation tools and AI?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 108,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "f3fc0199-85e4-58ec-eed3-83315f5a408c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 107.9375,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 9935.9765625
+    },
+    "scrollHeight": 108,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 43,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "21c1861b-473f-4876-442a-5bca042080a9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 10123.0625
+    },
+    "scrollHeight": 44,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "What happens when AI needs human judgment or an exception occurs?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 135,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "21c1861b-473f-4876-442a-5bca042080b1"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 134.921875,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 10195.015625
+    },
+    "scrollHeight": 135,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 481,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "51e1cef9-aba4-7c54-d8d4-83dbe7247292"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 481.3203125,
+      "x": 50.3671875,
+      "y": 10409.0859375
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 481,
+    "tag": "DIV",
+    "text": "Which processes are a good fit for Tur.ai?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 81,
+    "clientWidth": 566,
+    "display": "block",
+    "font": "17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "51e1cef9-aba4-7c54-d8d4-83dbe7247298"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 80.953125,
+      "width": 566.265625,
+      "x": 50.3671875,
+      "y": 10459.453125
+    },
+    "scrollHeight": 81,
+    "scrollWidth": 566,
+    "tag": "DIV",
+    "text": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 26,
+    "clientWidth": 406,
+    "display": "block",
+    "font": "600 21.5869px / 25.9043px \"Wix Madefor Display\"",
+    "fontSize": "21.5869px",
+    "lineHeight": "25.9043px",
+    "overflow": "visible",
+    "path": [
+      "94e35a51-531b-4e8c-d7ac-120aa7df2af6"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 25.8984375,
+      "width": 406.3046875,
+      "x": 130.34375,
+      "y": 10671.921875
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 406,
+    "tag": "DIV",
+    "text": "More Questions?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 50,
+    "clientWidth": 406,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "1316a488-0c25-2701-ea9e-cb281008a5f0"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 49.640625,
+      "width": 406.3046875,
+      "x": 130.34375,
+      "y": 10712.2109375
+    },
+    "scrollHeight": 50,
+    "scrollWidth": 406,
+    "tag": "DIV",
+    "text": "Discuss process delivery, AI costs and the controls you need.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 89,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "65748472-5f25-1892-4171-ebafd3a07c84",
+      "ed545407-4d33-d0b8-cc9e-d37c0b006e21"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 88.71875,
+      "x": 272.9453125,
+      "y": 10803.421875
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 89,
+    "tag": "DIV",
+    "text": "Contact Us",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 35,
+    "clientWidth": 405,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "500cdcb9-ac37-3301-2aaa-f243dee5a4ce"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 34.53125,
+      "width": 404.671875,
+      "x": 131.1640625,
+      "y": 11030.109375
+    },
+    "scrollHeight": 36,
+    "scrollWidth": 405,
+    "tag": "H2",
+    "text": "Tell us more about your goals.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfdff"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11107.8125
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 509,
+    "tag": "LABEL",
+    "text": "First Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "993c18bb-749d-9ec7-4762-e4b1570cf84c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11209.8125
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 509,
+    "tag": "LABEL",
+    "text": "Last Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3d299667-bfcf-7187-d96c-4ae39264aee7"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11311.8125
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 509,
+    "tag": "LABEL",
+    "text": "Email",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3d299667-bfcf-7187-d96c-4ae39264aeeb"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11413.8125
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 509,
+    "tag": "LABEL",
+    "text": "Company",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 20,
+    "clientWidth": 509,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "24d29c62-a38b-c16b-7920-6143552a7b98"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 19.8515625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11515.8125
+    },
+    "scrollHeight": 20,
+    "scrollWidth": 509,
+    "tag": "LABEL",
+    "text": "Your process and goals",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 142,
+    "clientWidth": 507,
+    "display": "block",
+    "font": "16.5499px / 23.6428px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "23.6428px",
+    "overflow": "auto",
+    "path": [
+      "8cc95c90-7715-ba4a-fb6f-181d9f647d47"
+    ],
+    "placeholder": "Which process needs to change, and which systems and controls are involved?",
+    "rect": {
+      "height": 143.90625,
+      "width": 508.703125,
+      "x": 79.1484375,
+      "y": 11550.0546875
+    },
+    "scrollHeight": 142,
+    "scrollWidth": 507,
+    "tag": "TEXTAREA",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 58,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "45b2bdc9-fd72-45a7-c1ec-b240a333ad93"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 57.84375,
+      "x": 288.390625,
+      "y": 11742.7265625
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 58,
+    "tag": "DIV",
+    "text": "Submit",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe07"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Thank you! We'll be in touch.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0a"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Tur.ai Logo - Full",
+    "clientHeight": 88,
+    "clientWidth": 288,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49570"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 88.421875,
+      "width": 287.8203125,
+      "x": 189.5859375,
+      "y": 12010.5859375
+    },
+    "scrollHeight": 88,
+    "scrollWidth": 288,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 73,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49574"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 72.9140625,
+      "x": 21.5859375,
+      "y": 12156.5703125
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 73,
+    "tag": "A",
+    "text": "LinkedIn",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 117,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49576"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 117.4609375,
+      "x": 21.5859375,
+      "y": 12199.7421875
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 117,
+    "tag": "A",
+    "text": "Privacy Policy",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 22,
+    "clientWidth": 62,
+    "display": "block",
+    "font": "600 17.9891px / 21.5869px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "21.5869px",
+    "overflow": "visible",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49578"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 21.5859375,
+      "width": 62.0625,
+      "x": 21.5859375,
+      "y": 12242.9140625
+    },
+    "scrollHeight": 22,
+    "scrollWidth": 62,
+    "tag": "A",
+    "text": "Imprint",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 27,
+    "clientWidth": 101,
+    "display": "block",
+    "font": "600 17.9891px / 26.9836px \"Wix Madefor Display\"",
+    "fontSize": "17.9891px",
+    "lineHeight": "26.9836px",
+    "overflow": "visible",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e4957b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 26.984375,
+      "width": 100.5078125,
+      "x": 512.1171875,
+      "y": 12237.515625
+    },
+    "scrollHeight": 27,
+    "scrollWidth": 101,
+    "tag": "DIV",
+    "text": "Back to Top",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 25,
+    "clientWidth": 251,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49580"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 24.8203125,
+      "width": 250.875,
+      "x": 208.0625,
+      "y": 12381.625
+    },
+    "scrollHeight": 25,
+    "scrollWidth": 251,
+    "tag": "DIV",
+    "text": "© 2026 Tur.ai. All rights reserved.",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Top B2B Companies Ukraine 2023 - Clutch Award Logo",
+    "clientHeight": 43,
+    "clientWidth": 40,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49583"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 40.4921875,
+      "x": 81.3359375,
+      "y": 12449.6171875
+    },
+    "scrollHeight": 43,
+    "scrollWidth": 40,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Dutch Interactive Awards Logo",
+    "clientHeight": 43,
+    "clientWidth": 84,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49584"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 84,
+      "x": 143.4140625,
+      "y": 12449.6171875
+    },
+    "scrollHeight": 43,
+    "scrollWidth": 84,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Accenture Innovation Awards - Award Logo",
+    "clientHeight": 43,
+    "clientWidth": 90,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49585"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 89.6875,
+      "x": 249,
+      "y": 12449.6171875
+    },
+    "scrollHeight": 43,
+    "scrollWidth": 90,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "ML and Intelligent Automation Award Logo",
+    "clientHeight": 43,
+    "clientWidth": 100,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49586"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 100.0625,
+      "x": 360.2734375,
+      "y": 12449.6171875
+    },
+    "scrollHeight": 43,
+    "scrollWidth": 100,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": "Spinawards - Award Logo",
+    "clientHeight": 43,
+    "clientWidth": 104,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "e1b74c44-df2c-60ad-b51b-890d23321cf2",
+      "d4775e29-0c8c-aca9-118d-34e001e49587"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 43.171875,
+      "width": 103.7421875,
+      "x": 481.921875,
+      "y": 12449.6171875
+    },
+    "scrollHeight": 43,
+    "scrollWidth": 104,
+    "tag": "IMG",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9a8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "H2",
+    "text": "Book a Demo",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9ac"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "See a process run across systems, with controls and task-matched AI.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9b2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "First Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9b6"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Last Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9bb"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Email",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9bf"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Company",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9c5"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Submit",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9cb"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Thank you! We'll contact you about your demo.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "2a3f21c5-7e50-9e42-62cd-0d770737edf9",
+      "e7c0820d-4776-575f-b75a-443b3c55d9ce"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 28.7825px / 34.539px \"Wix Madefor Display\"",
+    "fontSize": "28.7825px",
+    "lineHeight": "34.539px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476974"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "H2",
+    "text": "Book a Call",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476978"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Share your details to discuss orchestration.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47697e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "First Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476982"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Last Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476987"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Email",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 19.8599px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "19.8599px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47698b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Company",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476992"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Submit",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef476998"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Thank you! We'll contact you about your call.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "600 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "3348b763-04f5-f3e6-605f-f37f4f83d113",
+      "da519de6-fd09-ebd6-cb27-c995ef47699b"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Your message was not sent. Please try again.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "700 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "314a9d80-7925-8564-c473-bcafe47c2786"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Name",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "700 16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "314a9d80-7925-8564-c473-bcafe47c2789"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "LABEL",
+    "text": "Email Address",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "inline-block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "clip",
+    "path": [
+      "314a9d80-7925-8564-c473-bcafe47c278c"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "INPUT",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "314a9d80-7925-8564-c473-bcafe47c278e"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Thank you! Your submission has been received!",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "16.5499px / 24.8249px \"Wix Madefor Display\"",
+    "fontSize": "16.5499px",
+    "lineHeight": "24.8249px",
+    "overflow": "visible",
+    "path": [
+      "314a9d80-7925-8564-c473-bcafe47c2791"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Oops! Something went wrong while submitting the form.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 22px / 33px \"Wix Madefor Display\"",
+    "fontSize": "22px",
+    "lineHeight": "33px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286bc"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "H3",
+    "text": "Розблокуйте можливості автоматизації ШІ",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c1"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Ім'я",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c5"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Прізвище",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286c9"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Email",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ce"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Компанія",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Посада",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d6"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Де зараз перебуває ваша організація на шляху впровадження ШІ?",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 14px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "normal",
+    "overflow": "clip",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286d8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "SELECT",
+    "text": "Виберіть варіантДослідження можливостей ШІЕкспериментування з ШІВпровадження рішень на базі ШІОптимізація систем ШІРозробка та адаптація власних рішень на базі ШІ",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 12px / 21.6px \"Wix Madefor Display\"",
+    "fontSize": "12px",
+    "lineHeight": "21.6px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286db"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Пориньте у свої цілі ШІ",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 14px / 20px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "20px",
+    "overflow": "auto",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286dd"
+    ],
+    "placeholder": "Поділіться перевагами, які ви очікуєте від штучного інтелекту, або проблемами, які ви збираєтеся вирішити. Крім того, якщо у вас є бажаний графік реалізації, повідомте нас.",
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "TEXTAREA",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 14px / 21px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "21px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e0"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Ми використовуватимемо вашу особисту інформацію лише для надання продуктів і послуг, які ви в нас запитували. Ми також хотіли б час від часу зв’язуватися з вами щодо наших продуктів і послуг:",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 14px / 21px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "21px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e4"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "SPAN",
+    "text": "Я погоджуюся отримувати новини та оновлення від Tur.ai",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 14px / 21px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "21px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286e8"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "SPAN",
+    "text": "Я дозволяю Tur.ai зберігати та обробляти мої персональні дані",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "500 16px / 20.8px \"Wix Madefor Display\"",
+    "fontSize": "16px",
+    "lineHeight": "20.8px",
+    "overflow": "clip",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ea"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "INPUT",
+    "text": "",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "flex",
+    "font": "700 20px / 30px \"Wix Madefor Display\"",
+    "fontSize": "20px",
+    "lineHeight": "30px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286ed"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Дякуємо!Ваш запит успішно відправлено.",
+    "visibility": "visible"
+  },
+  {
+    "alt": null,
+    "clientHeight": 0,
+    "clientWidth": 0,
+    "display": "block",
+    "font": "14px / 21px \"Wix Madefor Display\"",
+    "fontSize": "14px",
+    "lineHeight": "21px",
+    "overflow": "visible",
+    "path": [
+      "363159e2-e01b-eb9f-f9fe-ad383046bd8d",
+      "ddcbea1b-1392-25e9-9672-4d7ba34286f2"
+    ],
+    "placeholder": null,
+    "rect": {
+      "height": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 0,
+    "scrollWidth": 0,
+    "tag": "DIV",
+    "text": "Oh! An error occurred while submitting the form.",
+    "visibility": "visible"
+  }
+]

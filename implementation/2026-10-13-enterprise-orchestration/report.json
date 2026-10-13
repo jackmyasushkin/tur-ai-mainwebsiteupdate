@@ -1,0 +1,1888 @@
+{
+  "edition": "enterprise-orchestration-handoff-v2",
+  "source_commit": "086ce563960473a70221dccb8c7092507fa93e3b",
+  "site_id": "6899ffe04a85e00f2b8cf5ab",
+  "page_id": "6899ffe04a85e00f2b8cf5ac",
+  "status": "APPLIED_AND_PRODUCER_CHECKED_WITH_DOCUMENTED_FINDINGS",
+  "counts": {
+    "applied": 104,
+    "no_write": 124,
+    "failed": 0,
+    "conflicts": 0
+  },
+  "text_node_operations": 122,
+  "shared_definition_rewrites": 7,
+  "shared_scope_owner_approved": true,
+  "fields": [
+    {
+      "id": "HOME-001",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Book a Demo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-002",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Contact Us",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-003",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "We Automate Enterprise Customer Operations with AI",
+      "after": "Enterprise Process Orchestration Platform",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-004",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Achieve up to 90% resolution on initial contact and automate 50% of agent tasks with AI, all within less than 3 months to value.",
+      "after": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-005",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Book a Demo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-006",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Experience Proven ROI in the First Year – Book a Demo to Discover How!",
+      "after": "See how to run, control and change a process across your systems.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-007",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Unlock the Transformative Power of AI Tailored to Your Business Needs",
+      "after": "Work and change faster. Results from banking engagements.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-008",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Less Human Interaction",
+      "after": "Shorter process cycles",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-009",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "50",
+      "after": "62",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-010",
+      "action": "keep",
+      "status": "no-write",
+      "before": "%",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-011",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Cut down on repetitive queries with AI, reserving human expertise for complex cases.",
+      "after": "One European bank: customer onboarding fell from 16 days to 6.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-012",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Initial Resolution Rate",
+      "after": "Lower staffing needs",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-013",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "90",
+      "after": "82",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-014",
+      "action": "keep",
+      "status": "no-write",
+      "before": "%",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-015",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.",
+      "after": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-016",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Tasks Automated",
+      "after": "Lower LLM costs",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-017",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "70",
+      "after": "83",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-018",
+      "action": "keep",
+      "status": "no-write",
+      "before": "%",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-019",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
+      "after": "Banking case: annual token spend fell from €1.8M to €300K.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-020",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Sales Productivity Boost",
+      "after": "Faster process delivery",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-021",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "5",
+      "after": "3",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-022",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "%",
+      "after": "×",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-023",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
+      "after": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-024",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.",
+      "after": "We built Tur.ai so businesses can work and change faster without replacing their core.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-025",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Ievgen Miasushkin",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-026",
+      "action": "keep",
+      "status": "no-write",
+      "before": "CEO of Tur.ai",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-027",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Streamline Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+      "after": "Coordinate Systems, AI and People in One Governed Process.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-028",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 01",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-029",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Initial Contact",
+      "after": "Work intake",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-030",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Deliver meaningful, personalized, and engaging responses to customers within minutes.",
+      "after": "Bring requests, documents and system data into one process with shared context.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-031",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 02",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-032",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Smart Routing",
+      "after": "Task routing",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-033",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.",
+      "after": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-034",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 03",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-035",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Sales & Service Automation",
+      "after": "Controlled execution",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-036",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.",
+      "after": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-037",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 04",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-038",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Smooth Aftercare",
+      "after": "Human decisions",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-039",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Automated returns and smart exchange processing.",
+      "after": "Route exceptions to the right person to decide.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-040",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 05",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-041",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Satisfaction Ensured",
+      "after": "Traceable outcomes",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-042",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Consistent, pleasing resolutions for every customer.",
+      "after": "Record actions and decisions for review and audit.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-043",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Global Retail Leaders Employ Tur.ai.",
+      "after": "Real operations powered by Tur.ai.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-044",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Lead to quote automation",
+      "after": "Lead-to-quote automation",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-045",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "10x faster response rate",
+      "after": "3x faster quotes",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-046",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-047",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Brand-owned cashback campaigns automation",
+      "after": "Cashback campaign operations",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-048",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Nation-wide campaigns managed by small team in parallel to day to day work",
+      "after": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-049",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-050",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Service desk automation",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-051",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "after": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-052",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-053",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Procurement automation",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-054",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-055",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-056",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Lead to quote automation",
+      "after": "Lead-to-quote automation",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-057",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.",
+      "after": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-058",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-059",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Brand-owned cashback campaigns automation",
+      "after": "Cashback campaign operations",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-060",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Nation-wide campaigns managed by small team in parallel to day to day work.",
+      "after": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-061",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-062",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Service desk automation",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-063",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "after": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-064",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-065",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Procurement automation",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-066",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI.",
+      "after": "Heineken cut vendor onboarding from months to weeks.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-067",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Learn More",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-068",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Where AI Integration Meets Simplicity, Bypassing Hassle and Lavish Outlays.",
+      "after": "The operational plane: your rules, across your existing systems.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-069",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Click to see features that make you smile",
+      "after": "Click to see how Tur.ai changes this",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-070",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Click to see features that make you smile",
+      "after": "Click to see how Tur.ai changes this",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-071",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "42",
+      "after": "01",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-072",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "%",
+      "after": ".",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-073",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Are lacking talent with the right skills for AI",
+      "after": "One model for every task",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-074",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "30",
+      "after": "02",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-075",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "%",
+      "after": ".",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-076",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Have silos blocking full AI solution implementation",
+      "after": "People bridging systems and teams",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-077",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "24",
+      "after": "03",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-078",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "%",
+      "after": ".",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-079",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Are missing system and data compatibility",
+      "after": "Process changes held up by core releases",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-080",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "43",
+      "after": "04",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-081",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "%",
+      "after": ".",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-082",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Don't have the tools for scaling ML Ops",
+      "after": "Retries that waste tokens and time",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-083",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "No special skills needed for AI tasks",
+      "after": "AI models matched to each task",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-084",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Orchestrated cross-functional AI integration",
+      "after": "One governed flow across systems and teams",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-085",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Works with the systems and data you have",
+      "after": "Change processes above existing systems",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-086",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Ready-to-use AI models for your business context",
+      "after": "Bounded retries, checks and human decisions",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-087",
+      "action": "keep",
+      "status": "no-write",
+      "before": "What people say about Tur.ai.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-088",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Our Trademark Process Lets You Transform Your Retail Operations",
+      "after": "One platform to pilot, run and scale your processes",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-089",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "EXPLORE",
+      "after": "PILOT",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-090",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 01",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-091",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "EMPOWER",
+      "after": "LAUNCH",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-092",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 02",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-093",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "THRIVE",
+      "after": "SCALE",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-094",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 03",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-095",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "after": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-096",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "after": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-097",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "after": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-098",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "EXPLORE",
+      "after": "PILOT",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-099",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 01",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-100",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "after": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-101",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "EMPOWER",
+      "after": "LAUNCH",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-102",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 02",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-103",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "after": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-104",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "THRIVE",
+      "after": "SCALE",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-105",
+      "action": "keep",
+      "status": "no-write",
+      "before": "/ 03",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-106",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "after": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-107",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.",
+      "after": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-108",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Your Questions Answered.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-109",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "How difficult is it to start with your solution?",
+      "after": "How do we start and measure the first value?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-110",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start Solution is suitable for efficient added value developments by any IT team",
+      "after": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate. We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts. Use measured results to decide whether to expand, adapt or stop.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-111",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "How complicated is the integration process for your AI solution?",
+      "after": "Can we change processes without replacing our existing systems?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-112",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.",
+      "after": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-113",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Can we use your solution standalone ? How is our data protected?",
+      "after": "How do we fit Tur.ai into our security and data requirements?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-114",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only. Your data never leaves the security perimeter of your organization this way. If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+      "after": "Agree the deployment design with your IT and security teams: system access, data flows and model use. Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-115",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "How will Tur.ai enhance our capability to scale sales globally?",
+      "after": "How does Tur.ai keep AI costs under control as we scale?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-116",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.",
+      "after": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-117",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "What can we expect in terms of improving our first response to customer inquiries?",
+      "after": "What do the results on this page actually measure?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-118",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution",
+      "after": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-119",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?",
+      "after": "How does Tur.ai fit with our ERP, automation tools and AI?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-120",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated",
+      "after": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-121",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "How will Tur.ai help us minimize the need for human contact in our service without losing our touch?",
+      "after": "What happens when AI needs human judgment or an exception occurs?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-122",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts",
+      "after": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-123",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Can I preview changes before they go live?",
+      "after": "Which processes are a good fit for Tur.ai?",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-124",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Yes. This test site is meant for preview-first review, so you can check updates in the preview URL before any publish step.",
+      "after": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-125",
+      "action": "keep",
+      "status": "no-write",
+      "before": "More Questions?",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-126",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Book a call and learn more about AI's tailored impact on your operations.",
+      "after": "Discuss process delivery, AI costs and the controls you need.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-127",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Contact Us",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-128",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Tell us more about your goals.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-129",
+      "action": "keep",
+      "status": "no-write",
+      "before": "First Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-130",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Last Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-131",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Email",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-132",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Company",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-133",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Dive into Your AI Goals",
+      "after": "Your process and goals",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-134",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Submit",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-135",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Thank you! We'll get back to you soon!",
+      "after": "Thank you! We'll be in touch.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-136",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Oops! Something went wrong while submitting the form.",
+      "after": "Your message was not sent. Please try again.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-137",
+      "action": "keep",
+      "status": "no-write",
+      "before": "LinkedIn",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-138",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Privacy Policy",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-139",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Imprint",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-140",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Back to Top",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-141",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "© 2024 Tur.ai. All rights reserved.",
+      "after": "© 2026 Tur.ai. All rights reserved.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-142",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Book a Demo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-143",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Enter your contact info to witness AI's tailored impact on your operations.",
+      "after": "See a process run across systems, with controls and task-matched AI.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-144",
+      "action": "keep",
+      "status": "no-write",
+      "before": "First Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-145",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Last Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-146",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Email",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-147",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Company",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-148",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Submit",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-149",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Thank you! Your submission has been received!",
+      "after": "Thank you! We'll contact you about your demo.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-150",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Oops! Something went wrong while submitting the form.",
+      "after": "Your message was not sent. Please try again.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-151",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Book a Call",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-152",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Enter your contact info and we’ll get back to you.",
+      "after": "Share your details to discuss orchestration.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-153",
+      "action": "keep",
+      "status": "no-write",
+      "before": "First Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-154",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Last Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-155",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Email",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-156",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Company",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-157",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Submit",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-158",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Thank you! Your submission has been received!",
+      "after": "Thank you! We'll contact you about your call.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-159",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Oops! Something went wrong while submitting the form.",
+      "after": "Your message was not sent. Please try again.",
+      "verification": "exact String node readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-160",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Name",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-161",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Email Address",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-162",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Thank you! Your submission has been received!",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-163",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Oops! Something went wrong while submitting the form.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-164",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Розблокуйте можливості автоматизації ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-165",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Ім'я",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-166",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Прізвище",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-167",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Email",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-168",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Компанія",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-169",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Посада",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-170",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Де зараз перебуває ваша організація на шляху впровадження ШІ?",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-171",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Пориньте у свої цілі ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-172",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Ми використовуватимемо вашу особисту інформацію лише для надання продуктів і послуг, які ви в нас запитували. Ми також хотіли б час від часу зв’язуватися з вами щодо наших продуктів і послуг:",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-173",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Я погоджуюся отримувати новини та оновлення від Tur.ai",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-174",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Я дозволяю Tur.ai зберігати та обробляти мої персональні дані",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-175",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Дякуємо! Ваш запит успішно відправлено.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-176",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Oh! An error occurred while submitting the form.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-177",
+      "action": "hold",
+      "status": "no-write",
+      "before": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-178",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Faissel el Mouridi",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-179",
+      "action": "hold",
+      "status": "no-write",
+      "before": "CFO, Radio Holland",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-180",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Tur.ai Logo - Full",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-181",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Heineken Logo - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-182",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Noordwest Logo - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-183",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Radio Holland - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-184",
+      "action": "keep",
+      "status": "no-write",
+      "before": "NOC NSF Logo - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-185",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Image of Ievgen Miasushkin, CEO of Tur.ai",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-186",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Message Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-187",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Filter Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-188",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Gears Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-189",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Activity Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-190",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Tick Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-191",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Radio Holland Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-192",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Heineken Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-193",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Noordwest Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-194",
+      "action": "hold",
+      "status": "no-write",
+      "before": "NOC NSF Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-195",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Radio Holland Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-196",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Heineken Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-197",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Noordwest Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-198",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Heineken Logo - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-199",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Left Arrow - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-200",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Right Arrow - Black",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-201",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Play Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-202",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Arrow Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-203",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Document+ Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-204",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Document Icon",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-205",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Left Arrow - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-206",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Right Arrow - White",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-207",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Image of Faissel el Mourid",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-208",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Microsoft for Startups Badge",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-209",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Please share the benefits you expect from AI or challenges you aim to address.",
+      "after": "Which process needs to change, and which systems and controls are involved?",
+      "verification": "native Designer placeholder + DOM readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-210",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Tur.ai Logo - Full",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-211",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Top B2B Companies Ukraine 2023 - Clutch Award Logo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-212",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Dutch Interactive Awards Logo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-213",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Accenture Innovation Awards - Award Logo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-214",
+      "action": "keep",
+      "status": "no-write",
+      "before": "ML and Intelligent Automation Award Logo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-215",
+      "action": "keep",
+      "status": "no-write",
+      "before": "Spinawards - Award Logo",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-216",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Please wait...",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-217",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Submit",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-218",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Виберіть варіант",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-219",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Дослідження можливостей ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-220",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Експериментування з ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-221",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Впровадження рішень на базі ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-222",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Оптимізація систем ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-223",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Розробка та адаптація власних рішень на базі ШІ",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-224",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Поділіться перевагами, які ви очікуєте від штучного інтелекту, або проблемами, які ви збираєтеся вирішити. Крім того, якщо у вас є бажаний графік реалізації, повідомте нас.",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-225",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Будь ласка, зачекайте...",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-226",
+      "action": "hold",
+      "status": "no-write",
+      "before": "Надіслати",
+      "verification": "Exact before/after source tree invariants; Designer DOM comparison where rendered"
+    },
+    {
+      "id": "HOME-227",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Tur.ai - Headless Hyperautomation platform",
+      "after": "Tur.ai | Enterprise Process Orchestration",
+      "verification": "page metadata readback",
+      "layout_review": "producer_checked_with_findings"
+    },
+    {
+      "id": "HOME-228",
+      "action": "rewrite",
+      "status": "applied",
+      "before": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context. Deployed simply, scaled effectively. Book a demo.",
+      "after": "Run regulated processes across existing systems. Orchestrate systems, AI and people to work faster today and change faster tomorrow.",
+      "verification": "page metadata readback",
+      "layout_review": "producer_checked_with_findings"
+    }
+  ],
+  "responsive_widths": [
+    1383,
+    820,
+    667,
+    393,
+    320,
+    1440,
+    991,
+    992,
+    767,
+    768,
+    479,
+    480
+  ],
+  "source_tree_invariants": "PASS",
+  "other_page_trees_unchanged": true,
+  "open_graph_inheritance": "PASS",
+  "rate_control": {
+    "max_weighted_operations_in_60s": 29,
+    "rate_limit_errors": 0,
+    "max_batch": 10,
+    "budget_per_minute": 30,
+    "minimum_call_gap_ms": 2000,
+    "pause_events": 42,
+    "mcp_calls": 66,
+    "weighted_operations": 196
+  },
+  "producer_review": true,
+  "independent_acceptance": "NOT_PERFORMED",
+  "published": false,
+  "last_published_unchanged": "2026-07-02T13:35:15.893Z",
+  "lead_submissions": 0,
+  "known_findings": [
+    {
+      "id": "ORDINAL_ANIMATION",
+      "fields": [
+        "HOME-071",
+        "HOME-074",
+        "HOME-077",
+        "HOME-080"
+      ],
+      "detail": "Finsweet Number Count renders 01–04 as 1–4 after animation; stored source text is exact. Owner explicitly requested retaining animation and recording the issue.",
+      "decision": "preserve existing animation; no attribute changes"
+    },
+    {
+      "id": "RESPONSIVE_WRAPPING",
+      "detail": "Extra lines observed in HOME-004 at 479; HOME-043 at 320; FAQ 111/114/116/124 at selected widths. Source styles unchanged; no new horizontal overflow candidates. Producer reviewed visible heading and expanded FAQ readability; no copy or font edits."
+    },
+    {
+      "id": "FORM_STATE_VISUAL_LIMIT",
+      "detail": "All success/error/wait texts and settings were read back. Designer Success/Error controls were exercised on Modal Demo and returned to Normal, but root display:none prevents rendered messages. No submission was made; live post-submit states were not tested."
+    },
+    {
+      "id": "MOBILE_SHARED_ENTRYPOINTS",
+      "detail": "Footer verified at desktop/mobile on five other pages. Their existing mobile Nav demo/contact entrypoints are hidden; shared modal mobile rendering verified on Home. Definitions and page instance trees unchanged."
+    },
+    {
+      "id": "PREVIEW_RESIZE",
+      "detail": "Slider navigation tested after fresh Preview at 320; all four slides pass. Resizing an already initialized Preview can leave stale slider state; fresh Preview resolved it."
+    }
+  ],
+  "existing_unresolved_content": [
+    "Noordwest case link remains #",
+    "Hidden procurement/logo conflict and testimonial attribution holds retained",
+    "Out-of-scope procurement case still contains historical 300% wording"
+  ]
+}

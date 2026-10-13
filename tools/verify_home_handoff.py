@@ -54,7 +54,7 @@ def check():
         require((ROOT / path).is_file(), 'Missing handoff asset: ' + path)
     counts = {a: sum(r['action'] == a for r in rows) for a in ('rewrite', 'keep', 'hold')}
     require(plan['counts'] == counts, 'Action counts differ')
-    return {'status': 'FAIL' if errors else 'HANDOFF_CONSISTENCY_PASS', 'errors': errors, 'decisions': counts,
+    return {'status': 'FAIL' if errors else 'HANDOFF_CONSISTENCY_PASS', 'validation_scope': 'Prepared copy only; live application evidence is in implementation/report.json', 'errors': errors, 'decisions': counts,
             'webflow_changed': False, 'visual_acceptance': 'NOT_CHECKED', 'publication': 'NOT_PERFORMED'}
 
 if __name__ == '__main__':
