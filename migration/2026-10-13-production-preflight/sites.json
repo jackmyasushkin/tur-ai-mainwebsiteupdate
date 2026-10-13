@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-10-13T07:18:56.743Z",
+  "mode": "read-only-preflight",
+  "responses": [
+    {
+      "label": "Source sandbox metadata for transfer preflight",
+      "action": "get_site",
+      "result": {
+        "id": "6899ffe04a85e00f2b8cf5ab",
+        "workspaceId": "64e46e54768b6be8f6bb27ce",
+        "displayName": "Copy of Tur.ai",
+        "shortName": "tur-ai-9ad25f67865b7ebb8e05b7460738fd68",
+        "previewUrl": "https://screenshots.webflow.com/sites/6899ffe04a85e00f2b8cf5ab/20261013054248_ac16a09929b869d820b8afa24f9b8f35.png",
+        "timeZone": "Europe/Chisinau",
+        "createdOn": "2025-08-11T14:36:20.137Z",
+        "lastUpdated": "2026-10-13T06:49:15.096Z",
+        "lastPublished": "2026-10-13T05:42:48.576Z",
+        "fullSiteCompiledAt": "2026-10-13T05:42:48.576Z",
+        "customDomains": [],
+        "locales": {
+          "primary": {
+            "id": "68dd24e5cec17f2325f7a088",
+            "cmsLocaleId": "68dd24e5cec17f2325f7a078",
+            "enabled": false,
+            "displayName": "English",
+            "redirect": true,
+            "subdirectory": "",
+            "tag": "en"
+          },
+          "secondary": []
+        },
+        "dataCollectionEnabled": false,
+        "dataCollectionType": "always",
+        "googleTagIds": []
+      }
+    },
+    {
+      "label": "Target production metadata for transfer preflight",
+      "action": "get_site",
+      "result": {
+        "id": "64e477696d41401ec48c50c6",
+        "workspaceId": "64e46e54768b6be8f6bb27ce",
+        "displayName": "Tur.ai",
+        "shortName": "tur-ai",
+        "previewUrl": "https://screenshots.webflow.com/sites/64e477696d41401ec48c50c6/20251112133752_b5401b2e886a85ae8c43989872e7eb6d.png",
+        "timeZone": "Europe/Chisinau",
+        "createdOn": "2023-08-22T08:52:58.002Z",
+        "lastUpdated": "2026-10-13T06:49:46.856Z",
+        "lastPublished": "2025-11-06T16:08:46.501Z",
+        "fullSiteCompiledAt": "2025-11-06T16:08:46.501Z",
+        "customDomains": [
+          {
+            "id": "64ed9e15c6161d2d4ad95a76",
+            "url": "www.tur.ai",
+            "lastPublished": "2025-11-12T13:37:52.643Z",
+            "fullSiteCompiledAt": "2025-11-12T13:37:52.643Z"
+          },
+          {
+            "id": "64ed9e15c6161d2d4ad95a70",
+            "url": "tur.ai",
+            "lastPublished": "2025-11-12T13:37:52.643Z",
+            "fullSiteCompiledAt": "2025-11-12T13:37:52.643Z"
+          }
+        ],
+        "dataCollectionEnabled": false,
+        "dataCollectionType": "always",
+        "googleTagIds": []
+      }
+    }
+  ]
+}

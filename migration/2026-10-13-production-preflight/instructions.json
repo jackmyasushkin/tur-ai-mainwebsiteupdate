@@ -1,0 +1,32 @@
+{
+  "captured_at": "2026-10-13T07:18:56.831Z",
+  "mode": "read-only-preflight",
+  "responses": [
+    {
+      "label": "Source instructions for transfer",
+      "action": "search_instructions",
+      "result": {
+        "instructions": [],
+        "pagination": {
+          "limit": 50,
+          "offset": 0,
+          "total": 0
+        },
+        "resourceTemplate": "webflow://sites/{siteId}/instructions/{instructionPath}"
+      }
+    },
+    {
+      "label": "Target instructions for transfer",
+      "action": "search_instructions",
+      "result": {
+        "instructions": [],
+        "pagination": {
+          "limit": 50,
+          "offset": 0,
+          "total": 0
+        },
+        "resourceTemplate": "webflow://sites/{siteId}/instructions/{instructionPath}"
+      }
+    }
+  ]
+}

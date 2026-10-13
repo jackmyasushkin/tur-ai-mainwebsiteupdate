@@ -6,6 +6,8 @@
 
 Current Webflow metadata confirms the sandbox publication at `2026-10-13T05:42:48.576Z`. The agent did not publish or merge PRs. Historical before/after reads remain intact.
 
+The next task is the [transfer strategy for the original Tur.ai project](docs/PRODUCTION_TRANSFER_STRATEGY.md). Live comparison maps 102 existing replacement fields; the owner approved adding one FAQ for the remaining two. This is a prepared plan, not an applied production change.
+
 The [original implementation handoff](docs/IMPLEMENTATION_HANDOFF.md) describes the prepared source edition; its preparation-stage statements are historical.
 
 - [Exact replacements](content/home/rewrite.json) and [machine apply plan](content/home/apply-plan.json)

@@ -1,0 +1,1689 @@
+{
+  "method": "Balanced CSS parser, comparing context+selector blocks and whitespace-normalized declarations for selectors whose classes occur in exposed target Home/definition trees or selected published nodes. No computed cascade, specificity or actual selector matching is claimed.",
+  "input_sha256": {
+    "source-published-0.css": "03adb4d658c6d630907e922cb3833bc0f32561711c53b1f29263fd181ed11c98",
+    "target-published-0.css": "e3c1d5d7c4f53a392119b2829e19e8fd22fa4cce937b8f5997b0b059a03712c1"
+  },
+  "counts": {
+    "source_rules_split_by_selector": 2194,
+    "target_rules_split_by_selector": 1685,
+    "source_used_style_names": 240,
+    "target_used_style_names": 202,
+    "source_resolved_class_names": 253,
+    "target_resolved_class_names": 212,
+    "equal_existing_home_rule_keys": 349,
+    "differing_existing_home_rule_keys": 8
+  },
+  "target_used_style_missing_from_source_catalog": [],
+  "target_used_style_missing_from_target_catalog": [],
+  "differences": [
+    {
+      "context": [],
+      "selector": ".contact_component",
+      "source_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(45deg,var(--brand-colors--white)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,-150% 110%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "display": "flex"
+        }
+      ],
+      "target_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(45deg,var(--brand-colors--white)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,-150% 110%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "display": "flex"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".hero_bg",
+      "source_rules": [
+        {
+          "background-image": "url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "50%",
+          "background-size": "auto",
+          "width": "100%",
+          "height": "100%",
+          "position": "absolute",
+          "inset": "0%"
+        }
+      ],
+      "target_rules": [
+        {
+          "background-image": "url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "50%",
+          "background-size": "auto",
+          "width": "100%",
+          "height": "100%",
+          "position": "absolute",
+          "inset": "0%"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".microsoft_component",
+      "source_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--blue)",
+          "background-image": "linear-gradient(225deg,var(--brand-colors--blue)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,150% 0",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "grid-template-rows": "auto",
+          "grid-template-columns": "minmax(0,1fr)",
+          "grid-auto-columns": "1fr",
+          "justify-content": "flex-start",
+          "align-items": "center",
+          "display": "grid"
+        }
+      ],
+      "target_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--blue)",
+          "background-image": "linear-gradient(225deg,var(--brand-colors--blue)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,150% 0",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "grid-template-rows": "auto",
+          "grid-template-columns": "minmax(0,1fr)",
+          "grid-auto-columns": "1fr",
+          "justify-content": "flex-start",
+          "align-items": "center",
+          "display": "grid"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".modal_wrap",
+      "source_rules": [
+        {
+          "z-index": "9999",
+          "width": "100%",
+          "max-width": "80rem",
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--large)",
+          "grid-row-gap": "var(--spacing--large)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(45deg,var(--brand-colors--white)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,-150% 110%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "flex-start",
+          "align-items": "stretch",
+          "margin": "auto",
+          "display": "flex",
+          "position": "relative"
+        }
+      ],
+      "target_rules": [
+        {
+          "z-index": "9999",
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--large)",
+          "grid-row-gap": "var(--spacing--large)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(45deg,var(--brand-colors--white)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,-150% 110%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "flex-start",
+          "align-items": "stretch",
+          "width": "100%",
+          "max-width": "80rem",
+          "margin": "auto",
+          "display": "flex",
+          "position": "relative"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".quote_component",
+      "source_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(315deg,var(--brand-colors--white)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,125% 100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll"
+        }
+      ],
+      "target_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--white)",
+          "background-image": "linear-gradient(315deg,var(--brand-colors--white)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,125% 100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".retail_component",
+      "source_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors-black-tints--90)",
+          "background-image": "linear-gradient(135deg,var(--brand-colors-black-tints--90)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,-100% -100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,100rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "flex-start",
+          "align-items": "center",
+          "display": "flex"
+        }
+      ],
+      "target_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors-black-tints--90)",
+          "background-image": "linear-gradient(135deg,var(--brand-colors-black-tints--90)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,-100% -100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,100rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "flex-start",
+          "align-items": "center",
+          "display": "flex"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [],
+      "selector": ".testimonial_component",
+      "source_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--black)",
+          "background-image": "linear-gradient(315deg,var(--brand-colors--black)60%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "color": "var(--brand-colors--off-white)",
+          "background-position": "0 0,150% 100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "center",
+          "align-items": "center",
+          "display": "flex"
+        }
+      ],
+      "target_rules": [
+        {
+          "padding": "var(--spacing--xxlarge)",
+          "grid-column-gap": "var(--spacing--xlarge)",
+          "grid-row-gap": "var(--spacing--xlarge)",
+          "border-radius": "var(--border-radius--huge)",
+          "background-color": "var(--brand-colors--black)",
+          "background-image": "linear-gradient(315deg,var(--brand-colors--black)60%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "color": "var(--brand-colors--off-white)",
+          "background-position": "0 0,150% 100%",
+          "background-repeat": "repeat,no-repeat",
+          "background-size": "auto,85rem",
+          "background-attachment": "scroll,scroll",
+          "flex-flow": "column",
+          "justify-content": "center",
+          "align-items": "center",
+          "display": "flex"
+        }
+      ],
+      "status": "declarations_differ"
+    },
+    {
+      "context": [
+        "@media screen and(max-width:991px)"
+      ],
+      "selector": ".hero_bg",
+      "source_rules": [
+        {
+          "background-image": "linear-gradient(0deg,var(--brand-colors--black)15%,transparent),linear-gradient(180deg,var(--brand-colors--black)15%,transparent),url(\"https://cdn.prod.website-files.com/6899ffe04a85e00f2b8cf5ab/6899ffe04a85e00f2b8cf693_logo_stroke.svg\")",
+          "background-position": "0 0,0 0,50%",
+          "background-size": "auto,auto,auto"
+        }
+      ],
+      "target_rules": [
+        {
+          "background-image": "linear-gradient(0deg,var(--brand-colors--black)15%,transparent),linear-gradient(180deg,var(--brand-colors--black)15%,transparent),url(https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66369dacea163d9bb2ed6240_logo_stroke.svg)",
+          "background-position": "0 0,0 0,50%",
+          "background-size": "auto,auto,auto"
+        }
+      ],
+      "status": "declarations_differ"
+    }
+  ],
+  "source_only_home_nodes_styles": [
+    "faq_answer-content",
+    "faq_answer-text",
+    "faq_answer-wrapper",
+    "faq_icon-H",
+    "faq_icon-V",
+    "faq_icon-wrap",
+    "faq_question",
+    "faq_question-name",
+    "faq_toggle"
+  ],
+  "faq_missing_node_count": 11,
+  "faq_styles": [
+    {
+      "name": "faq_answer-content",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f93",
+        "name": "faq_answer-content",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-content"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f93",
+        "name": "faq_answer-content",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-content"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_answer-content",
+          "source_rules": [
+            {
+              "padding-right": "var(--spacing--large)",
+              "padding-bottom": "var(--spacing--large)",
+              "padding-left": "var(--spacing--large)",
+              "background-color": "#0000",
+              "margin-top": "0"
+            }
+          ],
+          "target_rules": [
+            {
+              "padding-right": "var(--spacing--large)",
+              "padding-bottom": "var(--spacing--large)",
+              "padding-left": "var(--spacing--large)",
+              "background-color": "#0000",
+              "margin-top": "0"
+            }
+          ]
+        },
+        {
+          "context": [
+            "@media screen and(max-width:767px)"
+          ],
+          "selector": ".faq_answer-content",
+          "source_rules": [
+            {
+              "padding-right": "var(--spacing--medium)",
+              "padding-bottom": "var(--spacing--medium)",
+              "padding-left": "var(--spacing--medium)"
+            }
+          ],
+          "target_rules": [
+            {
+              "padding-right": "var(--spacing--medium)",
+              "padding-bottom": "var(--spacing--medium)",
+              "padding-left": "var(--spacing--medium)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_answer-text",
+      "source_definition": {
+        "id": "9f8c13ab-53f6-aa4a-850e-e80a2dbc4881",
+        "name": "faq_answer-text",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-text"
+      },
+      "target_definition": {
+        "id": "9f8c13ab-53f6-aa4a-850e-e80a2dbc4881",
+        "name": "faq_answer-text",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-text"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_answer-text",
+          "source_rules": [
+            {
+              "color": "var(--brand-colors-black-tints--40)",
+              "text-wrap": "pretty",
+              "font-size": "1.25rem"
+            }
+          ],
+          "target_rules": [
+            {
+              "color": "var(--brand-colors-black-tints--40)",
+              "text-wrap": "pretty",
+              "font-size": "1.25rem"
+            }
+          ]
+        },
+        {
+          "context": [
+            "@media screen and(max-width:479px)"
+          ],
+          "selector": ".faq_answer-text",
+          "source_rules": [
+            {
+              "font-size": "1.15rem"
+            }
+          ],
+          "target_rules": [
+            {
+              "font-size": "1.15rem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_answer-wrapper",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f8f",
+        "name": "faq_answer-wrapper",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-wrapper"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f8f",
+        "name": "faq_answer-wrapper",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_answer-wrapper"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_answer-wrapper",
+          "source_rules": [
+            {
+              "z-index": "1",
+              "background-color": "#0000",
+              "display": "block",
+              "position": "relative"
+            }
+          ],
+          "target_rules": [
+            {
+              "z-index": "1",
+              "background-color": "#0000",
+              "display": "block",
+              "position": "relative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_icon-H",
+      "source_definition": {
+        "id": "52409fb2-564a-07d5-41c8-a136dc36aab3",
+        "name": "faq_icon-H",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-h"
+      },
+      "target_definition": {
+        "id": "52409fb2-564a-07d5-41c8-a136dc36aab3",
+        "name": "faq_icon-H",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-h"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_icon-h",
+          "source_rules": [
+            {
+              "background-color": "#0028ff",
+              "border-radius": "100px",
+              "flex": "none",
+              "width": "1rem",
+              "height": ".15rem"
+            }
+          ],
+          "target_rules": [
+            {
+              "background-color": "#0028ff",
+              "border-radius": "100px",
+              "flex": "none",
+              "width": "1rem",
+              "height": ".15rem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_icon-V",
+      "source_definition": {
+        "id": "451791b7-4934-5b50-017f-2f686f5b063b",
+        "name": "faq_icon-V",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-v"
+      },
+      "target_definition": {
+        "id": "451791b7-4934-5b50-017f-2f686f5b063b",
+        "name": "faq_icon-V",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-v"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_icon-v",
+          "source_rules": [
+            {
+              "background-color": "#0028ff",
+              "border-radius": "100px",
+              "flex": "none",
+              "width": ".15rem",
+              "height": "16px",
+              "position": "absolute"
+            }
+          ],
+          "target_rules": [
+            {
+              "background-color": "#0028ff",
+              "border-radius": "100px",
+              "flex": "none",
+              "width": ".15rem",
+              "height": "16px",
+              "position": "absolute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_icon-wrap",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f90",
+        "name": "faq_icon-wrap",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-wrap"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f90",
+        "name": "faq_icon-wrap",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_icon-wrap"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_icon-wrap",
+          "source_rules": [
+            {
+              "background-color": "#0000",
+              "flex": "none",
+              "justify-content": "center",
+              "align-items": "center",
+              "display": "flex",
+              "position": "relative"
+            }
+          ],
+          "target_rules": [
+            {
+              "background-color": "#0000",
+              "flex": "none",
+              "justify-content": "center",
+              "align-items": "center",
+              "display": "flex",
+              "position": "relative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_question",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f91",
+        "name": "faq_question",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_question"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f91",
+        "name": "faq_question",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_question"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_question",
+          "source_rules": [
+            {
+              "border-radius": "var(--border-radius--large)",
+              "background-color": "#fefefe",
+              "border": "1px #0c0d0d",
+              "border-bottom-color": "#393939",
+              "flex-direction": "column",
+              "height": "auto",
+              "margin-left": "0",
+              "margin-right": "0",
+              "display": "flex",
+              "position": "static",
+              "overflow": "hidden"
+            }
+          ],
+          "target_rules": [
+            {
+              "border-radius": "var(--border-radius--large)",
+              "background-color": "#fefefe",
+              "border": "1px #0c0d0d",
+              "border-bottom-color": "#393939",
+              "flex-direction": "column",
+              "height": "auto",
+              "margin-left": "0",
+              "margin-right": "0",
+              "display": "flex",
+              "position": "static",
+              "overflow": "hidden"
+            }
+          ]
+        },
+        {
+          "context": [
+            "@media screen and(max-width:767px)"
+          ],
+          "selector": ".faq_question",
+          "source_rules": [
+            {
+              "border-radius": "3.47vw"
+            }
+          ],
+          "target_rules": [
+            {
+              "border-radius": "3.47vw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_question-name",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f8e",
+        "name": "faq_question-name",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_question-name"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f8e",
+        "name": "faq_question-name",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_question-name"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_question-name",
+          "source_rules": [
+            {
+              "letter-spacing": "-.02em",
+              "width": "85%",
+              "font-size": "1.25rem",
+              "font-weight": "600",
+              "line-height": "1.2"
+            }
+          ],
+          "target_rules": [
+            {
+              "letter-spacing": "-.02em",
+              "width": "85%",
+              "font-size": "1.25rem",
+              "font-weight": "600",
+              "line-height": "1.2"
+            }
+          ]
+        },
+        {
+          "context": [
+            "@media screen and(max-width:479px)"
+          ],
+          "selector": ".faq_question-name",
+          "source_rules": [
+            {
+              "font-size": "1.15rem"
+            }
+          ],
+          "target_rules": [
+            {
+              "font-size": "1.15rem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "faq_toggle",
+      "source_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f88",
+        "name": "faq_toggle",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_toggle"
+      },
+      "target_definition": {
+        "id": "2d2ed271-0657-96c0-6df9-b169001a1f88",
+        "name": "faq_toggle",
+        "isFromLibrary": false,
+        "isComboClass": false,
+        "type": "global",
+        "selector": ".faq_toggle"
+      },
+      "same_definition_metadata": true,
+      "selector_rules": [
+        {
+          "context": [],
+          "selector": ".faq_toggle",
+          "source_rules": [
+            {
+              "z-index": "5",
+              "padding": "var(--spacing--large)",
+              "white-space": "normal",
+              "background-color": "#0000",
+              "justify-content": "space-between",
+              "align-items": "center",
+              "margin-left": "0",
+              "margin-right": "0",
+              "display": "flex"
+            }
+          ],
+          "target_rules": [
+            {
+              "z-index": "5",
+              "padding": "var(--spacing--large)",
+              "white-space": "normal",
+              "background-color": "#0000",
+              "justify-content": "space-between",
+              "align-items": "center",
+              "margin-left": "0",
+              "margin-right": "0",
+              "display": "flex"
+            }
+          ]
+        },
+        {
+          "context": [
+            "@media screen and(max-width:767px)"
+          ],
+          "selector": ".faq_toggle",
+          "source_rules": [
+            {
+              "padding": "var(--spacing--medium)"
+            }
+          ],
+          "target_rules": [
+            {
+              "padding": "var(--spacing--medium)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Published CSS snapshots may differ from draft styles; they are not proof of current Designer computed styles.",
+    "Style catalogs contain identity/metadata only, no declarations.",
+    "This parser omits non-style at-rules such as font-face/keyframes; inherited/base tag and inline styles need independent verification.",
+    "Relevance is a conservative class-set filter, not DOM selector matching."
+  ],
+  "base_rules_differences": [
+    {
+      "context": [],
+      "selector": "[class*=\" w-icon-\"]",
+      "source_rules": [
+        {
+          "speak": "none",
+          "font-variant": "normal",
+          "text-transform": "none",
+          "-webkit-font-smoothing": "antialiased",
+          "-moz-osx-font-smoothing": "grayscale",
+          "font-style": "normal",
+          "font-weight": "normal",
+          "line-height": "1",
+          "font-family": "webflow-icons !important"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "[class*=\\ w-icon-]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "speak": "none",
+          "font-variant": "normal",
+          "text-transform": "none",
+          "-webkit-font-smoothing": "antialiased",
+          "-moz-osx-font-smoothing": "grayscale",
+          "font-style": "normal",
+          "font-weight": "400",
+          "line-height": "1",
+          "font-family": "webflow-icons!important"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "[class^=\"w-icon-\"]",
+      "source_rules": [
+        {
+          "speak": "none",
+          "font-variant": "normal",
+          "text-transform": "none",
+          "-webkit-font-smoothing": "antialiased",
+          "-moz-osx-font-smoothing": "grayscale",
+          "font-style": "normal",
+          "font-weight": "normal",
+          "line-height": "1",
+          "font-family": "webflow-icons !important"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "[class^=w-icon-]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "speak": "none",
+          "font-variant": "normal",
+          "text-transform": "none",
+          "-webkit-font-smoothing": "antialiased",
+          "-moz-osx-font-smoothing": "grayscale",
+          "font-style": "normal",
+          "font-weight": "400",
+          "line-height": "1",
+          "font-family": "webflow-icons!important"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "[data-nav-menu-open]",
+      "source_rules": [
+        {
+          "text-align": "center",
+          "background": "#c8c8c8",
+          "min-width": "200px",
+          "position": "absolute",
+          "top": "100%",
+          "left": "0",
+          "right": "0",
+          "overflow": "visible",
+          "display": "block !important"
+        }
+      ],
+      "target_rules": [
+        {
+          "text-align": "center",
+          "background": "#c8c8c8",
+          "min-width": "200px",
+          "position": "absolute",
+          "top": "100%",
+          "left": "0",
+          "right": "0",
+          "overflow": "visible",
+          "display": "block!important"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "[type=\"button\"]",
+      "source_rules": [
+        {
+          "cursor": "pointer",
+          "-webkit-appearance": "button",
+          "border": "0"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "[type=\"reset\"]",
+      "source_rules": [
+        {
+          "cursor": "pointer",
+          "-webkit-appearance": "button",
+          "border": "0"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "[type=button]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "cursor": "pointer",
+          "-webkit-appearance": "button",
+          "border": "0"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "[type=reset]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "cursor": "pointer",
+          "-webkit-appearance": "button",
+          "border": "0"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "b",
+      "source_rules": [
+        {
+          "font-weight": "bold"
+        }
+      ],
+      "target_rules": [
+        {
+          "font-weight": "700"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h1",
+      "source_rules": [
+        {
+          "margin": ".67em 0",
+          "font-size": "2em"
+        },
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "38px",
+          "line-height": "44px"
+        },
+        {
+          "color": "var(--brand-colors--black)",
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "4rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin": ".67em 0",
+          "font-size": "2em"
+        },
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "38px",
+          "line-height": "44px"
+        },
+        {
+          "color": "var(--brand-colors--black)",
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "4rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h2",
+      "source_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "32px",
+          "line-height": "36px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "3rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "32px",
+          "line-height": "36px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "3rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h3",
+      "source_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "24px",
+          "line-height": "30px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "2rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "20px",
+          "font-size": "24px",
+          "line-height": "30px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "2rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h4",
+      "source_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "18px",
+          "line-height": "24px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.75rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "18px",
+          "line-height": "24px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.75rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h5",
+      "source_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "14px",
+          "line-height": "20px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.5rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "14px",
+          "line-height": "20px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.5rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "h6",
+      "source_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "bold"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "12px",
+          "line-height": "18px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.15rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "10px",
+          "font-weight": "700"
+        },
+        {
+          "margin-top": "10px",
+          "font-size": "12px",
+          "line-height": "18px"
+        },
+        {
+          "margin-top": "0",
+          "margin-bottom": "0",
+          "font-size": "1.15rem",
+          "font-weight": "600",
+          "line-height": "1.2"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "html input[type=\"button\"]",
+      "source_rules": [
+        {
+          "-webkit-appearance": "button",
+          "cursor": "pointer"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "html input[type=button]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "-webkit-appearance": "button",
+          "cursor": "pointer"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "html[data-w-dynpage] [data-w-cloak]",
+      "source_rules": [
+        {
+          "color": "#0000 !important"
+        }
+      ],
+      "target_rules": [
+        {
+          "color": "#0000!important"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"checkbox\"]",
+      "source_rules": [
+        {
+          "box-sizing": "border-box",
+          "padding": "0"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"number\"]::-webkit-inner-spin-button",
+      "source_rules": [
+        {
+          "height": "auto"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"number\"]::-webkit-outer-spin-button",
+      "source_rules": [
+        {
+          "height": "auto"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"radio\"]",
+      "source_rules": [
+        {
+          "box-sizing": "border-box",
+          "padding": "0"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"reset\"]",
+      "source_rules": [
+        {
+          "-webkit-appearance": "button",
+          "cursor": "pointer"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"search\"]",
+      "source_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"search\"]::-webkit-search-cancel-button",
+      "source_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=\"search\"]::-webkit-search-decoration",
+      "source_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ],
+      "target_rules": null
+    },
+    {
+      "context": [],
+      "selector": "input[type=checkbox]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "box-sizing": "border-box",
+          "padding": "0"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=number]::-webkit-inner-spin-button",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "height": "auto"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=number]::-webkit-outer-spin-button",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "height": "auto"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=radio]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "box-sizing": "border-box",
+          "padding": "0"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=reset]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "-webkit-appearance": "button",
+          "cursor": "pointer"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=search]",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=search]::-webkit-search-cancel-button",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "input[type=search]::-webkit-search-decoration",
+      "source_rules": null,
+      "target_rules": [
+        {
+          "-webkit-appearance": "none"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "label",
+      "source_rules": [
+        {
+          "margin-bottom": "5px",
+          "font-weight": "bold",
+          "display": "block"
+        }
+      ],
+      "target_rules": [
+        {
+          "margin-bottom": "5px",
+          "font-weight": "700",
+          "display": "block"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "optgroup",
+      "source_rules": [
+        {
+          "color": "inherit",
+          "font": "inherit",
+          "margin": "0"
+        },
+        {
+          "font-weight": "bold"
+        }
+      ],
+      "target_rules": [
+        {
+          "color": "inherit",
+          "font": "inherit",
+          "margin": "0"
+        },
+        {
+          "font-weight": "700"
+        }
+      ]
+    },
+    {
+      "context": [],
+      "selector": "strong",
+      "source_rules": [
+        {
+          "font-weight": "bold"
+        },
+        {
+          "font-weight": "600"
+        }
+      ],
+      "target_rules": [
+        {
+          "font-weight": "700"
+        },
+        {
+          "font-weight": "600"
+        }
+      ]
+    }
+  ],
+  "home_page_grid_rule_counts": {
+    "source": 3,
+    "target": 3,
+    "different": 3
+  },
+  "home_page_grid_differences": [
+    {
+      "context": [],
+      "selector": "#w-node-f9318e29-354a-45cd-23aa-0f92b790b2f6-HOME",
+      "source_rules": [
+        {
+          "grid-area": "span 1 / span 1 / span 1 / span 1"
+        }
+      ],
+      "target_rules": [
+        {
+          "grid-area": "span 1/span 1/span 1/span 1"
+        }
+      ]
+    },
+    {
+      "context": [
+        "@media screen and(max-width:991px)"
+      ],
+      "selector": "#w-node-f026b1a3-2142-e335-b4f3-3291efb603aa-HOME",
+      "source_rules": [
+        {
+          "grid-area": "2 / 1 / 2 / 2"
+        }
+      ],
+      "target_rules": [
+        {
+          "grid-area": "2/1/2/2"
+        }
+      ]
+    },
+    {
+      "context": [
+        "@media screen and(max-width:991px)"
+      ],
+      "selector": "#w-node-ff7ee839-8744-c40f-b0b8-19eb87ff2c31-HOME",
+      "source_rules": [
+        {
+          "grid-area": "span 1 / span 1 / span 1 / span 1"
+        }
+      ],
+      "target_rules": [
+        {
+          "grid-area": "span 1/span 1/span 1/span 1"
+        }
+      ]
+    }
+  ],
+  "supplemental_presentation_normalization": {
+    "method": "Normalize quoted/unquoted attribute selector values, CSS slash/important spacing and font-weight bold=700/normal=400; not a browser computed-style check.",
+    "base_differences_remaining": [],
+    "home_grid_differences_remaining": [],
+    "raw_base_difference_count": 38,
+    "raw_home_grid_difference_count": 3
+  },
+  "faq_styles_summary": [
+    {
+      "name": "faq_answer-content",
+      "same_definition_metadata": true,
+      "rule_count": 2,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_answer-text",
+      "same_definition_metadata": true,
+      "rule_count": 2,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_answer-wrapper",
+      "same_definition_metadata": true,
+      "rule_count": 1,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_icon-H",
+      "same_definition_metadata": true,
+      "rule_count": 1,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_icon-V",
+      "same_definition_metadata": true,
+      "rule_count": 1,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_icon-wrap",
+      "same_definition_metadata": true,
+      "rule_count": 1,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_question",
+      "same_definition_metadata": true,
+      "rule_count": 2,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_question-name",
+      "same_definition_metadata": true,
+      "rule_count": 2,
+      "all_rules_exact": true
+    },
+    {
+      "name": "faq_toggle",
+      "same_definition_metadata": true,
+      "rule_count": 2,
+      "all_rules_exact": true
+    }
+  ],
+  "class_differences_summary": [
+    {
+      "context": [],
+      "selector": ".contact_component",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".hero_bg",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".microsoft_component",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".modal_wrap",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".quote_component",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".retail_component",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [],
+      "selector": ".testimonial_component",
+      "different_properties": [
+        "background-image"
+      ]
+    },
+    {
+      "context": [
+        "@media screen and(max-width:991px)"
+      ],
+      "selector": ".hero_bg",
+      "different_properties": [
+        "background-image"
+      ]
+    }
+  ]
+}

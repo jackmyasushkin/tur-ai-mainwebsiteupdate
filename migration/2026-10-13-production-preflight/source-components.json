@@ -1,0 +1,155 @@
+{
+  "captured_at": "2026-10-13T07:18:57.071Z",
+  "mode": "read-only-preflight",
+  "responses": [
+    {
+      "label": "transferSourceComponents",
+      "action": "get_all_components",
+      "result": [
+        {
+          "id": "df4f4fe4-659a-9bd1-cc45-48cfbeed0231",
+          "name": "header-en",
+          "instanceCount": 2,
+          "props": []
+        },
+        {
+          "id": "bc9c8df7-888c-4958-8f98-b91c6bfd7410",
+          "name": "footer EN",
+          "instanceCount": 2,
+          "props": []
+        },
+        {
+          "id": "753b68e2-7325-f37c-6dce-dffc6ad6c3cf",
+          "name": "header-ua",
+          "instanceCount": 1,
+          "props": []
+        },
+        {
+          "id": "8098017d-d3d8-860c-6c00-a8da981d60d7",
+          "name": "footer-ua",
+          "instanceCount": 3,
+          "props": []
+        },
+        {
+          "id": "c5ed3d23-4f05-0330-5f5d-d23d49bae0d0",
+          "name": "cta-ua",
+          "instanceCount": 3,
+          "props": []
+        },
+        {
+          "id": "65c8df30-8acc-e4de-6291-29896f42a5a7",
+          "name": "cta-en",
+          "instanceCount": 2,
+          "props": []
+        },
+        {
+          "id": "b353f866-47b7-dc8c-628c-624c3e4c4048",
+          "name": "hidden-input",
+          "instanceCount": 13,
+          "props": []
+        },
+        {
+          "id": "1c6ce5d6-e9d7-469b-2914-e4e8d92dd94b",
+          "name": "contact-us-modal-en",
+          "instanceCount": 1,
+          "props": []
+        },
+        {
+          "id": "0d127f47-e4f3-7e49-bd54-7122611836bf",
+          "name": "book-a-demo-en",
+          "instanceCount": 1,
+          "props": []
+        },
+        {
+          "id": "c74d92c5-78eb-850b-2d15-2d7b8ef4bf9d",
+          "name": "contact-us-ua",
+          "instanceCount": 3,
+          "props": []
+        },
+        {
+          "id": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+          "name": "book-a-demo-ua",
+          "instanceCount": 4,
+          "props": []
+        },
+        {
+          "id": "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+          "name": "Button - Light",
+          "instanceCount": 8,
+          "props": [
+            {
+              "id": "36704c9c-e307-8dd1-8623-c5843148514f",
+              "type": "textContent",
+              "name": "Button Text",
+              "defaultValue": "Book a Demo"
+            }
+          ]
+        },
+        {
+          "id": "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+          "name": "Button - Dark",
+          "instanceCount": 13,
+          "props": [
+            {
+              "id": "79d4a0d2-c276-80a0-3cda-029fed34cbe3",
+              "type": "textContent",
+              "name": "Button Text",
+              "defaultValue": "Contact Us"
+            },
+            {
+              "id": "fa7598c9-e22d-88ff-f5a1-96a7c828705c",
+              "type": "link",
+              "name": "Button Link",
+              "defaultValue": {
+                "mode": "url",
+                "to": "#"
+              }
+            }
+          ]
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instanceCount": 6,
+          "props": []
+        },
+        {
+          "id": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+          "name": "Nav",
+          "instanceCount": 1,
+          "props": []
+        },
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instanceCount": 6,
+          "props": []
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instanceCount": 6,
+          "props": []
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instanceCount": 6,
+          "props": []
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instanceCount": 5,
+          "props": []
+        },
+        {
+          "id": "324a4748-e050-0bae-5865-2ea8b1a54c51",
+          "name": "Contact Section",
+          "instanceCount": 1,
+          "props": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Current task and precedence
 
+The current task is preparation of the transfer strategy for the original Tur.ai project. Start with `docs/PRODUCTION_TRANSFER_STRATEGY.md` and `migration/2026-10-13-production-preflight/target-plan.json`. The owner chose to add the missing HOME-123/124 FAQ in the style of existing production blocks. This choice is recorded for the plan; no production changes or publication occurred. An explicit subsequent implementation instruction is required before target writes; publication remains a separate step. Reconcile fresh target state before executing the saved candidate.
+
 The latest owner-approved homepage category is **Enterprise Process Orchestration Platform**. First read `docs/IMPLEMENTATION_HANDOFF.md`. The exact hero is locked in `content/home/decisions.md`. This is a homepage messaging decision; do not silently rewrite the separate TechCrunch positioning repository.
 
 `HOME-003` alone has a documented, exact-value exception to legacy segment budgets. Keep original `max_chars`, IDs and raw source descriptors intact. `tools/check.py` validates it explicitly through `hero_copy_exception.py`, then validates all other fields using the frozen checker. No other exceptions are authorized.

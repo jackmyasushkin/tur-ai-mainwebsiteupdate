@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-13T07:41:21.841400+00:00",
+  "mapping_reproduction": "PASS",
+  "rows": 228,
+  "unique_existing_text_targets": 120,
+  "shared_definition_writes": 7,
+  "ordinal_targets": 4,
+  "negative_raw_whitespace_guard": "production_value_conflict",
+  "negative_uuid_style_context_guard": "binding_conflict",
+  "missing_faq_not_silently_mapped": "PASS",
+  "json_and_links": "PASS",
+  "source_editorial_checks": "PASS",
+  "existing_source_unit_tests": 21,
+  "handoff_consistency": "PASS",
+  "rate_policy_scenarios": "PASS",
+  "independent_mapping_review": "PASS_FOR_PLANNING_WITH_DOCUMENTED_LIMITS",
+  "webflow_mutations": 0,
+  "publication_performed": false
+}
