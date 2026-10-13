@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-041\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-042\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    }
+  ]
+}

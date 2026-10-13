@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "[{\"status\":\"success\",\"message\":\"Current page loaded\",\"data\":{\"id\":\"66368e29da23c5a1b0fe1396\",\"pageName\":\"Home\",\"slug\":\"\",\"pageParentId\":null,\"pageParentName\":null,\"pageParentSlug\":null,\"description\":\"Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo.\",\"title\":\"Tur.ai - Headless Hyperautomation platform\",\"pageKind\":\"static\",\"isHomepage\":true,\"pageType\":\"Page\",\"isDraft\":false}},{\"status\":\"success\",\"message\":\"Current mode retrieved\",\"data\":\"design\"}]"
+    }
+  ]
+}

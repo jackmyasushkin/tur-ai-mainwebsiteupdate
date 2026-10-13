@@ -1,0 +1,10 @@
+{
+  "sameResults": [
+    true,
+    true
+  ],
+  "afterActions": [
+    "get_page_freeform_code",
+    "get_site_freeform_code"
+  ]
+}

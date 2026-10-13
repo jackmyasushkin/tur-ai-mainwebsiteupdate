@@ -1,0 +1,297 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 952 MB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/, Secondary Actions: Raise
+	1 container Webflow - Tur.ai - High memory usage - 952 MB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Value: tur-ai.design.webflow.com, Placeholder: Search Google or type a URL
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/
+						19 container
+							20 container
+							21 container
+							22 container
+								23 text Desktop Affects all resolutions
+							24 HTML content Webflow, URL: tur-ai.design.webflow.com/
+								25 container
+									26 container
+										27 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+										28 link Book a Demo, Value: tur-ai.design.webflow.com/#
+										29 link Contact Us, Value: tur-ai.design.webflow.com/#
+									30 container
+										31 heading Enterprise Process Orchestration Platform, Value: 1
+											32 text Enterprise  Process  Orchestration  Platform
+										33 text Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.
+										34 link Book a Demo, Value: tur-ai.design.webflow.com/#
+										35 text See how to run, control and change a process across your systems.
+										36 image Heineken Logo - White
+										37 image Noordwest Logo - White
+										38 image Radio Holland - White
+										39 image NOC NSF Logo - White
+									40 heading Work and change faster. Results from banking engagements., Value: 2
+										41 text Work and  change faster.  Results from banking engagements.
+									42 text Shorter process cycles 62 % One European bank: customer onboarding fell from 16 days to 6. Lower staffing needs 82 % The same bank's onboarding staffing requirement fell from 34 FTE to 6.
+									43 text Lower LLM costs
+									44 text 83
+									45 text %
+									46 text Banking case: annual token spend fell from €1.8M to €300K.
+									47 text Faster process delivery 3 × A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.
+									48 image Image of Ievgen Miasushkin, CEO of Tur.ai
+									49 container
+										50 text We built Tur.ai so businesses can work and change faster without replacing their  core .
+									51 text Ievgen Miasushkin
+									52 text CEO of Tur.ai
+									53 heading Coordinate Systems, AI and People in One Governed Process., Value: 2
+										54 text Coordinate  Systems, AI and People in One Governed Process.
+									55 image Message Icon
+									56 text / 01
+									57 heading Work intake, Value: 3
+										58 text Work intake
+									59 text Bring requests, documents and system data into one process with shared context.
+									60 image Filter Icon
+									61 text / 02
+									62 heading Task routing, Value: 3
+										63 text Task routing
+									64 text Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.
+									65 image Gears Icon
+									66 text / 03
+									67 heading Controlled execution, Value: 3
+										68 text Controlled execution
+									69 text Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.
+									70 image Activity Icon
+									71 text / 04
+									72 heading Human decisions, Value: 3
+										73 text Human decisions
+									74 text Route exceptions to the right person to decide.
+									75 image Tick Icon
+									76 text / 05
+									77 heading Traceable outcomes, Value: 3
+										78 text Traceable outcomes
+									79 text Record actions and decisions for review and audit.
+									80 heading Real operations powered by Tur.ai., Value: 2
+										81 text Real operations powered by  Tur.ai .
+									82 container carousel
+										83 image
+										84 image
+										85 container
+											86 container 1 of 4
+												87 image Radio Holland Logo - Black
+												88 text Lead-to-quote automation
+												89 text Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.
+												90 container
+													91 link Learn More, Value: tur-ai.design.webflow.com/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai
+											92 container 2 of 4
+												93 image Heineken Logo - Black
+												94 text Cashback campaign operations
+												95 text Heineken ran 12 nationwide campaigns with a small in-house team.
+												96 container
+													97 link Learn More, Value: tur-ai.design.webflow.com/heinekens-transformation-of-cashback-campaigns-with-ai-automation
+										98 container
+											99 toggle button Show slide 1 of 2, Value: 1
+											100 toggle button Show slide 2 of 2, Value: 0
+									101 heading The operational plane: your rules, across your existing systems., Value: 2
+										102 text The operational plane:  your rules , across your existing systems.
+									103 container
+										104 text 01 . One model for every task
+									105 container
+										106 text 02 . People bridging systems and teams
+									107 container
+										108 text 03 . Process changes held up by core releases
+									109 container
+										110 text 04 . Retries that waste tokens and time
+									111 container
+										112 image Play Icon
+										113 text AI models matched to each task
+									114 container
+										115 image Arrow Icon
+										116 text One governed flow across systems and teams
+									117 container
+										118 image Document+ Icon
+										119 text Change processes above existing systems
+									120 container
+										121 image Document Icon
+										122 text Bounded retries, checks and human decisions
+									123 heading What people say about Tur.ai., Value: 2
+										124 text What people say about  Tur.ai .
+									125 heading Value: 3, “Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”
+										126 text “ Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them. ”
+									127 image Image of Faissel el Mourid
+									128 heading Faissel el Mouridi, Value: 4
+										129 text Faissel el Mouridi
+									130 text CFO, Radio Holland
+									131 heading One platform to pilot, run and scale your processes, Value: 2
+										132 text One  platform  to pilot, run and scale your processes
+									133 tab group
+										134 container
+											135 text PILOT / 01
+										136 container
+											137 text LAUNCH / 02
+										138 container
+											139 text SCALE / 03
+									140 text Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.
+									141 image Microsoft for Startups Badge
+									142 text Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.
+									143 heading Your Questions Answered., Value: 2
+										144 text Your Questions  Answered .
+									145 pop up button How do we start and measure the first value?
+										146 text How do we start and measure the first value?
+									147 container How do we start and measure the first value?
+										148 container
+											149 text Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate. We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts. Use measured results to decide whether to expand, adapt or stop.
+									150 pop up button Can we change processes without replacing our existing systems?
+										151 text Can we change processes without replacing our existing systems?
+									152 container Can we change processes without replacing our existing systems?
+										153 text Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.
+									154 pop up button How do we fit Tur.ai into our security and data requirements?
+										155 text How do we fit Tur.ai into our security and data requirements?
+									156 container How do we fit Tur.ai into our security and data requirements?
+										157 container
+											158 text Agree the deployment design with your IT and security teams: system access, data flows and model use. Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.
+									159 pop up button How does Tur.ai keep AI costs under control as we scale?
+										160 text How does Tur.ai keep AI costs under control as we scale?
+									161 container How does Tur.ai keep AI costs under control as we scale?
+										162 text Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.
+									163 pop up button What do the results on this page actually measure?
+										164 text What do the results on this page actually measure?
+									165 container What do the results on this page actually measure?
+										166 text Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.
+									167 pop up button How does Tur.ai fit with our ERP, automation tools and AI?
+										168 text How does Tur.ai fit with our ERP, automation tools and AI?
+									169 container How does Tur.ai fit with our ERP, automation tools and AI?
+										170 text Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.
+									171 pop up button What happens when AI needs human judgment or an exception occurs?
+										172 text What happens when AI needs human judgment or an exception occurs?
+									173 container What happens when AI needs human judgment or an exception occurs?
+										174 text Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.
+									175 pop up button Which processes are a good fit for Tur.ai?
+										176 text Which processes are a good fit for Tur.ai?
+									177 container Which processes are a good fit for Tur.ai?
+										178 text Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.
+									179 text More Questions?
+									180 text Discuss process delivery, AI costs and the controls you need.
+									181 container
+										182 link Contact Us, Value: tur-ai.design.webflow.com/#
+									183 heading Tell us more about your goals., Value: 2
+										184 text Tell us more about your  goals .
+									185 container Email Form
+										186 text First Name
+										187 text field (settable) First Name
+										188 text Last Name
+										189 text field (settable) Last Name
+										190 text Email
+										191 email (settable) Email
+										192 text Company
+										193 text field (settable) Company
+										194 text Your process and goals
+										195 text entry area (settable) Your process and goals, Placeholder: Which process needs to change, and which systems and controls are involved?
+										196 button Submit
+									197 image Tur.ai Logo - Full
+									198 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+									199 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+									200 link Imprint, Value: tur-ai.design.webflow.com/imprint
+									201 link Back to Top, Value: tur-ai.design.webflow.com/#
+									202 text © 2026 Tur.ai. All rights reserved.
+									203 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+									204 image Dutch Interactive Awards Logo
+									205 image Accenture Innovation Awards - Award Logo
+									206 image ML and Intelligent Automation Award Logo
+									207 image Spinawards - Award Logo
+						208 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+						209 container
+							210 image
+							211 image
+							212 image
+							213 container
+								214 pop up button File menu button
+								215 toggle button Design, Value: 1
+									216 text Design
+								217 toggle button CMS, Value: 0
+									218 text CMS
+								219 toggle button Insights, Value: 0
+									220 text Insights
+								221 button Open Localize settings
+								222 splitter
+								223 toggle button Home, Value: 0
+									224 text Home
+								225 container
+									226 button jack (active) on page Home
+									227 toggle button Comments (C), Value: 0
+								228 toggle button Preview (⌥P), Value: 0
+								229 button Share
+								230 pop up button Publish
+									231 button Publish
+							232 container
+								233 toggle button Add Elements (A), Value: 0
+								234 toggle button Pages (P), Help: Pages, Value: 0
+								235 toggle button Navigator (Z), Value: 0
+								236 splitter
+								237 toggle button Components (⇧A), Value: 0
+								238 toggle button Variables (V), Value: 0
+								239 toggle button Style selectors (G), Help: Style selectors, Value: 0
+								240 toggle button Assets (J), Value: 0
+								241 toggle button Libraries (L), Value: 0
+								242 toggle button Instructions, Value: 0
+								243 splitter
+								244 toggle button Apps (E), Value: 0
+								245 toggle button Localize, Value: 0
+								246 toggle button Settings, Value: 0
+								247 toggle button Learning Assistant, Help: Help, Value: 0
+								248 toggle button Audits (U), Value: 0
+								249 button Find anything (CMD + E)
+								250 toggle button Video tutorials, Value: 0
+							251 text None selected
+							252 text Style
+							253 text Settings
+							254 text Interactions
+							255 container
+								256 text Style selector
+								257 text None
+								258 link  
+									259 text  
+								260 text Make a selection Select an element on the canvas to activate this panel
+							261 button (disabled) Undo
+							262 button (disabled) Redo
+							263 splitter
+							264 text No element selected
+							265 pop up button Canvas settings. Current viewport width is 1383px.
+							266 toggle button Desktop: Base breakpoint, Value: 1
+							267 toggle button Tablet: 991px and down, Value: 0
+							268 toggle button Mobile (L): 767px and down, Value: 0
+							269 toggle button Mobile: 479px and down, Value: 0
+							270 pop up button Larger breakpoints
+							271 button Expand canvas
+							272 container Notifications Alt+T
+			273 pop up button Tab search
+			274 container
+				275 tab group
+					276 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 952 MB, Value: on
+						277 button Close
+			278 button New Tab
+	279 close button
+	280 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	281 minimize button
+282 menu bar
+	283 Chrome
+	284 File
+	285 Edit
+	286 View
+	287 History
+	288 Bookmarks
+	289 Profiles
+	290 Tab
+	291 Window
+	292 Help
+
+The focused UI element is 18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/

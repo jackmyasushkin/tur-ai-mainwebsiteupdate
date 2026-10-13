@@ -1,4 +1,4 @@
-# Tur.ai Home: sandbox implementation
+# Tur.ai Home: original-project transfer
 
 **Current edition: enterprise-orchestration-handoff-v2**
 
@@ -6,7 +6,7 @@
 
 Current Webflow metadata confirms the sandbox publication at `2026-10-13T05:42:48.576Z`. The agent did not publish or merge PRs. Historical before/after reads remain intact.
 
-The next task is the [transfer strategy for the original Tur.ai project](docs/PRODUCTION_TRANSFER_STRATEGY.md). Live comparison maps 102 existing replacement fields; the owner approved adding one FAQ for the remaining two. This is a prepared plan, not an applied production change.
+**The transfer to the original Tur.ai project is applied and producer-verified, without publication.** See the [production transfer report](implementation/2026-10-13-production-home-transfer/REPORT.md): 104 editorial changes, 124 keep/hold decisions, one native FAQ addition, the Home-only ordinal fix, 12 responsive image pairs and checks on six English pages. The existing footer award overflow at 480px remains documented. The [transfer strategy](docs/PRODUCTION_TRANSFER_STRATEGY.md) is the historical approved plan; do not replay it.
 
 The [original implementation handoff](docs/IMPLEMENTATION_HANDOFF.md) describes the prepared source edition; its preparation-stage statements are historical.
 

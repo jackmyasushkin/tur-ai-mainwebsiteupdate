@@ -1,0 +1,418 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66b49df832b4a0c64e802a2c&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66b49df832b4a0c64e802a2c&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66b49df832b4a0c64e802a2c&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66b49df832b4a0c64e802a2c&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Desktop Affects all resolutions
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+										27 container
+											28 link Book a Demo, Value: tur-ai.canvas.webflow.com/#
+										29 container
+											30 link Contact Us, Value: tur-ai.canvas.webflow.com/#
+										31 image
+										32 image
+										33 image
+										34 heading Heineken's Transformation of Cashback Campaigns with AI Automation, Value: 1
+											35 text Heineken's Transformation of Cashback Campaigns  with AI Automation
+										36 heading Economic Context and Consumer Trends, Value: 2
+											37 text Economic Context and Consumer Trends
+										38 text As living costs and inflation rise, consumers are increasingly seeking ways to maximize their purchasing power. According to McKinsey,  consumers are now spending more to buy less , with U.S. consumer packaged goods (CPG) volume declining by 2 to 4 percent on average. Larger subcategories, such as vitamins and supplements, have suffered a 5 percent decline compared to 2022. Source: 
+										39 link McKinsey & Company, Consumers: Spending More to Buy Less, Value: mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-spending-more-to-buy-less
+										40 text The same research shows that the top three reasons consumers give for reducing purchase volume all relate to price or affordability:
+										41 heading Prices have increased, Value: 3
+											42 text Prices have increased
+										43 text <70%
+										44 heading Waiting for items to go on sale, Value: 3
+											45 text Waiting for items to go on sale
+										46 text <41%
+										47 heading Can't afford as much due to economic reasons, Value: 3
+											48 text Can't afford as much due to economic reasons
+										49 text <35%
+										50 text In this challenging market environment,  cashback promotions  have proven effective in driving consumer behavior, with recent research highlighting that  one in three shoppers are influenced by such promotions.
+										51 heading Challenges in Traditional Cashback Campaigns, Value: 2
+											52 text Challenges in Traditional Cashback Campaigns
+										53 text Heineken, a global retail leader, has extensive experience in launching cashback campaigns through an external agency. While these campaigns successfully boosted sales and enhanced customer loyalty,  Heineken recognized the necessity for internal management, thereby eliminating dependency on external agencies.
+										54 heading Key Improvement Areas, Value: 2
+											55 text Key Improvement Areas
+										56 image Cost Efficiency Icon
+										57 heading Automation, Value: 3
+											58 text Automation
+										59 text Streamlining the cashback process to cut high costs linked to manual operations.
+										60 image Quicker Responses Icon
+										61 heading Fraud Prevention, Value: 3
+											62 text Fraud Prevention
+										63 text Implementing advanced technologies to detect and prevent fraudulent activities.
+										64 image Faster Quotes Icon
+										65 heading Data Control, Value: 3
+											66 text Data Control
+										67 text Gaining direct access to customer data for better personalization and effectiveness in future campaigns.
+										68 heading Enhancing Automation and Efficiency, Value: 2
+											69 text Enhancing Automation and Efficiency
+										70 text A significant challenge in the automation phase was developing an AI system capable of  handling various receipt formats  and conditions in supermarket chains,  without requiring ongoing technical or AI support. Here’s a look at the key automation challenges:
+										71 heading Adapting to Various Formats, Value: 3
+											72 text Adapting to Various Formats
+										73 text The AI system needed to recognize different sizes, proportions, and fonts of receipts.
+										74 heading Processing Damaged Receipts, Value: 3
+											75 text Processing Damaged Receipts
+										76 text Processing receipts that are worn, crumpled, or otherwise damaged posed an additional challenge.
+										77 heading Diversity in Receipt Formats, Value: 3
+											78 text Diversity in Receipt Formats
+										79 text Supermarkets differ in how they present information on receipts, such as product names, quantities, and prices. These details can appear in various orders or formats across different stores, so the AI had to manage these diverse presentation formats to ensure consistent and accurate data extraction.
+										80 image A screenshot of Tur.ai solution for Heineken - #1
+										81 heading Fraud Prevention, Value: 2
+											82 text Fraud Prevention
+										83 text AI integration also improved Heineken's capability to detect and prevent fraud. The system was designed to  identify unusual patterns in receipt submissions , such as the repeated use of the same receipt or abnormally high cashback claims, thus protecting campaign integrity.
+										84 heading Maximizing the Value of Data, Value: 2
+											85 text Maximizing the Value of Data
+										86 text While the campaigns achieved notable success in boosting immediate sales, they also highlighted significant gaps that limited their long-term value due to the cooperation with an external agency. One of the main issues was the lack of data sharing.  The external agency collected but did not share participants' valuable data with Heineken.  This lack of data sharing meant that Heineken missed opportunities to leverage this information for future marketing strategies, customer relationship management, and personalized promotions.
+										87 heading Value: 3, “A critical missed opportunity was the absence of detailed analytics regarding consumer purchases. Detailed basket analysis—understanding what customers buy and their shopping behaviors—offers invaluable insights for tailoring future campaigns and product offerings. This issue was also resolved during the project implementation.”
+											88 text “ A critical missed opportunity was the absence of detailed analytics regarding consumer purchases. Detailed basket analysis—understanding what customers buy and their shopping behaviors—offers invaluable insights for tailoring future campaigns and product offerings. This issue was also resolved during the project implementation. ”
+										89 heading The Quintessence of the Project, Value: 2
+											90 text The Quintessence of the Project
+										91 text Realizing its broader potential, we developed for Heineken an in-house marketing dashboard that allows teams across different countries to independently set up and manage various types of cashback campaigns. This platform supports flexible campaign management, including diverse offers like "10% cashback," "full price refund for one unit," or "buy 2 get 1 free."
+										92 image A screenshot of Tur.ai solution for Heineken - #2
+										93 heading Impact and Results, Value: 2
+											94 text Impact and Results
+										95 text The implementation of the Intelligent Cashback Automation & Image Recognition Platform  has facilitated the execution of 12 nationwide cashback campaigns for 7 brands across all 27 retail chains in the Netherlands.  Notably, these nationwide campaigns were executed by a small internal team at Heineken, parallel to their day-to-day tasks, without requiring any technical or AI expertise. The marketing team can configure campaign rules and launch them with one click, enabling them to run multiple cashback campaigns simultaneously for different products, product categories, retail partners, or discount types. * This case was successfully executed in collaboration with  WeAreBrain  and WeAreTriple
+										96 heading We'll help you transform your business., Value: 2
+											97 text We'll help you  transform  your business.
+										98 container Email Form
+											99 text First Name
+											100 text field (settable) First Name
+											101 text Last Name
+											102 text field (settable) Last Name
+											103 text Email
+											104 email (settable) Email
+											105 text Company
+											106 text field (settable) Company
+											107 text Dive into Your AI Goals
+											108 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+											109 button Submit
+										110 image Tur.ai Logo - Full
+										111 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										112 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										113 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										114 link Back to Top, Value: tur-ai.canvas.webflow.com/#hero
+										115 text © 2026 Tur.ai. All rights reserved.
+										116 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										117 image Dutch Interactive Awards Logo
+										118 image Accenture Innovation Awards - Award Logo
+										119 image ML and Intelligent Automation Award Logo
+										120 image Spinawards - Award Logo
+						121 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+							122 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+							123 link Book a Demo, Value: tur-ai.design.webflow.com/site/empty.html#
+							124 link Contact Us, Value: tur-ai.design.webflow.com/site/empty.html#
+							125 container
+								126 image
+								127 image
+								128 image
+								129 heading Heineken's Transformation of Cashback Campaigns with AI Automation, Value: 1
+									130 text Heineken's Transformation of Cashback Campaigns  with AI Automation
+							131 heading Economic Context and Consumer Trends, Value: 2
+								132 text Economic Context and Consumer Trends
+							133 container
+								134 text As living costs and inflation rise, consumers are increasingly seeking ways to maximize their purchasing power. According to McKinsey,  consumers are now spending more to buy less , with U.S. consumer packaged goods (CPG) volume declining by 2 to 4 percent on average. Larger subcategories, such as vitamins and supplements, have suffered a 5 percent decline compared to 2022.
+							135 container
+								136 text Source: 
+								137 link McKinsey & Company, Consumers: Spending More to Buy Less, Value: mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-spending-more-to-buy-less
+							138 text The same research shows that the top three reasons consumers give for reducing purchase volume all relate to price or affordability:
+							139 heading Prices have increased, Value: 3
+								140 text Prices have increased
+							141 text <70%
+							142 heading Waiting for items to go on sale, Value: 3
+								143 text Waiting for items to go on sale
+							144 text <41%
+							145 heading Can't afford as much due to economic reasons, Value: 3
+								146 text Can't afford as much due to economic reasons
+							147 text <35%
+							148 container
+								149 text In this challenging market environment,  cashback promotions  have proven effective in driving consumer behavior, with recent research highlighting that  one in three shoppers are influenced by such promotions.
+							150 heading Challenges in Traditional Cashback Campaigns, Value: 2
+								151 text Challenges in Traditional Cashback Campaigns
+							152 container
+								153 text Heineken, a global retail leader, has extensive experience in launching cashback campaigns through an external agency. While these campaigns successfully boosted sales and enhanced customer loyalty,  Heineken recognized the necessity for internal management, thereby eliminating dependency on external agencies.
+							154 heading Key Improvement Areas, Value: 2
+								155 text Key Improvement Areas
+							156 image Cost Efficiency Icon
+							157 heading Automation, Value: 3
+								158 text Automation
+							159 text Streamlining the cashback process to cut high costs linked to manual operations.
+							160 image Quicker Responses Icon
+							161 heading Fraud Prevention, Value: 3
+								162 text Fraud Prevention
+							163 text Implementing advanced technologies to detect and prevent fraudulent activities.
+							164 image Faster Quotes Icon
+							165 heading Data Control, Value: 3
+								166 text Data Control
+							167 text Gaining direct access to customer data for better personalization and effectiveness in future campaigns.
+							168 heading Enhancing Automation and Efficiency, Value: 2
+								169 text Enhancing Automation and Efficiency
+							170 container
+								171 text A significant challenge in the automation phase was developing an AI system capable of  handling various receipt formats  and conditions in supermarket chains,  without requiring ongoing technical or AI support.
+							172 text Here’s a look at the key automation challenges:
+							173 heading Adapting to Various Formats, Value: 3
+								174 text Adapting to Various Formats
+							175 text The AI system needed to recognize different sizes, proportions, and fonts of receipts.
+							176 heading Processing Damaged Receipts, Value: 3
+								177 text Processing Damaged Receipts
+							178 text Processing receipts that are worn, crumpled, or otherwise damaged posed an additional challenge.
+							179 heading Diversity in Receipt Formats, Value: 3
+								180 text Diversity in Receipt Formats
+							181 text Supermarkets differ in how they present information on receipts, such as product names, quantities, and prices. These details can appear in various orders or formats across different stores, so the AI had to manage these diverse presentation formats to ensure consistent and accurate data extraction.
+							182 image A screenshot of Tur.ai solution for Heineken - #1
+							183 heading Fraud Prevention, Value: 2
+								184 text Fraud Prevention
+							185 container
+								186 text AI integration also improved Heineken's capability to detect and prevent fraud. The system was designed to  identify unusual patterns in receipt submissions , such as the repeated use of the same receipt or abnormally high cashback claims, thus protecting campaign integrity.
+							187 heading Maximizing the Value of Data, Value: 2
+								188 text Maximizing the Value of Data
+							189 container
+								190 text While the campaigns achieved notable success in boosting immediate sales, they also highlighted significant gaps that limited their long-term value due to the cooperation with an external agency. One of the main issues was the lack of data sharing.  The external agency collected but did not share participants' valuable data with Heineken.  This lack of data sharing meant that Heineken missed opportunities to leverage this information for future marketing strategies, customer relationship management, and personalized promotions.
+							191 heading Value: 3, “A critical missed opportunity was the absence of detailed analytics regarding consumer purchases. Detailed basket analysis—understanding what customers buy and their shopping behaviors—offers invaluable insights for tailoring future campaigns and product offerings. This issue was also resolved during the project implementation.”
+								192 text “ A critical missed opportunity was the absence of detailed analytics regarding consumer purchases. Detailed basket analysis—understanding what customers buy and their shopping behaviors—offers invaluable insights for tailoring future campaigns and product offerings. This issue was also resolved during the project implementation. ”
+							193 heading The Quintessence of the Project, Value: 2
+								194 text The Quintessence of the Project
+							195 text Realizing its broader potential, we developed for Heineken an in-house marketing dashboard that allows teams across different countries to independently set up and manage various types of cashback campaigns. This platform supports flexible campaign management, including diverse offers like "10% cashback," "full price refund for one unit," or "buy 2 get 1 free."
+							196 image A screenshot of Tur.ai solution for Heineken - #2
+							197 heading Impact and Results, Value: 2
+								198 text Impact and Results
+							199 container
+								200 text The implementation of the Intelligent Cashback Automation & Image Recognition Platform  has facilitated the execution of 12 nationwide cashback campaigns for 7 brands across all 27 retail chains in the Netherlands.  Notably, these nationwide campaigns were executed by a small internal team at Heineken, parallel to their day-to-day tasks, without requiring any technical or AI expertise. The marketing team can configure campaign rules and launch them with one click, enabling them to run multiple cashback campaigns simultaneously for different products, product categories, retail partners, or discount types.
+							201 container
+								202 text * This case was successfully executed in collaboration with  WeAreBrain  and WeAreTriple
+							203 heading We'll help you transform your business., Value: 2
+								204 text We'll help you  transform  your business.
+							205 container Email Form
+								206 text First Name
+								207 text field (settable) First Name
+								208 text Last Name
+								209 text field (settable) Last Name
+								210 text Email
+								211 email (settable) Email
+								212 text Company
+								213 text field (settable) Company
+								214 text Dive into Your AI Goals
+								215 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+								216 button Submit
+							217 image Tur.ai Logo - Full
+							218 container
+								219 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+								220 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+								221 link Imprint, Value: tur-ai.design.webflow.com/imprint
+							222 link Back to Top, Value: tur-ai.design.webflow.com/site/empty.html#hero
+							223 text © 2026 Tur.ai. All rights reserved.
+							224 container
+								225 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+								226 image Dutch Interactive Awards Logo
+								227 image Accenture Innovation Awards - Award Logo
+								228 image ML and Intelligent Automation Award Logo
+								229 image Spinawards - Award Logo
+							230 heading Book a Demo, Value: 2
+								231 text Book a  Demo
+							232 text See a process run across systems, with controls and task-matched AI.
+							233 container Book a Demo
+								234 text First Name
+								235 text field (settable)
+								236 text Last Name
+								237 text field (settable)
+								238 text Email
+								239 email (settable)
+								240 text Company
+								241 text field (settable)
+								242 button Submit
+							243 image
+							244 heading Book a Call, Value: 2
+								245 text Book a  Call
+							246 text Share your details to discuss orchestration.
+							247 container Book a Call
+								248 text First Name
+								249 text field (settable)
+								250 text Last Name
+								251 text field (settable)
+								252 text Email
+								253 email (settable)
+								254 text Company
+								255 text field (settable)
+								256 button Submit
+							257 image
+						258 container
+							259 image
+							260 image
+							261 image
+							262 container
+								263 button
+								264 toggle button Design, Value: 0
+									265 text Design
+								266 toggle button CMS, Value: 0
+									267 text CMS
+								268 toggle button Insights, Value: 0
+									269 text Insights
+								270 toggle button Heineken Case, Value: 0
+									271 text Heineken Case
+								272 container
+									273 button jack (active) on page Heineken Case
+									274 toggle button Comments (C), Value: 0
+								275 toggle button Preview (⌥P), Value: 1
+								276 button Share
+								277 pop up button Publish
+									278 button Publish
+							279 button
+							280 pop up button Canvas settings. Current viewport width is 1383px.
+							281 toggle button Desktop: Base breakpoint, Value: 1
+							282 toggle button Tablet: 991px and down, Value: 0
+							283 toggle button Mobile (L): 767px and down, Value: 0
+							284 toggle button Mobile: 479px and down, Value: 0
+							285 pop up button Larger breakpoints
+							286 pop up button Enable custom code?
+								287 container
+									288 switch Enable custom code?, Value: on
+							289 container
+								290 image Webflow MCP Bridge App
+								291 text Webflow MCP Bridge App
+								292 button Expand
+								293 container Webflow MCP Bridge App
+									294 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										295 container
+											296 heading Tool call logs, Value: 2
+												297 text Tool call logs
+											298 text 32
+											299 button
+											300 pop up button
+											301 container
+												302 text Element snapshot tool
+												303 text Running Element snapshot tool
+												304 pop up button
+												305 text Element snapshot tool completed
+												306 pop up button
+												307 text 824ms
+												308 text Element snapshot tool
+												309 text Running Element snapshot tool
+												310 pop up button
+												311 text Element snapshot tool completed
+												312 pop up button
+												313 text 821ms
+												314 text Element snapshot tool
+												315 text Running Element snapshot tool
+												316 pop up button
+												317 text Element snapshot tool completed
+												318 pop up button
+												319 text 984ms
+												320 text Element snapshot tool
+												321 text Running Element snapshot tool
+												322 pop up button
+												323 text Element snapshot tool completed
+												324 pop up button
+												325 text 945ms
+												326 text Element snapshot tool
+												327 text Running Element snapshot tool
+												328 pop up button
+												329 text Element snapshot tool completed
+												330 pop up button
+												331 text 1.0s
+												332 text Element snapshot tool
+												333 text Running Element snapshot tool
+												334 pop up button
+												335 text Element snapshot tool completed
+												336 pop up button
+												337 text 1.1s
+												338 text Element snapshot tool
+												339 text Running Element snapshot tool
+												340 pop up button
+												341 text Element snapshot tool completed
+												342 pop up button
+												343 text 1.1s
+												344 text Element snapshot tool
+												345 text Running Element snapshot tool
+												346 pop up button
+												347 text Element snapshot tool completed
+												348 pop up button
+												349 text 682ms
+												350 text Element snapshot tool
+												351 text Running Element snapshot tool
+												352 pop up button
+												353 text Element snapshot tool completed
+												354 pop up button
+												355 text 705ms
+												356 text Element snapshot tool
+												357 text Running Element snapshot tool
+												358 pop up button
+												359 text Element snapshot tool completed
+												360 pop up button
+												361 text 850ms
+												362 text Element snapshot tool
+												363 text Running Element snapshot tool
+												364 pop up button
+												365 text Element snapshot tool completed
+												366 pop up button
+												367 text 1.1s
+												368 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												369 text Running Element snapshot tool
+												370 pop up button
+												371 text Element snapshot tool completed
+												372 pop up button
+												373 text 1.4s
+												374 text Element snapshot tool
+												375 text Running Element snapshot tool
+												376 pop up button
+												377 text Element snapshot tool completed
+												378 pop up button
+												379 text 877ms
+												380 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												381 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											382 container Notifications alt+T
+							383 container Notifications Alt+T
+			384 container Infobar Container
+				385 container Infobar
+					386 container
+						387 text "ChatGPT" started debugging this browser
+						388 button Cancel
+					389 button Close
+			390 pop up button Tab search
+			391 container
+				392 tab group
+					393 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.8 GB, Value: on
+						394 button Close
+			395 button New Tab
+	396 close button
+	397 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	398 minimize button
+399 menu bar
+	400 Chrome
+	401 File
+	402 Edit
+	403 View
+	404 History
+	405 Bookmarks
+	406 Profiles
+	407 Tab
+	408 Window
+	409 Help
+
+Selected text: ```
+￼
+```
+
+Note: Pay special attention to the content selected by the user. If the user asks a question or refers to the content they are looking at on-screen, they might be referring to the selected content (but they might be referring to something else that's visible, too).

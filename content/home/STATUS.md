@@ -1,5 +1,11 @@
 # Home implementation status
 
+## Current original-project transfer
+
+**APPLIED_AND_PRODUCER_VERIFIED_UNPUBLISHED.** After the owner authorized the saved plan, 104 editorial changes and the accepted ordinal formatter were applied to original Tur.ai (`64e477696d41401ec48c50c6` / Home `66368e29da23c5a1b0fe1396`). All 122 String nodes, the native placeholder and two SEO fields are exact. The approved FAQ is added; 124 keep/hold decisions are preserved. Producer QA covers 12 responsive widths, interactive Home states and shared components on six English pages. One existing footer overflow at 480px is documented. Publication metadata is unchanged. See [the execution report](../../implementation/2026-10-13-production-home-transfer/REPORT.md). This status does not imply owner acceptance or deployment of the original project.
+
+The sandbox acceptance and earlier implementation records below are historical, separate from the original project's current unpublished state.
+
 ## Current acceptance — issue #3
 
 **PUBLISHED_AND_OWNER_ACCEPTED.** On 13 October 2026 the owner reported publishing the ordinal animation fix and confirmed it works. A fresh site metadata read confirms `lastPublished: 2026-10-13T05:42:48.576Z` for Copy of Tur.ai. See [the acceptance record](../../implementation/2026-10-13-ordinal-animation-acceptance/ACCEPTANCE.md). This is owner acceptance of the ordinal issue; the agent did not perform a new full published-site QA or merge PRs. Historical run evidence below remains unchanged.

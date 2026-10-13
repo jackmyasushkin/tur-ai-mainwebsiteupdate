@@ -1,0 +1,323 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.9 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64eca951ef4b561482eb1ec5&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.9 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64eca951ef4b561482eb1ec5&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64eca951ef4b561482eb1ec5&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64eca951ef4b561482eb1ec5&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Desktop Affects all resolutions
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+										27 container
+											28 link Book a Demo, Value: tur-ai.canvas.webflow.com/#
+										29 container
+											30 link Contact Us, Value: tur-ai.canvas.webflow.com/#
+										31 container
+											32 heading Imprint, Value: 1
+												33 text Imprint
+											34 heading Tur.ai B.V., Value: 2
+												35 text Tur.ai B.V.
+											36 text KvK72024453, VAT NL858950777B01 Communicatieweg 9-1, 3641 SG Mijdrecht, The Netherlands Email:  hello [at] tur [.] ai Website:  hello [at] tur [.] ai Website: 
+											37 link www.tur.ai, Value: tur.ai/
+											38 heading CEO, Value: 2
+												39 text CEO
+											40 text Ievgen Miasushkin
+										41 heading Disclaimer of Liability, Value: 2
+											42 text Disclaimer of Liability
+										43 heading Accountability for content, Value: 2
+											44 text Accountability for content
+										45 text The contents of our pages have been created with the utmost care.However, we cannot guarantee the content's accuracy, completeness, ortimeliness. Under Dutch law, we are responsible for our own content on theseweb pages. In this matter, be advised that we are not obliged to monitorinformation transmitted or saved by third parties or to investigatecircumstances that suggest illegal activity. Our obligations under generalDutch laws to remove or block the use of information remain unaffected.
+										46 heading Accountability for links, Value: 2
+											47 text Accountability for links
+										48 text Responsibility for the content of external links (to web pages of thirdparties) lies solely with the operators of the linked pages. There were noapparent legal violations at the time of linking. Should any legal infringementbecome known to us, we will remove the respective link immediately.
+										49 heading Copyright, Value: 2
+											50 text Copyright
+										51 text Our web pages and their content are subject to Dutch copyright law.Unless expressly permitted by law, any form of use, reproduction, or processingof works subject to copyright protection on our web pages requires the priorconsent of the respective owner of the rights. Personal copies of works arepermitted only for private use, and they must not be used directly or indirectlyfor any financial gain. Unauthorized use of copyrighted works is punishableunder Dutch copyright laws.
+										52 heading Tell us more about your goals., Value: 2
+											53 text Tell us more about your  goals .
+										54 container Email Form
+											55 text First Name
+											56 text field (settable)
+											57 text Last Name
+											58 text field (settable)
+											59 text Email
+											60 email (settable)
+											61 text Company
+											62 text field (settable)
+											63 text Dive into Your AI Goals
+											64 text entry area (settable) Please share the benefits you expect from AI or challenges you aim to address.
+											65 button Submit
+										66 image Tur.ai Logo - Full
+										67 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										68 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										69 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										70 link Back to Top, Value: tur-ai.canvas.webflow.com/#
+										71 text © 2026 Tur.ai. All rights reserved.
+										72 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										73 image Dutch Interactive Awards Logo
+										74 image Accenture Innovation Awards - Award Logo
+										75 image ML and Intelligent Automation Award Logo
+										76 image Spinawards - Award Logo
+						77 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+							78 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+							79 link Book a Demo, Value: tur-ai.design.webflow.com/site/empty.html#
+							80 link Contact Us, Value: tur-ai.design.webflow.com/site/empty.html#
+							81 heading Imprint, Value: 1
+								82 text Imprint
+							83 heading Tur.ai B.V., Value: 2
+								84 text Tur.ai B.V.
+							85 text KvK72024453, VAT NL858950777B01
+							86 text Communicatieweg 9-1, 3641 SG Mijdrecht, The Netherlands
+							87 container
+								88 text Email:  hello [at] tur [.] ai
+							89 container
+								90 text Website:  hello [at] tur [.] ai
+							91 container
+								92 text Website: 
+								93 link www.tur.ai, Value: tur.ai/
+							94 heading CEO, Value: 2
+								95 text CEO
+							96 text Ievgen Miasushkin
+							97 heading Disclaimer of Liability, Value: 2
+								98 text Disclaimer of Liability
+							99 heading Accountability for content, Value: 2
+								100 text Accountability for content
+							101 text The contents of our pages have been created with the utmost care.However, we cannot guarantee the content's accuracy, completeness, ortimeliness. Under Dutch law, we are responsible for our own content on theseweb pages. In this matter, be advised that we are not obliged to monitorinformation transmitted or saved by third parties or to investigatecircumstances that suggest illegal activity. Our obligations under generalDutch laws to remove or block the use of information remain unaffected.
+							102 heading Accountability for links, Value: 2
+								103 text Accountability for links
+							104 text Responsibility for the content of external links (to web pages of thirdparties) lies solely with the operators of the linked pages. There were noapparent legal violations at the time of linking. Should any legal infringementbecome known to us, we will remove the respective link immediately.
+							105 heading Copyright, Value: 2
+								106 text Copyright
+							107 text Our web pages and their content are subject to Dutch copyright law.Unless expressly permitted by law, any form of use, reproduction, or processingof works subject to copyright protection on our web pages requires the priorconsent of the respective owner of the rights. Personal copies of works arepermitted only for private use, and they must not be used directly or indirectlyfor any financial gain. Unauthorized use of copyrighted works is punishableunder Dutch copyright laws.
+							108 heading Tell us more about your goals., Value: 2
+								109 text Tell us more about your  goals .
+							110 container Email Form
+								111 text First Name
+								112 text field (settable)
+								113 text Last Name
+								114 text field (settable)
+								115 text Email
+								116 email (settable)
+								117 text Company
+								118 text field (settable)
+								119 text Dive into Your AI Goals
+								120 text entry area (settable) Please share the benefits you expect from AI or challenges you aim to address.
+								121 button Submit
+							122 image Tur.ai Logo - Full
+							123 container
+								124 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+								125 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+								126 link Imprint, Value: tur-ai.design.webflow.com/imprint
+							127 link Back to Top, Value: tur-ai.design.webflow.com/site/empty.html#
+							128 text © 2026 Tur.ai. All rights reserved.
+							129 container
+								130 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+								131 image Dutch Interactive Awards Logo
+								132 image Accenture Innovation Awards - Award Logo
+								133 image ML and Intelligent Automation Award Logo
+								134 image Spinawards - Award Logo
+							135 heading Book a Demo, Value: 2
+								136 text Book a  Demo
+							137 text See a process run across systems, with controls and task-matched AI.
+							138 container Book a Demo
+								139 text First Name
+								140 text field (settable)
+								141 text Last Name
+								142 text field (settable)
+								143 text Email
+								144 email (settable)
+								145 text Company
+								146 text field (settable)
+								147 button Submit
+							148 image
+							149 heading Book a Call, Value: 2
+								150 text Book a  Call
+							151 text Share your details to discuss orchestration.
+							152 container Book a Call
+								153 text First Name
+								154 text field (settable)
+								155 text Last Name
+								156 text field (settable)
+								157 text Email
+								158 email (settable)
+								159 text Company
+								160 text field (settable)
+								161 button Submit
+							162 image
+						163 container
+							164 image
+							165 image
+							166 image
+							167 container
+								168 button
+								169 toggle button Design, Value: 0
+									170 text Design
+								171 toggle button CMS, Value: 0
+									172 text CMS
+								173 toggle button Insights, Value: 0
+									174 text Insights
+								175 toggle button Imprint EN, Value: 0
+									176 text Imprint EN
+								177 container
+									178 button jack (active) on page Imprint EN
+									179 toggle button Comments (C), Value: 0
+								180 toggle button Preview (⌥P), Value: 1
+								181 button Share
+								182 pop up button Publish
+									183 button Publish
+							184 button
+							185 pop up button Canvas settings. Current viewport width is 1383px.
+							186 toggle button Desktop: Base breakpoint, Value: 1
+							187 toggle button Tablet: 991px and down, Value: 0
+							188 toggle button Mobile (L): 767px and down, Value: 0
+							189 toggle button Mobile: 479px and down, Value: 0
+							190 pop up button Larger breakpoints
+							191 pop up button Enable custom code?
+								192 container
+									193 switch Enable custom code?, Value: on
+							194 container
+								195 image Webflow MCP Bridge App
+								196 text Webflow MCP Bridge App
+								197 button Expand
+								198 container Webflow MCP Bridge App
+									199 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										200 container
+											201 heading Tool call logs, Value: 2
+												202 text Tool call logs
+											203 text 32
+											204 button
+											205 pop up button
+											206 container
+												207 text Element snapshot tool
+												208 text Running Element snapshot tool
+												209 pop up button
+												210 text Element snapshot tool completed
+												211 pop up button
+												212 text 824ms
+												213 text Element snapshot tool
+												214 text Running Element snapshot tool
+												215 pop up button
+												216 text Element snapshot tool completed
+												217 pop up button
+												218 text 821ms
+												219 text Element snapshot tool
+												220 text Running Element snapshot tool
+												221 pop up button
+												222 text Element snapshot tool completed
+												223 pop up button
+												224 text 984ms
+												225 text Element snapshot tool
+												226 text Running Element snapshot tool
+												227 pop up button
+												228 text Element snapshot tool completed
+												229 pop up button
+												230 text 945ms
+												231 text Element snapshot tool
+												232 text Running Element snapshot tool
+												233 pop up button
+												234 text Element snapshot tool completed
+												235 pop up button
+												236 text 1.0s
+												237 text Element snapshot tool
+												238 text Running Element snapshot tool
+												239 pop up button
+												240 text Element snapshot tool completed
+												241 pop up button
+												242 text 1.1s
+												243 text Element snapshot tool
+												244 text Running Element snapshot tool
+												245 pop up button
+												246 text Element snapshot tool completed
+												247 pop up button
+												248 text 1.1s
+												249 text Element snapshot tool
+												250 text Running Element snapshot tool
+												251 pop up button
+												252 text Element snapshot tool completed
+												253 pop up button
+												254 text 682ms
+												255 text Element snapshot tool
+												256 text Running Element snapshot tool
+												257 pop up button
+												258 text Element snapshot tool completed
+												259 pop up button
+												260 text 705ms
+												261 text Element snapshot tool
+												262 text Running Element snapshot tool
+												263 pop up button
+												264 text Element snapshot tool completed
+												265 pop up button
+												266 text 850ms
+												267 text Element snapshot tool
+												268 text Running Element snapshot tool
+												269 pop up button
+												270 text Element snapshot tool completed
+												271 pop up button
+												272 text 1.1s
+												273 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												274 text Running Element snapshot tool
+												275 pop up button
+												276 text Element snapshot tool completed
+												277 pop up button
+												278 text 1.4s
+												279 text Element snapshot tool
+												280 text Running Element snapshot tool
+												281 pop up button
+												282 text Element snapshot tool completed
+												283 pop up button
+												284 text 877ms
+												285 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												286 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											287 container Notifications alt+T
+							288 container Notifications Alt+T
+			289 container Infobar Container
+				290 container Infobar
+					291 container
+						292 text "ChatGPT" started debugging this browser
+						293 button Cancel
+					294 button Close
+			295 pop up button Tab search
+			296 container
+				297 tab group
+					298 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.9 GB, Value: on
+						299 button Close
+			300 button New Tab
+	301 close button
+	302 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	303 minimize button
+304 menu bar
+	305 Chrome
+	306 File
+	307 Edit
+	308 View
+	309 History
+	310 Bookmarks
+	311 Profiles
+	312 Tab
+	313 Window
+	314 Help
+
+Selected text: ```
+￼
+```
+
+Note: Pay special attention to the content selected by the user. If the user asks a question or refers to the content they are looking at on-screen, they might be referring to the selected content (but they might be referring to something else that's visible, too).

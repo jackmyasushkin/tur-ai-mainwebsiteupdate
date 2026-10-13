@@ -1,0 +1,403 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.9 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66c21b2eb900b659c94fdc06&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.9 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66c21b2eb900b659c94fdc06&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66c21b2eb900b659c94fdc06&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=66c21b2eb900b659c94fdc06&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Mobile (P) Affects 479px and below
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+										27 image
+										28 image
+										29 image
+										30 heading Heineken’s Procurement Transformation with AI Automation, Value: 1
+											31 text Heineken’s Procurement Transformation with  AI Automation
+										32 heading Economic Context and Consumer Trends, Value: 2
+											33 text Economic Context and Consumer Trends
+										34 text In an era where procurement is rapidly evolving from a back-office function to a strategic driver of business success, organizations are realizing its critical importance. Chief Procurement Officers (CPOs) are now pivotal in navigating the complexities of modern supply chains and delivering value across multiple dimensions. As a CPO of a manufacturing company noted: "Never before has procurement been core to so many executive-committee-level priorities. We now have a real seat at the top table. And this is not a temporary situation—this is how we will operate going forward." This sentiment is echoed by the CEO of a chemicals company: "These days, to perform well, companies need a different end-to-end view on the business. Procurement is absolutely critical." AI has the potential to further strengthen the role of CPOs. While sixty-six percent of CPOs surveyed in McKinsey’s CPO 100 survey in H2, 2023, believe generative AI is still years from generating substantive business results, Heineken’s transformation demonstrates that AI can deliver immediate and significant improvements, such as reducing task execution time by 300%.
+										35 heading Challenges in Traditional Procurement Processes, Value: 2
+											36 text Challenges in Traditional Procurement Processes
+										37 text At Heineken, traditional procurement processes were fraught with  several challenges:
+										38 heading Manual Labor Intensity, Value: 3
+											39 text Manual Labor Intensity
+										40 text Prolonged execution times led to inefficiencies and dissatisfaction.
+										41 heading High Error Rates, Value: 3
+											42 text High Error Rates
+										43 text Error rates of approximately 30% resulted in direct financial losses.
+										44 heading Complexity, Value: 3
+											45 text Complexity
+										46 text The process was cumbersome for procurement managers, who had to navigate various and often duplicative tools.
+										47 heading Vendor Inconveniences, Value: 3
+											48 text Vendor Inconveniences
+										49 text Vendors faced lengthy onboarding processes, repetitive submission of the same information, and multiple manual verifications, causing frustration and delays.
+										50 heading AI-Driven Procurement Transformation: The Solution for Heineken Employees, Value: 2
+											51 text AI-Driven Procurement Transformation:  The Solution for Heineken Employees
+										52 text Tur.ai developed an AI-powered solution to manage Heineken's procurement process efficiently. The system featured a chat-bot interface integrated with Office 365, providing employees with a familiar and easy-to-use communication tool. However, the core of this solution was not the chat-bot itself but the robust orchestration and automation capabilities behind it.
+										53 heading Orchestration of Tasks, Value: 3
+											54 text Orchestration of Tasks
+										55 text The system automated routine tasks such as data entry, validation, and document creation, reducing the manual workload significantly.
+										56 heading Integration with Existing Systems, Value: 3
+											57 text Integration with Existing Systems
+										58 text The solution was seamlessly integrated with SharePoint Intranet and Active Directory, ensuring secure and efficient processing.
+										59 text Before AI
+										60 image A screenshot of Tur.ai solution for Heineken - #1
+										61 text After AI
+										62 image A screenshot of Tur.ai solution for Heineken - #2
+										63 heading AI-Driven Procurement Transformation: The Solution for Vendors, Value: 2
+											64 text AI-Driven Procurement Transformation:  The Solution for Vendors
+										65 text For vendors, the AI-driven system provided several enhancements to simplify and accelerate their interactions with Heineken:
+										66 heading Streamlined Onboarding, Value: 3
+											67 text Streamlined Onboarding
+										68 text The onboarding process was simplified, reducing the time from months to weeks.
+										69 heading Automated Information Submission, Value: 3
+											70 text Automated Information Submission
+										71 text The system automatically validated and retrieved necessary data from commercial registries.
+										72 heading Improved Experience, Value: 3
+											73 text Improved Experience
+										74 text Automation reduced bureaucratic hurdles, making collaboration with Heineken more efficient and less time-consuming.
+										75 heading Key Improvements and Benefits, Value: 2
+											76 text Key Improvements and Benefits
+										77 image Cost Efficiency Icon
+										78 heading Time Efficiency, Value: 3
+											79 text Time Efficiency
+										80 text Task execution time reduced by  300% .
+										81 image Quicker Responses Icon
+										82 heading Error Reduction, Value: 3
+											83 text Error Reduction
+										84 text Error rate decreased  from 30% to 5% .
+										85 image Faster Quotes Icon
+										86 heading Onboarding Time, Value: 3
+											87 text Onboarding Time
+										88 text Vendor onboarding time reduced  from months to weeks .
+										89 heading We'll help you transform your business., Value: 2
+											90 text We'll help you  transform  your business.
+										91 container Email Form
+											92 text First Name
+											93 text field (settable) First Name
+											94 text Last Name
+											95 text field (settable) Last Name
+											96 text Email
+											97 email (settable) Email
+											98 text Company
+											99 text field (settable) Company
+											100 text Dive into Your AI Goals
+											101 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+											102 button Submit
+										103 image Tur.ai Logo - Full
+										104 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										105 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										106 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										107 link Back to Top, Value: tur-ai.canvas.webflow.com/#hero
+										108 text © 2026 Tur.ai. All rights reserved.
+										109 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										110 image Dutch Interactive Awards Logo
+										111 image Accenture Innovation Awards - Award Logo
+										112 image ML and Intelligent Automation Award Logo
+										113 image Spinawards - Award Logo
+						114 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+							115 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+							116 link Book a Demo, Value: tur-ai.design.webflow.com/site/empty.html#
+							117 link Contact Us, Value: tur-ai.design.webflow.com/site/empty.html#
+							118 container
+								119 image
+								120 image
+								121 image
+								122 heading Heineken’s Procurement Transformation with AI Automation, Value: 1
+									123 text Heineken’s Procurement Transformation with  AI Automation
+							124 heading Economic Context and Consumer Trends, Value: 2
+								125 text Economic Context and Consumer Trends
+							126 text In an era where procurement is rapidly evolving from a back-office function to a strategic driver of business success, organizations are realizing its critical importance. Chief Procurement Officers (CPOs) are now pivotal in navigating the complexities of modern supply chains and delivering value across multiple dimensions. As a CPO of a manufacturing company noted:
+							127 text "Never before has procurement been core to so many executive-committee-level priorities. We now have a real seat at the top table. And this is not a temporary situation—this is how we will operate going forward."
+							128 text This sentiment is echoed by the CEO of a chemicals company:
+							129 text "These days, to perform well, companies need a different end-to-end view on the business. Procurement is absolutely critical."
+							130 text AI has the potential to further strengthen the role of CPOs. While sixty-six percent of CPOs surveyed in McKinsey’s CPO 100 survey in H2, 2023, believe generative AI is still years from generating substantive business results, Heineken’s transformation demonstrates that AI can deliver immediate and significant improvements, such as reducing task execution time by 300%.
+							131 heading Challenges in Traditional Procurement Processes, Value: 2
+								132 text Challenges in Traditional Procurement Processes
+							133 container
+								134 text At Heineken, traditional procurement processes were fraught with  several challenges:
+							135 heading Manual Labor Intensity, Value: 3
+								136 text Manual Labor Intensity
+							137 text Prolonged execution times led to inefficiencies and dissatisfaction.
+							138 heading High Error Rates, Value: 3
+								139 text High Error Rates
+							140 text Error rates of approximately 30% resulted in direct financial losses.
+							141 heading Complexity, Value: 3
+								142 text Complexity
+							143 text The process was cumbersome for procurement managers, who had to navigate various and often duplicative tools.
+							144 heading Vendor Inconveniences, Value: 3
+								145 text Vendor Inconveniences
+							146 text Vendors faced lengthy onboarding processes, repetitive submission of the same information, and multiple manual verifications, causing frustration and delays.
+							147 heading AI-Driven Procurement Transformation: The Solution for Heineken Employees, Value: 2
+								148 text AI-Driven Procurement Transformation:  The Solution for Heineken Employees
+							149 text Tur.ai developed an AI-powered solution to manage Heineken's procurement process efficiently. The system featured a chat-bot interface integrated with Office 365, providing employees with a familiar and easy-to-use communication tool. However, the core of this solution was not the chat-bot itself but the robust orchestration and automation capabilities behind it.
+							150 heading Orchestration of Tasks, Value: 3
+								151 text Orchestration of Tasks
+							152 text The system automated routine tasks such as data entry, validation, and document creation, reducing the manual workload significantly.
+							153 heading Integration with Existing Systems, Value: 3
+								154 text Integration with Existing Systems
+							155 text The solution was seamlessly integrated with SharePoint Intranet and Active Directory, ensuring secure and efficient processing.
+							156 container
+								157 text Before AI
+								158 image A screenshot of Tur.ai solution for Heineken - #1
+							159 text After AI
+							160 image A screenshot of Tur.ai solution for Heineken - #2
+							161 heading AI-Driven Procurement Transformation: The Solution for Vendors, Value: 2
+								162 text AI-Driven Procurement Transformation:  The Solution for Vendors
+							163 text For vendors, the AI-driven system provided several enhancements to simplify and accelerate their interactions with Heineken:
+							164 heading Streamlined Onboarding, Value: 3
+								165 text Streamlined Onboarding
+							166 text The onboarding process was simplified, reducing the time from months to weeks.
+							167 heading Automated Information Submission, Value: 3
+								168 text Automated Information Submission
+							169 text The system automatically validated and retrieved necessary data from commercial registries.
+							170 heading Improved Experience, Value: 3
+								171 text Improved Experience
+							172 text Automation reduced bureaucratic hurdles, making collaboration with Heineken more efficient and less time-consuming.
+							173 heading Key Improvements and Benefits, Value: 2
+								174 text Key Improvements and Benefits
+							175 image Cost Efficiency Icon
+							176 heading Time Efficiency, Value: 3
+								177 text Time Efficiency
+							178 container
+								179 text Task execution time reduced by  300% .
+							180 image Quicker Responses Icon
+							181 heading Error Reduction, Value: 3
+								182 text Error Reduction
+							183 container
+								184 text Error rate decreased  from 30% to 5% .
+							185 image Faster Quotes Icon
+							186 heading Onboarding Time, Value: 3
+								187 text Onboarding Time
+							188 container
+								189 text Vendor onboarding time reduced  from months to weeks .
+							190 heading We'll help you transform your business., Value: 2
+								191 text We'll help you  transform  your business.
+							192 container Email Form
+								193 text First Name
+								194 text field (settable) First Name
+								195 text Last Name
+								196 text field (settable) Last Name
+								197 text Email
+								198 email (settable) Email
+								199 text Company
+								200 text field (settable) Company
+								201 text Dive into Your AI Goals
+								202 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+								203 button Submit
+							204 image Tur.ai Logo - Full
+							205 container
+								206 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+								207 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+								208 link Imprint, Value: tur-ai.design.webflow.com/imprint
+							209 link Back to Top, Value: tur-ai.design.webflow.com/site/empty.html#hero
+							210 text © 2026 Tur.ai. All rights reserved.
+							211 container
+								212 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+								213 image Dutch Interactive Awards Logo
+								214 image Accenture Innovation Awards - Award Logo
+								215 image ML and Intelligent Automation Award Logo
+								216 image Spinawards - Award Logo
+							217 heading Book a Demo, Value: 2
+								218 text Book a  Demo
+							219 text See a process run across systems, with controls and task-matched AI.
+							220 container Book a Demo
+								221 text First Name
+								222 text field (settable)
+								223 text Last Name
+								224 text field (settable)
+								225 text Email
+								226 email (settable)
+								227 text Company
+								228 text field (settable)
+								229 button Submit
+							230 image
+							231 heading Book a Call, Value: 2
+								232 text Book a  Call
+							233 text Share your details to discuss orchestration.
+							234 container Book a Call
+								235 text First Name
+								236 text field (settable)
+								237 text Last Name
+								238 text field (settable)
+								239 text Email
+								240 email (settable)
+								241 text Company
+								242 text field (settable)
+								243 button Submit
+							244 image
+						245 container
+							246 image
+							247 image
+							248 image
+							249 container
+								250 button
+								251 toggle button Design, Value: 0
+									252 text Design
+								253 toggle button CMS, Value: 0
+									254 text CMS
+								255 toggle button Insights, Value: 0
+									256 text Insights
+								257 toggle button Heineken Case - Procurement, Value: 0
+									258 text Heineken Case - Procurement
+								259 container
+									260 button jack (active) on page Heineken Case - Procurement
+									261 toggle button Comments (C), Value: 0
+								262 toggle button Preview (⌥P), Value: 1
+								263 button Share
+								264 pop up button Publish
+									265 button Publish
+							266 button
+							267 pop up button Canvas settings. Current viewport width is 393px.
+							268 toggle button Desktop: Base breakpoint, Value: 0
+							269 toggle button Tablet: 991px and down, Value: 0
+							270 toggle button Mobile (L): 767px and down, Value: 0
+							271 toggle button Mobile: 479px and down, Value: 1
+							272 pop up button Larger breakpoints
+							273 pop up button Enable custom code?
+								274 container
+									275 switch Enable custom code?, Value: on
+							276 container
+								277 image Webflow MCP Bridge App
+								278 text Webflow MCP Bridge App
+								279 button Expand
+								280 container Webflow MCP Bridge App
+									281 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										282 container
+											283 heading Tool call logs, Value: 2
+												284 text Tool call logs
+											285 text 32
+											286 button
+											287 pop up button
+											288 container
+												289 text Element snapshot tool
+												290 text Running Element snapshot tool
+												291 pop up button
+												292 text Element snapshot tool completed
+												293 pop up button
+												294 text 824ms
+												295 text Element snapshot tool
+												296 text Running Element snapshot tool
+												297 pop up button
+												298 text Element snapshot tool completed
+												299 pop up button
+												300 text 821ms
+												301 text Element snapshot tool
+												302 text Running Element snapshot tool
+												303 pop up button
+												304 text Element snapshot tool completed
+												305 pop up button
+												306 text 984ms
+												307 text Element snapshot tool
+												308 text Running Element snapshot tool
+												309 pop up button
+												310 text Element snapshot tool completed
+												311 pop up button
+												312 text 945ms
+												313 text Element snapshot tool
+												314 text Running Element snapshot tool
+												315 pop up button
+												316 text Element snapshot tool completed
+												317 pop up button
+												318 text 1.0s
+												319 text Element snapshot tool
+												320 text Running Element snapshot tool
+												321 pop up button
+												322 text Element snapshot tool completed
+												323 pop up button
+												324 text 1.1s
+												325 text Element snapshot tool
+												326 text Running Element snapshot tool
+												327 pop up button
+												328 text Element snapshot tool completed
+												329 pop up button
+												330 text 1.1s
+												331 text Element snapshot tool
+												332 text Running Element snapshot tool
+												333 pop up button
+												334 text Element snapshot tool completed
+												335 pop up button
+												336 text 682ms
+												337 text Element snapshot tool
+												338 text Running Element snapshot tool
+												339 pop up button
+												340 text Element snapshot tool completed
+												341 pop up button
+												342 text 705ms
+												343 text Element snapshot tool
+												344 text Running Element snapshot tool
+												345 pop up button
+												346 text Element snapshot tool completed
+												347 pop up button
+												348 text 850ms
+												349 text Element snapshot tool
+												350 text Running Element snapshot tool
+												351 pop up button
+												352 text Element snapshot tool completed
+												353 pop up button
+												354 text 1.1s
+												355 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												356 text Running Element snapshot tool
+												357 pop up button
+												358 text Element snapshot tool completed
+												359 pop up button
+												360 text 1.4s
+												361 text Element snapshot tool
+												362 text Running Element snapshot tool
+												363 pop up button
+												364 text Element snapshot tool completed
+												365 pop up button
+												366 text 877ms
+												367 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												368 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											369 container Notifications alt+T
+							370 container Canvas settings
+								371 text Canvas settings
+							372 container Notifications Alt+T
+			373 container Infobar Container
+				374 container Infobar
+					375 container
+						376 text "ChatGPT" started debugging this browser
+						377 button Cancel
+					378 button Close
+			379 pop up button Tab search
+			380 container
+				381 tab group
+					382 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.9 GB, Value: on
+						383 button Close
+			384 button New Tab
+	385 close button
+	386 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	387 minimize button
+388 menu bar
+	389 Chrome
+	390 File
+	391 Edit
+	392 View
+	393 History
+	394 Bookmarks
+	395 Profiles
+	396 Tab
+	397 Window
+	398 Help
+
+The focused UI element is 267 pop up button Canvas settings. Current viewport width is 393px.

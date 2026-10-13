@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Confirm original Tur.ai before writes\",\"action\":\"get_site\",\"result\":{\"id\":\"64e477696d41401ec48c50c6\",\"workspaceId\":\"64e46e54768b6be8f6bb27ce\",\"displayName\":\"Tur.ai\",\"shortName\":\"tur-ai\",\"previewUrl\":\"https://screenshots.webflow.com/sites/64e477696d41401ec48c50c6/20251112133752_b5401b2e886a85ae8c43989872e7eb6d.png\",\"timeZone\":\"Europe/Chisinau\",\"createdOn\":\"2023-08-22T08:52:58.002Z\",\"lastUpdated\":\"2026-10-13T06:49:46.856Z\",\"lastPublished\":\"2025-11-06T16:08:46.501Z\",\"fullSiteCompiledAt\":\"2025-11-06T16:08:46.501Z\",\"customDomains\":[{\"id\":\"64ed9e15c6161d2d4ad95a76\",\"url\":\"www.tur.ai\",\"lastPublished\":\"2025-11-12T13:37:52.643Z\",\"fullSiteCompiledAt\":\"2025-11-12T13:37:52.643Z\"},{\"id\":\"64ed9e15c6161d2d4ad95a70\",\"url\":\"tur.ai\",\"lastPublished\":\"2025-11-12T13:37:52.643Z\",\"fullSiteCompiledAt\":\"2025-11-12T13:37:52.643Z\"}],\"dataCollectionEnabled\":false,\"dataCollectionType\":\"always\",\"googleTagIds\":[]}}"
+    }
+  ]
+}

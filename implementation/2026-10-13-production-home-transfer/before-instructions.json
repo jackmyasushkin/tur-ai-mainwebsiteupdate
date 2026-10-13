@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Read original site instructions\",\"action\":\"search_instructions\",\"result\":{\"instructions\":[],\"pagination\":{\"limit\":50,\"offset\":0,\"total\":0},\"resourceTemplate\":\"webflow://sites/{siteId}/instructions/{instructionPath}\"}}"
+    }
+  ]
+}

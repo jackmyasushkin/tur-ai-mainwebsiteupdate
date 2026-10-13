@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Attach exact formatter to English Home footer only\",\"action\":\"set_page_scripts\",\"result\":{\"scripts\":[{\"id\":\"turaihomeordinalformat\",\"displayName\":\"TuraiHomeOrdinalFormat\",\"version\":\"1.0.0\",\"location\":\"footer\",\"attributes\":{}}],\"lastUpdated\":\"2026-10-13T09:09:59.352Z\",\"createdOn\":\"2026-10-13T09:09:59.352Z\"}}"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "arrowAlts": [
+    "Left Arrow - White",
+    "Right Arrow - White"
+  ],
+  "forms": [
+    {
+      "action": null,
+      "fields": [
+        {
+          "id": "First-Name",
+          "maxLength": 256,
+          "name": "First-Name",
+          "required": true,
+          "type": "text"
+        },
+        {
+          "id": "Last-Name",
+          "maxLength": 256,
+          "name": "Last-Name",
+          "required": true,
+          "type": "text"
+        },
+        {
+          "id": "Email",
+          "maxLength": 256,
+          "name": "Email",
+          "required": true,
+          "type": "email"
+        },
+        {
+          "id": "Company",
+          "maxLength": 256,
+          "name": "Company",
+          "required": false,
+          "type": "text"
+        },
+        {
+          "id": "field",
+          "maxLength": 5000,
+          "name": "field",
+          "required": false,
+          "type": "textarea"
+        }
+      ],
+      "id": "email-form",
+      "method": "post",
+      "name": "Email Form"
+    },
+    {
+      "action": null,
+      "fields": [
+        {
+          "id": "first-name-demo",
+          "maxLength": 256,
+          "name": "name-2",
+          "required": false,
+          "type": "text"
+        },
+        {
+          "id": "last-name-demo",
+          "maxLength": 256,
+          "name": "Last-Name-2",
+          "required": false,
+          "type": "text"
+        },
+        {
+          "id": "email-demo",
+          "maxLength": 256,
+          "name": "Email-2",
+          "required": false,
+          "type": "email"
+        },
+        {
+          "id": "email-company",
+          "maxLength": 256,
+          "name": "Company-2",
+          "required": false,
+          "type": "text"
+        }
+      ],
+      "id": "wf-form-Book-a-Demo",
+      "method": "get",
+      "name": "Book a Demo"
+    },
+    {
+      "action": null,
+      "fields": [
+        {
+          "id": "first-name-call",
+          "maxLength": 256,
+          "name": "name-2",
+          "required": false,
+          "type": "text"
+        },
+        {
+          "id": "last-name-call",
+          "maxLength": 256,
+          "name": "Last-Name-2",
+          "required": false,
+          "type": "text"
+        },
+        {
+          "id": "email-call",
+          "maxLength": 256,
+          "name": "Email-2",
+          "required": false,
+          "type": "email"
+        },
+        {
+          "id": "company-call",
+          "maxLength": 256,
+          "name": "Company-2",
+          "required": false,
+          "type": "text"
+        }
+      ],
+      "id": "wf-form-Book-a-Call-2",
+      "method": "get",
+      "name": "Book a Call"
+    }
+  ],
+  "name": "Faissel el Mouridi",
+  "placeholder": "Which process needs to change, and which systems and controls are involved?",
+  "portrait": "Image of Faissel el Mourid",
+  "quote": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+  "role": "CFO, Radio Holland"
+}

@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Confirm preserved Finsweet and marker HOME-071\",\"action\":\"get_attributes\",\"result\":[{\"status\":\"success\",\"message\":\"Attributes loaded\",\"data\":[{\"name\":\"fs-numbercount-element\",\"value\":\"number\"},{\"name\":\"data-tur-number-format\",\"value\":\"ordinal-2\"}]}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Confirm preserved Finsweet and marker HOME-074\",\"action\":\"get_attributes\",\"result\":[{\"status\":\"success\",\"message\":\"Attributes loaded\",\"data\":[{\"name\":\"fs-numbercount-element\",\"value\":\"number\"},{\"name\":\"data-tur-number-format\",\"value\":\"ordinal-2\"}]}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Confirm preserved Finsweet and marker HOME-077\",\"action\":\"get_attributes\",\"result\":[{\"status\":\"success\",\"message\":\"Attributes loaded\",\"data\":[{\"name\":\"fs-numbercount-element\",\"value\":\"number\"},{\"name\":\"data-tur-number-format\",\"value\":\"ordinal-2\"}]}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Confirm preserved Finsweet and marker HOME-080\",\"action\":\"get_attributes\",\"result\":[{\"status\":\"success\",\"message\":\"Attributes loaded\",\"data\":[{\"name\":\"fs-numbercount-element\",\"value\":\"number\"},{\"name\":\"data-tur-number-format\",\"value\":\"ordinal-2\"}]}]}"
+    }
+  ]
+}

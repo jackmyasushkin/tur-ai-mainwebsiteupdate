@@ -1,0 +1,748 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64ec9b4adfa2c836d4131938&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64ec9b4adfa2c836d4131938&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64ec9b4adfa2c836d4131938&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=64ec9b4adfa2c836d4131938&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Desktop Affects all resolutions
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+										27 container
+											28 link Book a Demo, Value: tur-ai.canvas.webflow.com/#
+										29 container
+											30 link Contact Us, Value: tur-ai.canvas.webflow.com/#
+										31 container
+											32 link Introduction, Value: tur-ai.canvas.webflow.com/#top
+											33 link Definitions, Value: tur-ai.canvas.webflow.com/#Definitions
+											34 link Name and address of the controller, Value: tur-ai.canvas.webflow.com/#Name-and-address
+											35 link Data protection, Value: tur-ai.canvas.webflow.com/#Data-protection
+											36 link Cookies, Value: tur-ai.canvas.webflow.com/#cookies
+											37 link Personal information we collect, Value: tur-ai.canvas.webflow.com/#Personal-information
+											38 link How we use personal information, Value: tur-ai.canvas.webflow.com/#How-we-use
+											39 link Disclosure of personal information, Value: tur-ai.canvas.webflow.com/#Disclosure
+											40 link Your rights, Value: tur-ai.canvas.webflow.com/#Your-rights
+											41 link Children, Value: tur-ai.canvas.webflow.com/#Children
+											42 link Links to other websites, Value: tur-ai.canvas.webflow.com/#Links-to-other-w
+											43 link Security and Retention, Value: tur-ai.canvas.webflow.com/#Security-and-Retention
+											44 link Legal basis for the processing, Value: tur-ai.canvas.webflow.com/#Legal-basis
+											45 link Legitimate Interest by Controller or Third Party, Value: tur-ai.canvas.webflow.com/#legitimate-interests
+											46 link International users, Value: tur-ai.canvas.webflow.com/#International-users
+											47 link Changes to the privacy policy, Value: tur-ai.canvas.webflow.com/#Changes
+											48 link How to contact us, Value: tur-ai.canvas.webflow.com/#contact-us
+										49 container
+											50 heading Introduction, Value: 1
+												51 text Introduction
+											52 text Last Updated August 31, 2023 We at Tur.ai B.V. (together withour affiliates, “Tur.ai”, “we”, “our” or “us”) respect your privacy and arestrongly committed to protecting and keeping secure any information we obtainfrom you or about you. This Privacy Policy describes our practices with respectto Personal Information we collect from or about you when you use our website,applications, and services (collectively, “Services”). This Privacy Policy doesnot apply to content that we process on behalf of customers of our businessofferings, such a The processing of personal data,such as the name, address, e-mail address, or telephone number of a datasubject shall always be in line with the General Data Protection Regulation(GDPR), and in accordance with the country-specific data protection regulationsapplicable to the Tur.ai B.V.. By means of this privacy policy, our enterprisewould like to inform the general public of the nature, scope, and purpose ofthe personal data we collect, use and process. Furthermore, data subjects areinformed, by means of t As the datacontroller, the Tur.ai B.V. has implemented numerous technical andorganizational measures to ensure the fullest protection of personal dataprocessed through this website. However, Internet-based data transmissions mayin principle have security gaps, so guaranteeing complete protection is not always possible. For this reason, every data subjectis free to transfer personal data to us via alternative means, e.g. bytelephone.
+										53 container
+											54 heading Definitions, Value: 2
+												55 text Definitions
+											56 text The privacy policy of the Tur.aiB.V. is based on the terms used by the European legislator for the adoption ofthe General Data Protection Regulation (GDPR). Our goal is for our privacy policy to be easily readable andunderstandable for the general public, our customers, and business partners. To ensure this, we would like tofirst explain the terminology used. In this privacy policy, we usethe following terms, among others:
+											57 text  
+											58 text a) Personal data
+											59 text Personal data means anyinformation relating to an identified or identifiable natural person("data subject"). An identifiable natural person is one who can beidentified, directly or indirectly, in particular by reference to an identifiersuch as a name, an identification number, location data, an online identifieror to one or more factors specific to the physical, physiological, genetic,mental, economic, cultural or social identity of that natural person. ‍
+											60 text b) Data subject
+											61 text Data subject is any identified oridentifiable natural person, whose personal data is processed by the controllerresponsible for the processing.
+											62 text  
+											63 text c) Processing
+											64 text Processing is any operation or setof operations which is performed on personal data or on sets of personal data,whether or not by automated means, such as collection, recording, organization,structuring, storage, adaptation or alteration, retrieval, consultation, use,disclosure by transmission, dissemination or otherwise making available,alignment or combination, restriction, erasure or destruction.
+											65 text  
+											66 text d) Restriction of processing
+											67 text Restriction of processing is themarking of stored personal data with the aim of limiting their processing inthe future.
+											68 text  
+											69 text e) Profiling
+											70 text Profiling means any form ofautomated processing of personal data consisting of the use of personal data toevaluate certain personal aspects relating to a natural person, in particularto analyze or predict aspects concerning that natural person's performance atwork, economic situation, health, personal preferences, interests, reliability,behavior, location or movements.
+											71 text  
+											72 text f) Pseudonymization
+											73 text Pseudonymization is the processingof personal data in such a manner that the personal data can no longer be attributedto a specific data subject without the use of additional information, providedthat such additional information is kept separately and is subject to technicaland organizational measures to ensure that the personal data are not attributedto an identified or identifiable natural person.
+											74 text  
+											75 text g) Controller or controller responsible forthe processing
+											76 text Controller or controllerresponsible for the processing is the natural or legal person, publicauthority, agency or other body which, alone or jointly with others, determinesthe purposes and means of the processing of personal data; where the purposesand means of such processing are determined by Union or Member State law, thecontroller or the specific criteria for its nomination may be provided for byUnion or Member State law. ‍
+											77 text h) Processor
+											78 text Processor is a natural or legalperson, public authority, agency or other body which processes personal data onbehalf of the controller.
+											79 text  
+											80 text i) Recipient
+											81 text Recipient is a natural or legalperson, public authority, agency or another body, to which the personal dataare disclosed, whether a third party or not. However, public authorities whichmay receive personal data in the framework of a particular inquiry inaccordance with Union or Member State law shall not be regarded as recipients;the processing of those data by those public authorities shall be in compliancewith the applicable data protection rules according to the purposes of theprocessing.
+											82 text  
+											83 text j) Third party
+											84 text Third party is a natural or legalperson, public authority, agency or body other than the data subject,controller, processor and persons who, under the direct authority of thecontroller or processor, are authorized to process personal data.
+											85 text  
+											86 text k) Consent
+											87 text Consent of the data subject is anyfreely given, specific, informed and unambiguous indication of the datasubject's wishes by which he or she, by a statement or by a clear affirmativeaction, signifies agreement to the processing of personal data relating to himor her.
+										88 container
+											89 heading Name and address of the controller, Value: 2
+												90 text Name and address of the controller
+											91 text Controllerfor the purposes of the General Data Protection Regulation (GDPR), other dataprotection laws applicable in Member states of the European Union and otherprovisions related to data protection is: ‍
+											92 text Tur.ai B.V.
+											93 text KvK72024453, VAT NL858950777B01 Communicatieweg9-1, 3641 SG Mijdrecht, The Netherlands Email:  hello [at] tur [.] ai Website: 
+											94 link www.tur.ai, Value: tur-ai.canvas.webflow.com/
+										95 container
+											96 heading Data protection, Value: 2
+												97 text Data protection
+											98 text Data protection officercontact email: Email:  hello [at] tur [.] ai Any data subject may, at anytime, contact our Data Protection Officer directly with all questions andsuggestions concerning data protection.
+										99 container
+											100 heading Cookies, Value: 2
+												101 text Cookies
+											102 text The Internet pages of the Tur.ai B.V., use cookies. Cookies aretext files that are stored in a computer system via an Internet browser. ‍ Many Internet sites and servers use cookies. Many cookies contain aso-called cookie ID. A cookie ID is a unique identifier of the cookie. Itconsists of a character string through which Internet pages and servers can beassigned to the specific Internet browser in which the cookie was stored. Thisallows visited Internet sites and servers to differentiate the individualbrowser of the data subject from other Internet browsers that contain othercookies. A specific Internet browser can be recognized and identifie Through the use of cookies, the Tur.ai B.V. can provide the usersof this website with more user-friendly services that would not be possiblewithout the cookie setting. ‍ By means of a cookie, the information and offers on our website canbe optimized with the user in mind. Cookies allow us, as previously mentioned,to recognize our website users. The purpose of this recognition is to make iteasier for users to utilize our website. The website user that uses cookies,e.g. does not have to enter access data each time the website is accessed,because this is taken over by the website, and the cookie is thus stored on theuser's computer system. Another example is the cookie of a sh ‍ The data subject may, at any time, prevent the setting of cookiesthrough our website by means of a corresponding setting of the Internet browserused, and may thus permanently deny the setting of cookies. Furthermore,already set cookies may be deleted at any time via an Internet browser or othersoftware programs. This is possible in all popular Internet browsers. If the datasubject deactivates the setting of cookies in the Internet browser used, notall functions of our website may be entirely usable. ‍ For more details on cookies, please visit 
+											103 link All About Cookies, Value: allaboutcookies.org/
+											104 text . ‍
+										105 container
+											106 heading Personal information we collect, Value: 2
+												107 text Personal information we collect
+											108 text We collectpersonal information relating to you (“Personal Information”) as follows: ‍
+											109 text Personal Information You Provide
+											110 text : We collect Personal Informationif you create an account to use our Services or communicate with us as follows: ‍
+											111 content list
+												112 container
+													113 AXListMarker • 
+													114 text Account Information:  When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, payment card information, and transaction history, (collectively, “Account Information”).
+												115 container
+													116 AXListMarker • 
+													117 text User Content:  When you use our Services, we collect Personal Information that is included in the input, file uploads, or feedback that you provide to our Services (“Content”).
+												118 container
+													119 AXListMarker • 
+													120 text Communication Information:  If you communicate with us, we collect your name, contact information, and the contents of any messages you send (“Communication Information”).
+												121 container
+													122 AXListMarker • 
+													123 text Social Media Information:  We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and LinkedIn. When you interact with our social media pages, we will collect Personal Information that you elect to provide to us, such as your contact details (collectively, “Social Information”). In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.
+											124 text  
+											125 text Personal Information We Receive Automatically From YourUse of the Services
+											126 text : When youvisit, use, or interact with the Services, we receive the following informationabout your visit, use, or interactions (“Technical Information”): ‍
+											127 content list
+												128 container
+													129 AXListMarker • 
+													130 text Log Data:  Information that your browser automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our website.
+												131 container
+													132 AXListMarker • 
+													133 text Usage Data:  We may automatically collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.
+												134 container
+													135 AXListMarker • 
+													136 text Device Information:  Includes name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings.
+												137 container
+													138 AXListMarker • 
+													139 text Analytics:  We may use a variety of online analytics products that use cookies to help us analyze how users use our Services and enhance your experience when you use the Services.
+										140 container
+											141 heading How we use personal information, Value: 2
+												142 text How we use personal information
+											143 text We may usePersonal Information for the following purposes: ‍
+											144 content list
+												145 container
+													146 AXListMarker • 
+													147 text To provide, administer, maintain and/or analyze the Services;
+												148 container
+													149 AXListMarker • 
+													150 text To improve our Services and conduct research;
+												151 container
+													152 AXListMarker • 
+													153 text To communicate with you;
+												154 container
+													155 AXListMarker • 
+													156 text To develop new programs and services;
+												157 container
+													158 AXListMarker • 
+													159 text To prevent fraud, criminal activity, or misuses of our Services, and to protect the security of our IT systems, architecture, and networks;
+												160 container
+													161 AXListMarker • 
+													162 text To carry out business transfers; and
+												163 container
+													164 AXListMarker • 
+													165 text To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
+											166 text ‍
+											167 text Aggregated or De-Identified Information
+											168 text . We may aggregate or de-identifyPersonal Information so that it may no longer be used to identify you and usesuch information to analyze the effectiveness of our Services, to improve andadd features to our Services, to conduct research and for other similarpurposes. In addition, from time to time, we may analyze the general behaviorand characteristics of users of our Services and share aggregated information likegeneral user statistics with third parties, publish such aggregated informationor make such agg As notedabove, we may use Content you provide us to improve our Services, for exampleto train the models that power Tur.ai.
+										169 container
+											170 heading Disclosure of personal information, Value: 2
+												171 text Disclosure of personal information
+											172 text In certaincircumstances we may provide your Personal Information to third parties withoutfurther notice to you, unless required by the law: ‍
+											173 content list
+												174 container
+													175 AXListMarker • 
+													176 text Vendors and Service Providers : To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, email communication software, and web analytics services, among others. Pursuant to our instructions, these parties will access, process, or store Personal Information only in the course of performing their duties to us.
+												177 container
+													178 AXListMarker • 
+													179 text Business Transfers : If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Information and other information may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
+												180 container
+													181 AXListMarker • 
+													182 text Legal Requirements : We may share your Personal Information, including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal acti
+												183 container
+													184 AXListMarker • 
+													185 text Affiliates : We may disclose Personal Information to our affiliates, meaning an entity that controls, is controlled by, or is under common control with Tur.ai. Our affiliates may use the Personal Information we share in a manner consistent with this Privacy Policy.
+										186 container
+											187 heading Your rights, Value: 2
+												188 text Your rights
+											189 text Dependingon location, individuals in the EEA, the UK, and across the globe may havecertain statutory rights in relation to their Personal Information. Forexample, you may have the right to: ‍
+											190 content list
+												191 container
+													192 AXListMarker • 
+													193 text Access your Personal Information and information relating to how it is processed.
+												194 container
+													195 AXListMarker • 
+													196 text Delete your Personal Information from our records.
+												197 container
+													198 AXListMarker • 
+													199 text Rectify or update your Personal Information.
+												200 container
+													201 AXListMarker • 
+													202 text Transfer your Personal Information to a third party (right to data portability).
+												203 container
+													204 AXListMarker • 
+													205 text Restrict how we process your Personal Information.
+												206 container
+													207 AXListMarker • 
+													208 text Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
+												209 container
+													210 AXListMarker • 
+													211 text Object to how we process your Personal Information.
+												212 container
+													213 AXListMarker • 
+													214 text Lodge a complaint with your local data protection authority.
+											215 text ‍ Pleasesend your request to  privacy [at] tur [.] ai A noteabout accuracy: Services like Tur.ai generate responses by reading a user’srequest and, in response, predicting the words most likely to appear next. Insome cases, the words most likely to appear next may not be the most factuallyaccurate. For this reason, you should not rely on the factual accuracy ofoutput from our models. If you notice that Tur.ai output contains factuallyinaccurate information about you and you would like us to correct theinaccuracy, you may submit a correction request to  privacy [at] tur [.] ai Given the technical complexity ofhow our models work, we may not be able to correct the inaccuracy in everyinstance. In that case, you may request that we remove your PersonalInformation from Tur.ai output by filling contacting us as  privacy [at] tur [.] ai
+										216 container
+											217 heading Children, Value: 2
+												218 text Children
+											219 text OurService is not directed to children under the age of 13. Tur.ai does notknowingly collect Personal Information from children under the age of 13. Ifyou have reason to believe that a child under the age of 13 has providedPersonal Information to Tur.ai through the Service, please email us at  privacy [at] tur [.] ai Wewill investigate any notification and if appropriate, delete the PersonalInformation from our systems. If you are 13 or older, but under 18, you musthave consent from your parent or guardian to use our Services.
+										220 container
+											221 heading Links to other websites, Value: 2
+												222 text Links to other websites
+											223 text TheService may contain links to other websites not operated or controlled byTur.ai, including social media services (“Third Party Sites”). The informationthat you share with Third Party Sites will be governed by the specific privacypolicies and terms of service of the Third Party Sites and not by this PrivacyPolicy. By providing these links we do not imply that we endorse or havereviewed these sites. Please contact the Third Party Sites directly forinformation on their privacy practices and policies.
+										224 container
+											225 heading Security and Retention, Value: 2
+												226 text Security and Retention
+											227 text Weimplement commercially reasonable technical, administrative, and organizationalmeasures to protect Personal Information both online and offline from loss,misuse, and unauthorized access, disclosure, alteration, or destruction.However, no Internet or email transmission is ever fully secure or error free.In particular, email sent to or from us may not be secure. Therefore, youshould take special care in deciding what information you send to us via theService or email. In addition, we are not responsible for We’llretain your Personal Information for only as long as we need in order toprovide our Service to you, or for other legitimate business purposes such asresolving disputes, safety and security reasons, or complying with our legalobligations. How long we retain Personal Information will depend on a number offactors, such as the amount, nature, and sensitivity of the information, the potentialrisk of harm from unauthorized use or disclosure, our purpose for processingthe information, and any legal requiremen
+										228 container
+											229 heading Legal basis for the processing, Value: 2
+												230 text Legal basis for the processing
+											231 text Art. 6(1) lit. a GDPR serves as the legal basis for processingoperations for which we obtain consent for a specific processing purpose. Ifthe processing of personal data is necessary for the performance of a contractto which the data subject is party, as is the case, for example, whenprocessing operations are necessary for the supply of goods or to provide anyother service, the processing is based on Article 6(1) lit. b GDPR. The sameapplies to such processing operations which are necessary for carrying out
+										232 container
+											233 heading The legitimate interests pursuedby the controller or by a third party, Value: 2
+												234 text The legitimate interests pursuedby the controller or by a third party
+											235 text Where the processing of personal data is based on Article 6(1) lit.f GDPR our legitimate interest is to carry out our business in favor of thewell-being of all our employees and the shareholders.
+										236 container
+											237 heading International users, Value: 2
+												238 text International users
+											239 text By usingour Service, you understand and acknowledge that your Personal Information willbe processed and stored in our facilities and servers in the EU and may bedisclosed to our service providers and affiliates in other jurisdictions. ‍ For EEA,UK or Swiss users: ‍
+											240 text Legal Basis for Processing
+											241 text . Our legal bases for processing yourPersonal Information include: ‍
+											242 content list
+												243 container
+													244 AXListMarker • 
+													245 text  Performance of a contract with you when we provide and maintain our Services. When we process Account Information, Content, and Technical Information solely to provide our Services to you, this information is necessary to be able to provide our Services. If you do not provide this information, we may not be able to provide our Services to you.
+												246 container
+													247 AXListMarker • 
+													248 text Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information.
+												249 container
+													250 AXListMarker • 
+													251 text Your consent when we ask for your consent to process your Personal Information for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
+												252 container
+													253 AXListMarker • 
+													254 text Compliance with our legal obligations when we use your Personal Information to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
+											255 text ‍
+											256 text Data Transfers
+											257 text . 
+											258 text Where required, we will use appropriatesafeguards for transferring Personal Information outside of the EEA,Switzerland, and the UK. We will only transfer Personal Informationpursuant to a legally valid transfer mechanism. For more information on theappropriate safeguards in place and to obtain a copy of these safeguards,please contact our data protection office using the contacts stated above.
+										259 container
+											260 heading Changes to the privacy policy, Value: 2
+												261 text Changes to the privacy policy
+											262 text We mayupdate this Privacy Policy from time to time. When we do, we will post anupdated version on this page, unless another type of notice is required byapplicable law.
+										263 container
+											264 heading How to contact us, Value: 2
+												265 text How to contact us
+											266 text Please contact us  if you have any questions or concerns not already addressed inthis Privacy Policy.
+										267 heading Tell us more about your goals., Value: 2
+											268 text Tell us more about your  goals .
+										269 container Email Form
+											270 text First Name
+											271 text field (settable) First Name
+											272 text Last Name
+											273 text field (settable) Last Name
+											274 text Email
+											275 email (settable) Email
+											276 text Company
+											277 text field (settable) Company
+											278 text Dive into Your AI Goals
+											279 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+											280 button Submit
+										281 image Tur.ai Logo - Full
+										282 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										283 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										284 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										285 link Back to Top, Value: tur-ai.canvas.webflow.com/#
+										286 text © 2026 Tur.ai. All rights reserved.
+										287 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										288 image Dutch Interactive Awards Logo
+										289 image Accenture Innovation Awards - Award Logo
+										290 image ML and Intelligent Automation Award Logo
+										291 image Spinawards - Award Logo
+										292 container
+											293 heading Book a Call, Value: 2
+												294 text Book a  Call
+											295 text Share your details to discuss orchestration.
+											296 container Book a Call
+												297 text First Name
+												298 text field (settable)
+												299 text Last Name
+												300 text field (settable)
+												301 text Email
+												302 email (settable)
+												303 text Company
+												304 text field (settable)
+												305 button Submit
+											306 image
+						307 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+							308 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+							309 link Book a Demo, Value: tur-ai.design.webflow.com/site/empty.html#
+							310 link Contact Us, Value: tur-ai.design.webflow.com/site/empty.html#
+							311 container
+								312 text Introduction
+								313 link Definitions, Value: tur-ai.design.webflow.com/site/empty.html#Definitions
+								314 link Name and address of the controller, Value: tur-ai.design.webflow.com/site/empty.html#Name-and-address
+								315 link Data protection, Value: tur-ai.design.webflow.com/site/empty.html#Data-protection
+								316 link Cookies, Value: tur-ai.design.webflow.com/site/empty.html#cookies
+								317 link Personal information we collect, Value: tur-ai.design.webflow.com/site/empty.html#Personal-information
+								318 link How we use personal information, Value: tur-ai.design.webflow.com/site/empty.html#How-we-use
+								319 link Disclosure of personal information, Value: tur-ai.design.webflow.com/site/empty.html#Disclosure
+								320 link Your rights, Value: tur-ai.design.webflow.com/site/empty.html#Your-rights
+								321 link Children, Value: tur-ai.design.webflow.com/site/empty.html#Children
+								322 link Links to other websites, Value: tur-ai.design.webflow.com/site/empty.html#Links-to-other-w
+								323 link Security and Retention, Value: tur-ai.design.webflow.com/site/empty.html#Security-and-Retention
+								324 link Legal basis for the processing, Value: tur-ai.design.webflow.com/site/empty.html#Legal-basis
+								325 link Legitimate Interest by Controller or Third Party, Value: tur-ai.design.webflow.com/site/empty.html#legitimate-interests
+								326 link International users, Value: tur-ai.design.webflow.com/site/empty.html#International-users
+								327 link Changes to the privacy policy, Value: tur-ai.design.webflow.com/site/empty.html#Changes
+								328 link How to contact us, Value: tur-ai.design.webflow.com/site/empty.html#contact-us
+							329 container
+								330 heading Introduction, Value: 1
+									331 text Introduction
+								332 text Last Updated August 31, 2023 We at Tur.ai B.V. (together withour affiliates, “Tur.ai”, “we”, “our” or “us”) respect your privacy and arestrongly committed to protecting and keeping secure any information we obtainfrom you or about you. This Privacy Policy describes our practices with respectto Personal Information we collect from or about you when you use our website,applications, and services (collectively, “Services”). This Privacy Policy doesnot apply to content that we process on behalf of customers of our businessofferings, such a The processing of personal data,such as the name, address, e-mail address, or telephone number of a datasubject shall always be in line with the General Data Protection Regulation(GDPR), and in accordance with the country-specific data protection regulationsapplicable to the Tur.ai B.V.. By means of this privacy policy, our enterprisewould like to inform the general public of the nature, scope, and purpose ofthe personal data we collect, use and process. Furthermore, data subjects areinformed, by means of t As the datacontroller, the Tur.ai B.V. has implemented numerous technical andorganizational measures to ensure the fullest protection of personal dataprocessed through this website. However, Internet-based data transmissions mayin principle have security gaps, so guaranteeing complete protection is not always possible. For this reason, every data subjectis free to transfer personal data to us via alternative means, e.g. bytelephone.
+							333 container
+								334 heading Definitions, Value: 2
+									335 text Definitions
+								336 text The privacy policy of the Tur.aiB.V. is based on the terms used by the European legislator for the adoption ofthe General Data Protection Regulation (GDPR). Our goal is for our privacy policy to be easily readable andunderstandable for the general public, our customers, and business partners. To ensure this, we would like tofirst explain the terminology used. In this privacy policy, we usethe following terms, among others:
+								337 text a) Personal data
+								338 text Personal data means anyinformation relating to an identified or identifiable natural person("data subject"). An identifiable natural person is one who can beidentified, directly or indirectly, in particular by reference to an identifiersuch as a name, an identification number, location data, an online identifieror to one or more factors specific to the physical, physiological, genetic,mental, economic, cultural or social identity of that natural person. ‍
+								339 text b) Data subject
+								340 text Data subject is any identified oridentifiable natural person, whose personal data is processed by the controllerresponsible for the processing.
+								341 text c) Processing
+								342 text Processing is any operation or setof operations which is performed on personal data or on sets of personal data,whether or not by automated means, such as collection, recording, organization,structuring, storage, adaptation or alteration, retrieval, consultation, use,disclosure by transmission, dissemination or otherwise making available,alignment or combination, restriction, erasure or destruction.
+								343 text d) Restriction of processing
+								344 text Restriction of processing is themarking of stored personal data with the aim of limiting their processing inthe future.
+								345 text e) Profiling
+								346 text Profiling means any form ofautomated processing of personal data consisting of the use of personal data toevaluate certain personal aspects relating to a natural person, in particularto analyze or predict aspects concerning that natural person's performance atwork, economic situation, health, personal preferences, interests, reliability,behavior, location or movements.
+								347 text f) Pseudonymization
+								348 text Pseudonymization is the processingof personal data in such a manner that the personal data can no longer be attributedto a specific data subject without the use of additional information, providedthat such additional information is kept separately and is subject to technicaland organizational measures to ensure that the personal data are not attributedto an identified or identifiable natural person.
+								349 text g) Controller or controller responsible forthe processing
+								350 text Controller or controllerresponsible for the processing is the natural or legal person, publicauthority, agency or other body which, alone or jointly with others, determinesthe purposes and means of the processing of personal data; where the purposesand means of such processing are determined by Union or Member State law, thecontroller or the specific criteria for its nomination may be provided for byUnion or Member State law. ‍
+								351 text h) Processor
+								352 text Processor is a natural or legalperson, public authority, agency or other body which processes personal data onbehalf of the controller.
+								353 text i) Recipient
+								354 text Recipient is a natural or legalperson, public authority, agency or another body, to which the personal dataare disclosed, whether a third party or not. However, public authorities whichmay receive personal data in the framework of a particular inquiry inaccordance with Union or Member State law shall not be regarded as recipients;the processing of those data by those public authorities shall be in compliancewith the applicable data protection rules according to the purposes of theprocessing.
+								355 text j) Third party
+								356 text Third party is a natural or legalperson, public authority, agency or body other than the data subject,controller, processor and persons who, under the direct authority of thecontroller or processor, are authorized to process personal data.
+								357 text k) Consent
+								358 text Consent of the data subject is anyfreely given, specific, informed and unambiguous indication of the datasubject's wishes by which he or she, by a statement or by a clear affirmativeaction, signifies agreement to the processing of personal data relating to himor her.
+							359 container
+								360 heading Name and address of the controller, Value: 2
+									361 text Name and address of the controller
+								362 text Controllerfor the purposes of the General Data Protection Regulation (GDPR), other dataprotection laws applicable in Member states of the European Union and otherprovisions related to data protection is: ‍
+								363 text Tur.ai B.V.
+								364 text KvK72024453, VAT NL858950777B01 Communicatieweg9-1, 3641 SG Mijdrecht, The Netherlands Email:  hello [at] tur [.] ai Website: 
+								365 link www.tur.ai, Value: tur-ai.design.webflow.com/
+							366 container
+								367 heading Data protection, Value: 2
+									368 text Data protection
+								369 text Data protection officercontact email: Email:  hello [at] tur [.] ai Any data subject may, at anytime, contact our Data Protection Officer directly with all questions andsuggestions concerning data protection.
+							370 container
+								371 heading Cookies, Value: 2
+									372 text Cookies
+								373 text The Internet pages of the Tur.ai B.V., use cookies. Cookies aretext files that are stored in a computer system via an Internet browser. ‍ Many Internet sites and servers use cookies. Many cookies contain aso-called cookie ID. A cookie ID is a unique identifier of the cookie. Itconsists of a character string through which Internet pages and servers can beassigned to the specific Internet browser in which the cookie was stored. Thisallows visited Internet sites and servers to differentiate the individualbrowser of the data subject from other Internet browsers that contain othercookies. A specific Internet browser can be recognized and identifie Through the use of cookies, the Tur.ai B.V. can provide the usersof this website with more user-friendly services that would not be possiblewithout the cookie setting. ‍ By means of a cookie, the information and offers on our website canbe optimized with the user in mind. Cookies allow us, as previously mentioned,to recognize our website users. The purpose of this recognition is to make iteasier for users to utilize our website. The website user that uses cookies,e.g. does not have to enter access data each time the website is accessed,because this is taken over by the website, and the cookie is thus stored on theuser's computer system. Another example is the cookie of a sh ‍ The data subject may, at any time, prevent the setting of cookiesthrough our website by means of a corresponding setting of the Internet browserused, and may thus permanently deny the setting of cookies. Furthermore,already set cookies may be deleted at any time via an Internet browser or othersoftware programs. This is possible in all popular Internet browsers. If the datasubject deactivates the setting of cookies in the Internet browser used, notall functions of our website may be entirely usable. ‍ For more details on cookies, please visit 
+								374 link All About Cookies, Value: allaboutcookies.org/
+								375 text . ‍
+							376 container
+								377 heading Personal information we collect, Value: 2
+									378 text Personal information we collect
+								379 text We collectpersonal information relating to you (“Personal Information”) as follows: ‍
+								380 text Personal Information You Provide
+								381 text : We collect Personal Informationif you create an account to use our Services or communicate with us as follows: ‍
+								382 content list
+									383 container
+										384 AXListMarker • 
+										385 text Account Information:  When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, payment card information, and transaction history, (collectively, “Account Information”).
+									386 container
+										387 AXListMarker • 
+										388 text User Content:  When you use our Services, we collect Personal Information that is included in the input, file uploads, or feedback that you provide to our Services (“Content”).
+									389 container
+										390 AXListMarker • 
+										391 text Communication Information:  If you communicate with us, we collect your name, contact information, and the contents of any messages you send (“Communication Information”).
+									392 container
+										393 AXListMarker • 
+										394 text Social Media Information:  We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and LinkedIn. When you interact with our social media pages, we will collect Personal Information that you elect to provide to us, such as your contact details (collectively, “Social Information”). In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.
+								395 text Personal Information We Receive Automatically From YourUse of the Services
+								396 text : When youvisit, use, or interact with the Services, we receive the following informationabout your visit, use, or interactions (“Technical Information”): ‍
+								397 content list
+									398 container
+										399 AXListMarker • 
+										400 text Log Data:  Information that your browser automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our website.
+									401 container
+										402 AXListMarker • 
+										403 text Usage Data:  We may automatically collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.
+									404 container
+										405 AXListMarker • 
+										406 text Device Information:  Includes name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings.
+									407 container
+										408 AXListMarker • 
+										409 text Analytics:  We may use a variety of online analytics products that use cookies to help us analyze how users use our Services and enhance your experience when you use the Services.
+							410 container
+								411 heading How we use personal information, Value: 2
+									412 text How we use personal information
+								413 text We may usePersonal Information for the following purposes: ‍
+								414 content list
+									415 container
+										416 AXListMarker • 
+										417 text To provide, administer, maintain and/or analyze the Services;
+									418 container
+										419 AXListMarker • 
+										420 text To improve our Services and conduct research;
+									421 container
+										422 AXListMarker • 
+										423 text To communicate with you;
+									424 container
+										425 AXListMarker • 
+										426 text To develop new programs and services;
+									427 container
+										428 AXListMarker • 
+										429 text To prevent fraud, criminal activity, or misuses of our Services, and to protect the security of our IT systems, architecture, and networks;
+									430 container
+										431 AXListMarker • 
+										432 text To carry out business transfers; and
+									433 container
+										434 AXListMarker • 
+										435 text To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
+								436 text ‍
+								437 text Aggregated or De-Identified Information
+								438 text . We may aggregate or de-identifyPersonal Information so that it may no longer be used to identify you and usesuch information to analyze the effectiveness of our Services, to improve andadd features to our Services, to conduct research and for other similarpurposes. In addition, from time to time, we may analyze the general behaviorand characteristics of users of our Services and share aggregated information likegeneral user statistics with third parties, publish such aggregated informationor make such agg As notedabove, we may use Content you provide us to improve our Services, for exampleto train the models that power Tur.ai.
+							439 container
+								440 heading Disclosure of personal information, Value: 2
+									441 text Disclosure of personal information
+								442 text In certaincircumstances we may provide your Personal Information to third parties withoutfurther notice to you, unless required by the law: ‍
+								443 content list
+									444 container
+										445 AXListMarker • 
+										446 text Vendors and Service Providers : To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, email communication software, and web analytics services, among others. Pursuant to our instructions, these parties will access, process, or store Personal Information only in the course of performing their duties to us.
+									447 container
+										448 AXListMarker • 
+										449 text Business Transfers : If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Information and other information may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
+									450 container
+										451 AXListMarker • 
+										452 text Legal Requirements : We may share your Personal Information, including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal acti
+									453 container
+										454 AXListMarker • 
+										455 text Affiliates : We may disclose Personal Information to our affiliates, meaning an entity that controls, is controlled by, or is under common control with Tur.ai. Our affiliates may use the Personal Information we share in a manner consistent with this Privacy Policy.
+							456 container
+								457 heading Your rights, Value: 2
+									458 text Your rights
+								459 text Dependingon location, individuals in the EEA, the UK, and across the globe may havecertain statutory rights in relation to their Personal Information. Forexample, you may have the right to: ‍
+								460 content list
+									461 container
+										462 AXListMarker • 
+										463 text Access your Personal Information and information relating to how it is processed.
+									464 container
+										465 AXListMarker • 
+										466 text Delete your Personal Information from our records.
+									467 container
+										468 AXListMarker • 
+										469 text Rectify or update your Personal Information.
+									470 container
+										471 AXListMarker • 
+										472 text Transfer your Personal Information to a third party (right to data portability).
+									473 container
+										474 AXListMarker • 
+										475 text Restrict how we process your Personal Information.
+									476 container
+										477 AXListMarker • 
+										478 text Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
+									479 container
+										480 AXListMarker • 
+										481 text Object to how we process your Personal Information.
+									482 container
+										483 AXListMarker • 
+										484 text Lodge a complaint with your local data protection authority.
+								485 text ‍ Pleasesend your request to  privacy [at] tur [.] ai A noteabout accuracy: Services like Tur.ai generate responses by reading a user’srequest and, in response, predicting the words most likely to appear next. Insome cases, the words most likely to appear next may not be the most factuallyaccurate. For this reason, you should not rely on the factual accuracy ofoutput from our models. If you notice that Tur.ai output contains factuallyinaccurate information about you and you would like us to correct theinaccuracy, you may submit a correction request to  privacy [at] tur [.] ai Given the technical complexity ofhow our models work, we may not be able to correct the inaccuracy in everyinstance. In that case, you may request that we remove your PersonalInformation from Tur.ai output by filling contacting us as  privacy [at] tur [.] ai
+							486 container
+								487 heading Children, Value: 2
+									488 text Children
+								489 text OurService is not directed to children under the age of 13. Tur.ai does notknowingly collect Personal Information from children under the age of 13. Ifyou have reason to believe that a child under the age of 13 has providedPersonal Information to Tur.ai through the Service, please email us at  privacy [at] tur [.] ai Wewill investigate any notification and if appropriate, delete the PersonalInformation from our systems. If you are 13 or older, but under 18, you musthave consent from your parent or guardian to use our Services.
+							490 container
+								491 heading Links to other websites, Value: 2
+									492 text Links to other websites
+								493 text TheService may contain links to other websites not operated or controlled byTur.ai, including social media services (“Third Party Sites”). The informationthat you share with Third Party Sites will be governed by the specific privacypolicies and terms of service of the Third Party Sites and not by this PrivacyPolicy. By providing these links we do not imply that we endorse or havereviewed these sites. Please contact the Third Party Sites directly forinformation on their privacy practices and policies.
+							494 container
+								495 heading Security and Retention, Value: 2
+									496 text Security and Retention
+								497 text Weimplement commercially reasonable technical, administrative, and organizationalmeasures to protect Personal Information both online and offline from loss,misuse, and unauthorized access, disclosure, alteration, or destruction.However, no Internet or email transmission is ever fully secure or error free.In particular, email sent to or from us may not be secure. Therefore, youshould take special care in deciding what information you send to us via theService or email. In addition, we are not responsible for We’llretain your Personal Information for only as long as we need in order toprovide our Service to you, or for other legitimate business purposes such asresolving disputes, safety and security reasons, or complying with our legalobligations. How long we retain Personal Information will depend on a number offactors, such as the amount, nature, and sensitivity of the information, the potentialrisk of harm from unauthorized use or disclosure, our purpose for processingthe information, and any legal requiremen
+							498 container
+								499 heading Legal basis for the processing, Value: 2
+									500 text Legal basis for the processing
+								501 text Art. 6(1) lit. a GDPR serves as the legal basis for processingoperations for which we obtain consent for a specific processing purpose. Ifthe processing of personal data is necessary for the performance of a contractto which the data subject is party, as is the case, for example, whenprocessing operations are necessary for the supply of goods or to provide anyother service, the processing is based on Article 6(1) lit. b GDPR. The sameapplies to such processing operations which are necessary for carrying out
+							502 container
+								503 heading The legitimate interests pursuedby the controller or by a third party, Value: 2
+									504 text The legitimate interests pursuedby the controller or by a third party
+								505 text Where the processing of personal data is based on Article 6(1) lit.f GDPR our legitimate interest is to carry out our business in favor of thewell-being of all our employees and the shareholders.
+							506 container
+								507 heading International users, Value: 2
+									508 text International users
+								509 text By usingour Service, you understand and acknowledge that your Personal Information willbe processed and stored in our facilities and servers in the EU and may bedisclosed to our service providers and affiliates in other jurisdictions. ‍ For EEA,UK or Swiss users: ‍
+								510 text Legal Basis for Processing
+								511 text . Our legal bases for processing yourPersonal Information include: ‍
+								512 content list
+									513 container
+										514 AXListMarker • 
+										515 text  Performance of a contract with you when we provide and maintain our Services. When we process Account Information, Content, and Technical Information solely to provide our Services to you, this information is necessary to be able to provide our Services. If you do not provide this information, we may not be able to provide our Services to you.
+									516 container
+										517 AXListMarker • 
+										518 text Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information.
+									519 container
+										520 AXListMarker • 
+										521 text Your consent when we ask for your consent to process your Personal Information for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
+									522 container
+										523 AXListMarker • 
+										524 text Compliance with our legal obligations when we use your Personal Information to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
+								525 text ‍
+								526 text Data Transfers
+								527 text . 
+								528 text Where required, we will use appropriatesafeguards for transferring Personal Information outside of the EEA,Switzerland, and the UK. We will only transfer Personal Informationpursuant to a legally valid transfer mechanism. For more information on theappropriate safeguards in place and to obtain a copy of these safeguards,please contact our data protection office using the contacts stated above.
+							529 container
+								530 heading Changes to the privacy policy, Value: 2
+									531 text Changes to the privacy policy
+								532 text We mayupdate this Privacy Policy from time to time. When we do, we will post anupdated version on this page, unless another type of notice is required byapplicable law.
+							533 container
+								534 heading How to contact us, Value: 2
+									535 text How to contact us
+								536 text Please contact us  if you have any questions or concerns not already addressed inthis Privacy Policy.
+							537 heading Tell us more about your goals., Value: 2
+								538 text Tell us more about your  goals .
+							539 container Email Form
+								540 text First Name
+								541 text field (settable) First Name
+								542 text Last Name
+								543 text field (settable) Last Name
+								544 text Email
+								545 email (settable) Email
+								546 text Company
+								547 text field (settable) Company
+								548 text Dive into Your AI Goals
+								549 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+								550 button Submit
+							551 image Tur.ai Logo - Full
+							552 container
+								553 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+								554 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+								555 link Imprint, Value: tur-ai.design.webflow.com/imprint
+							556 link Back to Top, Value: tur-ai.design.webflow.com/site/empty.html#
+							557 text © 2026 Tur.ai. All rights reserved.
+							558 container
+								559 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+								560 image Dutch Interactive Awards Logo
+								561 image Accenture Innovation Awards - Award Logo
+								562 image ML and Intelligent Automation Award Logo
+								563 image Spinawards - Award Logo
+							564 heading Book a Demo, Value: 2
+								565 text Book a  Demo
+							566 text See a process run across systems, with controls and task-matched AI.
+							567 container Book a Demo
+								568 text First Name
+								569 text field (settable)
+								570 text Last Name
+								571 text field (settable)
+								572 text Email
+								573 email (settable)
+								574 text Company
+								575 text field (settable)
+								576 button Submit
+							577 image
+							578 heading Book a Call, Value: 2
+								579 text Book a  Call
+							580 text Share your details to discuss orchestration.
+							581 container Book a Call
+								582 text First Name
+								583 text field (settable)
+								584 text Last Name
+								585 text field (settable)
+								586 text Email
+								587 email (settable)
+								588 text Company
+								589 text field (settable)
+								590 button Submit
+							591 image
+						592 container
+							593 image
+							594 image
+							595 image
+							596 container
+								597 button
+								598 toggle button Design, Value: 0
+									599 text Design
+								600 toggle button CMS, Value: 0
+									601 text CMS
+								602 toggle button Insights, Value: 0
+									603 text Insights
+								604 toggle button Privacy Policy EN, Value: 0
+									605 text Privacy Policy EN
+								606 container
+									607 button jack (active) on page Privacy Policy EN
+									608 toggle button Comments (C), Value: 0
+								609 toggle button Preview (⌥P), Value: 1
+								610 button Share
+								611 pop up button Publish
+									612 button Publish
+							613 button
+							614 pop up button Canvas settings. Current viewport width is 1383px.
+							615 toggle button Desktop: Base breakpoint, Value: 1
+							616 toggle button Tablet: 991px and down, Value: 0
+							617 toggle button Mobile (L): 767px and down, Value: 0
+							618 toggle button Mobile: 479px and down, Value: 0
+							619 pop up button Larger breakpoints
+							620 pop up button Enable custom code?
+								621 container
+									622 switch Enable custom code?, Value: on
+							623 container
+								624 image Webflow MCP Bridge App
+								625 text Webflow MCP Bridge App
+								626 button Expand
+								627 container Webflow MCP Bridge App
+									628 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										629 container
+											630 heading Tool call logs, Value: 2
+												631 text Tool call logs
+											632 text 32
+											633 button
+											634 pop up button
+											635 container
+												636 text Element snapshot tool
+												637 text Running Element snapshot tool
+												638 pop up button
+												639 text Element snapshot tool completed
+												640 pop up button
+												641 text 824ms
+												642 text Element snapshot tool
+												643 text Running Element snapshot tool
+												644 pop up button
+												645 text Element snapshot tool completed
+												646 pop up button
+												647 text 821ms
+												648 text Element snapshot tool
+												649 text Running Element snapshot tool
+												650 pop up button
+												651 text Element snapshot tool completed
+												652 pop up button
+												653 text 984ms
+												654 text Element snapshot tool
+												655 text Running Element snapshot tool
+												656 pop up button
+												657 text Element snapshot tool completed
+												658 pop up button
+												659 text 945ms
+												660 text Element snapshot tool
+												661 text Running Element snapshot tool
+												662 pop up button
+												663 text Element snapshot tool completed
+												664 pop up button
+												665 text 1.0s
+												666 text Element snapshot tool
+												667 text Running Element snapshot tool
+												668 pop up button
+												669 text Element snapshot tool completed
+												670 pop up button
+												671 text 1.1s
+												672 text Element snapshot tool
+												673 text Running Element snapshot tool
+												674 pop up button
+												675 text Element snapshot tool completed
+												676 pop up button
+												677 text 1.1s
+												678 text Element snapshot tool
+												679 text Running Element snapshot tool
+												680 pop up button
+												681 text Element snapshot tool completed
+												682 pop up button
+												683 text 682ms
+												684 text Element snapshot tool
+												685 text Running Element snapshot tool
+												686 pop up button
+												687 text Element snapshot tool completed
+												688 pop up button
+												689 text 705ms
+												690 text Element snapshot tool
+												691 text Running Element snapshot tool
+												692 pop up button
+												693 text Element snapshot tool completed
+												694 pop up button
+												695 text 850ms
+												696 text Element snapshot tool
+												697 text Running Element snapshot tool
+												698 pop up button
+												699 text Element snapshot tool completed
+												700 pop up button
+												701 text 1.1s
+												702 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												703 text Running Element snapshot tool
+												704 pop up button
+												705 text Element snapshot tool completed
+												706 pop up button
+												707 text 1.4s
+												708 text Element snapshot tool
+												709 text Running Element snapshot tool
+												710 pop up button
+												711 text Element snapshot tool completed
+												712 pop up button
+												713 text 877ms
+												714 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												715 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											716 container Notifications alt+T
+							717 container Notifications Alt+T
+			718 container Infobar Container
+				719 container Infobar
+					720 container
+						721 text "ChatGPT" started debugging this browser
+						722 button Cancel
+					723 button Close
+			724 pop up button Tab search
+			725 container
+				726 tab group
+					727 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.8 GB, Value: on
+						728 button Close
+			729 button New Tab
+	730 close button
+	731 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	732 minimize button
+733 menu bar
+	734 Chrome
+	735 File
+	736 Edit
+	737 View
+	738 History
+	739 Bookmarks
+	740 Profiles
+	741 Tab
+	742 Window
+	743 Help
+
+The focused UI element is 30 link Contact Us, Value: tur-ai.canvas.webflow.com/#

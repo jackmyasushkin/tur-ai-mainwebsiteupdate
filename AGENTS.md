@@ -1,6 +1,6 @@
 # Current task and precedence
 
-The current task is preparation of the transfer strategy for the original Tur.ai project. Start with `docs/PRODUCTION_TRANSFER_STRATEGY.md` and `migration/2026-10-13-production-preflight/target-plan.json`. The owner chose to add the missing HOME-123/124 FAQ in the style of existing production blocks. This choice is recorded for the plan; no production changes or publication occurred. An explicit subsequent implementation instruction is required before target writes; publication remains a separate step. Reconcile fresh target state before executing the saved candidate.
+The owner subsequently authorized implementation of the saved transfer strategy. All 104 editorial fields, the approved new FAQ and the Home-only ordinal formatter are now applied to the original Tur.ai project (site `64e477696d41401ec48c50c6`, Home `66368e29da23c5a1b0fe1396`). Start with `implementation/2026-10-13-production-home-transfer/REPORT.md`. Producer checks passed; publication was not performed and remains a separate owner action. Do not replay the saved plan or applied writes. Reconcile live state before any follow-up. The existing footer award overflow at 480px is documented separately; fixing it is outside this transfer.
 
 The latest owner-approved homepage category is **Enterprise Process Orchestration Platform**. First read `docs/IMPLEMENTATION_HANDOFF.md`. The exact hero is locked in `content/home/decisions.md`. This is a homepage messaging decision; do not silently rewrite the separate TechCrunch positioning repository.
 

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "tab",
+    "title": "PILOT",
+    "selected": "true"
+  },
+  {
+    "type": "tab",
+    "title": "LAUNCH",
+    "selected": "true"
+  },
+  {
+    "type": "tab",
+    "title": "SCALE",
+    "selected": "true"
+  },
+  {
+    "type": "desktop_slide_group",
+    "n": 1,
+    "pressed": "true"
+  },
+  {
+    "type": "desktop_slide_group",
+    "n": 2,
+    "pressed": "true"
+  }
+]

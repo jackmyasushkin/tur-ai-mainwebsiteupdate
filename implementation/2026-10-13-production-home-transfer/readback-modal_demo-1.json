@@ -1,0 +1,828 @@
+{
+  "checks": [
+    {
+      "label": "HOME-143",
+      "field_id": "HOME-143",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9ad"
+      },
+      "before": "Enter your contact info to witness AI's tailored impact on your operations.",
+      "approved": "See a process run across systems, with controls and task-matched AI.",
+      "actual": "See a process run across systems, with controls and task-matched AI.",
+      "verified": true
+    },
+    {
+      "label": "HOME-149",
+      "field_id": "HOME-149",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9cc"
+      },
+      "before": "Thank you! Your submission has been received!",
+      "approved": "Thank you! We'll contact you about your demo.",
+      "actual": "Thank you! We'll contact you about your demo.",
+      "verified": true
+    },
+    {
+      "label": "HOME-150",
+      "field_id": "HOME-150",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9cf"
+      },
+      "before": "Oops! Something went wrong while submitting the form.",
+      "approved": "Your message was not sent. Please try again.",
+      "actual": "Your message was not sent. Please try again.",
+      "verified": true
+    }
+  ],
+  "tree": {
+    "id": {
+      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+      "element": "e7c0820d-4776-575f-b75a-443b3c55d9a5"
+    },
+    "type": "Block",
+    "styleNames": [
+      "modal_component-demo"
+    ],
+    "attributes": {
+      "fs-scrolldisable-element": "when-visible"
+    },
+    "settings": {
+      "tag": "div",
+      "visibility": true,
+      "block": {
+        "tag": "div"
+      }
+    },
+    "children": [
+      {
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9a6"
+        },
+        "type": "Block",
+        "styleNames": [
+          "modal_wrap"
+        ],
+        "settings": {
+          "tag": "div",
+          "visibility": true,
+          "block": {
+            "tag": "div"
+          }
+        },
+        "children": [
+          {
+            "id": {
+              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+              "element": "e7c0820d-4776-575f-b75a-443b3c55d9a7"
+            },
+            "type": "Block",
+            "styleNames": [
+              "modal_heading"
+            ],
+            "settings": {
+              "tag": "div",
+              "visibility": true,
+              "block": {
+                "tag": "div"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9a8"
+                },
+                "type": "Heading",
+                "styleNames": [
+                  "heading-style-h2"
+                ],
+                "settings": {
+                  "tag": "h2",
+                  "visibility": true,
+                  "headingLevel": 2
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9a9"
+                    },
+                    "type": "String",
+                    "textContent": "Book a "
+                  },
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9aa"
+                    },
+                    "type": "Span",
+                    "styleNames": [
+                      "text-color-blue"
+                    ],
+                    "settings": {
+                      "visibility": true
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9ab"
+                        },
+                        "type": "String",
+                        "textContent": "Demo"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9ac"
+                },
+                "type": "Block",
+                "styleNames": [
+                  "text-align-center"
+                ],
+                "settings": {
+                  "tag": "div",
+                  "visibility": true,
+                  "block": {
+                    "tag": "div"
+                  }
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9ad"
+                    },
+                    "type": "String",
+                    "textContent": "See a process run across systems, with controls and task-matched AI."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": {
+              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+              "element": "e7c0820d-4776-575f-b75a-443b3c55d9ae"
+            },
+            "type": "FormWrapper",
+            "styleNames": [
+              "modal_form"
+            ],
+            "attributes": {
+              "id": "form-demo"
+            },
+            "settings": {
+              "visibility": true,
+              "form": {
+                "name": "Book a Demo",
+                "formSettings": {
+                  "action": "",
+                  "method": "get",
+                  "name": "Book a Demo",
+                  "redirect": "",
+                  "state": "normal"
+                }
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9af"
+                },
+                "type": "FormForm",
+                "styleNames": [
+                  "contact_form-wrapper"
+                ],
+                "attributes": {
+                  "id": "wf-form-Book-a-Demo"
+                },
+                "settings": {
+                  "visibility": true,
+                  "form": {
+                    "name": "Book a Demo",
+                    "formSettings": {
+                      "action": "",
+                      "method": "get",
+                      "name": "Book a Demo",
+                      "redirect": "",
+                      "state": "normal"
+                    }
+                  }
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9b0"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "contact_field-group"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9b1"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "contact_field-wrapper"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9b2"
+                            },
+                            "type": "FormBlockLabel",
+                            "styleNames": [
+                              "contact_field-label"
+                            ],
+                            "settings": {
+                              "visibility": true
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9b3"
+                                },
+                                "type": "String",
+                                "textContent": "First Name"
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9b4"
+                            },
+                            "type": "FormTextInput",
+                            "styleNames": [
+                              "contact_field"
+                            ],
+                            "attributes": {
+                              "id": "first-name-demo"
+                            },
+                            "settings": {
+                              "visibility": true,
+                              "input": {
+                                "inputName": "Name 2",
+                                "inputType": "text"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9b5"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "contact_field-wrapper"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9b6"
+                            },
+                            "type": "FormBlockLabel",
+                            "styleNames": [
+                              "contact_field-label"
+                            ],
+                            "settings": {
+                              "visibility": true
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9b7"
+                                },
+                                "type": "String",
+                                "textContent": "Last Name"
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9b8"
+                            },
+                            "type": "FormTextInput",
+                            "styleNames": [
+                              "contact_field"
+                            ],
+                            "attributes": {
+                              "id": "last-name-demo"
+                            },
+                            "settings": {
+                              "visibility": true,
+                              "input": {
+                                "inputName": "Last Name 2",
+                                "inputType": "text"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9b9"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "contact_field-group"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9ba"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "contact_field-wrapper"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9bb"
+                            },
+                            "type": "FormBlockLabel",
+                            "styleNames": [
+                              "contact_field-label"
+                            ],
+                            "settings": {
+                              "visibility": true
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9bc"
+                                },
+                                "type": "String",
+                                "textContent": "Email"
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9bd"
+                            },
+                            "type": "FormTextInput",
+                            "styleNames": [
+                              "contact_field"
+                            ],
+                            "attributes": {
+                              "id": "email-demo"
+                            },
+                            "settings": {
+                              "visibility": true,
+                              "input": {
+                                "inputName": "Email 2",
+                                "inputType": "email"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9be"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "contact_field-wrapper"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9bf"
+                            },
+                            "type": "FormBlockLabel",
+                            "styleNames": [
+                              "contact_field-label"
+                            ],
+                            "settings": {
+                              "visibility": true
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9c0"
+                                },
+                                "type": "String",
+                                "textContent": "Company"
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9c1"
+                            },
+                            "type": "FormTextInput",
+                            "styleNames": [
+                              "contact_field"
+                            ],
+                            "attributes": {
+                              "id": "email-company"
+                            },
+                            "settings": {
+                              "visibility": true,
+                              "input": {
+                                "inputName": "Company 2",
+                                "inputType": "text"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9c2"
+                    },
+                    "type": "DOM",
+                    "styleNames": [
+                      "contact_form-submit"
+                    ],
+                    "attributes": {
+                      "type": "submit"
+                    },
+                    "settings": {
+                      "tag": "button",
+                      "visibility": true,
+                      "dom": {
+                        "tag": "button"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9c3"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "button-wrap"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9c4"
+                            },
+                            "type": "Block",
+                            "styleNames": [
+                              "button"
+                            ],
+                            "settings": {
+                              "tag": "div",
+                              "visibility": true,
+                              "block": {
+                                "tag": "div"
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9c5"
+                                },
+                                "type": "Block",
+                                "styleNames": [
+                                  "button-text"
+                                ],
+                                "settings": {
+                                  "tag": "div",
+                                  "visibility": true,
+                                  "block": {
+                                    "tag": "div"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9c6"
+                                    },
+                                    "type": "String",
+                                    "textContent": "Submit"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": {
+                                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9c7"
+                                },
+                                "type": "DOM",
+                                "styleNames": [
+                                  "button_arrow"
+                                ],
+                                "attributes": {
+                                  "width": "100%",
+                                  "viewBox": "0 0 18 8"
+                                },
+                                "settings": {
+                                  "tag": "svg",
+                                  "visibility": true,
+                                  "dom": {
+                                    "tag": "svg"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9c8"
+                                    },
+                                    "type": "DOM",
+                                    "attributes": {
+                                      "d": "M13.4697 6.51947C13.1768 6.81237 13.1768 7.28724 13.4697 7.58013C13.7626 7.87303 14.2374 7.87303 14.5303 7.58013L17.5303 4.58014C17.8232 4.28724 17.8232 3.81237 17.5303 3.51948L16.0303 2.01947L14.5303 0.519475C14.2374 0.226581 13.7626 0.226581 13.4697 0.519475C13.1768 0.812368 13.1768 1.28724 13.4697 1.58013L14.9697 3.08013L15.1893 3.2998L1 3.2998C0.585787 3.2998 0.25 3.63559 0.25 4.0498C0.25 4.46402 0.585787 4.7998 1 4.7998L15.1893 4.7998L13.4697 6.51947Z",
+                                      "fill": "currentColor"
+                                    },
+                                    "settings": {
+                                      "tag": "path",
+                                      "visibility": true,
+                                      "dom": {
+                                        "tag": "path"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                              "element": "e7c0820d-4776-575f-b75a-443b3c55d9c9"
+                            },
+                            "type": "Block",
+                            "styleNames": [
+                              "button-bg"
+                            ],
+                            "settings": {
+                              "tag": "div",
+                              "visibility": true,
+                              "block": {
+                                "tag": "div"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9ca"
+                },
+                "type": "FormSuccessMessage",
+                "styleNames": [
+                  "form-success"
+                ],
+                "settings": {
+                  "visibility": true
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9cb"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "form-success-text"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cc"
+                        },
+                        "type": "String",
+                        "textContent": "Thank you! We'll contact you about your demo."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9cd"
+                },
+                "type": "FormErrorMessage",
+                "styleNames": [
+                  "form-error"
+                ],
+                "settings": {
+                  "visibility": true
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                      "element": "e7c0820d-4776-575f-b75a-443b3c55d9ce"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "form-error-text"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cf"
+                        },
+                        "type": "String",
+                        "textContent": "Your message was not sent. Please try again."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": {
+              "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+              "element": "e7c0820d-4776-575f-b75a-443b3c55d9d0"
+            },
+            "type": "DOM",
+            "styleNames": [
+              "modal_close-icon"
+            ],
+            "attributes": {
+              "xmlns": "http://www.w3.org/2000/svg",
+              "width": "100%",
+              "viewBox": "0 0 25 25",
+              "fill": "none"
+            },
+            "settings": {
+              "tag": "svg",
+              "visibility": true,
+              "dom": {
+                "tag": "svg"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9d1"
+                },
+                "type": "DOM",
+                "attributes": {
+                  "fill-rule": "evenodd",
+                  "clip-rule": "evenodd",
+                  "d": "M24.477 0.523024C25.1743 1.22039 25.1743 2.35104 24.477 3.0484L3.0484 24.477C2.35104 25.1743 1.22039 25.1743 0.523024 24.477C-0.174341 23.7796 -0.174341 22.649 0.523024 21.9516L21.9516 0.523024C22.649 -0.174341 23.7796 -0.174341 24.477 0.523024Z",
+                  "fill": "currentColor"
+                },
+                "settings": {
+                  "tag": "path",
+                  "visibility": true,
+                  "dom": {
+                    "tag": "path"
+                  }
+                }
+              },
+              {
+                "id": {
+                  "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+                  "element": "e7c0820d-4776-575f-b75a-443b3c55d9d2"
+                },
+                "type": "DOM",
+                "attributes": {
+                  "fill-rule": "evenodd",
+                  "clip-rule": "evenodd",
+                  "d": "M0.523024 0.523024C1.22039 -0.174341 2.35104 -0.174341 3.0484 0.523024L24.477 21.9516C25.1743 22.649 25.1743 23.7796 24.477 24.477C23.7796 25.1743 22.649 25.1743 21.9516 24.477L0.523024 3.0484C-0.174341 2.35104 -0.174341 1.22039 0.523024 0.523024Z",
+                  "fill": "currentColor"
+                },
+                "settings": {
+                  "tag": "path",
+                  "visibility": true,
+                  "dom": {
+                    "tag": "path"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9d3"
+        },
+        "type": "Block",
+        "styleNames": [
+          "modal_close"
+        ],
+        "settings": {
+          "tag": "div",
+          "visibility": true,
+          "block": {
+            "tag": "div"
+          }
+        }
+      }
+    ]
+  }
+}

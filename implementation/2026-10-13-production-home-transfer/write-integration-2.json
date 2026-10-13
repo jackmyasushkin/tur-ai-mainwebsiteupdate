@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-074\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-075\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-076\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-077\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-078\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-079\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-080\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-081\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-082\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-083\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    }
+  ]
+}

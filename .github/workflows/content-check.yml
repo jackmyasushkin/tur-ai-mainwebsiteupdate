@@ -35,3 +35,6 @@ jobs:
       - name: Verify ordinal animation implementation evidence
         if: hashFiles('implementation/2026-10-13-ordinal-animation/application.json') != ''
         run: python3 tools/verify_home_ordinal_implementation.py
+      - name: Verify original-project transfer evidence
+        if: hashFiles('implementation/2026-10-13-production-home-transfer/after-all-trees.json') != ''
+        run: python3 tools/verify_production_transfer.py
