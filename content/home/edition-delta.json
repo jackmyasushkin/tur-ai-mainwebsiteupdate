@@ -5,6 +5,8 @@
     "HOME-003",
     "HOME-004",
     "HOME-006",
+    "HOME-019",
+    "HOME-023",
     "HOME-027",
     "HOME-032",
     "HOME-033",
@@ -23,5 +25,6 @@
     "rewrite": 104,
     "keep": 88,
     "hold": 36
-  }
+  },
+  "content_revision": "card-captions-2026-10-13"
 }

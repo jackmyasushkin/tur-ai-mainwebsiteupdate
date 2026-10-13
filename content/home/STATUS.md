@@ -14,7 +14,7 @@ Edition: `enterprise-orchestration-handoff-v2`.
 | Visual / functional acceptance | Pending |
 | Publication | Not performed; separate authorization required |
 
-[Actual validation run](https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38327652085) verifies the generated replacement set. Rewrite SHA-256: `1eec9a705ecf93a3488500155617b45730a9bbfb8121e5e7be98a3e9cde30ab3`. The preparation container had no GitHub network access; full tests ran in GitHub Actions, not locally.
+[Actual validation run](https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38407789365) verifies the generated replacement set. Rewrite SHA-256: `f10420511d5216995c1fe4034d872c1bd9d1887439a18742b0a587504f8157e7`. The preparation container had no GitHub network access; full tests ran in GitHub Actions, not locally.
 
 ## Approval scope
 
@@ -23,3 +23,7 @@ The exact hero is explicitly approved. The remaining alignment was delegated for
 ## Historical validation
 
 local-precheck.json records the earlier v1 precheck only and is not validation of this edition. Current evidence is preparation-report.json and validation.md.
+
+## card-captions-2026-10-13
+
+Two caption replacements completed and synchronized with apply-plan.json, proposal.md, evidence and the implementation handoff. The remaining 226 item records are unchanged. Full editorial and handoff checks pass; regression tests pass. 37 warnings remain for visual review. Webflow was not read or changed in this revision.

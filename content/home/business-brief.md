@@ -57,3 +57,16 @@ The immutable baseline must not be changed. The separate exact-value validator a
 ## Approval and completion
 
 Exact hero wording is explicitly approved. Other copy is aligned under the owner's delegated instruction; do not invent a separate word-for-word signoff. Definition of done here is a validated and documented handoff in GitHub. The implementation agent must be explicitly asked to apply it in the sandbox. Publication is always a separate authorization.
+
+## card-captions-2026-10-13: mechanism and team context
+
+Owner supplied a screenshot requesting two caption changes. The English was edited without changing the headline metrics or inventing a new result.
+
+- HOME-019: **Banking case: lower annual token spend with task-specific models.**
+- HOME-023: **A European bank: processes delivered 3x faster by the same transformation team.**
+
+Task-specific models is the edited wording for the owner's specialized-model mechanism. It does not claim all large models were removed, that specialized means small or fine-tuned, or that model selection alone accounts for all 83% of savings. Annual token spend remains the metric; EUR 1.8M to EUR 300K remains in the FAQs and evidence.
+
+The same transformation team is a new owner-supplied case clarification from this screenshot, not a conclusion derived from annual process counts. It does not independently establish equal headcount, budget, workload, quality or no external assistance. The 2-3 to 12+ annual-capacity result remains supporting evidence, not the derivation of the 3x delivery result.
+
+The owner requested the meaning; these polished sentences are an editorial implementation of that request. No claim of word-for-word owner approval, independent audit, Webflow read/write or visual acceptance is made.

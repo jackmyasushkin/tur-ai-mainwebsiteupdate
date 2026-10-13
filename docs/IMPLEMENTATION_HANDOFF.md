@@ -1,5 +1,13 @@
 # START HERE: implement the prepared Tur.ai homepage
 
+## Latest content revision: card-captions-2026-10-13
+
+The authoritative rewrite and apply plan include the two new captions. Read `content/home/card-caption-delta.json` before implementation. Preserve the headline values 83% and 3x; all other page text remains unchanged by this revision.
+
+For HOME-019 and HOME-023 only, the immediately preceding prepared text and the owner's screenshot wording are authorized intermediate states, listed in the delta and apply plan. If found live, capture the actual value for rollback and replace with the new target. An unknown third value still requires reconciliation. Do not assume the screenshot verifies any current Webflow state. No writes were performed by this content revision.
+
+The same-team clarification belongs to this one bank case; do not turn it into a general same-budget or same-headcount guarantee. Both captions fit the original field budgets; no new exceptions are introduced.
+
 **Edition:** `enterprise-orchestration-handoff-v2`  
 **Repository:** `jackmyasushkin/tur-ai-mainwebsiteupdate`  
 **Branch:** `content/home-operational-plane-2026-10-13`  

@@ -5,7 +5,7 @@
   "site_name": "Copy of Tur.ai",
   "page_name": "Home",
   "language": "en",
-  "rewrite_sha256": "1eec9a705ecf93a3488500155617b45730a9bbfb8121e5e7be98a3e9cde30ab3",
+  "rewrite_sha256": "f10420511d5216995c1fe4034d872c1bd9d1887439a18742b0a587504f8157e7",
   "inventory_sha256": "4ddda53f6e79d39c69f17c953b553775027030a1130633d5d46ebd48a373f84d",
   "source_inventory": "baseline/home/2026-10-12/inventory.json",
   "lookup": "Join items[].id to inventory.records[].id; the source record contains the full Webflow target, field type, component chain and inline structure. Never use text search as a replacement for these bindings.",
@@ -19,6 +19,8 @@
     "HOME-003",
     "HOME-004",
     "HOME-006",
+    "HOME-019",
+    "HOME-023",
     "HOME-027",
     "HOME-032",
     "HOME-033",
@@ -284,11 +286,15 @@
       "id": "HOME-019",
       "action": "rewrite",
       "expected_original_text": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
-      "target_text": "Banking case: annual token spend fell from €1.8M to €300K.",
+      "target_text": "Banking case: lower annual token spend with task-specific models.",
       "segments": [],
       "source_record_id": "HOME-019",
       "validation_exception": null,
-      "reason": "Annual token spend, not licenses, token count, unit-cost proof or total TCO."
+      "reason": "Owner screenshot revision: explain task-specific model use; retain annual token-spend denominator. Absolute amounts remain in FAQ/evidence.",
+      "accepted_intermediate_texts": [
+        "Banking case: annual token spend fell from €1.8M to €300K.",
+        "Banking case: annual token spend fell due to large to specialized models use."
+      ]
     },
     {
       "id": "HOME-020",
@@ -324,11 +330,15 @@
       "id": "HOME-023",
       "action": "rewrite",
       "expected_original_text": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
-      "target_text": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+      "target_text": "A European bank: processes delivered 3x faster by the same transformation team.",
       "segments": [],
       "source_record_id": "HOME-023",
       "validation_exception": null,
-      "reason": "3x speed and annual delivery capacity are separate metrics."
+      "reason": "Owner screenshot explicitly supplies the same-transformation-team context. Do not infer unchanged budget, FTE count, workload or quality.",
+      "accepted_intermediate_texts": [
+        "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+        "A European bank: 3x faster process delivery within same transformation team."
+      ]
     },
     {
       "id": "HOME-024",
@@ -2793,5 +2803,6 @@
       "validation_exception": null,
       "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
     }
-  ]
+  ],
+  "content_revision": "card-captions-2026-10-13"
 }

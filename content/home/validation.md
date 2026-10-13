@@ -1,29 +1,28 @@
-# Validation of the current handoff
+# Current validation
 
-Actual run: https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38327652085
+Revision: `card-captions-2026-10-13`.
 
-- Complete checker: **EDITORIAL_LIMITS_PASS**
-- Errors: 0
-- Pending decisions: 0
-- All regression tests passed.
-- Handoff consistency check passed.
-- Source baseline manifest checked without modification.
-- Exact H1 validated separately; original segment limits not rewritten.
+[Actual run](https://github.com/jackmyasushkin/tur-ai-mainwebsiteupdate/actions/runs/38407789365)
+
+Full checker: EDITORIAL_LIMITS_PASS. Handoff: HANDOFF_CONSISTENCY_PASS. Original baseline and budgets preserved, including the previously documented H1 exception. No new exceptions.
+
+Two caption changes; other 226 item records unchanged. 104 rewrite / 88 keep / 36 hold.
 
 ```text
 .....................
 ----------------------------------------------------------------------
-Ran 21 tests in 0.331s
+Ran 21 tests in 0.319s
 
 OK
 ```
 
-## Non-blocking visual warnings
+## Visual-review warnings
 
 - HOME-007: shorter than the soft target; review visual balance
 - HOME-011: shorter than the soft target; review visual balance
 - HOME-015: shorter than the soft target; review visual balance
 - HOME-015: longer unbroken word/token; check wrapping
+- HOME-019: longer unbroken word/token; check wrapping
 - HOME-027: shorter than the soft target; review visual balance
 - HOME-029: shorter than the soft target; review visual balance
 - HOME-035: shorter than the soft target; review visual balance
@@ -57,4 +56,4 @@ OK
 - HOME-152: longer unbroken word/token; check wrapping
 - HOME-003: exact approved H1 uses a documented segment-budget exception; visual review required
 
-No browser layout, functional, claim-audit or publishing check was performed. These remain separate from text validation.
+No Webflow write or browser acceptance was performed.

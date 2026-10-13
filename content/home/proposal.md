@@ -41,11 +41,11 @@ Owner approved the exact hero and directed downstream alignment. Other wording i
 | HOME-016 | rewrite | Lower LLM costs | 15 / 15 |
 | HOME-017 | rewrite | 83 | 2 / 2 |
 | HOME-018 | keep | (unchanged; do not write) | - |
-| HOME-019 | rewrite | Banking case: annual token spend fell from €1.8M to €300K. | 58 / 73 |
+| HOME-019 | rewrite | Banking case: lower annual token spend with task-specific models. | 65 / 73 |
 | HOME-020 | rewrite | Faster process delivery | 23 / 24 |
 | HOME-021 | rewrite | 3 | 1 / 1 |
 | HOME-022 | rewrite | × | 1 / 1 |
-| HOME-023 | rewrite | A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year. | 85 / 92 |
+| HOME-023 | rewrite | A European bank: processes delivered 3x faster by the same transformation team. | 79 / 92 |
 
 ## Founder statement
 
@@ -310,3 +310,7 @@ Owner approved the exact hero and directed downstream alignment. Other wording i
 ## Implementation
 
 See [handoff](../../docs/IMPLEMENTATION_HANDOFF.md), [apply plan](apply-plan.json), [validation](validation.md) and [known holds](review-questions.md). Rich-text rendering and paragraph breaks must follow source nodes, not this Markdown table.
+
+## card-captions-2026-10-13
+
+Only HOME-019 and HOME-023 were amended in this pass. Absolute token-spend amounts remain in the FAQs and evidence. The screenshot adds the same-transformation-team context. See decisions.md for provenance and boundaries.
