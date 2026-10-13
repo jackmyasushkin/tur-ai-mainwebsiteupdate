@@ -1,0 +1,128 @@
+{
+  "read_only": true,
+  "edition": "enterprise-orchestration-handoff-v2",
+  "production_home_page_id": "66368e29da23c5a1b0fe1396",
+  "counts": {
+    "no_write_matches_baseline": 90,
+    "eligible_from_baseline": 101,
+    "binding_conflict": 2,
+    "no_write_node_absent_on_target_home": 6,
+    "no_write_component_not_instanced_on_target_home": 22,
+    "value_unverified": 7
+  },
+  "rewrite_counts": {
+    "eligible_from_baseline": 101,
+    "binding_conflict": 2,
+    "value_unverified": 1
+  },
+  "no_write_counts": {
+    "no_write_matches_baseline": 90,
+    "no_write_node_absent_on_target_home": 6,
+    "no_write_component_not_instanced_on_target_home": 22,
+    "value_unverified": 6
+  },
+  "text_operation_counts": {
+    "eligible": 120,
+    "unknown": 2
+  },
+  "scope_errors": [],
+  "candidate_counts": {
+    "original_source_rewrite_fields": 104,
+    "mapped_existing_text_fields": 99,
+    "mapped_text_leaf_operations": 120,
+    "shared_definition_text_operations": 7,
+    "seo_fields": 2,
+    "native_placeholder_fields": 1,
+    "total_existing_field_candidates": 102,
+    "missing_faq_fields": 2,
+    "ordinal_markers": 4
+  },
+  "published_corroboration": {
+    "source": {
+      "url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/",
+      "captured_at": "2026-10-13T07:25:22.525664+00:00",
+      "html_sha256": "5ff038faea2ae2f508e38ae9aec6098d385a038702b9d4a035819677b1637a5a",
+      "fields": {
+        "HOME-177": {
+          "value": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+          "tag": "h3",
+          "class": "quote",
+          "verified_against_approved": true
+        },
+        "HOME-205": {
+          "value": "Left Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-206": {
+          "value": "Right Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-207": {
+          "value": "Image of Faissel el Mourid",
+          "class": "sl-image",
+          "verified_against_approved": true
+        },
+        "HOME-209": {
+          "value": "Which process needs to change, and which systems and controls are involved?",
+          "id": "field",
+          "name": "field",
+          "class": "contact_field-area w-input",
+          "verified_against_approved": true
+        }
+      },
+      "boundary": "Published HTML values corroborate content only; they do not prove current Designer draft attributes or node UUIDs."
+    },
+    "target": {
+      "url": "https://www.tur.ai/",
+      "captured_at": "2026-10-13T07:25:27.076843+00:00",
+      "html_sha256": "16a17d347684762b13801d5f1a8c7e5b3771fbaf81ec2041d6d9e7c75f44c486",
+      "fields": {
+        "HOME-177": {
+          "value": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+          "tag": "h3",
+          "class": "quote",
+          "verified_against_approved": true
+        },
+        "HOME-205": {
+          "value": "Left Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-206": {
+          "value": "Right Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-207": {
+          "value": "Image of Faissel el Mourid",
+          "class": "sl-image",
+          "verified_against_approved": true
+        },
+        "HOME-209": {
+          "value": "Please share the benefits you expect from AI or challenges you aim to address.",
+          "id": "field",
+          "name": "field",
+          "class": "contact_field-area w-input",
+          "verified_against_approved": false
+        }
+      },
+      "boundary": "Published HTML values corroborate content only; they do not prove current Designer draft attributes or node UUIDs."
+    }
+  },
+  "source_live_rewrite_values_verified_by_mcp": 103,
+  "node_coverage": {
+    "source_nodes": 880,
+    "target_nodes": 853,
+    "settings_differences": 8,
+    "unmapped_nodes": 27
+  },
+  "limitations": [
+    "UUID equality alone is never accepted; scope and structural context corroborate every mapping.",
+    "Normalized aggregate equality is insufficient for write execution: exact segment raw strings are recorded separately.",
+    "No Webflow mutation authorization is implied by an eligible mapping.",
+    "DOM-only and absent form attributes remain unverified until read directly.",
+    "Shared components require production-wide usage inventory before mutation."
+  ]
+}

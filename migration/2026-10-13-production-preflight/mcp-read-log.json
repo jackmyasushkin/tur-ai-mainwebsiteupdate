@@ -1,0 +1,349 @@
+{
+  "mode": "read-only",
+  "calls": [
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:15:57.239Z",
+      "completed_at": "2026-10-13T07:16:01.362Z",
+      "tool": "mcp__webflow__data_sites_tool",
+      "operations": 2,
+      "labels": [
+        "Source sandbox metadata for transfer preflight",
+        "Target production metadata for transfer preflight"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:16:19.664Z",
+      "completed_at": "2026-10-13T07:16:24.449Z",
+      "tool": "mcp__webflow__data_agent_instructions_tool",
+      "operations": 2,
+      "labels": [
+        "Source instructions for transfer",
+        "Target instructions for transfer"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:16:24.449Z",
+      "milliseconds": 2000,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:16:26.451Z",
+      "completed_at": "2026-10-13T07:16:30.771Z",
+      "tool": "mcp__webflow__data_pages_tool",
+      "operations": 3,
+      "labels": [
+        "Source pages for transfer",
+        "Target pages for transfer",
+        "Check page branching entitlement without creating a branch"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:16:52.192Z",
+      "completed_at": "2026-10-13T07:17:05.155Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "transferSourceHome"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:17:05.159Z",
+      "milliseconds": 1993,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:17:07.154Z",
+      "completed_at": "2026-10-13T07:17:13.838Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "transferTargetHome"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:17:13.841Z",
+      "milliseconds": 1996,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:17:15.839Z",
+      "completed_at": "2026-10-13T07:17:20.762Z",
+      "tool": "mcp__webflow__data_component_tool",
+      "operations": 1,
+      "labels": [
+        "transferSourceComponents"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:17:20.763Z",
+      "milliseconds": 1999,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:17:22.764Z",
+      "completed_at": "2026-10-13T07:17:27.079Z",
+      "tool": "mcp__webflow__data_component_tool",
+      "operations": 1,
+      "labels": [
+        "transferTargetComponents"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:18:19.808Z",
+      "completed_at": "2026-10-13T07:18:26.760Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 9,
+      "labels": [
+        "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+        "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+        "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+        "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+        "d4775e29-0c8c-aca9-118d-34e001e4956b",
+        "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+        "b353f866-47b7-dc8c-628c-624c3e4c4048"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:18:26.761Z",
+      "milliseconds": 1998,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:18:28.761Z",
+      "completed_at": "2026-10-13T07:18:33.532Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 9,
+      "labels": [
+        "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+        "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+        "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+        "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+        "d4775e29-0c8c-aca9-118d-34e001e4956b",
+        "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+        "b353f866-47b7-dc8c-628c-624c3e4c4048"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:19:36.325Z",
+      "completed_at": "2026-10-13T07:19:41.668Z",
+      "tool": "mcp__webflow__data_scripts_tool",
+      "operations": 8,
+      "labels": [
+        "source-page-freeform",
+        "target-page-freeform",
+        "source-site-freeform",
+        "target-site-freeform",
+        "source-page-scripts",
+        "target-page-scripts",
+        "target-site-scripts",
+        "target-registered-scripts"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:21:04.817Z",
+      "completed_at": "2026-10-13T07:21:12.250Z",
+      "tool": "mcp__webflow__data_style_tool",
+      "operations": 1,
+      "labels": [
+        "transferSourceStyles"
+      ],
+      "isError": true
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:21:12.251Z",
+      "milliseconds": 1998,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:21:14.254Z",
+      "completed_at": "2026-10-13T07:21:17.408Z",
+      "tool": "mcp__webflow__data_style_tool",
+      "operations": 1,
+      "labels": [
+        "transferTargetStyles"
+      ],
+      "isError": true
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:21:28.269Z",
+      "completed_at": "2026-10-13T07:21:35.611Z",
+      "tool": "mcp__webflow__data_style_tool",
+      "operations": 1,
+      "labels": [
+        "source-style-definitions"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:22:13.165Z",
+      "completed_at": "2026-10-13T07:22:22.609Z",
+      "tool": "mcp__webflow__data_style_tool",
+      "operations": 1,
+      "labels": [
+        "target-style-definitions"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:27:23.089Z",
+      "completed_at": "2026-10-13T07:27:27.243Z",
+      "tool": "mcp__webflow__data_element_settings_tool",
+      "operations": 2,
+      "labels": [
+        "Production native form placeholder settings",
+        "Production carousel embed settings"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:29:17.143Z",
+      "completed_at": "2026-10-13T07:29:20.974Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "Shared component impact: Radio Holland Case"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:29:20.975Z",
+      "milliseconds": 1999,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:29:22.977Z",
+      "completed_at": "2026-10-13T07:29:26.667Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "Shared component impact: Heineken Case"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:29:26.667Z",
+      "milliseconds": 1999,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:29:28.669Z",
+      "completed_at": "2026-10-13T07:29:33.526Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "Shared component impact: Heineken Case - Procurement"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:29:33.527Z",
+      "milliseconds": 2000,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:29:35.529Z",
+      "completed_at": "2026-10-13T07:29:39.016Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "Shared component impact: Imprint EN"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:29:39.017Z",
+      "milliseconds": 1999,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:29:41.018Z",
+      "completed_at": "2026-10-13T07:29:44.754Z",
+      "tool": "mcp__webflow__data_element_tool",
+      "operations": 1,
+      "labels": [
+        "Shared component impact: Privacy Policy EN"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:34:47.463Z",
+      "completed_at": "2026-10-13T07:34:54.288Z",
+      "tool": "mcp__webflow__data_element_settings_tool",
+      "operations": 5,
+      "labels": [
+        "22acff74-80b3-20c7-8a64-c4164b0a265b",
+        "f1f49ab6-5ad0-85a1-e23f-3412301147d5",
+        "f87945d5-473b-fa0c-0c30-f68ac7697980",
+        "2255577c-d9a9-2b2a-e948-235d2a200b2e",
+        "7e63be91-152e-47de-c425-8cf0352cfb01"
+      ],
+      "isError": false
+    },
+    {
+      "kind": "pause",
+      "at": "2026-10-13T07:34:54.289Z",
+      "milliseconds": 1999,
+      "reason": "minimum-2s-gap"
+    },
+    {
+      "kind": "call",
+      "started_at": "2026-10-13T07:34:56.290Z",
+      "completed_at": "2026-10-13T07:35:00.833Z",
+      "tool": "mcp__webflow__data_element_settings_tool",
+      "operations": 5,
+      "labels": [
+        "22acff74-80b3-20c7-8a64-c4164b0a265b",
+        "f1f49ab6-5ad0-85a1-e23f-3412301147d5",
+        "f87945d5-473b-fa0c-0c30-f68ac7697980",
+        "2255577c-d9a9-2b2a-e948-235d2a200b2e",
+        "7e63be91-152e-47de-c425-8cf0352cfb01"
+      ],
+      "isError": false
+    }
+  ]
+}

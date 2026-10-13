@@ -1,0 +1,1426 @@
+{
+  "url": "https://www.tur.ai/",
+  "final_url": "https://www.tur.ai/",
+  "status": 200,
+  "captured_at": "2026-10-13T07:25:27.076843+00:00",
+  "html_sha256": "16a17d347684762b13801d5f1a8c7e5b3771fbaf81ec2041d6d9e7c75f44c486",
+  "selected_nodes": [
+    {
+      "tag": "meta",
+      "attrs": {
+        "charset": "utf-8"
+      },
+      "text": ""
+    },
+    {
+      "tag": "title",
+      "attrs": {},
+      "text": "Tur.ai - Headless Hyperautomation platform"
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo.",
+        "name": "description"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Tur.ai - Headless Hyperautomation platform",
+        "property": "og:title"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo.",
+        "property": "og:description"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp",
+        "property": "og:image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Tur.ai - Headless Hyperautomation platform",
+        "name": "twitter:title"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo.",
+        "name": "twitter:description"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp",
+        "name": "twitter:image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "property": "og:type",
+        "content": "website"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "summary_large_image",
+        "name": "twitter:card"
+      },
+      "text": ""
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "content": "width=device-width, initial-scale=1",
+        "name": "viewport"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66237aed3e60afcd062ddd52_logo.svg",
+        "loading": "eager",
+        "alt": "Tur.ai Logo - Full",
+        "class": "brand_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "38e1ce34-89dc-8e51-8705-41d79264eaf1",
+        "href": "#",
+        "class": "button w-inline-block"
+      },
+      "text": "Book a Demo"
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Contact Us"
+    },
+    {
+      "tag": "h1",
+      "attrs": {
+        "class": "hero_heading"
+      },
+      "text": "We Automate Enterprise Customer Operations with AI"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "7cedf845-05df-ca8f-130b-6a01bf8c443e",
+        "style": "opacity:0",
+        "class": "hero_button-wrap"
+      },
+      "text": "Book a DemoExperience Proven ROI in the First Year – Book a Demo to Discover How!"
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "38e1ce34-89dc-8e51-8705-41d79264eaf1",
+        "href": "#",
+        "class": "button w-inline-block"
+      },
+      "text": "Book a Demo"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "f829579c-1041-34e9-eac0-f20b944befc8",
+        "style": "opacity:0",
+        "class": "hero_logo-list"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620f31c6dc44f3b9cc684d9_Union-min.png",
+        "loading": "lazy",
+        "alt": "Heineken Logo - White",
+        "class": "hero_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620f31c59bcb75ffdc16636_image%2012-min.webp",
+        "loading": "lazy",
+        "alt": "Noordwest Logo - White",
+        "class": "hero_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620f31c860806ce0c3426bc_image%2014-min.webp",
+        "loading": "lazy",
+        "alt": "Radio Holland - White",
+        "class": "hero_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620f31c122a70e63c3971e3_Union-1-min.png",
+        "loading": "lazy",
+        "alt": "NOC NSF Logo - White",
+        "class": "hero_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "attrs": {
+        "data-w-id": "02b63847-bb12-574e-7515-0cb13b323592",
+        "style": "opacity:0",
+        "class": "heading-style-h2"
+      },
+      "text": "Unlock the Transformative Power of AI Tailored to Your Business Needs"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "9fc96a20-732f-fb31-e865-d2e65c769992",
+        "style": "opacity:0",
+        "class": "transform-item"
+      },
+      "text": "Less Human Interaction50%Cut down on repetitive queries with AI, reserving human expertise for complex cases."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "740e8327-fe90-a3d4-a2e7-ced5e9ff0533",
+        "style": "opacity:0",
+        "class": "transform-item"
+      },
+      "text": "Initial Resolution Rate90%Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "w-node-f9318e29-354a-45cd-23aa-0f92b790b2f6-b0fe1396",
+        "data-w-id": "f9318e29-354a-45cd-23aa-0f92b790b2f6",
+        "style": "opacity:0",
+        "class": "transform-item"
+      },
+      "text": "Tasks Automated70%Free your team to innovate with 70% of routine tasks automated by Tur.ai."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "ea335017-1cf5-c5c9-6756-e98bc54cd997",
+        "style": "opacity:0",
+        "class": "transform-item"
+      },
+      "text": "Sales Productivity Boost5%Enhance decision-making with actionable AI insights, nudging your sales productivity higher."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "section_quote"
+      },
+      "text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.Ievgen MiasushkinCEO of Tur.ai"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "1a85a3f9-efaa-7588-5852-3fc3c1db2036",
+        "style": "opacity:0",
+        "class": "quote_component"
+      },
+      "text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.Ievgen MiasushkinCEO of Tur.ai"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote-grid"
+      },
+      "text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.Ievgen MiasushkinCEO of Tur.ai"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620fa61d1c402304baa83b7_image%2017-min.webp",
+        "loading": "eager",
+        "width": "500",
+        "sizes": "(max-width: 767px) 100vw, 500px",
+        "alt": "Image of Ievgen Miasushkin, CEO of Tur.ai",
+        "srcset": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620fa61d1c402304baa83b7_image%2017-min-p-500.webp 500w, https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620fa61d1c402304baa83b7_image%2017-min-p-800.webp 800w, https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620fa61d1c402304baa83b7_image%2017-min.webp 1000w",
+        "class": "quote_image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote_content"
+      },
+      "text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.Ievgen MiasushkinCEO of Tur.ai"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote_text"
+      },
+      "text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote_name-wrapper"
+      },
+      "text": "Ievgen MiasushkinCEO of Tur.ai"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote_name"
+      },
+      "text": "Ievgen Miasushkin"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "quote_title"
+      },
+      "text": "CEO of Tur.ai"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6620fb8c1d9baabf7510633e_%E2%80%9C.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "quote_icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "attrs": {
+        "data-w-id": "b8ba1d74-ee1a-5251-102a-aa501377d680",
+        "class": "streamline_heading"
+      },
+      "text": "Streamline Every Step, From a Customer's First 'Hello' to Resolving Your Needs."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "w-node-ff7ee839-8744-c40f-b0b8-19eb87ff2c31-b0fe1396",
+        "data-w-id": "ff7ee839-8744-c40f-b0b8-19eb87ff2c31",
+        "class": "streamline_list"
+      },
+      "text": "/ 01Initial ContactDeliver meaningful, personalized, and engaging responses to customers within minutes./ 02Smart RoutingTur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention./ 03Sales & Service AutomationTur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI./ 04Smooth AftercareAutomated returns and smart exchange processing./ 05Satisfaction EnsuredConsistent, pleasing resolutions for every customer."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "d2d7a838-9ae4-a658-14d3-7f611782eef9",
+        "class": "streamline_item-wrapper is-first"
+      },
+      "text": "/ 01Initial ContactDeliver meaningful, personalized, and engaging responses to customers within minutes."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662ca5333cb2fe2f66c29e0e_Message.webp",
+        "loading": "lazy",
+        "alt": "Message Icon",
+        "class": "streamline_item-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "d4999def-26f6-4355-8064-f8d686f54a73",
+        "class": "streamline_item-wrapper"
+      },
+      "text": "/ 02Smart RoutingTur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662ca532c975b4637ea7a3f0_Filter.webp",
+        "loading": "lazy",
+        "alt": "Filter Icon",
+        "class": "streamline_item-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "8f175782-e3db-d986-e54f-39a1aad03fbc",
+        "class": "streamline_item-wrapper"
+      },
+      "text": "/ 03Sales & Service AutomationTur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662ca533a46ae80c0f611b3d_Setting.webp",
+        "loading": "lazy",
+        "alt": "Gears Icon",
+        "class": "streamline_item-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "ecde1b3d-73eb-4cb8-87e0-acd60eb4d5a7",
+        "class": "streamline_item-wrapper"
+      },
+      "text": "/ 04Smooth AftercareAutomated returns and smart exchange processing."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662ca53368c6566dc28aec18_Activity.webp",
+        "loading": "lazy",
+        "alt": "Activity Icon",
+        "class": "streamline_item-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "9a9890a2-9ce7-c117-e61c-7e51a398339d",
+        "class": "streamline_item-wrapper is-last"
+      },
+      "text": "/ 05Satisfaction EnsuredConsistent, pleasing resolutions for every customer."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662ca533cb7450eab3fc2bf4_Tick.webp",
+        "loading": "lazy",
+        "alt": "Tick Icon",
+        "class": "streamline_item-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "edcfd74b-520e-882a-69b7-84c3f2aefee0",
+        "style": "opacity:0",
+        "class": "retail_component"
+      },
+      "text": "Global Retail Leaders Employ Tur.ai.Lead to quote automation10x faster response rateLearn MoreBrand-owned cashback campaigns automationNation-wide campaigns managed by small team in parallel to day to day workLearn MoreService desk automationA small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.Learn MoreProcurement automationVendor onboarding time were reduced by 7x with 70% tasks done by AILearn MoreLead to quote automationManual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.Learn MoreBrand-owned cashback campaigns automationNation-wide campaigns managed by small team in parallel to day to day work.Learn MoreService desk automationA small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.Learn MoreProcurement automationVendor onboarding time were reduced by 7x with 70% tasks done by AI.Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621139115e761cd4d8de85e_image%2014.webp",
+        "loading": "lazy",
+        "width": "114.5",
+        "alt": "Radio Holland Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138d1227b4b2035f867a_Union.webp",
+        "loading": "lazy",
+        "width": "108.5",
+        "alt": "Heineken Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138df959492f047225e7_image%2012.webp",
+        "loading": "lazy",
+        "width": "109.5",
+        "alt": "Noordwest Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138da47327b8098ec968_Unioni.webp",
+        "loading": "lazy",
+        "width": "32.5",
+        "alt": "NOC NSF Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621139115e761cd4d8de85e_image%2014.webp",
+        "loading": "lazy",
+        "width": "114.5",
+        "alt": "Radio Holland Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "8f032244-2e08-dc21-01f2-7637feb446a8",
+        "style": "-webkit-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+        "href": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+        "target": "_blank",
+        "class": "button is-case w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138d1227b4b2035f867a_Union.webp",
+        "loading": "lazy",
+        "width": "108.5",
+        "alt": "Heineken Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "4b8f34fb-5182-3f63-1e5d-6f0780b8222a",
+        "style": "-webkit-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+        "href": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+        "target": "_blank",
+        "class": "button is-case w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138df959492f047225e7_image%2012.webp",
+        "loading": "lazy",
+        "width": "109.5",
+        "alt": "Noordwest Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6621138d1227b4b2035f867a_Union.webp",
+        "loading": "lazy",
+        "width": "108.5",
+        "alt": "Heineken Logo - Black",
+        "class": "retail_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "63e737d2-abf6-8be8-6b10-ca4b6d63c68d",
+        "style": "-webkit-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0rem, 0rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+        "href": "/heinekens-procurement-transformation-with-ai-automation",
+        "target": "_blank",
+        "class": "button is-case w-inline-block"
+      },
+      "text": "Learn More"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662692c5658557c3a8a60e9f_1.svg",
+        "loading": "lazy",
+        "alt": "Left Arrow - Black",
+        "class": "sl-arrow-2"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66269343d85d422606489f10_2.svg",
+        "loading": "lazy",
+        "alt": "Right Arrow - Black",
+        "class": "sl-arrow-2"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "attrs": {
+        "data-w-id": "b7c6a201-5e2f-770a-586c-f11a52d9aeb4",
+        "style": "opacity:0",
+        "class": "heading-style-h2"
+      },
+      "text": "Where AI Integration Meets Simplicity, Bypassing Hassle and Lavish Outlays."
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "data-w-id": "75341ec6-b7bf-fd07-df2d-3e2a204df393",
+        "class": "integration_button-mobile"
+      },
+      "text": "Click to see featuresthat make you smile"
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "data-w-id": "477ed19d-e1ac-fc79-f74b-c94e29c70505",
+        "class": "integration_button"
+      },
+      "text": "Click to see featuresthat make you smile"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "3527cd95-5f59-36ec-57f6-f2ce70a54abd",
+        "style": "opacity:0",
+        "class": "integration_wrapper-numbers"
+      },
+      "text": "42%Are lacking talent with the right skills for AI30%Have silos blocking full AI solution implementation24%Are missing system and data compatibility43%Don't have the tools for scaling ML Ops"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "0bc61829-aa0f-415f-63eb-e7f7f9c3fb46",
+        "style": "display:flex;opacity:1",
+        "class": "integration_item-number is-1"
+      },
+      "text": "42%Are lacking talent with the right skills for AI"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "a0edc565-33f4-669d-bb64-10f688dbe523",
+        "style": "display:flex;opacity:1",
+        "class": "integration_item-number is-2"
+      },
+      "text": "30%Have silos blocking full AI solution implementation"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "430b0ffe-6ee7-6925-1ff4-9c288826292d",
+        "style": "display:flex;opacity:1",
+        "class": "integration_item-number is-3"
+      },
+      "text": "24%Are missing system and data compatibility"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "7fa98413-1326-a093-303c-f065fd623c32",
+        "style": "display:flex;opacity:1",
+        "class": "integration_item-number is-4"
+      },
+      "text": "43%Don't have the tools for scaling ML Ops"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e2530e15-d39e-cf4d-b44e-19861a6a2955",
+        "style": "opacity:0",
+        "class": "integration_wrapper-icons"
+      },
+      "text": "No special skills needed for AI tasksOrchestrated cross-functional AI integrationWorks with the systems and data you haveReady-to-use AI models for your business context"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e2530e15-d39e-cf4d-b44e-19861a6a295f",
+        "style": "display:none;opacity:0",
+        "class": "integration_item-icon is-1"
+      },
+      "text": "No special skills needed for AI tasks"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6636adbe9389ca25fa07d358_Play.webp",
+        "loading": "lazy",
+        "alt": "Play Icon",
+        "class": "integration_icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e2530e15-d39e-cf4d-b44e-19861a6a296c",
+        "style": "display:none;opacity:0",
+        "class": "integration_item-icon is-2"
+      },
+      "text": "Orchestrated cross-functional AI integration"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6636adb49135a03d7aa916af_Arrow.webp",
+        "loading": "lazy",
+        "alt": "Arrow Icon",
+        "class": "integration_icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e2530e15-d39e-cf4d-b44e-19861a6a2979",
+        "style": "display:none;opacity:0",
+        "class": "integration_item-icon is-3"
+      },
+      "text": "Works with the systems and data you have"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6636adb4a188a2ffaf4b120d_Paper%20Plus.webp",
+        "loading": "lazy",
+        "alt": "Document+ Icon",
+        "class": "integration_icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e2530e15-d39e-cf4d-b44e-19861a6a2986",
+        "style": "display:none;opacity:0",
+        "class": "integration_item-icon is-4"
+      },
+      "text": "Ready-to-use AI models for your business context"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6636adb4aba36a5a0d480f04_Document.webp",
+        "loading": "lazy",
+        "alt": "Document Icon",
+        "class": "integration_icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "87c0a966-26cd-70dc-45ce-ad41058e1569",
+        "style": "opacity:0",
+        "class": "testimonial_component"
+      },
+      "text": "What people say about Tur.ai.\n\n.swiper-pagination.review-swiper {\n  position: relative;\n  left: 0 !important;\n  top: 0 !important; \n  bottom: 0 !important;\n  display: flex;\n  width: auto !important;  \n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet {\n\twidth: 0.75rem;\n  height: 0.75rem;\n  background: white;\n  opacity: .5;\n  transition: opacity 0.35s ease;\n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet.swiper-pagination-bullet-active {\t\n  background: white !important; \n  opacity: 1;\n}\n\n.swiper-slide.review-thumbs.swiper-slide-thumb-active .review_card-thumbs{\n\tborder-top-color: var(--white);\n}\n“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”Faissel el MouridiCFO, Radio Holland"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "swiper-root"
+      },
+      "text": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”Faissel el MouridiCFO, Radio Holland"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623750593ed75aef027d14b_arrow.svg",
+        "loading": "lazy",
+        "alt": "Left Arrow - White",
+        "class": "sl-arrow"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623750550414800d01be1fc_arrow2.svg",
+        "loading": "lazy",
+        "alt": "Right Arrow - White",
+        "class": "sl-arrow"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h3",
+      "attrs": {
+        "class": "quote"
+      },
+      "text": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6634b2adabc8ed4be715c1ee_tg_image_1291522592%201.webp",
+        "loading": "lazy",
+        "width": "62.5",
+        "alt": "Image of Faissel el Mourid",
+        "class": "sl-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "attrs": {
+        "data-w-id": "1bbb8a07-5871-c727-8eba-4792b70c7e2e",
+        "style": "opacity:0",
+        "class": "heading-style-h2"
+      },
+      "text": "Our Trademark Process Lets You Transform Your Retail Operations"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "b0ff4f5b-a8f4-3988-84d9-f6f8ed7a652f",
+        "style": "opacity:0",
+        "class": "process_tabs-menu w-tab-menu"
+      },
+      "text": "EXPLORE/ 01EMPOWER/ 02THRIVE/ 03"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "b0ff4f5b-a8f4-3988-84d9-f6f8ed7a6539",
+        "style": "opacity:0",
+        "class": "process_tabs-content w-tab-content"
+      },
+      "text": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6622178a8744598b8d188da5_1.svg",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662231a81ede5df5a3663f58_2.svg",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662217890dfbb892a1890a0d_3.svg",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "c0677f68-585f-6d5c-d35f-a316be13c28a",
+        "class": "process_card-wrapper is-mobile"
+      },
+      "text": "EXPLORE/ 01In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.EMPOWER/ 02Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.THRIVE/ 03Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6622178a8744598b8d188da5_1.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6622178a0e568aa09cf79d3e_2.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/662217890dfbb892a1890a0d_3.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "process_tabs-content-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "10fa2079-1069-7c48-7f5e-cc25bf3eca84",
+        "style": "opacity:0",
+        "class": "microsoft_component"
+      },
+      "text": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure."
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/665838d852ea8eee1394c733_MS_Startups_Celebration_Badge_Dark%20(2).webp",
+        "loading": "lazy",
+        "sizes": "(max-width: 786px) 100vw, 786px",
+        "srcset": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/665838d852ea8eee1394c733_MS_Startups_Celebration_Badge_Dark%20(2)-p-500.webp 500w, https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/665838d852ea8eee1394c733_MS_Startups_Celebration_Badge_Dark%20(2).webp 786w",
+        "alt": "Microsoft for Startups Badge",
+        "class": "microsoft_image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "attrs": {
+        "data-w-id": "e3f4a765-050a-8f2c-f46d-159d5ffc4d38",
+        "style": "opacity:0",
+        "class": "heading-style-h2"
+      },
+      "text": "Your Questions Answered."
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "6d537eb1-87d0-2d8c-de10-13d7ee27bf50",
+        "style": "opacity:0",
+        "class": "faq_content"
+      },
+      "text": "How difficult is it to start with your solution?It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 monthsSolution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months startSolution is suitable for efficient added value developments by any IT teamHow complicated is the integration process for your AI solution?Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.Can we use your solution standalone ? How is our data protected?Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only.Your data never leaves the security perimeter of your organization this way. If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.How will Tur.ai enhance our capability to scale sales globally?Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.What can we expect in terms of improving our first response to customer inquiries?Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact ResolutionIn what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities AutomatedHow will Tur.ai help us minimize the need for human contact in our service without losing our touch?Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "1a3ed09f-4c19-e803-c92f-8d50b226b81f",
+        "style": "opacity:0",
+        "class": "faq-contact-component"
+      },
+      "text": "More Questions?Book a call and learn more about AI's tailored impact on your operations.Contact Us"
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "data-w-id": "ed545407-4d33-d0b8-cc9e-d37c0b006e20",
+        "href": "#",
+        "class": "button is-dark w-inline-block"
+      },
+      "text": "Contact Us"
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "d3457215-3611-bac2-b4fa-4fff61bae77c",
+        "style": "opacity:0",
+        "class": "contact_component"
+      },
+      "text": "Tell us more about your goals.First NameLast NameEmailCompanyDive into Your AI GoalsSubmitThank you! We'll get back to you soon!Oops! Something went wrong while submitting the form."
+    },
+    {
+      "tag": "form",
+      "attrs": {
+        "id": "email-form",
+        "name": "email-form",
+        "data-name": "Email Form",
+        "method": "post",
+        "class": "contact_form-wrapper",
+        "data-wf-page-id": "66368e29da23c5a1b0fe1396",
+        "data-wf-element-id": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfdfe"
+      },
+      "text": "First NameLast NameEmailCompanyDive into Your AI GoalsSubmit"
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "First-Name",
+        "data-name": "First Name",
+        "placeholder": "",
+        "type": "text",
+        "id": "First-Name",
+        "required": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Last-Name",
+        "data-name": "Last Name",
+        "placeholder": "",
+        "type": "text",
+        "id": "Last-Name",
+        "required": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Email",
+        "data-name": "Email",
+        "placeholder": "",
+        "type": "email",
+        "id": "Email",
+        "required": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Company",
+        "data-name": "Company",
+        "placeholder": "",
+        "type": "text",
+        "id": "Company"
+      },
+      "text": ""
+    },
+    {
+      "tag": "textarea",
+      "attrs": {
+        "id": "field",
+        "name": "field",
+        "maxlength": "5000",
+        "data-name": "Field",
+        "placeholder": "Please share the benefits you expect from AI or challenges you aim to address.",
+        "class": "contact_field-area w-input"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "45b2bdc9-fd72-45a7-c1ec-b240a333ad92",
+        "class": "button"
+      },
+      "text": "Submit"
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/66237aed3e60afcd062ddd52_logo.svg",
+        "loading": "lazy",
+        "alt": "Tur.ai Logo - Full",
+        "class": "footer_logo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623ad36316335c8ee41a75d_64e6129003f895605535cf47_Frame%20101%201.webp",
+        "loading": "lazy",
+        "alt": "Top B2B Companies Ukraine 2023 - Clutch Award Logo",
+        "class": "footer_award-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623ad36fd9f586ebc653035_64e61290a81ae76f130a040e_Frame%20103.webp",
+        "loading": "lazy",
+        "alt": "Dutch Interactive Awards Logo",
+        "class": "footer_award-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623ad360210e3a584f38d02_64e61291ed419ea100f297d5_Frame%20104.webp",
+        "loading": "lazy",
+        "alt": "Accenture Innovation Awards - Award Logo",
+        "class": "footer_award-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623ad36c11845bf25456f24_64e612914bf681bb32876cd0_Frame%20102.webp",
+        "loading": "lazy",
+        "alt": "ML and Intelligent Automation Award Logo",
+        "class": "footer_award-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/6623ad36eafda31d6ac9a7bc_64e61291a7366bafa1370384_Frame%20105.webp",
+        "loading": "lazy",
+        "alt": "Spinawards - Award Logo",
+        "class": "footer_award-image"
+      },
+      "text": ""
+    },
+    {
+      "tag": "form",
+      "attrs": {
+        "id": "wf-form-Book-a-Demo",
+        "name": "wf-form-Book-a-Demo",
+        "data-name": "Book a Demo",
+        "method": "get",
+        "class": "contact_form-wrapper",
+        "data-wf-page-id": "66368e29da23c5a1b0fe1396",
+        "data-wf-element-id": "e7c0820d-4776-575f-b75a-443b3c55d9af"
+      },
+      "text": "First NameLast NameEmailCompanySubmit"
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "name-2",
+        "data-name": "Name 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "first-name-demo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Last-Name-2",
+        "data-name": "Last Name 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "last-name-demo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Email-2",
+        "data-name": "Email 2",
+        "placeholder": "",
+        "type": "email",
+        "id": "email-demo"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Company-2",
+        "data-name": "Company 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "email-company"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e7c0820d-4776-575f-b75a-443b3c55d9c4",
+        "class": "button"
+      },
+      "text": "Submit"
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "data-w-id": "e7c0820d-4776-575f-b75a-443b3c55d9d0",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "100%",
+        "viewbox": "0 0 25 25",
+        "fill": "none",
+        "class": "modal_close-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "e7c0820d-4776-575f-b75a-443b3c55d9d3",
+        "class": "modal_close"
+      },
+      "text": ""
+    },
+    {
+      "tag": "form",
+      "attrs": {
+        "id": "wf-form-Book-a-Call-2",
+        "name": "wf-form-Book-a-Call-2",
+        "data-name": "Book a Call",
+        "method": "get",
+        "class": "contact_form-wrapper",
+        "data-wf-page-id": "66368e29da23c5a1b0fe1396",
+        "data-wf-element-id": "da519de6-fd09-ebd6-cb27-c995ef47697b"
+      },
+      "text": "First NameLast NameEmailCompanySubmit"
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "name-2",
+        "data-name": "Name 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "first-name-call"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Last-Name-2",
+        "data-name": "Last Name 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "last-name-call"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Email-2",
+        "data-name": "Email 2",
+        "placeholder": "",
+        "type": "email",
+        "id": "email-call"
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "class": "contact_field w-input",
+        "maxlength": "256",
+        "name": "Company-2",
+        "data-name": "Company 2",
+        "placeholder": "",
+        "type": "text",
+        "id": "company-call"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "da519de6-fd09-ebd6-cb27-c995ef476991",
+        "class": "button"
+      },
+      "text": "Submit"
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "data-w-id": "da519de6-fd09-ebd6-cb27-c995ef47699d",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "100%",
+        "viewbox": "0 0 25 25",
+        "fill": "none",
+        "class": "modal_close-icon"
+      },
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "data-w-id": "da519de6-fd09-ebd6-cb27-c995ef4769a0",
+        "class": "modal_close"
+      },
+      "text": ""
+    }
+  ],
+  "css": [
+    {
+      "url": "https://cdn.prod.website-files.com/64e477696d41401ec48c50c6/css/tur-ai.webflow.shared.6b1b00e16.min.css",
+      "filename": "target-published-0.css",
+      "sha256": "e3c1d5d7c4f53a392119b2829e19e8fd22fa4cce937b8f5997b0b059a03712c1",
+      "bytes": 127164
+    }
+  ],
+  "all_anchors": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "#",
+      "text": "Book a Demo"
+    },
+    {
+      "href": "#",
+      "text": "Contact Us"
+    },
+    {
+      "href": "#",
+      "text": "Book a Demo"
+    },
+    {
+      "href": "#",
+      "text": "Learn More"
+    },
+    {
+      "href": "#",
+      "text": "Learn More"
+    },
+    {
+      "href": "#",
+      "text": "Learn More"
+    },
+    {
+      "href": "#",
+      "text": "Learn More"
+    },
+    {
+      "href": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "text": "Learn More"
+    },
+    {
+      "href": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "text": "Learn More"
+    },
+    {
+      "href": "#",
+      "text": "Learn More"
+    },
+    {
+      "href": "/heinekens-procurement-transformation-with-ai-automation",
+      "text": "Learn More"
+    },
+    {
+      "href": "",
+      "text": "EXPLORE/ 01"
+    },
+    {
+      "href": "",
+      "text": "EMPOWER/ 02"
+    },
+    {
+      "href": "",
+      "text": "THRIVE/ 03"
+    },
+    {
+      "href": "#",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://nl.linkedin.com/company/tur-ai-automation",
+      "text": "LinkedIn"
+    },
+    {
+      "href": "/privacy-policy",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/imprint",
+      "text": "Imprint"
+    },
+    {
+      "href": "#",
+      "text": "Back to Top"
+    }
+  ]
+}

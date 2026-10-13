@@ -1,0 +1,3792 @@
+{
+  "status": "READ_ONLY_STRATEGY_CANDIDATE_NOT_AUTHORIZED_FOR_EXECUTION",
+  "scope": "In-place migration into original Tur.ai; no cloned page/site/CSS/form action replacement.",
+  "source": {
+    "site_id": "6899ffe04a85e00f2b8cf5ab",
+    "page_id": "6899ffe04a85e00f2b8cf5ac",
+    "edition": "enterprise-orchestration-handoff-v2",
+    "content_commit": "086ce563960473a70221dccb8c7092507fa93e3b",
+    "ordinal_fix_commit": "5e3fad4edca6bb6d10268ea27df376a59e27e8d9",
+    "acceptance_commit": "8f35796ba9a5a775dd0f00130b8fdbab46ffd22d"
+  },
+  "target": {
+    "site_id": "64e477696d41401ec48c50c6",
+    "page_id": "66368e29da23c5a1b0fe1396",
+    "page_name": "Home",
+    "language": "English"
+  },
+  "source_mapping_audit_sha256": "9e10c70c3ebb11bbcccae5ee38d3d9be5ad14980be63be07fc9cb14111fa3ce7",
+  "counts": {
+    "original_source_rewrite_fields": 104,
+    "mapped_existing_text_fields": 99,
+    "mapped_text_leaf_operations": 120,
+    "shared_definition_text_operations": 7,
+    "seo_fields": 2,
+    "native_placeholder_fields": 1,
+    "total_existing_field_candidates": 102,
+    "missing_faq_fields": 2,
+    "ordinal_markers": 4
+  },
+  "field_dispositions": [
+    {
+      "id": "HOME-001",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-002",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-003",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-004",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-005",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-006",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-007",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-008",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-009",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-010",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-011",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-012",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-013",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-014",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-015",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-016",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-017",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-018",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-019",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-020",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-021",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-022",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-023",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-024",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-025",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-026",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-027",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-028",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-029",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-030",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-031",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-032",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-033",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-034",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-035",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-036",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-037",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-038",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-039",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-040",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-041",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-042",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-043",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-044",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-045",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-046",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-047",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-048",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-049",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-050",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-051",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-052",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-053",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-054",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-055",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-056",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-057",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-058",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-059",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-060",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-061",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-062",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-063",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-064",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-065",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-066",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-067",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-068",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-069",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-070",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-071",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-072",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-073",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-074",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-075",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-076",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-077",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-078",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-079",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-080",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-081",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-082",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-083",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-084",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-085",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-086",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-087",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-088",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-089",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-090",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-091",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-092",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-093",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-094",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-095",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-096",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-097",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-098",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-099",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-100",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-101",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-102",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-103",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-104",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-105",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-106",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-107",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-108",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-109",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-110",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-111",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-112",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-113",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-114",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-115",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-116",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-117",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-118",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-119",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-120",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-121",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-122",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-123",
+      "action": "rewrite",
+      "status": "binding_conflict",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-124",
+      "action": "rewrite",
+      "status": "binding_conflict",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-125",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-126",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-127",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-128",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-129",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-130",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-131",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-132",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-133",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-134",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-135",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-136",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-137",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-138",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-139",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-140",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-141",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-142",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-143",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-144",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-145",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-146",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-147",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-148",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-149",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-150",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-151",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-152",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-153",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-154",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-155",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-156",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-157",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-158",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-159",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-160",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-161",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-162",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-163",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-164",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-165",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-166",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-167",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-168",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-169",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-170",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-171",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-172",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-173",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-174",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-175",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-176",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-177",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-178",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-179",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-180",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-181",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-182",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-183",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-184",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-185",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-186",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-187",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-188",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-189",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-190",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-191",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-192",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-193",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-194",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-195",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-196",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-197",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-198",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-199",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-200",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-201",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-202",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-203",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-204",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-205",
+      "action": "keep",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-206",
+      "action": "keep",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-207",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-208",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-209",
+      "action": "rewrite",
+      "status": "value_unverified",
+      "source_field": "attribute:placeholder",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-210",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-211",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-212",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-213",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-214",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-215",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-216",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "attribute:data-wait",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-217",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "attribute:value",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-218",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:0",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-219",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:1",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-220",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:2",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-221",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:3",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-222",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:4",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-223",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:5",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-224",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:placeholder",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-225",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:data-wait",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-226",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:value",
+      "home_instance_presence": false
+    },
+    {
+      "id": "HOME-227",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "seo.title",
+      "home_instance_presence": true
+    },
+    {
+      "id": "HOME-228",
+      "action": "rewrite",
+      "status": "eligible_from_baseline",
+      "source_field": "seo.description",
+      "home_instance_presence": true
+    }
+  ],
+  "text_operations": [
+    {
+      "field_id": "HOME-003",
+      "label": "HOME-003-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2f"
+      },
+      "expected_current_raw": "We ",
+      "approved_new_raw": "Enterprise ",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-003"
+    },
+    {
+      "field_id": "HOME-003",
+      "label": "HOME-003-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "2b066328-9a94-c967-16e0-a7eb5632acf0"
+      },
+      "expected_current_raw": "Automate ",
+      "approved_new_raw": "Process ",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-003"
+    },
+    {
+      "field_id": "HOME-003",
+      "label": "HOME-003-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "27e5d944-a647-2835-857a-f6cce18f23ad"
+      },
+      "expected_current_raw": "Enterprise Customer Operations with ",
+      "approved_new_raw": "Orchestration ",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-003"
+    },
+    {
+      "field_id": "HOME-003",
+      "label": "HOME-003-3",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "d289d6ed-e2cb-f2c5-ed95-3ce79ffdebe2"
+      },
+      "expected_current_raw": "AI",
+      "approved_new_raw": "Platform",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-003"
+    },
+    {
+      "field_id": "HOME-004",
+      "label": "HOME-004",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad4"
+      },
+      "expected_current_raw": "Achieve up to 90% resolution on initial contact and automate 50% of agent tasks with AI, all within less than 3 months to value.",
+      "approved_new_raw": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-004"
+    },
+    {
+      "field_id": "HOME-006",
+      "label": "HOME-006",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "8d0699a1-57c9-05de-24f3-854a2bc59025"
+      },
+      "expected_current_raw": "Experience Proven ROI in the First Year – Book a Demo to Discover How!",
+      "approved_new_raw": "See how to run, control and change a process across your systems.",
+      "section": "hero",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-006"
+    },
+    {
+      "field_id": "HOME-007",
+      "label": "HOME-007-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "02b63847-bb12-574e-7515-0cb13b323593"
+      },
+      "expected_current_raw": "Unlock the ",
+      "approved_new_raw": "Work and ",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-007"
+    },
+    {
+      "field_id": "HOME-007",
+      "label": "HOME-007-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "fe6558be-54c4-407c-3abc-a8f7ab7277af"
+      },
+      "expected_current_raw": "Transformative Power",
+      "approved_new_raw": "change faster.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-007"
+    },
+    {
+      "field_id": "HOME-007",
+      "label": "HOME-007-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "3ba5231c-1e7a-2715-ec00-94c510a3243f"
+      },
+      "expected_current_raw": " of AI Tailored to Your Business Needs",
+      "approved_new_raw": " Results from banking engagements.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-007"
+    },
+    {
+      "field_id": "HOME-008",
+      "label": "HOME-008",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "3e9d6fb2-d26f-e0c2-d772-4f8959394279"
+      },
+      "expected_current_raw": "Less Human Interaction",
+      "approved_new_raw": "Shorter process cycles",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-008"
+    },
+    {
+      "field_id": "HOME-009",
+      "label": "HOME-009",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "7a1d631e-4a36-87c4-19b1-03c3c3a8489b"
+      },
+      "expected_current_raw": "50",
+      "approved_new_raw": "62",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-009"
+    },
+    {
+      "field_id": "HOME-011",
+      "label": "HOME-011",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "945818af-ca60-09a2-4eaf-60bf092ba087"
+      },
+      "expected_current_raw": "Cut down on repetitive queries with AI, reserving human expertise for complex cases.",
+      "approved_new_raw": "One European bank: customer onboarding fell from 16 days to 6.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-011"
+    },
+    {
+      "field_id": "HOME-012",
+      "label": "HOME-012",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0535"
+      },
+      "expected_current_raw": "Initial Resolution Rate",
+      "approved_new_raw": "Lower staffing needs",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-012"
+    },
+    {
+      "field_id": "HOME-013",
+      "label": "HOME-013",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0538"
+      },
+      "expected_current_raw": "90",
+      "approved_new_raw": "82",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-013"
+    },
+    {
+      "field_id": "HOME-015",
+      "label": "HOME-015",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff053c"
+      },
+      "expected_current_raw": "Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.",
+      "approved_new_raw": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-015"
+    },
+    {
+      "field_id": "HOME-016",
+      "label": "HOME-016",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f9318e29-354a-45cd-23aa-0f92b790b2f8"
+      },
+      "expected_current_raw": "Tasks Automated",
+      "approved_new_raw": "Lower LLM costs",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-016"
+    },
+    {
+      "field_id": "HOME-017",
+      "label": "HOME-017",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f9318e29-354a-45cd-23aa-0f92b790b2fb"
+      },
+      "expected_current_raw": "70",
+      "approved_new_raw": "83",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-017"
+    },
+    {
+      "field_id": "HOME-019",
+      "label": "HOME-019",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f9318e29-354a-45cd-23aa-0f92b790b2ff"
+      },
+      "expected_current_raw": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
+      "approved_new_raw": "Banking case: annual token spend fell from €1.8M to €300K.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-019"
+    },
+    {
+      "field_id": "HOME-020",
+      "label": "HOME-020",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ea335017-1cf5-c5c9-6756-e98bc54cd999"
+      },
+      "expected_current_raw": "Sales Productivity Boost",
+      "approved_new_raw": "Faster process delivery",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-020"
+    },
+    {
+      "field_id": "HOME-021",
+      "label": "HOME-021",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99c"
+      },
+      "expected_current_raw": "5",
+      "approved_new_raw": "3",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-021"
+    },
+    {
+      "field_id": "HOME-022",
+      "label": "HOME-022",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99e"
+      },
+      "expected_current_raw": "%",
+      "approved_new_raw": "×",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-022"
+    },
+    {
+      "field_id": "HOME-023",
+      "label": "HOME-023",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ea335017-1cf5-c5c9-6756-e98bc54cd9a0"
+      },
+      "expected_current_raw": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
+      "approved_new_raw": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+      "section": "transform",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-023"
+    },
+    {
+      "field_id": "HOME-024",
+      "label": "HOME-024-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "bc3c9039-c403-caaf-4f49-25eee512f379"
+      },
+      "expected_current_raw": "We democratized AI so every retailer can benefit from its transformative power - ",
+      "approved_new_raw": "We built Tur.ai so businesses can work and change faster without replacing their ",
+      "section": "quote",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-024"
+    },
+    {
+      "field_id": "HOME-024",
+      "label": "HOME-024-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e9e125d0-c254-c662-22df-63e5ebb3fe3b"
+      },
+      "expected_current_raw": "hassle-free",
+      "approved_new_raw": "core",
+      "section": "quote",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-024"
+    },
+    {
+      "field_id": "HOME-024",
+      "label": "HOME-024-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "6bda841c-a4f6-8e9e-a5fc-2f19270b02e1"
+      },
+      "expected_current_raw": ".",
+      "approved_new_raw": ".",
+      "section": "quote",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-024"
+    },
+    {
+      "field_id": "HOME-027",
+      "label": "HOME-027-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "4012293c-11b6-5290-0192-440506bdd014"
+      },
+      "expected_current_raw": "Streamline",
+      "approved_new_raw": "Coordinate",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-027"
+    },
+    {
+      "field_id": "HOME-027",
+      "label": "HOME-027-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "b8ba1d74-ee1a-5251-102a-aa501377d683"
+      },
+      "expected_current_raw": " Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+      "approved_new_raw": " Systems, AI and People in One Governed Process.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-027"
+    },
+    {
+      "field_id": "HOME-029",
+      "label": "HOME-029",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a81fe0b6-1eaa-db91-a3ad-953fed0a86d2"
+      },
+      "expected_current_raw": "Initial Contact",
+      "approved_new_raw": "Work intake",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-029"
+    },
+    {
+      "field_id": "HOME-030",
+      "label": "HOME-030",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "5f281bc3-2e17-7fb7-b9f1-7917698bd741"
+      },
+      "expected_current_raw": "Deliver meaningful, personalized, and engaging responses to customers within minutes.",
+      "approved_new_raw": "Bring requests, documents and system data into one process with shared context.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-030"
+    },
+    {
+      "field_id": "HOME-032",
+      "label": "HOME-032",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "d8136f0d-4ebe-3a6d-841a-c29436dcc1c1"
+      },
+      "expected_current_raw": "Smart Routing",
+      "approved_new_raw": "Task routing",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-032"
+    },
+    {
+      "field_id": "HOME-033",
+      "label": "HOME-033",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "811bf050-7e46-e70c-5cc4-9f06b2861a80"
+      },
+      "expected_current_raw": "Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.",
+      "approved_new_raw": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-033"
+    },
+    {
+      "field_id": "HOME-035",
+      "label": "HOME-035",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "6acbbf19-9d86-f21c-41fc-fcd0c69fad43"
+      },
+      "expected_current_raw": "Sales & Service Automation",
+      "approved_new_raw": "Controlled execution",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-035"
+    },
+    {
+      "field_id": "HOME-036",
+      "label": "HOME-036",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "58db77d7-9a5a-3631-9868-0f818a755175"
+      },
+      "expected_current_raw": "Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.",
+      "approved_new_raw": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-036"
+    },
+    {
+      "field_id": "HOME-038",
+      "label": "HOME-038",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "6d5b1297-45ef-e960-7cc0-17efb59b1ded"
+      },
+      "expected_current_raw": "Smooth Aftercare",
+      "approved_new_raw": "Human decisions",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-038"
+    },
+    {
+      "field_id": "HOME-039",
+      "label": "HOME-039",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "44410543-1595-11f8-4499-ee1256b3e143"
+      },
+      "expected_current_raw": "Automated returns and smart exchange processing.",
+      "approved_new_raw": "Route exceptions to the right person to decide.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-039"
+    },
+    {
+      "field_id": "HOME-041",
+      "label": "HOME-041",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f38ba30e-1c8b-8607-e846-a7300aeab29d"
+      },
+      "expected_current_raw": "Satisfaction Ensured",
+      "approved_new_raw": "Traceable outcomes",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-041"
+    },
+    {
+      "field_id": "HOME-042",
+      "label": "HOME-042",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b6"
+      },
+      "expected_current_raw": "Consistent, pleasing resolutions for every customer.",
+      "approved_new_raw": "Record actions and decisions for review and audit.",
+      "section": "streamline",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-042"
+    },
+    {
+      "field_id": "HOME-043",
+      "label": "HOME-043-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "188684cf-4252-7dc6-66e6-4fab8ab9d3e0"
+      },
+      "expected_current_raw": "Global Retail Leaders Employ ",
+      "approved_new_raw": "Real operations powered by ",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-043"
+    },
+    {
+      "field_id": "HOME-043",
+      "label": "HOME-043-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e27bb508-97d9-dcfd-5404-90e9ac73dece"
+      },
+      "expected_current_raw": "Tur.ai",
+      "approved_new_raw": "Tur.ai",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-043"
+    },
+    {
+      "field_id": "HOME-043",
+      "label": "HOME-043-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "366dbd54-6333-5a60-095b-ea35ea158053"
+      },
+      "expected_current_raw": ".",
+      "approved_new_raw": ".",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-043"
+    },
+    {
+      "field_id": "HOME-044",
+      "label": "HOME-044",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "3cff5fdb-d7b3-0353-9054-6422c25df8c8"
+      },
+      "expected_current_raw": "Lead to quote automation",
+      "approved_new_raw": "Lead-to-quote automation",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-044"
+    },
+    {
+      "field_id": "HOME-045",
+      "label": "HOME-045-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "c25331a6-b739-dd3d-8514-8d8256889ce2"
+      },
+      "expected_current_raw": "10x faster",
+      "approved_new_raw": "3x faster",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-045"
+    },
+    {
+      "field_id": "HOME-045",
+      "label": "HOME-045-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "71c19e01-c6f5-d8f8-4d91-6723beefee91"
+      },
+      "expected_current_raw": " response rate",
+      "approved_new_raw": " quotes",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-045"
+    },
+    {
+      "field_id": "HOME-047",
+      "label": "HOME-047",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cd"
+      },
+      "expected_current_raw": "Brand-owned cashback campaigns automation",
+      "approved_new_raw": "Cashback campaign operations",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-047"
+    },
+    {
+      "field_id": "HOME-048",
+      "label": "HOME-048",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "50b3e01d-5242-0803-f3c4-71fa3e1f4e3a"
+      },
+      "expected_current_raw": "Nation-wide campaigns managed by small team in parallel to day to day work",
+      "approved_new_raw": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-048"
+    },
+    {
+      "field_id": "HOME-051",
+      "label": "HOME-051",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "353d0820-b470-c4d5-b61c-fff519184750"
+      },
+      "expected_current_raw": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "approved_new_raw": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-051"
+    },
+    {
+      "field_id": "HOME-056",
+      "label": "HOME-056",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "c7a3014d-22ed-c91e-b538-158213fc630a"
+      },
+      "expected_current_raw": "Lead to quote automation",
+      "approved_new_raw": "Lead-to-quote automation",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-056"
+    },
+    {
+      "field_id": "HOME-057",
+      "label": "HOME-057",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "1488f37f-c619-d847-7b40-8bda7209dbc5"
+      },
+      "expected_current_raw": "Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.",
+      "approved_new_raw": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-057"
+    },
+    {
+      "field_id": "HOME-059",
+      "label": "HOME-059",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2018"
+      },
+      "expected_current_raw": "Brand-owned cashback campaigns automation",
+      "approved_new_raw": "Cashback campaign operations",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-059"
+    },
+    {
+      "field_id": "HOME-060",
+      "label": "HOME-060",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e201a"
+      },
+      "expected_current_raw": "Nation-wide campaigns managed by small team in parallel to day to day work.",
+      "approved_new_raw": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-060"
+    },
+    {
+      "field_id": "HOME-063",
+      "label": "HOME-063",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfdb"
+      },
+      "expected_current_raw": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "approved_new_raw": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-063"
+    },
+    {
+      "field_id": "HOME-066",
+      "label": "HOME-066",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "5653bac9-a2a7-6f94-4da7-6d8ab7742d06"
+      },
+      "expected_current_raw": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI.",
+      "approved_new_raw": "Heineken cut vendor onboarding from months to weeks.",
+      "section": "retail",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-066"
+    },
+    {
+      "field_id": "HOME-068",
+      "label": "HOME-068-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "b7c6a201-5e2f-770a-586c-f11a52d9aeb5"
+      },
+      "expected_current_raw": "Where AI Integration Meets ",
+      "approved_new_raw": "The operational plane: ",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-068"
+    },
+    {
+      "field_id": "HOME-068",
+      "label": "HOME-068-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "43a0cbff-d26a-524c-73ab-f58990897807"
+      },
+      "expected_current_raw": "Simplicity",
+      "approved_new_raw": "your rules",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-068"
+    },
+    {
+      "field_id": "HOME-068",
+      "label": "HOME-068-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "834dde35-c53b-2e6f-e2b0-6bfc896787d6"
+      },
+      "expected_current_raw": ", Bypassing Hassle and Lavish Outlays.",
+      "approved_new_raw": ", across your existing systems.",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-068"
+    },
+    {
+      "field_id": "HOME-069",
+      "label": "HOME-069-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151f"
+      },
+      "expected_current_raw": "Click to see features",
+      "approved_new_raw": "Click to see how",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-069"
+    },
+    {
+      "field_id": "HOME-069",
+      "label": "HOME-069-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d1521"
+      },
+      "expected_current_raw": "that make you smile",
+      "approved_new_raw": "Tur.ai changes this",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-069"
+    },
+    {
+      "field_id": "HOME-070",
+      "label": "HOME-070-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050b"
+      },
+      "expected_current_raw": "Click to see features",
+      "approved_new_raw": "Click to see how",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-070"
+    },
+    {
+      "field_id": "HOME-070",
+      "label": "HOME-070-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050d"
+      },
+      "expected_current_raw": "that make you smile",
+      "approved_new_raw": "Tur.ai changes this",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-070"
+    },
+    {
+      "field_id": "HOME-071",
+      "label": "HOME-071",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32359"
+      },
+      "expected_current_raw": "42",
+      "approved_new_raw": "01",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-071"
+    },
+    {
+      "field_id": "HOME-072",
+      "label": "HOME-072",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "8d7be475-aa0c-b63d-b172-a0c223302b3c"
+      },
+      "expected_current_raw": "%",
+      "approved_new_raw": ".",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-072"
+    },
+    {
+      "field_id": "HOME-073",
+      "label": "HOME-073",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "48b57b5c-3e24-204a-c4cc-5e69829f7fe5"
+      },
+      "expected_current_raw": "Are lacking talent with the right skills for AI",
+      "approved_new_raw": "One model for every task",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-073"
+    },
+    {
+      "field_id": "HOME-074",
+      "label": "HOME-074",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a0edc565-33f4-669d-bb64-10f688dbe526"
+      },
+      "expected_current_raw": "30",
+      "approved_new_raw": "02",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-074"
+    },
+    {
+      "field_id": "HOME-075",
+      "label": "HOME-075",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a0edc565-33f4-669d-bb64-10f688dbe528"
+      },
+      "expected_current_raw": "%",
+      "approved_new_raw": ".",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-075"
+    },
+    {
+      "field_id": "HOME-076",
+      "label": "HOME-076",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a0edc565-33f4-669d-bb64-10f688dbe52a"
+      },
+      "expected_current_raw": "Have silos blocking full AI solution implementation",
+      "approved_new_raw": "People bridging systems and teams",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-076"
+    },
+    {
+      "field_id": "HOME-077",
+      "label": "HOME-077",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "430b0ffe-6ee7-6925-1ff4-9c2888262930"
+      },
+      "expected_current_raw": "24",
+      "approved_new_raw": "03",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-077"
+    },
+    {
+      "field_id": "HOME-078",
+      "label": "HOME-078",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "430b0ffe-6ee7-6925-1ff4-9c2888262932"
+      },
+      "expected_current_raw": "%",
+      "approved_new_raw": ".",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-078"
+    },
+    {
+      "field_id": "HOME-079",
+      "label": "HOME-079",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "430b0ffe-6ee7-6925-1ff4-9c2888262934"
+      },
+      "expected_current_raw": "Are missing system and data compatibility",
+      "approved_new_raw": "Process changes held up by core releases",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-079"
+    },
+    {
+      "field_id": "HOME-080",
+      "label": "HOME-080",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "7fa98413-1326-a093-303c-f065fd623c35"
+      },
+      "expected_current_raw": "43",
+      "approved_new_raw": "04",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-080"
+    },
+    {
+      "field_id": "HOME-081",
+      "label": "HOME-081",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "7fa98413-1326-a093-303c-f065fd623c37"
+      },
+      "expected_current_raw": "%",
+      "approved_new_raw": ".",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-081"
+    },
+    {
+      "field_id": "HOME-082",
+      "label": "HOME-082",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "7fa98413-1326-a093-303c-f065fd623c39"
+      },
+      "expected_current_raw": "Don't have the tools for scaling ML Ops",
+      "approved_new_raw": "Retries that waste tokens and time",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-082"
+    },
+    {
+      "field_id": "HOME-083",
+      "label": "HOME-083",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e2530e15-d39e-cf4d-b44e-19861a6a2962"
+      },
+      "expected_current_raw": "No special skills needed for AI tasks",
+      "approved_new_raw": "AI models matched to each task",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-083"
+    },
+    {
+      "field_id": "HOME-084",
+      "label": "HOME-084",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e2530e15-d39e-cf4d-b44e-19861a6a296f"
+      },
+      "expected_current_raw": "Orchestrated cross-functional AI integration",
+      "approved_new_raw": "One governed flow across systems and teams",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-084"
+    },
+    {
+      "field_id": "HOME-085",
+      "label": "HOME-085",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e2530e15-d39e-cf4d-b44e-19861a6a297c"
+      },
+      "expected_current_raw": "Works with the systems and data you have",
+      "approved_new_raw": "Change processes above existing systems",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-085"
+    },
+    {
+      "field_id": "HOME-086",
+      "label": "HOME-086",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e2530e15-d39e-cf4d-b44e-19861a6a2989"
+      },
+      "expected_current_raw": "Ready-to-use AI models for your business context",
+      "approved_new_raw": "Bounded retries, checks and human decisions",
+      "section": "integration",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-086"
+    },
+    {
+      "field_id": "HOME-088",
+      "label": "HOME-088-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "1bbb8a07-5871-c727-8eba-4792b70c7e2f"
+      },
+      "expected_current_raw": "Our ",
+      "approved_new_raw": "One ",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-088"
+    },
+    {
+      "field_id": "HOME-088",
+      "label": "HOME-088-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e700c5fc-6b44-fe9f-2c2b-e8b8069ba016"
+      },
+      "expected_current_raw": "Trademark Process",
+      "approved_new_raw": "platform",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-088"
+    },
+    {
+      "field_id": "HOME-088",
+      "label": "HOME-088-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f0bc4674-258a-d50b-f943-6fe16c2e828d"
+      },
+      "expected_current_raw": " Lets You Transform Your Retail Operations",
+      "approved_new_raw": " to pilot, run and scale your processes",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-088"
+    },
+    {
+      "field_id": "HOME-089",
+      "label": "HOME-089",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "bbd687c2-d28c-04a9-048d-f3640bee1447"
+      },
+      "expected_current_raw": "EXPLORE",
+      "approved_new_raw": "PILOT",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-089"
+    },
+    {
+      "field_id": "HOME-091",
+      "label": "HOME-091",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "2fd55856-84ab-2bf7-98fb-82b5f7186592"
+      },
+      "expected_current_raw": "EMPOWER",
+      "approved_new_raw": "LAUNCH",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-091"
+    },
+    {
+      "field_id": "HOME-093",
+      "label": "HOME-093",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e633f893-9851-606a-06f4-89cc869805ee"
+      },
+      "expected_current_raw": "THRIVE",
+      "approved_new_raw": "SCALE",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-093"
+    },
+    {
+      "field_id": "HOME-095",
+      "label": "HOME-095",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "22341e4b-d5cb-5fa3-2502-0f546b6c998e"
+      },
+      "expected_current_raw": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "approved_new_raw": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-095"
+    },
+    {
+      "field_id": "HOME-096",
+      "label": "HOME-096",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "6664dfe7-9884-cc17-824d-b1be819b5dcc"
+      },
+      "expected_current_raw": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "approved_new_raw": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-096"
+    },
+    {
+      "field_id": "HOME-097",
+      "label": "HOME-097",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "42240082-acf2-2393-855f-a3f33b96a468"
+      },
+      "expected_current_raw": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "approved_new_raw": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-097"
+    },
+    {
+      "field_id": "HOME-098",
+      "label": "HOME-098",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f30a751c-fe45-d11d-438a-056949caffe6"
+      },
+      "expected_current_raw": "EXPLORE",
+      "approved_new_raw": "PILOT",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-098"
+    },
+    {
+      "field_id": "HOME-100",
+      "label": "HOME-100",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "05ba6d71-702b-b650-b513-b0f7010020b9"
+      },
+      "expected_current_raw": "In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "approved_new_raw": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-100"
+    },
+    {
+      "field_id": "HOME-101",
+      "label": "HOME-101",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6be"
+      },
+      "expected_current_raw": "EMPOWER",
+      "approved_new_raw": "LAUNCH",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-101"
+    },
+    {
+      "field_id": "HOME-103",
+      "label": "HOME-103",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6c3"
+      },
+      "expected_current_raw": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "approved_new_raw": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-103"
+    },
+    {
+      "field_id": "HOME-104",
+      "label": "HOME-104",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ca70429a-1278-34ba-7dcf-289fc7780d95"
+      },
+      "expected_current_raw": "THRIVE",
+      "approved_new_raw": "SCALE",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-104"
+    },
+    {
+      "field_id": "HOME-106",
+      "label": "HOME-106",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "ca70429a-1278-34ba-7dcf-289fc7780d9a"
+      },
+      "expected_current_raw": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "approved_new_raw": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "section": "process",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-106"
+    },
+    {
+      "field_id": "HOME-107",
+      "label": "HOME-107",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f026b1a3-2142-e335-b4f3-3291efb603ab"
+      },
+      "expected_current_raw": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.",
+      "approved_new_raw": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+      "section": "microsoft",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-107"
+    },
+    {
+      "field_id": "HOME-109",
+      "label": "HOME-109",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "3d03967d-d43f-5775-5050-1246dca38874"
+      },
+      "expected_current_raw": "How difficult is it to start with your solution?",
+      "approved_new_raw": "How do we start and measure the first value?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-109"
+    },
+    {
+      "field_id": "HOME-110",
+      "label": "HOME-110-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71f"
+      },
+      "expected_current_raw": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months",
+      "approved_new_raw": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-110"
+    },
+    {
+      "field_id": "HOME-110",
+      "label": "HOME-110-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "d56f7ece-17cb-a71a-61a2-d9d2be0696d7"
+      },
+      "expected_current_raw": "Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start",
+      "approved_new_raw": "We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-110"
+    },
+    {
+      "field_id": "HOME-110",
+      "label": "HOME-110-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "0fdbc9fb-2347-fdf2-d394-ed83bf4f51cd"
+      },
+      "expected_current_raw": "Solution is suitable for efficient added value developments by any IT team",
+      "approved_new_raw": "Use measured results to decide whether to expand, adapt or stop.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-110"
+    },
+    {
+      "field_id": "HOME-111",
+      "label": "HOME-111",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "b2887f49-c191-5f40-4549-9d16283dcee8"
+      },
+      "expected_current_raw": "How complicated is the integration process for your AI solution?",
+      "approved_new_raw": "Can we change processes without replacing our existing systems?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-111"
+    },
+    {
+      "field_id": "HOME-112",
+      "label": "HOME-112",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "b2887f49-c191-5f40-4549-9d16283dcef0"
+      },
+      "expected_current_raw": "Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.",
+      "approved_new_raw": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-112"
+    },
+    {
+      "field_id": "HOME-113",
+      "label": "HOME-113",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "9a127a0e-e1b3-9d48-b589-0b23db682151"
+      },
+      "expected_current_raw": "Can we use your solution standalone ? How is our data protected?",
+      "approved_new_raw": "How do we fit Tur.ai into our security and data requirements?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-113"
+    },
+    {
+      "field_id": "HOME-114",
+      "label": "HOME-114-0",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "9a127a0e-e1b3-9d48-b589-0b23db682159"
+      },
+      "expected_current_raw": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only.",
+      "approved_new_raw": "Agree the deployment design with your IT and security teams: system access, data flows and model use.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-114"
+    },
+    {
+      "field_id": "HOME-114",
+      "label": "HOME-114-1",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "5f59265d-d1e2-9f06-6657-f84816fff9bb"
+      },
+      "expected_current_raw": "Your data never leaves the security perimeter of your organization this way. ",
+      "approved_new_raw": "Define where data is processed, who can access it and what is retained. ",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-114"
+    },
+    {
+      "field_id": "HOME-114",
+      "label": "HOME-114-2",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "3c563cdc-6309-3780-59ee-2f6fa93df589"
+      },
+      "expected_current_raw": "If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+      "approved_new_raw": "Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-114"
+    },
+    {
+      "field_id": "HOME-115",
+      "label": "HOME-115",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "89130b50-e358-e731-a5ac-42603b44f528"
+      },
+      "expected_current_raw": "How will Tur.ai enhance our capability to scale sales globally?",
+      "approved_new_raw": "How does Tur.ai keep AI costs under control as we scale?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-115"
+    },
+    {
+      "field_id": "HOME-116",
+      "label": "HOME-116",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "89130b50-e358-e731-a5ac-42603b44f530"
+      },
+      "expected_current_raw": "Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.",
+      "approved_new_raw": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-116"
+    },
+    {
+      "field_id": "HOME-117",
+      "label": "HOME-117",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fbd"
+      },
+      "expected_current_raw": "What can we expect in terms of improving our first response to customer inquiries?",
+      "approved_new_raw": "What do the results on this page actually measure?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-117"
+    },
+    {
+      "field_id": "HOME-118",
+      "label": "HOME-118",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fc5"
+      },
+      "expected_current_raw": "Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution",
+      "approved_new_raw": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-118"
+    },
+    {
+      "field_id": "HOME-119",
+      "label": "HOME-119",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f3fc0199-85e4-58ec-eed3-83315f5a4085"
+      },
+      "expected_current_raw": "In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?",
+      "approved_new_raw": "How does Tur.ai fit with our ERP, automation tools and AI?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-119"
+    },
+    {
+      "field_id": "HOME-120",
+      "label": "HOME-120",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "f3fc0199-85e4-58ec-eed3-83315f5a408d"
+      },
+      "expected_current_raw": "Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated",
+      "approved_new_raw": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-120"
+    },
+    {
+      "field_id": "HOME-121",
+      "label": "HOME-121",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "21c1861b-473f-4876-442a-5bca042080aa"
+      },
+      "expected_current_raw": "How will Tur.ai help us minimize the need for human contact in our service without losing our touch?",
+      "approved_new_raw": "What happens when AI needs human judgment or an exception occurs?",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-121"
+    },
+    {
+      "field_id": "HOME-122",
+      "label": "HOME-122",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "21c1861b-473f-4876-442a-5bca042080b2"
+      },
+      "expected_current_raw": "Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts",
+      "approved_new_raw": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-122"
+    },
+    {
+      "field_id": "HOME-126",
+      "label": "HOME-126",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "1316a488-0c25-2701-ea9e-cb281008a5f1"
+      },
+      "expected_current_raw": "Book a call and learn more about AI's tailored impact on your operations.",
+      "approved_new_raw": "Discuss process delivery, AI costs and the controls you need.",
+      "section": "faq",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-126"
+    },
+    {
+      "field_id": "HOME-133",
+      "label": "HOME-133",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "24d29c62-a38b-c16b-7920-6143552a7b99"
+      },
+      "expected_current_raw": "Dive into Your AI Goals",
+      "approved_new_raw": "Your process and goals",
+      "section": "contact",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-133"
+    },
+    {
+      "field_id": "HOME-135",
+      "label": "HOME-135",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe08"
+      },
+      "expected_current_raw": "Thank you! We'll get back to you soon!",
+      "approved_new_raw": "Thank you! We'll be in touch.",
+      "section": "contact",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-135"
+    },
+    {
+      "field_id": "HOME-136",
+      "label": "HOME-136",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0b"
+      },
+      "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+      "approved_new_raw": "Your message was not sent. Please try again.",
+      "section": "contact",
+      "scope_component_id": null,
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-136"
+    },
+    {
+      "field_id": "HOME-141",
+      "label": "HOME-141",
+      "id": {
+        "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+        "element": "d4775e29-0c8c-aca9-118d-34e001e49581"
+      },
+      "expected_current_raw": "© 2024 Tur.ai. All rights reserved.",
+      "approved_new_raw": "© 2026 Tur.ai. All rights reserved.",
+      "section": "footer",
+      "scope_component_id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-141"
+    },
+    {
+      "field_id": "HOME-143",
+      "label": "HOME-143",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9ad"
+      },
+      "expected_current_raw": "Enter your contact info to witness AI's tailored impact on your operations.",
+      "approved_new_raw": "See a process run across systems, with controls and task-matched AI.",
+      "section": "modal_demo",
+      "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-143"
+    },
+    {
+      "field_id": "HOME-149",
+      "label": "HOME-149",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9cc"
+      },
+      "expected_current_raw": "Thank you! Your submission has been received!",
+      "approved_new_raw": "Thank you! We'll contact you about your demo.",
+      "section": "modal_demo",
+      "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-149"
+    },
+    {
+      "field_id": "HOME-150",
+      "label": "HOME-150",
+      "id": {
+        "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "element": "e7c0820d-4776-575f-b75a-443b3c55d9cf"
+      },
+      "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+      "approved_new_raw": "Your message was not sent. Please try again.",
+      "section": "modal_demo",
+      "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-150"
+    },
+    {
+      "field_id": "HOME-152",
+      "label": "HOME-152",
+      "id": {
+        "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "element": "da519de6-fd09-ebd6-cb27-c995ef476979"
+      },
+      "expected_current_raw": "Enter your contact info and we’ll get back to you.",
+      "approved_new_raw": "Share your details to discuss orchestration.",
+      "section": "modal_contact",
+      "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-152"
+    },
+    {
+      "field_id": "HOME-158",
+      "label": "HOME-158",
+      "id": {
+        "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "element": "da519de6-fd09-ebd6-cb27-c995ef476999"
+      },
+      "expected_current_raw": "Thank you! Your submission has been received!",
+      "approved_new_raw": "Thank you! We'll contact you about your call.",
+      "section": "modal_contact",
+      "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-158"
+    },
+    {
+      "field_id": "HOME-159",
+      "label": "HOME-159",
+      "id": {
+        "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "element": "da519de6-fd09-ebd6-cb27-c995ef47699c"
+      },
+      "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+      "approved_new_raw": "Your message was not sent. Please try again.",
+      "section": "modal_contact",
+      "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+      "mapping_evidence": "same_element_uuid_and_structural_context",
+      "atomic_field_group": "HOME-159"
+    }
+  ],
+  "native_placeholder_operation": {
+    "field_id": "HOME-209",
+    "id": {
+      "component": "66368e29da23c5a1b0fe1396",
+      "element": "8cc95c90-7715-ba4a-fb6f-181d9f647d47"
+    },
+    "method": "Designer native Placeholder field",
+    "expected_original": "Please share the benefits you expect from AI or challenges you aim to address.",
+    "approved_new": "Which process needs to change, and which systems and controls are involved?",
+    "draft_value_preflight": "Pending native Designer Placeholder read. API get_settings exposes domId/name/required but not placeholder.",
+    "published_target_value": "Please share the benefits you expect from AI or challenges you aim to address."
+  },
+  "seo_operations": [
+    {
+      "field_id": "HOME-227",
+      "property": "seo.title",
+      "expected_current": "Tur.ai - Headless Hyperautomation platform",
+      "approved_new": "Tur.ai | Enterprise Process Orchestration",
+      "preserve_open_graph_inheritance": true
+    },
+    {
+      "field_id": "HOME-228",
+      "property": "seo.description",
+      "expected_current": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo.",
+      "approved_new": "Run regulated processes across existing systems. Orchestrate systems, AI and people to work faster today and change faster tomorrow.",
+      "preserve_open_graph_inheritance": true
+    }
+  ],
+  "missing_faq_decision": {
+    "fields": [
+      "HOME-123",
+      "HOME-124"
+    ],
+    "observation": "No corresponding question/answer container or String nodes in production Home. Sandbox has an extra FAQ row originating as sandbox preview FAQ.",
+    "approved_question": "Which processes are a good fit for Tur.ai?",
+    "approved_answer": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+    "status": "OWNER_APPROVED_ADDITION_IN_PLANNING; WEBFLOW_MUTATION_NOT_AUTHORIZED",
+    "decision": "Add one FAQ row styled and structured like the existing production FAQ rows. Preserve approved question and answer exactly. Allocate target-owned element IDs and verify accordion behavior.",
+    "execution": "Duplicate one existing production FAQ row using the native Designer action. Read the new target-owned IDs, set the exact question and answer, and verify the inherited accordion behavior."
+  },
+  "ordinal_operations": [
+    {
+      "field_id": "HOME-071",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32358"
+      },
+      "require_current_attribute": {
+        "fs-numbercount-element": "number"
+      },
+      "add_attribute": {
+        "data-tur-number-format": "ordinal-2"
+      }
+    },
+    {
+      "field_id": "HOME-074",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "a0edc565-33f4-669d-bb64-10f688dbe525"
+      },
+      "require_current_attribute": {
+        "fs-numbercount-element": "number"
+      },
+      "add_attribute": {
+        "data-tur-number-format": "ordinal-2"
+      }
+    },
+    {
+      "field_id": "HOME-077",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "430b0ffe-6ee7-6925-1ff4-9c288826292f"
+      },
+      "require_current_attribute": {
+        "fs-numbercount-element": "number"
+      },
+      "add_attribute": {
+        "data-tur-number-format": "ordinal-2"
+      }
+    },
+    {
+      "field_id": "HOME-080",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "7fa98413-1326-a093-303c-f065fd623c34"
+      },
+      "require_current_attribute": {
+        "fs-numbercount-element": "number"
+      },
+      "add_attribute": {
+        "data-tur-number-format": "ordinal-2"
+      }
+    }
+  ],
+  "formatter_operation": {
+    "source": "webflow/home-ordinal-format.js",
+    "placement": "Original Tur.ai English Home footer only",
+    "method": "Register against targetsite and attach to targetpage; verifyexisting registered/freeform scripts first. Preserve alloriginal site/page freeform code.",
+    "global_placement_forbidden": true,
+    "source_site_asset_reuse_without_targetregistration_forbidden": true
+  },
+  "preserve_target": {
+    "page_ids_links_assets_styles": true,
+    "forms_and_integrations": true,
+    "structural_omissions": {
+      "sandbox_hidden_test_form_no_write_fields": [
+        "HOME-160",
+        "HOME-161",
+        "HOME-162",
+        "HOME-163",
+        "HOME-216",
+        "HOME-217"
+      ],
+      "ua_component_no_home_instance_fields": [
+        "HOME-164",
+        "HOME-165",
+        "HOME-166",
+        "HOME-167",
+        "HOME-168",
+        "HOME-169",
+        "HOME-170",
+        "HOME-171",
+        "HOME-172",
+        "HOME-173",
+        "HOME-174",
+        "HOME-175",
+        "HOME-176",
+        "HOME-218",
+        "HOME-219",
+        "HOME-220",
+        "HOME-221",
+        "HOME-222",
+        "HOME-223",
+        "HOME-224",
+        "HOME-225",
+        "HOME-226"
+      ]
+    },
+    "contact_form_difference": "MCP tree original action empty; frozen sandbox before action configured. Do not copy sandbox action. No redacted URL equivalence claim is made.",
+    "shared_components": "Live catalog and page trees confirm Home, three case pages, Imprint EN and Privacy Policy EN each contain Footer, Modal Demo and Modal Contact. Apply seven definition changes once; check all six pages."
+  },
+  "published_corroboration": {
+    "source": {
+      "url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/",
+      "captured_at": "2026-10-13T07:25:22.525664+00:00",
+      "html_sha256": "5ff038faea2ae2f508e38ae9aec6098d385a038702b9d4a035819677b1637a5a",
+      "fields": {
+        "HOME-177": {
+          "value": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+          "tag": "h3",
+          "class": "quote",
+          "verified_against_approved": true
+        },
+        "HOME-205": {
+          "value": "Left Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-206": {
+          "value": "Right Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-207": {
+          "value": "Image of Faissel el Mourid",
+          "class": "sl-image",
+          "verified_against_approved": true
+        },
+        "HOME-209": {
+          "value": "Which process needs to change, and which systems and controls are involved?",
+          "id": "field",
+          "name": "field",
+          "class": "contact_field-area w-input",
+          "verified_against_approved": true
+        }
+      },
+      "boundary": "Published HTML values corroborate content only; they do not prove current Designer draft attributes or node UUIDs."
+    },
+    "target": {
+      "url": "https://www.tur.ai/",
+      "captured_at": "2026-10-13T07:25:27.076843+00:00",
+      "html_sha256": "16a17d347684762b13801d5f1a8c7e5b3771fbaf81ec2041d6d9e7c75f44c486",
+      "fields": {
+        "HOME-177": {
+          "value": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+          "tag": "h3",
+          "class": "quote",
+          "verified_against_approved": true
+        },
+        "HOME-205": {
+          "value": "Left Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-206": {
+          "value": "Right Arrow - White",
+          "class": "sl-arrow",
+          "verified_against_approved": true
+        },
+        "HOME-207": {
+          "value": "Image of Faissel el Mourid",
+          "class": "sl-image",
+          "verified_against_approved": true
+        },
+        "HOME-209": {
+          "value": "Please share the benefits you expect from AI or challenges you aim to address.",
+          "id": "field",
+          "name": "field",
+          "class": "contact_field-area w-input",
+          "verified_against_approved": false
+        }
+      },
+      "boundary": "Published HTML values corroborate content only; they do not prove current Designer draft attributes or node UUIDs."
+    }
+  },
+  "execution_prerequisites": [
+    "Current targetbeforestate snapshot/screenshots andexactsegmentpreflight",
+    "Implement ownerapproved oneFAQrowaddition onlyaftertransferexecutionauthorization",
+    "ReadDesignerplaceholder andremainingDOM-onlyvalues; APIget_settings doesnotexposeplaceholder",
+    "Preserveoriginalforms,links,styles,scriptcode andintegrations",
+    "Validate all12widths/interactive states ontarget beforepublicationapproval"
+  ],
+  "rate_policy": {
+    "active_webflow_calls": 1,
+    "max_operations_per_batch": 10,
+    "max_operations_rolling_60_seconds": 30,
+    "minimum_gap_after_completion_seconds": 2,
+    "on_429_budget": 15,
+    "on_429_pause_all": true
+  },
+  "publication": "Separateownerpermissionrequired; thiscandidatecontainsnopublishoperation.",
+  "shared_component_pages": [
+    {
+      "title": "Radio Holland Case",
+      "page_id": "666873865d4a74f9b049fef8",
+      "path": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Heineken Case",
+      "page_id": "66b49df832b4a0c64e802a2c",
+      "path": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Heineken Case - Procurement",
+      "page_id": "66c21b2eb900b659c94fdc06",
+      "path": "/heinekens-procurement-transformation-with-ai-automation",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Imprint EN",
+      "page_id": "64eca951ef4b561482eb1ec5",
+      "path": "/imprint",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7042e6"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7042e7"
+          }
+        },
+        {
+          "id": "324a4748-e050-0bae-5865-2ea8b1a54c51",
+          "name": "Contact Section",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "08c0235b-e75c-4179-e71f-c96bdf23b69d"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044eb"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044ec"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044ed"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy EN",
+      "page_id": "64ec9b4adfa2c836d4131938",
+      "path": "/privacy-policy",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "a57df158-f7d2-e20a-9beb-9df118e89678"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "836ba15b-01d4-ec88-aa74-4168ffe02209"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "1c369b5f-9286-23eb-ae65-376559b28d0f"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "b5caba19-e705-9bf9-05a4-de8f20be8f94"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "79e1b0e8-3be1-f3ec-a202-97f92d0af24a"
+          }
+        }
+      ]
+    }
+  ],
+  "source_hashes": {
+    "content/home/rewrite.json": "1eec9a705ecf93a3488500155617b45730a9bbfb8121e5e7be98a3e9cde30ab3",
+    "content/home/apply-plan.json": "980a70b54017cabc7f6715292170e98b00cd88bed9ac90f90303c53dfde2ab46",
+    "webflow/home-ordinal-format.js": "8385b679f38c39fe4a00ce4859b0ea6d70497d36bb35ea98dd7d15e5dd5c50fe"
+  },
+  "script_preflight": "Registered target catalog empty; page/site app-block reads returned 404 Custom code block not found. Legacy freeform code exists and must stay byte-for-byte unchanged. Re-read app list before registering/applying target Home footer formatter."
+}

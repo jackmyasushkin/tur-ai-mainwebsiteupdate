@@ -1,0 +1,138 @@
+{
+  "created_at": "2026-10-13T07:40:00.526914+00:00",
+  "purpose": "Read-only production transfer strategy evidence",
+  "webflow_mutations": 0,
+  "publication_performed": false,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "b6de9fa3cb93f598f76a76fd67cf89d38b8734d2478edeb596fda68690c8ed85",
+      "bytes": 2460
+    },
+    {
+      "path": "checks-report.json",
+      "sha256": "b987f49162f14dd02326e7266b83b5e0ad7f530f6db4ce78ea923301ebe9ebee",
+      "bytes": 673
+    },
+    {
+      "path": "faq-decision.json",
+      "sha256": "7b08fe0ea13c90e8ec6a921fa53557683cdc38dc874195326886f734a46535e7",
+      "bytes": 593
+    },
+    {
+      "path": "home-css-audit.json",
+      "sha256": "d991dcc9251ff3f8e87bb4a71e44d2033c5248e0a4571875fe4b43ec12e6f20c",
+      "bytes": 47439
+    },
+    {
+      "path": "home-mapping-audit.json",
+      "sha256": "9e10c70c3ebb11bbcccae5ee38d3d9be5ad14980be63be07fc9cb14111fa3ce7",
+      "bytes": 1195613
+    },
+    {
+      "path": "instructions.json",
+      "sha256": "2e55b513b39ff57cdd04cf9ac3da8638db2cb3551bebba71ddacd636f437bfb5",
+      "bytes": 792
+    },
+    {
+      "path": "mapping-summary.json",
+      "sha256": "099c18902343f09927b380bf0d03f7a5c81b7047780164b91c801f26f9a327cf",
+      "bytes": 5055
+    },
+    {
+      "path": "mcp-read-log.json",
+      "sha256": "d2bbf4973fb5525adba73ddb9542b5c9c769c325af2a433e7ffefc706e7dad88",
+      "bytes": 9758
+    },
+    {
+      "path": "pages-and-branching.json",
+      "sha256": "ba3f6ed1b698fe8dedc6791cee19311004c5ab6a2d9b6160e0513b77c4faff3a",
+      "bytes": 31788
+    },
+    {
+      "path": "script-and-embed-summary.json",
+      "sha256": "65994b0bb3cfea7da8afd8727868e080e441bb90b15f88f2fa2b3306f263caa5",
+      "bytes": 4800
+    },
+    {
+      "path": "shared-component-pages.json",
+      "sha256": "bbfe924c3eb08763fb8680b512aa425d1f5a18d620645456aec3166679dc5f08",
+      "bytes": 7809
+    },
+    {
+      "path": "sites.json",
+      "sha256": "4aa317b4ccbdc226d32eec809040985e90e5b8da929297ff774947d790d796bd",
+      "bytes": 2573
+    },
+    {
+      "path": "source-components.json",
+      "sha256": "8d1281535b634ad48aeccc5262ba7aa4e6d8ac3268fff84ff27e61224e2b6be4",
+      "bytes": 4153
+    },
+    {
+      "path": "source-definitions.json",
+      "sha256": "dfe356c1cae4f9171f2719b5779dbbcf0f2dfd416d815a27ba8198592e231a84",
+      "bytes": 178607
+    },
+    {
+      "path": "source-home.json",
+      "sha256": "8647021e7f22b657b3c1db5329a4512a84ef80fc1877a6b8e279b600929d3927",
+      "bytes": 690459
+    },
+    {
+      "path": "source-published-0.css",
+      "sha256": "03adb4d658c6d630907e922cb3833bc0f32561711c53b1f29263fd181ed11c98",
+      "bytes": 210539
+    },
+    {
+      "path": "source-published-dom.json",
+      "sha256": "6319f5f76f88041f3a4a75dd2287ed10d8a521099999e00562304622707bcad3",
+      "bytes": 55931
+    },
+    {
+      "path": "source-style-catalog.json",
+      "sha256": "c8015d58c21a33b281b629802f365cc10949a415c30512e941b5bfb16497b66c",
+      "bytes": 291090
+    },
+    {
+      "path": "target-components.json",
+      "sha256": "5f34955bbde378e39c941b0e2bdb6bbede412d606ffacb544253cb10d764c1bf",
+      "bytes": 4153
+    },
+    {
+      "path": "target-definitions.json",
+      "sha256": "c5209324fec3c9d613b3fa062176911c5d304d1368c7e04f54461e25ca89986f",
+      "bytes": 178640
+    },
+    {
+      "path": "target-home.json",
+      "sha256": "0277e1adab5724680bc8bcbd44f5e8bd6d4a6b4f8d58d4407d58c8102fa0fa97",
+      "bytes": 669274
+    },
+    {
+      "path": "target-plan.json",
+      "sha256": "5003834cd430148f6d30ad09ee74d828b3c90ca12865b18d3147f84fc3acee77",
+      "bytes": 127825
+    },
+    {
+      "path": "target-published-0.css",
+      "sha256": "e3c1d5d7c4f53a392119b2829e19e8fd22fa4cce937b8f5997b0b059a03712c1",
+      "bytes": 127164
+    },
+    {
+      "path": "target-published-dom.json",
+      "sha256": "77ce2a2ededbed515d6c2b598463c8512231879dd26e3458702877749f399ee2",
+      "bytes": 48454
+    },
+    {
+      "path": "target-settings.json",
+      "sha256": "dbea1dc3b679715fe76e837d50983f0b2682e179e7a7e75c5514cb63b03257e4",
+      "bytes": 2317
+    },
+    {
+      "path": "target-style-catalog.json",
+      "sha256": "48df21a3e425aa1a044ac7782a06d87c8540e5104b59c53220c57628e67dd681",
+      "bytes": 180439
+    }
+  ]
+}

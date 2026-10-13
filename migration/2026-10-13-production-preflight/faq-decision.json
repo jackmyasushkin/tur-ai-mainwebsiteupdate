@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-13T07:38:43.457670+00:00",
+  "scope": "Strategy only; production writes and publication not authorized",
+  "question": "Для плану перенесення: у головній Tur.ai немає FAQ «Which processes are a good fit for Tur.ai?» з відповіддю про onboarding, procurement і service operations. Який варіант закласти у стратегію?",
+  "owner_answer": "Додати цей FAQ у стилі наявних блоків (рекомендовано)",
+  "field_ids": [
+    "HOME-123",
+    "HOME-124"
+  ]
+}

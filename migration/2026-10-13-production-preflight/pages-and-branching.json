@@ -1,0 +1,691 @@
+{
+  "captured_at": "2026-10-13T07:18:56.801Z",
+  "mode": "read-only-preflight",
+  "responses": [
+    {
+      "label": "Source pages for transfer",
+      "action": "list_pages",
+      "result": {
+        "pages": [
+          {
+            "id": "68dd251f9083156864d78be2",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "collectionId": "68dd251f9083156864d78bd3",
+            "title": "Articles Template",
+            "slug": "detail_articles",
+            "createdOn": "2025-10-01T12:57:03.941Z",
+            "lastUpdated": "2025-11-11T10:05:26.741Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "{{wf {&quot;path&quot;:&quot;name&quot;,&quot;type&quot;:&quot;PlainText&quot;\\} }}"
+            },
+            "openGraph": {
+              "titleCopied": false,
+              "descriptionCopied": false,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/articles"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf654",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Heineken Case - Procurement",
+            "slug": "heinekens-procurement-transformation-with-ai-automation",
+            "createdOn": "2024-08-18T16:02:54.770Z",
+            "lastUpdated": "2026-10-13T01:23:33.196Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Heineken’s Procurement Transformation with AI Automation | Tur.ai",
+              "description": "Discover how Heineken revolutionized its procurement processes with Tur.ai's AI automation, improving accuracy, efficiency, and data verification through advanced public registry checks. Learn more about the impact of AI on Heineken’s procurement transformation."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/heinekens-procurement-transformation-with-ai-automation"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf653",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Heineken Case",
+            "slug": "heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+            "createdOn": "2024-08-08T10:29:12.981Z",
+            "lastUpdated": "2026-10-13T01:26:45.115Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Heineken's Transformation of Cashback Campaigns with AI Automation",
+              "description": "Learn how Heineken used Tur.ai’s AI technology to automate and optimize cashback campaigns. Discover the impact on cost efficiency, fraud prevention, and data control, leading to more effective and independent campaign management."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf652",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Radio Holland Case",
+            "slug": "how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+            "createdOn": "2024-06-11T15:55:50.925Z",
+            "lastUpdated": "2026-10-13T01:27:07.123Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "How Tur.ai Revolutionizes Customer Service Across B2B Retail with AI",
+              "description": "Tur.ai’s advanced AI solution redefines key business processes by automating customer inquiries analysis, request routing, operational workflows orchestration, communications management, and quick quote generation."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf651",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Style Guide",
+            "slug": "style-guide",
+            "createdOn": "2024-05-04T19:38:24.836Z",
+            "lastUpdated": "2025-08-11T14:36:25.447Z",
+            "archived": false,
+            "draft": true,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Style Guide"
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/style-guide"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf5ac",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Home",
+            "createdOn": "2024-05-04T19:36:09.808Z",
+            "lastUpdated": "2026-10-13T02:20:01.333Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai | Enterprise Process Orchestration",
+              "description": "Run regulated processes across existing systems. Orchestrate systems, AI and people to work faster today and change faster tomorrow."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf650",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Home EN Copy",
+            "slug": "home-copy-2",
+            "createdOn": "2023-08-29T11:18:56.224Z",
+            "lastUpdated": "2025-08-11T14:36:25.434Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Power Your Business Processes with AI Automation",
+              "description": "Tailored to Your organisation's context. Deployed simply, scaled effectively."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/home-copy-2"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf64f",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "parentId": "6899ffe04a85e00f2b8cf64d",
+            "title": "Imprint UA",
+            "slug": "imprint",
+            "createdOn": "2023-08-29T07:43:55.696Z",
+            "lastUpdated": "2025-08-11T14:36:25.428Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua/imprint"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf64e",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Imprint EN",
+            "slug": "imprint",
+            "createdOn": "2023-08-28T14:04:01.739Z",
+            "lastUpdated": "2025-08-11T14:36:25.422Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/imprint"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf64c",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "parentId": "6899ffe04a85e00f2b8cf64d",
+            "title": "Privacy Policy UA",
+            "slug": "privacy-policy",
+            "createdOn": "2023-08-28T13:55:48.078Z",
+            "lastUpdated": "2025-08-11T14:36:25.410Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua/privacy-policy"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf64b",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Privacy Policy EN",
+            "slug": "privacy-policy",
+            "createdOn": "2023-08-28T13:04:10.247Z",
+            "lastUpdated": "2026-10-13T01:28:09.000Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/privacy-policy"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf629",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Home UA",
+            "slug": "ua",
+            "createdOn": "2023-08-28T12:01:09.085Z",
+            "lastUpdated": "2026-07-07T10:46:17.328Z",
+            "archived": false,
+            "draft": true,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf606",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Home test",
+            "slug": "home-copy",
+            "createdOn": "2023-08-24T09:57:51.400Z",
+            "lastUpdated": "2026-07-07T10:46:17.345Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Power Your Business Processes with AI Automation",
+              "description": "Tailored to Your organisation's context. Deployed simply, scaled effectively."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/home-copy"
+          },
+          {
+            "id": "6899ffe04a85e00f2b8cf5eb",
+            "siteId": "6899ffe04a85e00f2b8cf5ab",
+            "title": "Old Home",
+            "slug": "old-home",
+            "createdOn": "2023-08-22T08:52:58.016Z",
+            "lastUpdated": "2026-07-07T10:46:06.907Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/old-home"
+          }
+        ],
+        "pagination": {
+          "limit": 100,
+          "offset": 0,
+          "total": 14
+        }
+      }
+    },
+    {
+      "label": "Target pages for transfer",
+      "action": "list_pages",
+      "result": {
+        "pages": [
+          {
+            "id": "66c21b2eb900b659c94fdc06",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Heineken Case - Procurement",
+            "slug": "heinekens-procurement-transformation-with-ai-automation",
+            "createdOn": "2024-08-18T16:02:54.770Z",
+            "lastUpdated": "2025-11-12T13:35:22.472Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Heineken’s Procurement Transformation with AI Automation | Tur.ai",
+              "description": "Discover how Heineken revolutionized its procurement processes with Tur.ai's AI automation, improving accuracy, efficiency, and data verification through advanced public registry checks. Learn more about the impact of AI on Heineken’s procurement transformation."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/heinekens-procurement-transformation-with-ai-automation"
+          },
+          {
+            "id": "66b49df832b4a0c64e802a2c",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Heineken Case",
+            "slug": "heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+            "createdOn": "2024-08-08T10:29:12.981Z",
+            "lastUpdated": "2025-11-12T13:34:53.647Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Heineken's Transformation of Cashback Campaigns with AI Automation",
+              "description": "Learn how Heineken used Tur.ai’s AI technology to automate and optimize cashback campaigns. Discover the impact on cost efficiency, fraud prevention, and data control, leading to more effective and independent campaign management."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation"
+          },
+          {
+            "id": "666873865d4a74f9b049fef8",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Radio Holland Case",
+            "slug": "how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+            "createdOn": "2024-06-11T15:55:50.925Z",
+            "lastUpdated": "2025-11-12T13:34:15.691Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "How Tur.ai Revolutionizes Customer Service Across B2B Retail with AI",
+              "description": "Tur.ai’s advanced AI solution redefines key business processes by automating customer inquiries analysis, request routing, operational workflows orchestration, communications management, and quick quote generation."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/66696e0d8b367484350f01a3_open%20graph%20-%20case.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai"
+          },
+          {
+            "id": "66368eb02edba0a7ef43e0dd",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Style Guide",
+            "slug": "style-guide",
+            "createdOn": "2024-05-04T19:38:24.836Z",
+            "lastUpdated": "2024-06-12T13:07:15.613Z",
+            "archived": false,
+            "draft": true,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Style Guide"
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/style-guide"
+          },
+          {
+            "id": "66368e29da23c5a1b0fe1396",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Home",
+            "createdOn": "2024-05-04T19:36:09.808Z",
+            "lastUpdated": "2025-11-12T13:33:51.156Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/664f9b5791368be18012e5f4_open%20graph.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/"
+          },
+          {
+            "id": "64edd420d50ff59c5b740adc",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Home EN Copy",
+            "slug": "home-copy-2",
+            "createdOn": "2023-08-29T11:18:56.224Z",
+            "lastUpdated": "2025-11-06T16:01:53.625Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Power Your Business Processes with AI Automation",
+              "description": "Tailored to Your organisation's context. Deployed simply, scaled effectively."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/home-copy-2"
+          },
+          {
+            "id": "64eda1bb7ca6b6542b0e3f71",
+            "siteId": "64e477696d41401ec48c50c6",
+            "parentId": "64eca76bda0cbe5093553104",
+            "title": "Imprint UA",
+            "slug": "imprint",
+            "createdOn": "2023-08-29T07:43:55.696Z",
+            "lastUpdated": "2024-05-05T23:23:11.668Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua/imprint"
+          },
+          {
+            "id": "64eca951ef4b561482eb1ec5",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Imprint EN",
+            "slug": "imprint",
+            "createdOn": "2023-08-28T14:04:01.739Z",
+            "lastUpdated": "2024-06-04T08:50:37.988Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/imprint"
+          },
+          {
+            "id": "64eca764154c65455545dc9b",
+            "siteId": "64e477696d41401ec48c50c6",
+            "parentId": "64eca76bda0cbe5093553104",
+            "title": "Privacy Policy UA",
+            "slug": "privacy-policy",
+            "createdOn": "2023-08-28T13:55:48.078Z",
+            "lastUpdated": "2024-05-05T23:23:11.647Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua/privacy-policy"
+          },
+          {
+            "id": "64ec9b4adfa2c836d4131938",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Privacy Policy EN",
+            "slug": "privacy-policy",
+            "createdOn": "2023-08-28T13:04:10.247Z",
+            "lastUpdated": "2025-09-01T08:00:22.315Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/privacy-policy"
+          },
+          {
+            "id": "64ec8c8534685da8d8619822",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Home UA",
+            "slug": "ua",
+            "createdOn": "2023-08-28T12:01:09.085Z",
+            "lastUpdated": "2024-06-12T13:06:53.261Z",
+            "archived": false,
+            "draft": true,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Автоматизуємо ваші бізнес-процеси за допомогою штучного інтелекту",
+              "description": "Підсильте свої бізнес-процеси зШІ автоматизацією Рішення, адаптоване до контексту вашої організації. Впроваджуйте легко, масштабуйте ефективно. Замовити демо."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/ua"
+          },
+          {
+            "id": "64e7299f819e87ea6080359c",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Home test",
+            "slug": "home-copy",
+            "createdOn": "2023-08-24T09:57:51.400Z",
+            "lastUpdated": "2025-09-01T08:00:01.523Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Power Your Business Processes with AI Automation",
+              "description": "Tailored to Your organisation's context. Deployed simply, scaled effectively."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": null,
+              "imageAssetId": null
+            },
+            "publishedPath": "/home-copy"
+          },
+          {
+            "id": "64e4776a6d41401ec48c50c9",
+            "siteId": "64e477696d41401ec48c50c6",
+            "title": "Old Home",
+            "slug": "old-home",
+            "createdOn": "2023-08-22T08:52:58.016Z",
+            "lastUpdated": "2024-09-19T14:41:37.481Z",
+            "archived": false,
+            "draft": false,
+            "shouldPublish": true,
+            "canBranch": true,
+            "isBranch": false,
+            "seo": {
+              "title": "Tur.ai - Headless Hyperautomation platform",
+              "description": "Power Your Business Processes with AI Automation Tailored to Your organisation's context.  Deployed simply, scaled effectively. Book a demo."
+            },
+            "openGraph": {
+              "titleCopied": true,
+              "descriptionCopied": true,
+              "imageUrl": "https://uploads-ssl.webflow.com/64e477696d41401ec48c50c6/64f03eda8af9f6e69cde1d08_Tur-ai-cover.webp",
+              "imageAssetId": null
+            },
+            "publishedPath": "/old-home"
+          }
+        ],
+        "pagination": {
+          "limit": 100,
+          "offset": 0,
+          "total": 13
+        }
+      }
+    },
+    {
+      "label": "Check page branching entitlement without creating a branch",
+      "action": "list_branches",
+      "error": {
+        "status": 403,
+        "code": "not_enterprise_plan_site",
+        "message": "Page branching requires the site's workspace to be on an Enterprise plan, and this workspace is not. This is a plan entitlement, not a missing or mistyped id.",
+        "remediation": "Tell the user that branching is an Enterprise feature and that upgrading their workspace to Enterprise enables it — see https://webflow.com/enterprise or their Webflow account team. The upgrade cannot be performed through this API or by any tool here.",
+        "instruction": "Do not retry this action and do not try other branch actions for this site — they all gate on the same entitlement and will fail identically. Stop offering branch-based workflows for this site and continue without branching (edit the page directly), or ask the user how they want to proceed."
+      }
+    }
+  ]
+}

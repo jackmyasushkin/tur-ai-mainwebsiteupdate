@@ -1,0 +1,250 @@
+{
+  "site_id": "64e477696d41401ec48c50c6",
+  "captured_at": "2026-10-13T07:29:44.755Z",
+  "depth": 4,
+  "pages": [
+    {
+      "title": "Radio Holland Case",
+      "page_id": "666873865d4a74f9b049fef8",
+      "path": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "666873865d4a74f9b049fef8",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Heineken Case",
+      "page_id": "66b49df832b4a0c64e802a2c",
+      "path": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "66b49df832b4a0c64e802a2c",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Heineken Case - Procurement",
+      "page_id": "66c21b2eb900b659c94fdc06",
+      "path": "/heinekens-procurement-transformation-with-ai-automation",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f52585da"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "62e57ded-f6bf-f312-1239-e0e8475ab1f7"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258864"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258865"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "66c21b2eb900b659c94fdc06",
+            "element": "9b188fc5-7754-3806-61c6-87d0f5258866"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Imprint EN",
+      "page_id": "64eca951ef4b561482eb1ec5",
+      "path": "/imprint",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7042e6"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7042e7"
+          }
+        },
+        {
+          "id": "324a4748-e050-0bae-5865-2ea8b1a54c51",
+          "name": "Contact Section",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "08c0235b-e75c-4179-e71f-c96bdf23b69d"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044eb"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044ec"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "64eca951ef4b561482eb1ec5",
+            "element": "b6ff985b-0cb1-5518-f025-c786dc7044ed"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy EN",
+      "page_id": "64ec9b4adfa2c836d4131938",
+      "path": "/privacy-policy",
+      "components": [
+        {
+          "id": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+          "name": "Global Styles",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "a57df158-f7d2-e20a-9beb-9df118e89678"
+          }
+        },
+        {
+          "id": "bbfe746b-5001-9769-1c7e-e236029c8df0",
+          "name": "Nav Black",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "836ba15b-01d4-ec88-aa74-4168ffe02209"
+          }
+        },
+        {
+          "id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "name": "Footer",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "1c369b5f-9286-23eb-ae65-376559b28d0f"
+          }
+        },
+        {
+          "id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "name": "Modal Demo",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "b5caba19-e705-9bf9-05a4-de8f20be8f94"
+          }
+        },
+        {
+          "id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "name": "Modal Contact",
+          "instance": {
+            "component": "64ec9b4adfa2c836d4131938",
+            "element": "79e1b0e8-3be1-f3ec-a202-97f92d0af24a"
+          }
+        }
+      ]
+    }
+  ]
+}

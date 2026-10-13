@@ -1,0 +1,73 @@
+{
+  "captured_at": "2026-10-13T07:27:27.447Z",
+  "responses": [
+    {
+      "label": "Production native form placeholder settings",
+      "action": "get_settings",
+      "result": [
+        {
+          "status": "success",
+          "message": "Settings retrieved",
+          "data": {
+            "type": "all_raw_settings",
+            "total_matches": 5,
+            "matches": [
+              {
+                "key": "domId",
+                "value": "field"
+              },
+              {
+                "key": "visibility",
+                "value": true
+              },
+              {
+                "key": "name",
+                "value": "Field"
+              },
+              {
+                "key": "required",
+                "value": false
+              },
+              {
+                "key": "attributes",
+                "value": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": "Production carousel embed settings",
+      "action": "get_settings",
+      "result": [
+        {
+          "status": "success",
+          "message": "Settings retrieved",
+          "data": {
+            "type": "all_raw_settings",
+            "total_matches": 4,
+            "matches": [
+              {
+                "key": "domId",
+                "value": ""
+              },
+              {
+                "key": "visibility",
+                "value": true
+              },
+              {
+                "key": "code",
+                "value": "<style>\n\n.swiper-pagination.review-swiper {\n  position: relative;\n  left: 0 !important;\n  top: 0 !important; \n  bottom: 0 !important;\n  display: flex;\n  width: auto !important;  \n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet {\n\twidth: 0.75rem;\n  height: 0.75rem;\n  background: white;\n  opacity: .5;\n  transition: opacity 0.35s ease;\n}\n\n.swiper-pagination.review-swiper .swiper-pagination-bullet.swiper-pagination-bullet-active {\t\n  background: white !important; \n  opacity: 1;\n}\n\n.swiper-slide.review-thumbs.swiper-slide-thumb-active .review_card-thumbs{\n\tborder-top-color: var(--white);\n}\n</style>"
+              },
+              {
+                "key": "attributes",
+                "value": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

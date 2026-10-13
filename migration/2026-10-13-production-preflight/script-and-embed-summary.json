@@ -1,0 +1,193 @@
+{
+  "read_results": [
+    {
+      "label": "source-page-freeform",
+      "action": "get_page_freeform_code",
+      "error": null,
+      "blocks": [
+        {
+          "location": "head",
+          "characters": 197
+        },
+        {
+          "location": "footer",
+          "characters": 3723
+        }
+      ]
+    },
+    {
+      "label": "target-page-freeform",
+      "action": "get_page_freeform_code",
+      "error": null,
+      "blocks": [
+        {
+          "location": "head",
+          "characters": 197
+        },
+        {
+          "location": "footer",
+          "characters": 3725
+        }
+      ]
+    },
+    {
+      "label": "source-site-freeform",
+      "action": "get_site_freeform_code",
+      "error": null,
+      "blocks": [
+        {
+          "location": "head",
+          "characters": 592
+        },
+        {
+          "location": "footer",
+          "characters": 0
+        }
+      ]
+    },
+    {
+      "label": "target-site-freeform",
+      "action": "get_site_freeform_code",
+      "error": null,
+      "blocks": [
+        {
+          "location": "head",
+          "characters": 592
+        },
+        {
+          "location": "footer",
+          "characters": 0
+        }
+      ]
+    },
+    {
+      "label": "source-page-scripts",
+      "action": "get_page_scripts",
+      "error": null,
+      "blocks": null,
+      "result": {
+        "scripts": [
+          {
+            "id": "turaihomeordinalformatterissue3",
+            "displayName": "TuraiHomeOrdinalFormatterIssue3",
+            "version": "1.0.0",
+            "location": "footer",
+            "attributes": {}
+          }
+        ],
+        "lastUpdated": "2026-10-13T02:25:18.705Z",
+        "createdOn": "2026-10-13T02:25:18.705Z"
+      }
+    },
+    {
+      "label": "target-page-scripts",
+      "action": "get_page_scripts",
+      "error": {
+        "status": 404,
+        "code": "resource_not_found",
+        "message": "Custom code block not found"
+      },
+      "blocks": null
+    },
+    {
+      "label": "target-site-scripts",
+      "action": "get_site_scripts",
+      "error": {
+        "status": 404,
+        "code": "resource_not_found",
+        "message": "Custom code block not found"
+      },
+      "blocks": null
+    },
+    {
+      "label": "target-registered-scripts",
+      "action": "get_registered_scripts",
+      "error": null,
+      "blocks": null,
+      "result": {
+        "registeredScripts": [],
+        "pagination": {
+          "limit": 100,
+          "offset": 0,
+          "total": 0
+        }
+      }
+    }
+  ],
+  "page_head_exact_match": true,
+  "page_footer_difference": "Target contains two additional trailing LF; all other bytes equal.",
+  "site_freeform_exact_match": true,
+  "embed_comparison": [
+    {
+      "element": "22acff74-80b3-20c7-8a64-c4164b0a265b",
+      "settings_equal": true
+    },
+    {
+      "element": "f1f49ab6-5ad0-85a1-e23f-3412301147d5",
+      "settings_equal": true
+    },
+    {
+      "element": "f87945d5-473b-fa0c-0c30-f68ac7697980",
+      "settings_equal": true
+    },
+    {
+      "element": "2255577c-d9a9-2b2a-e948-235d2a200b2e",
+      "settings_equal": true
+    },
+    {
+      "element": "7e63be91-152e-47de-c425-8cf0352cfb01",
+      "settings_equal": true
+    }
+  ],
+  "no_freeform_code_transfer_planned": true,
+  "freeform_block_hashes": [
+    {
+      "label": "source-page-freeform",
+      "location": "head",
+      "sha256": "9615c6ebc420a998d48cf1573c5a0358bb6f4f7f7b7fe50535675477bb612e4e",
+      "characters": 197
+    },
+    {
+      "label": "source-page-freeform",
+      "location": "footer",
+      "sha256": "ec62cd9c59176cf855ffaf1181efd7de61f494780b4b5ec60dee7888bc6c37eb",
+      "characters": 3723
+    },
+    {
+      "label": "target-page-freeform",
+      "location": "head",
+      "sha256": "9615c6ebc420a998d48cf1573c5a0358bb6f4f7f7b7fe50535675477bb612e4e",
+      "characters": 197
+    },
+    {
+      "label": "target-page-freeform",
+      "location": "footer",
+      "sha256": "5ffd77f1a8bfcffa0697ade781b6b4dbde6aad16585d0aedd617e54b4d639a59",
+      "characters": 3725
+    },
+    {
+      "label": "source-site-freeform",
+      "location": "head",
+      "sha256": "b5f4032bca2598eaf28551551a806496085004830f97f239a1179e11c02409db",
+      "characters": 592
+    },
+    {
+      "label": "source-site-freeform",
+      "location": "footer",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "characters": 0
+    },
+    {
+      "label": "target-site-freeform",
+      "location": "head",
+      "sha256": "b5f4032bca2598eaf28551551a806496085004830f97f239a1179e11c02409db",
+      "characters": 592
+    },
+    {
+      "label": "target-site-freeform",
+      "location": "footer",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "characters": 0
+    }
+  ]
+}
