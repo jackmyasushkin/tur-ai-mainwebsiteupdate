@@ -1,0 +1,360 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.3 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/, Secondary Actions: Raise
+	1 container Webflow - Tur.ai - High memory usage - 1.3 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Value: tur-ai.design.webflow.com, Placeholder: Search Google or type a URL
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/
+						19 container
+							20 container
+								21 container
+									22 button Add element
+									23 button Add element
+							24 container
+							25 container
+								26 text Mobile (P) Affects 479px and below
+							27 HTML content Webflow, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99
+								28 container
+									29 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+									30 container
+										31 heading Enterprise Process Orchestration Platform, Value: 1
+											32 text Enterprise  Process  Orchestration  Platform
+										33 text Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.
+										34 link Book a Demo, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99#
+										35 text See how to run, control and change a process across your systems.
+										36 image Heineken Logo - White
+										37 image Noordwest Logo - White
+										38 image Radio Holland - White
+										39 image NOC NSF Logo - White
+									40 heading Unlock the Transformative Power of AI Tailored to Your Business Needs, Value: 2
+										41 text Unlock the  Transformative Power  of AI Tailored to Your Business Needs
+									42 text Less Human Interaction 50 % Cut down on repetitive queries with AI, reserving human expertise for complex cases. Initial Resolution Rate 90 % Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.
+									43 text Tasks Automated
+									44 text 70
+									45 text %
+									46 text Free your team to innovate with 70% of routine tasks automated by Tur.ai.
+									47 text Sales Productivity Boost 5 % Enhance decision-making with actionable AI insights, nudging your sales productivity higher.
+									48 image Image of Ievgen Miasushkin, CEO of Tur.ai
+									49 container
+										50 text We democratized AI so every retailer can benefit from its transformative power -  hassle-free .
+									51 text Ievgen Miasushkin
+									52 text CEO of Tur.ai
+									53 heading Streamline Every Step, From a Customer's First 'Hello' to Resolving Your Needs., Value: 2
+										54 text Streamline  Every Step, From a Customer's First 'Hello' to Resolving Your Needs.
+									55 image Message Icon
+									56 text / 01
+									57 heading Initial Contact, Value: 3
+										58 text Initial Contact
+									59 text Deliver meaningful, personalized, and engaging responses to customers within minutes.
+									60 image Filter Icon
+									61 text / 02
+									62 heading Smart Routing, Value: 3
+										63 text Smart Routing
+									64 text Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.
+									65 image Gears Icon
+									66 text / 03
+									67 heading Sales & Service Automation, Value: 3
+										68 text Sales & Service Automation
+									69 text Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.
+									70 image Activity Icon
+									71 text / 04
+									72 heading Smooth Aftercare, Value: 3
+										73 text Smooth Aftercare
+									74 text Automated returns and smart exchange processing.
+									75 image Tick Icon
+									76 text / 05
+									77 heading Satisfaction Ensured, Value: 3
+										78 text Satisfaction Ensured
+									79 text Consistent, pleasing resolutions for every customer.
+									80 heading Global Retail Leaders Employ Tur.ai., Value: 2
+										81 text Global Retail Leaders Employ  Tur.ai .
+									82 container carousel
+										83 image
+										84 image
+										85 container 1 of 4
+											86 image Radio Holland Logo - Black
+											87 text Lead to quote automation
+											88 text Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.
+											89 container
+												90 link Learn More, Value: tur-ai.design.webflow.com/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai
+										91 container
+											92 toggle button Show slide 1 of 4, Value: 1
+											93 toggle button Show slide 2 of 4, Value: 0
+											94 toggle button Show slide 3 of 4, Value: 0
+											95 toggle button Show slide 4 of 4, Value: 0
+									96 heading Where AI Integration Meets Simplicity, Bypassing Hassle and Lavish Outlays., Value: 2
+										97 text Where AI Integration Meets  Simplicity , Bypassing Hassle and Lavish Outlays.
+									98 button Click to see features that make you smile
+									99 container
+										100 text 42 % Are lacking talent with the right skills for AI
+									101 container
+										102 text 30 % Have silos blocking full AI solution implementation
+									103 container
+										104 text 24 % Are missing system and data compatibility
+									105 container
+										106 text 43 % Don't have the tools for scaling ML Ops
+									107 container
+										108 image Play Icon
+										109 text No special skills needed for AI tasks
+									110 container
+										111 image Arrow Icon
+										112 text Orchestrated cross-functional AI integration
+									113 container
+										114 image Document+ Icon
+										115 text Works with the systems and data you have
+									116 container
+										117 image Document Icon
+										118 text Ready-to-use AI models for your business context
+									119 heading What people say about Tur.ai., Value: 2
+										120 text What people say about  Tur.ai .
+									121 heading Value: 3, “Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”
+										122 text “ Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them. ”
+									123 image Image of Faissel el Mourid
+									124 heading Faissel el Mouridi, Value: 4
+										125 text Faissel el Mouridi
+									126 text CFO, Radio Holland
+									127 heading Our Trademark Process Lets You Transform Your Retail Operations, Value: 2
+										128 text Our  Trademark Process  Lets You Transform Your Retail Operations
+									129 container
+										130 text EXPLORE / 01
+									131 text In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.
+									132 container
+										133 text EMPOWER / 02
+									134 text Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.
+									135 container
+										136 text THRIVE / 03
+									137 text Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.
+									138 image Microsoft for Startups Badge
+									139 text Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.
+									140 heading Your Questions Answered., Value: 2
+										141 text Your Questions  Answered .
+									142 pop up button How difficult is it to start with your solution?
+										143 text How difficult is it to start with your solution?
+									144 container How difficult is it to start with your solution?
+										145 container
+											146 text It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start Solution is suitable for efficient added value developments by any IT team
+									147 pop up button How complicated is the integration process for your AI solution?
+										148 text How complicated is the integration process for your AI solution?
+									149 container How complicated is the integration process for your AI solution?
+										150 text Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.
+									151 pop up button Can we use your solution standalone ? How is our data protected?
+										152 text Can we use your solution standalone ? How is our data protected?
+									153 container Can we use your solution standalone ? How is our data protected?
+										154 container
+											155 text Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only. Your data never leaves the security perimeter of your organization this way. If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.
+									156 pop up button How will Tur.ai enhance our capability to scale sales globally?
+										157 text How will Tur.ai enhance our capability to scale sales globally?
+									158 container How will Tur.ai enhance our capability to scale sales globally?
+										159 text Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.
+									160 pop up button What can we expect in terms of improving our first response to customer inquiries?
+										161 text What can we expect in terms of improving our first response to customer inquiries?
+									162 container What can we expect in terms of improving our first response to customer inquiries?
+										163 text Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution
+									164 pop up button In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?
+										165 text In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?
+									166 container In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?
+										167 text Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated
+									168 pop up button How will Tur.ai help us minimize the need for human contact in our service without losing our touch?
+										169 text How will Tur.ai help us minimize the need for human contact in our service without losing our touch?
+									170 container How will Tur.ai help us minimize the need for human contact in our service without losing our touch?
+										171 text Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts
+									172 text More Questions?
+									173 text Book a call and learn more about AI's tailored impact on your operations.
+									174 container
+										175 link Contact Us, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99#
+									176 heading Tell us more about your goals., Value: 2
+										177 text Tell us more about your  goals .
+									178 container Email Form
+										179 text First Name
+										180 text field (settable) First Name
+										181 text Last Name
+										182 text field (settable) Last Name
+										183 text Email
+										184 email (settable) Email
+										185 text Company
+										186 text field (settable) Company
+										187 text Dive into Your AI Goals
+										188 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+										189 button Submit
+									190 image Tur.ai Logo - Full
+									191 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+									192 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+									193 link Imprint, Value: tur-ai.design.webflow.com/imprint
+									194 link Back to Top, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99#
+									195 text © 2024 Tur.ai. All rights reserved.
+									196 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+									197 image Dutch Interactive Awards Logo
+									198 image Accenture Innovation Awards - Award Logo
+									199 image ML and Intelligent Automation Award Logo
+									200 image Spinawards - Award Logo
+						201 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+						202 container
+							203 image
+							204 image
+							205 image
+							206 container
+								207 pop up button File menu button
+								208 toggle button Design, Value: 1
+									209 text Design
+								210 toggle button CMS, Value: 0
+									211 text CMS
+								212 toggle button Insights, Value: 0
+									213 text Insights
+								214 button Open Localize settings
+								215 splitter
+								216 toggle button Home, Value: 0
+									217 text Home
+								218 container
+									219 button jack (active) on page Home
+									220 toggle button Comments (C), Value: 0
+								221 toggle button Preview (⌥P), Value: 0
+								222 button Share
+								223 pop up button Publish
+									224 button Publish
+							225 container
+								226 toggle button Add Elements (A), Value: 0
+								227 toggle button Pages (P), Help: Pages, Value: 0
+								228 toggle button Navigator (Z), Value: 0
+								229 splitter
+								230 toggle button Components (⇧A), Value: 0
+								231 toggle button Variables (V), Value: 0
+								232 toggle button Style selectors (G), Help: Style selectors, Value: 0
+								233 toggle button Assets (J), Value: 0
+								234 toggle button Libraries (L), Value: 0
+								235 toggle button Instructions, Value: 0
+								236 splitter
+								237 toggle button Apps (E), Value: 0
+								238 toggle button Localize, Value: 0
+								239 toggle button Settings, Value: 0
+								240 toggle button Learning Assistant, Help: Help, Value: 0
+								241 toggle button Audits (U), Value: 0
+								242 button Find anything (CMD + E)
+								243 toggle button Video tutorials, Value: 0
+							244 text sl arrow
+							245 pop up button More options
+							246 button Create component
+							247 text Style
+							248 text Settings
+							249 text Interactions
+							250 container
+								251 text Style selector
+								252 text Inheriting
+								253 button 7 selectors
+								254 container
+									255 text sl arrow
+									256 text field (settable)
+								257 link 2 on this page, 2 on other pages.
+									258 text 2 on this page, 2 on other pages.
+								259 button Variable modes
+								260 pop up button Add variable mode button
+								261 splitter
+								262 container
+									263 container
+										264 text Flex Child
+										265 container Go to Flex Container
+									266 text Layout
+									267 text Display
+									268 container
+										269 Display
+											270 container Block
+												271 text Block
+											272 container Flex
+												273 text Flex
+											274 container Grid
+												275 text Grid
+											276 container Inline block
+												277 text In-blk
+										278 button Open display menu
+									279 text Align Y
+									280 text Baseline
+									281 container
+										282 text Spacing
+										283 container Center element horizontally. Requires fixed width.
+									284 container
+										285 text Size
+									286 text Position
+									287 container
+										288 text Typography
+									289 text Backgrounds
+									290 text Borders
+									291 container
+										292 text Effects
+									293 text Custom properties
+							294 button (disabled) Undo
+							295 button (disabled) Redo
+							296 splitter
+							297 button body2
+							298 button swiper-navigation
+							299 button swiper-arrow
+							300 button sl arrow
+							301 pop up button Canvas settings. Current viewport width is 393px.
+							302 toggle button Desktop: Base breakpoint, Value: 0
+							303 toggle button Tablet: 991px and down, Value: 0
+							304 toggle button Mobile (L): 767px and down, Value: 0
+							305 toggle button Mobile: 479px and down, Value: 1
+							306 pop up button Larger breakpoints
+							307 button Expand canvas
+							308 container
+								309 text Breakpoint switched to  Mobile  based on canvas size.
+							310 container
+								311 image Webflow MCP Bridge App
+								312 text Webflow MCP Bridge App
+								313 button Expand
+								314 container Webflow MCP Bridge App
+									315 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										316 container
+											317 heading Tool call logs, Value: 2
+												318 text Tool call logs
+											319 text 3
+											320 button
+											321 pop up button
+											322 container
+												323 text Designer tool
+												324 text Running Designer tool
+												325 pop up button
+												326 text Action Select element
+												327 text Designer tool completed
+												328 pop up button
+												329 text 246ms
+												330 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												331 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											332 container Notifications alt+T
+							333 container Canvas settings
+								334 text Canvas settings
+							335 container Notifications Alt+T
+			336 pop up button Tab search
+			337 container
+				338 tab group
+					339 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.3 GB, Value: on
+						340 button Close
+			341 button New Tab
+	342 close button
+	343 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	344 minimize button
+345 menu bar
+	346 Chrome
+	347 File
+	348 Edit
+	349 View
+	350 History
+	351 Bookmarks
+	352 Profiles
+	353 Tab
+	354 Window
+	355 Help
+
+The focused UI element is 301 pop up button Canvas settings. Current viewport width is 393px.

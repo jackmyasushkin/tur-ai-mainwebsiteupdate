@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "MCP error -32602: Input validation error: Invalid arguments for tool data_pages_tool: update_page_settings: Unrecognized key: \"data\" at actions[0]"
+    }
+  ],
+  "isError": true
+}

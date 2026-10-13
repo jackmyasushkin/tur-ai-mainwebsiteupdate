@@ -1,0 +1,395 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=666873865d4a74f9b049fef8&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=666873865d4a74f9b049fef8&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=666873865d4a74f9b049fef8&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&pageId=666873865d4a74f9b049fef8&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Mobile (P) Affects 479px and below
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+										27 image
+										28 image
+										29 image
+										30 heading The Invisible Workforce:, Value: 1
+											31 text The Invisible Workforce:
+										32 text How Tur.ai Revolutionizes Customer Service Across B2B Retail with AI
+										33 heading Exceeding Expectations in Customer Service, Value: 2
+											34 text Exceeding Expectations  in Customer Service
+										35 text In the high-stakes environment of B2B retail, exemplary customer service is essential for survival and success. The pressures are high as slow response times and inefficient processes erode customer loyalty and financial stability. McKinsey reports highlight the drastic cost of poor customer experiences, estimating a loss of $75 billion annually due to decreased customer satisfaction, emphasizing the urgent need for businesses to adopt proactive measures. Source: 
+										36 link McKinsey & Company, The State of Customer Care in 2022, Value: mckinsey.com/capabilities/operations/our-insights/the-state-of-customer-care-in-2022
+										37 heading Turning Challenges into Opportunities, Value: 2
+											38 text Turning Challenges into  Opportunities
+										39 text Recognizing the need for substantial enhancements in service efficiency, many companies are aware of AI's potential benefits. According to a McKinsey study on automation in retail, integrating AI can streamline customer interactions and significantly reduce operational costs by simplifying complex processes and reducing manual tasks. This shift not only elevates service efficiency but also directly impacts customer satisfaction and business outcomes. Source: 
+										40 link McKinsey & Company, Automation in Retail: An Executive Overview for Getting Ready, Value: mckinsey.com/industries/retail/our-insights/automation-in-retail-an-executive-overview-for-getting-ready
+										41 text Addressing these issues, Tur.ai offers innovative solutions that are accessible to business users. These solutions feature pre-trained, retail-specific out-of-the-box models that enhance operational efficiency without the need for traditional system modifications. Tur.ai's AI-driven system integrates seamlessly with existing CRM and ERP platforms, enhancing operational efficiency without major system overhauls.
+										42 image Image of Ievgen Miasushkin, CEO of Tur.ai
+										43 container
+											44 text We greatly appreciate the exceptional readiness the Radio Holland team has shown to  embrace innovation  with us.
+										45 text Ievgen Miasushkin
+										46 text CEO of Tur.ai
+										47 heading AI at the Helm: Pioneering Solutions for Diverse Retail Needs, Value: 2
+											48 text AI at the Helm:  Pioneering Solutions for Diverse Retail Needs
+										49 text Tur.ai’s advanced AI solution redefines key business processes by automating customer inquiries analysis, request routing, operational workflows orchestration, communications management, and quick quote generation. This platform empowers businesses by allowing them to connect their data sources directly and interact with the Tur.ai copilot. This enables the visualization of inefficiencies, double work, and unmet KPIs, providing actionable suggestions for improvement—effectively performing the role of a BPO 
+										50 heading A Strategic Partnership Model, Value: 2
+											51 text A  Strategic Partnership  Model
+										52 text Tur.ai goes beyond typical vendor-client relationships. The firm offers a consultative, hands-on partnership, filling in knowledge gaps and ensuring that the AI solution adapts to each business’s unique needs. This partnership fosters an environment of trust and mutual growth, making advanced AI accessible even to non-technical teams.
+										53 heading The implementation of Tur.ai’s AI solution has yielded remarkable results for Radio Holland:, Value: 2
+											54 text The implementation of Tur.ai’s AI solution has yielded  remarkable results  for Radio Holland:
+										55 image Cost Efficiency Icon
+										56 heading Cost Efficiency, Value: 3
+											57 text Cost Efficiency
+										58 text Achieved a  10x  reduction in task execution costs
+										59 image Quicker Responses Icon
+										60 heading Quicker Responses, Value: 3
+											61 text Quicker Responses
+										62 text Improved time-to-response rate by  6-7x
+										63 image Faster Quotes Icon
+										64 heading Faster Quotes, Value: 3
+											65 text Faster Quotes
+										66 text Decreased time-to-quote by  3x
+										67 heading Demystifying AI: Empowering Business Users Across Retail Sectors, Value: 2
+											68 text Demystifying AI : Empowering Business Users Across Retail Sectors
+										69 text By creating intuitive, user-friendly interfaces, Tur.ai demystifies AI for business users, allowing them to manage the AI system effectively. This transparency helps businesses optimize operations and make informed decisions, enhancing overall customer service and operational agility.
+										70 heading Uncompromising Data Protection, Value: 2
+											71 text Uncompromising  Data Protection
+										72 text Adhering to the highest standards of data security, Tur.ai implements GDPR-compliant data anonymization and segregation techniques, ensuring that sensitive business data is protected across all retail sectors.
+										73 heading Value: 3, “"Tur.ai has significantly enhanced our operational processes, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we not only maintain our industry standards but strive to elevate them."”
+											74 text “ "Tur.ai has significantly enhanced our operational processes, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we not only maintain our industry standards but strive to elevate them." ”
+										75 image Image of Faissel el Mourid
+										76 heading Faissel el Mouridi, Value: 4
+											77 text Faissel el Mouridi
+										78 text CFO, Radio Holland
+										79 heading Expanding Horizons: Future Plans, Value: 2
+											80 text Expanding Horizons : Future Plans
+										81 text The initial success of Tur.ai's solutions is only the beginning of what is possible. Looking ahead, Tur.ai is set to broaden its impact within the B2B sector by extending its AI capabilities to new frontiers such as product sales, master data management, and intelligent product searches for upcoming B2B e-commerce platforms. These innovations are designed to further streamline operations and enhance decision-making processes, ensuring businesses can meet the demands of modern commerce with agility and insig
+										82 heading Transforming B2B Retail with AI, Value: 2
+											83 text Transforming  B2B Retail with AI
+										84 text Tur.ai’s AI solutions are not just transforming operations for maritime technology leaders like Radio Holland; they're setting a new standard for customer service across all B2B retail sectors. By optimizing service efficiency and enhancing customer satisfaction, Tur.ai is helping businesses not only meet but exceed their operational goals. Discover how Tur.ai can elevate your operational efficiency and help you achieve transformative efficiency and a competitive advantage. Connect with us today to explore 
+										85 heading We'll help you transform your business., Value: 2
+											86 text We'll help you  transform  your business.
+										87 container Email Form
+											88 text First Name
+											89 text field (settable) First Name
+											90 text Last Name
+											91 text field (settable) Last Name
+											92 text Email
+											93 email (settable) Email
+											94 text Company
+											95 text field (settable) Company
+											96 text Dive into Your AI Goals
+											97 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+											98 button Submit
+										99 image Tur.ai Logo - Full
+										100 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										101 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										102 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										103 link Back to Top, Value: tur-ai.canvas.webflow.com/#hero
+										104 text © 2026 Tur.ai. All rights reserved.
+										105 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										106 image Dutch Interactive Awards Logo
+										107 image Accenture Innovation Awards - Award Logo
+										108 image ML and Intelligent Automation Award Logo
+										109 image Spinawards - Award Logo
+						110 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+							111 link Tur.ai Logo - Full, Value: tur-ai.design.webflow.com/
+							112 link Book a Demo, Value: tur-ai.design.webflow.com/site/empty.html#
+							113 link Contact Us, Value: tur-ai.design.webflow.com/site/empty.html#
+							114 container
+								115 image
+								116 image
+								117 image
+								118 heading The Invisible Workforce:, Value: 1
+									119 text The Invisible Workforce:
+								120 text How Tur.ai Revolutionizes Customer Service Across B2B Retail with AI
+							121 heading Exceeding Expectations in Customer Service, Value: 2
+								122 text Exceeding Expectations  in Customer Service
+							123 text In the high-stakes environment of B2B retail, exemplary customer service is essential for survival and success. The pressures are high as slow response times and inefficient processes erode customer loyalty and financial stability. McKinsey reports highlight the drastic cost of poor customer experiences, estimating a loss of $75 billion annually due to decreased customer satisfaction, emphasizing the urgent need for businesses to adopt proactive measures.
+							124 container
+								125 text Source: 
+								126 link McKinsey & Company, The State of Customer Care in 2022, Value: mckinsey.com/capabilities/operations/our-insights/the-state-of-customer-care-in-2022
+							127 heading Turning Challenges into Opportunities, Value: 2
+								128 text Turning Challenges into  Opportunities
+							129 text Recognizing the need for substantial enhancements in service efficiency, many companies are aware of AI's potential benefits. According to a McKinsey study on automation in retail, integrating AI can streamline customer interactions and significantly reduce operational costs by simplifying complex processes and reducing manual tasks. This shift not only elevates service efficiency but also directly impacts customer satisfaction and business outcomes.
+							130 container
+								131 text Source: 
+								132 link McKinsey & Company, Automation in Retail: An Executive Overview for Getting Ready, Value: mckinsey.com/industries/retail/our-insights/automation-in-retail-an-executive-overview-for-getting-ready
+							133 text Addressing these issues, Tur.ai offers innovative solutions that are accessible to business users. These solutions feature pre-trained, retail-specific out-of-the-box models that enhance operational efficiency without the need for traditional system modifications. Tur.ai's AI-driven system integrates seamlessly with existing CRM and ERP platforms, enhancing operational efficiency without major system overhauls.
+							134 image Image of Ievgen Miasushkin, CEO of Tur.ai
+							135 container
+								136 text We greatly appreciate the exceptional readiness the Radio Holland team has shown to  embrace innovation  with us.
+							137 text Ievgen Miasushkin
+							138 text CEO of Tur.ai
+							139 heading AI at the Helm: Pioneering Solutions for Diverse Retail Needs, Value: 2
+								140 text AI at the Helm:  Pioneering Solutions for Diverse Retail Needs
+							141 text Tur.ai’s advanced AI solution redefines key business processes by automating customer inquiries analysis, request routing, operational workflows orchestration, communications management, and quick quote generation. This platform empowers businesses by allowing them to connect their data sources directly and interact with the Tur.ai copilot. This enables the visualization of inefficiencies, double work, and unmet KPIs, providing actionable suggestions for improvement—effectively performing the role of a BPO 
+							142 heading A Strategic Partnership Model, Value: 2
+								143 text A  Strategic Partnership  Model
+							144 text Tur.ai goes beyond typical vendor-client relationships. The firm offers a consultative, hands-on partnership, filling in knowledge gaps and ensuring that the AI solution adapts to each business’s unique needs. This partnership fosters an environment of trust and mutual growth, making advanced AI accessible even to non-technical teams.
+							145 heading The implementation of Tur.ai’s AI solution has yielded remarkable results for Radio Holland:, Value: 2
+								146 text The implementation of Tur.ai’s AI solution has yielded  remarkable results  for Radio Holland:
+							147 image Cost Efficiency Icon
+							148 heading Cost Efficiency, Value: 3
+								149 text Cost Efficiency
+							150 container
+								151 text Achieved a  10x  reduction in task execution costs
+							152 image Quicker Responses Icon
+							153 heading Quicker Responses, Value: 3
+								154 text Quicker Responses
+							155 container
+								156 text Improved time-to-response rate by  6-7x
+							157 image Faster Quotes Icon
+							158 heading Faster Quotes, Value: 3
+								159 text Faster Quotes
+							160 container
+								161 text Decreased time-to-quote by  3x
+							162 heading Demystifying AI: Empowering Business Users Across Retail Sectors, Value: 2
+								163 text Demystifying AI : Empowering Business Users Across Retail Sectors
+							164 text By creating intuitive, user-friendly interfaces, Tur.ai demystifies AI for business users, allowing them to manage the AI system effectively. This transparency helps businesses optimize operations and make informed decisions, enhancing overall customer service and operational agility.
+							165 heading Uncompromising Data Protection, Value: 2
+								166 text Uncompromising  Data Protection
+							167 text Adhering to the highest standards of data security, Tur.ai implements GDPR-compliant data anonymization and segregation techniques, ensuring that sensitive business data is protected across all retail sectors.
+							168 image Left Arrow - White
+							169 image Right Arrow - White
+							170 heading Value: 3, “"Tur.ai has significantly enhanced our operational processes, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we not only maintain our industry standards but strive to elevate them."”
+								171 text “ "Tur.ai has significantly enhanced our operational processes, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we not only maintain our industry standards but strive to elevate them." ”
+							172 image Image of Faissel el Mourid
+							173 heading Faissel el Mouridi, Value: 4
+								174 text Faissel el Mouridi
+							175 text CFO, Radio Holland
+							176 heading Expanding Horizons: Future Plans, Value: 2
+								177 text Expanding Horizons : Future Plans
+							178 text The initial success of Tur.ai's solutions is only the beginning of what is possible. Looking ahead, Tur.ai is set to broaden its impact within the B2B sector by extending its AI capabilities to new frontiers such as product sales, master data management, and intelligent product searches for upcoming B2B e-commerce platforms. These innovations are designed to further streamline operations and enhance decision-making processes, ensuring businesses can meet the demands of modern commerce with agility and insig
+							179 heading Transforming B2B Retail with AI, Value: 2
+								180 text Transforming  B2B Retail with AI
+							181 text Tur.ai’s AI solutions are not just transforming operations for maritime technology leaders like Radio Holland; they're setting a new standard for customer service across all B2B retail sectors. By optimizing service efficiency and enhancing customer satisfaction, Tur.ai is helping businesses not only meet but exceed their operational goals. Discover how Tur.ai can elevate your operational efficiency and help you achieve transformative efficiency and a competitive advantage. Connect with us today to explore 
+							182 heading We'll help you transform your business., Value: 2
+								183 text We'll help you  transform  your business.
+							184 container Email Form
+								185 text First Name
+								186 text field (settable) First Name
+								187 text Last Name
+								188 text field (settable) Last Name
+								189 text Email
+								190 email (settable) Email
+								191 text Company
+								192 text field (settable) Company
+								193 text Dive into Your AI Goals
+								194 text entry area (settable) Dive into Your AI Goals, Placeholder: Please share the benefits you expect from AI or challenges you aim to address.
+								195 button Submit
+							196 image Tur.ai Logo - Full
+							197 container
+								198 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+								199 link Privacy Policy, Value: tur-ai.design.webflow.com/privacy-policy
+								200 link Imprint, Value: tur-ai.design.webflow.com/imprint
+							201 link Back to Top, Value: tur-ai.design.webflow.com/site/empty.html#hero
+							202 text © 2026 Tur.ai. All rights reserved.
+							203 container
+								204 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+								205 image Dutch Interactive Awards Logo
+								206 image Accenture Innovation Awards - Award Logo
+								207 image ML and Intelligent Automation Award Logo
+								208 image Spinawards - Award Logo
+							209 heading Book a Demo, Value: 2
+								210 text Book a  Demo
+							211 text See a process run across systems, with controls and task-matched AI.
+							212 container Book a Demo
+								213 text First Name
+								214 text field (settable)
+								215 text Last Name
+								216 text field (settable)
+								217 text Email
+								218 email (settable)
+								219 text Company
+								220 text field (settable)
+								221 button Submit
+							222 image
+							223 heading Book a Call, Value: 2
+								224 text Book a  Call
+							225 text Share your details to discuss orchestration.
+							226 container Book a Call
+								227 text First Name
+								228 text field (settable)
+								229 text Last Name
+								230 text field (settable)
+								231 text Email
+								232 email (settable)
+								233 text Company
+								234 text field (settable)
+								235 button Submit
+							236 image
+						237 container
+							238 image
+							239 image
+							240 image
+							241 container
+								242 button
+								243 toggle button Design, Value: 0
+									244 text Design
+								245 toggle button CMS, Value: 0
+									246 text CMS
+								247 toggle button Insights, Value: 0
+									248 text Insights
+								249 toggle button Radio Holland Case, Value: 0
+									250 text Radio Holland Case
+								251 container
+									252 button jack (active) on page Radio Holland Case
+									253 toggle button Comments (C), Value: 0
+								254 toggle button Preview (⌥P), Value: 1
+								255 button Share
+								256 pop up button Publish
+									257 button Publish
+							258 button
+							259 pop up button Canvas settings. Current viewport width is 393px.
+							260 toggle button Desktop: Base breakpoint, Value: 0
+							261 toggle button Tablet: 991px and down, Value: 0
+							262 toggle button Mobile (L): 767px and down, Value: 0
+							263 toggle button Mobile: 479px and down, Value: 1
+							264 pop up button Larger breakpoints
+							265 pop up button Enable custom code?
+								266 container
+									267 switch Enable custom code?, Value: on
+							268 container
+								269 image Webflow MCP Bridge App
+								270 text Webflow MCP Bridge App
+								271 button Expand
+								272 container Webflow MCP Bridge App
+									273 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										274 container
+											275 heading Tool call logs, Value: 2
+												276 text Tool call logs
+											277 text 32
+											278 button
+											279 pop up button
+											280 container
+												281 text Element snapshot tool
+												282 text Running Element snapshot tool
+												283 pop up button
+												284 text Element snapshot tool completed
+												285 pop up button
+												286 text 824ms
+												287 text Element snapshot tool
+												288 text Running Element snapshot tool
+												289 pop up button
+												290 text Element snapshot tool completed
+												291 pop up button
+												292 text 821ms
+												293 text Element snapshot tool
+												294 text Running Element snapshot tool
+												295 pop up button
+												296 text Element snapshot tool completed
+												297 pop up button
+												298 text 984ms
+												299 text Element snapshot tool
+												300 text Running Element snapshot tool
+												301 pop up button
+												302 text Element snapshot tool completed
+												303 pop up button
+												304 text 945ms
+												305 text Element snapshot tool
+												306 text Running Element snapshot tool
+												307 pop up button
+												308 text Element snapshot tool completed
+												309 pop up button
+												310 text 1.0s
+												311 text Element snapshot tool
+												312 text Running Element snapshot tool
+												313 pop up button
+												314 text Element snapshot tool completed
+												315 pop up button
+												316 text 1.1s
+												317 text Element snapshot tool
+												318 text Running Element snapshot tool
+												319 pop up button
+												320 text Element snapshot tool completed
+												321 pop up button
+												322 text 1.1s
+												323 text Element snapshot tool
+												324 text Running Element snapshot tool
+												325 pop up button
+												326 text Element snapshot tool completed
+												327 pop up button
+												328 text 682ms
+												329 text Element snapshot tool
+												330 text Running Element snapshot tool
+												331 pop up button
+												332 text Element snapshot tool completed
+												333 pop up button
+												334 text 705ms
+												335 text Element snapshot tool
+												336 text Running Element snapshot tool
+												337 pop up button
+												338 text Element snapshot tool completed
+												339 pop up button
+												340 text 850ms
+												341 text Element snapshot tool
+												342 text Running Element snapshot tool
+												343 pop up button
+												344 text Element snapshot tool completed
+												345 pop up button
+												346 text 1.1s
+												347 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												348 text Running Element snapshot tool
+												349 pop up button
+												350 text Element snapshot tool completed
+												351 pop up button
+												352 text 1.4s
+												353 text Element snapshot tool
+												354 text Running Element snapshot tool
+												355 pop up button
+												356 text Element snapshot tool completed
+												357 pop up button
+												358 text 877ms
+												359 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												360 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											361 container Notifications alt+T
+							362 container Canvas settings
+								363 text Canvas settings
+							364 container Notifications Alt+T
+			365 container Infobar Container
+				366 container Infobar
+					367 container
+						368 text "ChatGPT" started debugging this browser
+						369 button Cancel
+					370 button Close
+			371 pop up button Tab search
+			372 container
+				373 tab group
+					374 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.8 GB, Value: on
+						375 button Close
+			376 button New Tab
+	377 close button
+	378 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	379 minimize button
+380 menu bar
+	381 Chrome
+	382 File
+	383 Edit
+	384 View
+	385 History
+	386 Bookmarks
+	387 Profiles
+	388 Tab
+	389 Window
+	390 Help
+
+The focused UI element is 259 pop up button Canvas settings. Current viewport width is 393px.

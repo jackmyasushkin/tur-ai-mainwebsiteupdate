@@ -1,0 +1,489 @@
+{
+  "checks": [
+    {
+      "label": "HOME-141",
+      "field_id": "HOME-141",
+      "id": {
+        "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+        "element": "d4775e29-0c8c-aca9-118d-34e001e49581"
+      },
+      "before": "\u00a9 2024 Tur.ai. All rights reserved.",
+      "approved": "\u00a9 2026 Tur.ai. All rights reserved.",
+      "actual": "\u00a9 2026 Tur.ai. All rights reserved.",
+      "verified": true
+    }
+  ],
+  "tree": {
+    "id": {
+      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+      "element": "d4775e29-0c8c-aca9-118d-34e001e4956b"
+    },
+    "type": "Block",
+    "styleNames": [
+      "section_footer"
+    ],
+    "settings": {
+      "tag": "div",
+      "visibility": true,
+      "block": {
+        "tag": "div"
+      }
+    },
+    "children": [
+      {
+        "id": {
+          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "element": "d4775e29-0c8c-aca9-118d-34e001e4956c"
+        },
+        "type": "Block",
+        "styleNames": [
+          "padding-global",
+          "padding-section-large"
+        ],
+        "settings": {
+          "tag": "div",
+          "visibility": true,
+          "block": {
+            "tag": "div"
+          }
+        },
+        "children": [
+          {
+            "id": {
+              "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+              "element": "d4775e29-0c8c-aca9-118d-34e001e4956d"
+            },
+            "type": "Block",
+            "styleNames": [
+              "container-large"
+            ],
+            "settings": {
+              "tag": "div",
+              "visibility": true,
+              "block": {
+                "tag": "div"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                  "element": "d4775e29-0c8c-aca9-118d-34e001e4956e"
+                },
+                "type": "Block",
+                "styleNames": [
+                  "footer_component"
+                ],
+                "settings": {
+                  "tag": "div",
+                  "visibility": true,
+                  "block": {
+                    "tag": "div"
+                  }
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                      "element": "d4775e29-0c8c-aca9-118d-34e001e4956f"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "footer_logo-wrapper"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                          "element": "d4775e29-0c8c-aca9-118d-34e001e49570"
+                        },
+                        "type": "Image",
+                        "styleNames": [
+                          "footer_logo"
+                        ],
+                        "settings": {
+                          "visibility": true,
+                          "assetId": "66237aed3e60afcd062ddd52",
+                          "altText": "Tur.ai Logo - Full"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": {
+                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                      "element": "d4775e29-0c8c-aca9-118d-34e001e49571"
+                    },
+                    "type": "Block",
+                    "styleNames": [
+                      "footer_content"
+                    ],
+                    "settings": {
+                      "tag": "div",
+                      "visibility": true,
+                      "block": {
+                        "tag": "div"
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": {
+                          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                          "element": "d4775e29-0c8c-aca9-118d-34e001e49572"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "footer_link-wrapper"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                              "element": "d4775e29-0c8c-aca9-118d-34e001e49573"
+                            },
+                            "type": "Block",
+                            "styleNames": [
+                              "footer_link-pages"
+                            ],
+                            "settings": {
+                              "tag": "div",
+                              "visibility": true,
+                              "block": {
+                                "tag": "div"
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49574"
+                                },
+                                "type": "Link",
+                                "styleNames": [
+                                  "footer_link"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "link": {
+                                    "linkType": "url",
+                                    "href": "https://nl.linkedin.com/company/tur-ai-automation"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                      "element": "d4775e29-0c8c-aca9-118d-34e001e49575"
+                                    },
+                                    "type": "String",
+                                    "textContent": "LinkedIn"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49576"
+                                },
+                                "type": "Link",
+                                "styleNames": [
+                                  "footer_link"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "link": {
+                                    "linkType": "page",
+                                    "pageId": "64ec9b4adfa2c836d4131938"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                      "element": "d4775e29-0c8c-aca9-118d-34e001e49577"
+                                    },
+                                    "type": "String",
+                                    "textContent": "Privacy Policy"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49578"
+                                },
+                                "type": "Link",
+                                "styleNames": [
+                                  "footer_link"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "link": {
+                                    "linkType": "page",
+                                    "pageId": "64eca951ef4b561482eb1ec5"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                      "element": "d4775e29-0c8c-aca9-118d-34e001e49579"
+                                    },
+                                    "type": "String",
+                                    "textContent": "Imprint"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                              "element": "d4775e29-0c8c-aca9-118d-34e001e4957a"
+                            },
+                            "type": "Link",
+                            "styleNames": [
+                              "footer_link-top"
+                            ],
+                            "settings": {
+                              "visibility": true,
+                              "link": {
+                                "linkType": "none"
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e4957b"
+                                },
+                                "type": "Block",
+                                "styleNames": [
+                                  "footer_link-top-text"
+                                ],
+                                "settings": {
+                                  "tag": "div",
+                                  "visibility": true,
+                                  "block": {
+                                    "tag": "div"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                      "element": "d4775e29-0c8c-aca9-118d-34e001e4957c"
+                                    },
+                                    "type": "String",
+                                    "textContent": "Back to Top"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e4957d"
+                                },
+                                "type": "DOM",
+                                "styleNames": [
+                                  "button_arrow",
+                                  "is-up"
+                                ],
+                                "attributes": {
+                                  "width": "100%",
+                                  "viewBox": "0 0 18 8"
+                                },
+                                "settings": {
+                                  "tag": "svg",
+                                  "visibility": true,
+                                  "dom": {
+                                    "tag": "svg"
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "id": {
+                                      "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                      "element": "d4775e29-0c8c-aca9-118d-34e001e4957e"
+                                    },
+                                    "type": "DOM",
+                                    "attributes": {
+                                      "d": "M13.4697 6.51947C13.1768 6.81237 13.1768 7.28724 13.4697 7.58013C13.7626 7.87303 14.2374 7.87303 14.5303 7.58013L17.5303 4.58014C17.8232 4.28724 17.8232 3.81237 17.5303 3.51948L16.0303 2.01947L14.5303 0.519475C14.2374 0.226581 13.7626 0.226581 13.4697 0.519475C13.1768 0.812368 13.1768 1.28724 13.4697 1.58013L14.9697 3.08013L15.1893 3.2998L1 3.2998C0.585787 3.2998 0.25 3.63559 0.25 4.0498C0.25 4.46402 0.585787 4.7998 1 4.7998L15.1893 4.7998L13.4697 6.51947Z",
+                                      "fill": "currentColor"
+                                    },
+                                    "settings": {
+                                      "tag": "path",
+                                      "visibility": true,
+                                      "dom": {
+                                        "tag": "path"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": {
+                          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                          "element": "d4775e29-0c8c-aca9-118d-34e001e4957f"
+                        },
+                        "type": "Block",
+                        "styleNames": [
+                          "footer_bottom"
+                        ],
+                        "settings": {
+                          "tag": "div",
+                          "visibility": true,
+                          "block": {
+                            "tag": "div"
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": {
+                              "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                              "element": "d4775e29-0c8c-aca9-118d-34e001e49580"
+                            },
+                            "type": "Block",
+                            "settings": {
+                              "tag": "div",
+                              "visibility": true,
+                              "block": {
+                                "tag": "div"
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49581"
+                                },
+                                "type": "String",
+                                "textContent": "\u00a9 2026 Tur.ai. All rights reserved."
+                              }
+                            ]
+                          },
+                          {
+                            "id": {
+                              "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                              "element": "d4775e29-0c8c-aca9-118d-34e001e49582"
+                            },
+                            "type": "Block",
+                            "styleNames": [
+                              "footer_awards"
+                            ],
+                            "settings": {
+                              "tag": "div",
+                              "visibility": true,
+                              "block": {
+                                "tag": "div"
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49583"
+                                },
+                                "type": "Image",
+                                "styleNames": [
+                                  "footer_award-image"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "assetId": "6623ad36316335c8ee41a75d",
+                                  "altText": "Top B2B Companies Ukraine 2023 - Clutch Award Logo"
+                                }
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49584"
+                                },
+                                "type": "Image",
+                                "styleNames": [
+                                  "footer_award-image"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "assetId": "6623ad36fd9f586ebc653035",
+                                  "altText": "Dutch Interactive Awards Logo"
+                                }
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49585"
+                                },
+                                "type": "Image",
+                                "styleNames": [
+                                  "footer_award-image"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "assetId": "6623ad360210e3a584f38d02",
+                                  "altText": "Accenture Innovation Awards - Award Logo"
+                                }
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49586"
+                                },
+                                "type": "Image",
+                                "styleNames": [
+                                  "footer_award-image"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "assetId": "6623ad36c11845bf25456f24",
+                                  "altText": "ML and Intelligent Automation Award Logo"
+                                }
+                              },
+                              {
+                                "id": {
+                                  "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+                                  "element": "d4775e29-0c8c-aca9-118d-34e001e49587"
+                                },
+                                "type": "Image",
+                                "styleNames": [
+                                  "footer_award-image"
+                                ],
+                                "settings": {
+                                  "visibility": true,
+                                  "assetId": "6623ad36eafda31d6ac9a7bc",
+                                  "altText": "Spinawards - Award Logo"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

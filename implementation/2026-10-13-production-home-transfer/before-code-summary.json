@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Page code before transfer",
+    "action": "get_page_freeform_code",
+    "blocks": [
+      {
+        "location": "head",
+        "sha256": "9615c6ebc420a998d48cf1573c5a0358bb6f4f7f7b7fe50535675477bb612e4e",
+        "characters": 197
+      },
+      {
+        "location": "footer",
+        "sha256": "5ffd77f1a8bfcffa0697ade781b6b4dbde6aad16585d0aedd617e54b4d639a59",
+        "characters": 3725
+      }
+    ]
+  },
+  {
+    "label": "Site code before transfer",
+    "action": "get_site_freeform_code",
+    "blocks": [
+      {
+        "location": "head",
+        "sha256": "b5f4032bca2598eaf28551551a806496085004830f97f239a1179e11c02409db",
+        "characters": 592
+      },
+      {
+        "location": "footer",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "characters": 0
+      }
+    ]
+  },
+  {
+    "label": "App page scripts before transfer",
+    "action": "get_page_scripts",
+    "result": null,
+    "error": {
+      "name": "Error",
+      "message": "NotFoundError\nStatus code: 404\nBody: {\n  \"message\": \"Requested resource not found: Custom code block not found\",\n  \"code\": \"resource_not_found\",\n  \"details\": []\n}",
+      "status": 404,
+      "code": "resource_not_found"
+    }
+  },
+  {
+    "label": "Registered scripts before transfer",
+    "action": "get_registered_scripts",
+    "result": {
+      "registeredScripts": [],
+      "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "total": 0
+      }
+    },
+    "error": null
+  }
+]

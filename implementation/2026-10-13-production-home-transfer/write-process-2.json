@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-100\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-101\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-103\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-104\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-106\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Fresh target registry before registration\",\"action\":\"get_registered_scripts\",\"result\":{\"registeredScripts\":[],\"pagination\":{\"limit\":100,\"offset\":0,\"total\":0}}}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Fresh Home app-block before attaching\",\"action\":\"get_page_scripts\",\"error\":{\"name\":\"Error\",\"message\":\"NotFoundError\\nStatus code: 404\\nBody: {\\n  \\\"message\\\": \\\"Requested resource not found: Custom code block not found\\\",\\n  \\\"code\\\": \\\"resource_not_found\\\",\\n  \\\"details\\\": []\\n}\",\"status\":404,\"code\":\"resource_not_found\"}}"
+    }
+  ]
+}

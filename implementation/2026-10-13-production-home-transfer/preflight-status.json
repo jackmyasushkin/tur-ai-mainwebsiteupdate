@@ -1,0 +1,31 @@
+{
+  "phase": "before_ready_pending_native_backup_confirmation",
+  "target": {
+    "site_id": "64e477696d41401ec48c50c6",
+    "page_id": "66368e29da23c5a1b0fe1396",
+    "page_name": "Home",
+    "language": "English"
+  },
+  "preflightTexts": 120,
+  "conflicts": 0,
+  "widths": [
+    1383,
+    820,
+    667,
+    393,
+    320,
+    1440,
+    991,
+    992,
+    767,
+    768,
+    479,
+    480
+  ],
+  "domOnlyEvidence": [
+    "Before native AX quote/name/role/portrait",
+    "MCP resolved inherit + exact asset alt for HOME-205/206/207"
+  ],
+  "publication": "not authorized",
+  "at": "2026-10-13T08:46:21.401Z"
+}

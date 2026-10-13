@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-133\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-135\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"HOME-136\",\"action\":\"set_text\",\"result\":[{\"status\":\"success\",\"message\":\"Text updated\",\"data\":null}]}"
+    }
+  ]
+}

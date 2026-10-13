@@ -1,0 +1,172 @@
+Window: "Tur.ai - Backups - Webflow", App: Google Chrome.
+0 standard window Tur.ai - Backups - Webflow - Google Chrome - Tur.ai Organization, URL: webflow.com/dashboard/sites/tur-ai/backups, Secondary Actions: Raise
+	1 container Tur.ai - Backups - Webflow - Google Chrome - Tur.ai Organization, URL: webflow.com/dashboard/sites/tur-ai/backups
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Value: webflow.com/dashboard/sites/tur-ai/backups, Placeholder: Search Google or type a URL
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Tur.ai - Backups - Webflow, URL: webflow.com/dashboard/sites/tur-ai/backups
+						19 container
+							20 image
+							21 container Navigation
+								22 container
+									23 link home, Value: webflow.com/?r=0
+									24 content list
+										25 link Dashboard, Value: webflow.com/dashboard?utm_source=dashboard
+										26 pop up button Marketplace menu dropdown
+										27 link Learn, Value: university.webflow.com/?utm_source=dashboard
+										28 pop up button Resources menu dropdown
+										29 button Search
+										30 pop up button Notifications
+										31 pop up button Account
+							32 container
+								33 link All projects, Value: webflow.com/dashboard?activeTab=all-projects&workspace=tur-ai
+								34 link General, Value: webflow.com/dashboard/sites/tur-ai/general
+								35 link Site access, Value: webflow.com/dashboard/sites/tur-ai/site-access
+								36 link Publishing, Value: webflow.com/dashboard/sites/tur-ai/publishing
+								37 link Billing, Value: webflow.com/dashboard/sites/tur-ai/billing?sp=project%20backups%20tab
+								38 link Plans, Value: webflow.com/dashboard/sites/tur-ai/plans?ref=plans_tab
+								39 button Usage
+								40 link SEO, Value: webflow.com/dashboard/sites/tur-ai/seo
+								41 link Forms, Value: webflow.com/dashboard/sites/tur-ai/forms
+								42 link Fonts, Value: webflow.com/dashboard/sites/tur-ai/fonts
+								43 link Backups, Value: webflow.com/dashboard/sites/tur-ai/backups
+								44 link Apps & Integrations, Value: webflow.com/dashboard/sites/tur-ai/integrations
+								45 link Custom code, Value: webflow.com/dashboard/sites/tur-ai/custom-code
+								46 link Webflow Cloud, Value: webflow.com/dashboard/sites/tur-ai/webflow-cloud
+							47 heading Tur.ai Visit website, Value: 1
+								48 text Tur.ai
+								49 link Visit website, Value: tur-ai.webflow.io/
+							50 button Transfer site
+							51 button Archive site
+							52 button Duplicate site
+							53 button Unpublish site
+							54 button Share
+							55 link Open site in Webflow, Value: webflow.com/external/designer/tur-ai
+							56 pop up button Publish
+							57 container
+								58 heading Backups, Value: 2
+									59 text Backups
+								60 button New backup
+								61 text Webflow automatically creates site backups as you work. You can also create a manual backup at any time. The current version is also backed up when you restore an older version.
+								62 link Learn more, Value: help.webflow.com/hc/en-us/articles/33961244069395-Save-and-restore-backups#how-to-save-a-backup
+								63 table
+									64 row
+										65 cell
+											66 text 3 minutes ago October 13th 2026, 11:43:59 am
+										67 cell
+											68 text Before approved Home transfer 2026-10-13 | target 64e477696d41401ec48c50c6 | no publication 16 pages 723 styles 5340 elements
+										69 cell
+											70 button Preview
+											71 button Restore
+									72 row
+										73 cell
+											74 text a year ago November 12th 2025, 3:33:49 pm
+										75 cell
+											76 text Automatic backup 16 pages 723 styles 5340 elements
+										77 cell
+											78 button Preview
+											79 button Restore
+									80 row
+										81 cell
+											82 text a year ago November 6th 2025, 6:01:52 pm
+										83 cell
+											84 text Automatic backup 16 pages 723 styles 5340 elements
+										85 cell
+											86 button Preview
+											87 button Restore
+									88 row
+										89 cell
+											90 text a year ago November 5th 2025, 7:12:24 pm
+										91 cell
+											92 text Automatic backup 16 pages 723 styles 5340 elements
+										93 cell
+											94 button Preview
+											95 button Restore
+									96 row
+										97 cell
+											98 text a year ago November 5th 2025, 6:05:03 pm
+										99 cell
+											100 text Automatic backup 16 pages 723 styles 5340 elements
+										101 cell
+											102 button Preview
+											103 button Restore
+									104 row
+										105 cell
+											106 text a year ago November 5th 2025, 6:05:01 pm
+										107 cell
+											108 text Automatic backup 16 pages 723 styles 5340 elements
+										109 cell
+											110 button Preview
+											111 button Restore
+									112 row
+										113 cell
+											114 text a year ago September 1st 2025, 11:00:01 am
+										115 cell
+											116 text Automatic backup 16 pages 723 styles 5340 elements
+										117 cell
+											118 button Preview
+											119 button Restore
+									120 row
+										121 cell
+											122 text a year ago August 22nd 2025, 4:27:42 pm
+										123 cell
+											124 text Backup for duplication 16 pages 723 styles 5340 elements
+										125 cell
+											126 button Preview
+											127 button Restore
+									128 row
+										129 cell
+											130 text a year ago August 11th 2025, 5:36:16 pm
+										131 cell
+											132 text Backup for duplication 16 pages 723 styles 5340 elements
+										133 cell
+											134 button Preview
+											135 button Restore
+									136 row
+										137 cell
+											138 text 2 years ago September 19th 2024, 5:41:27 pm
+										139 cell
+											140 text Automatic backup 16 pages 723 styles 5340 elements
+										141 cell
+											142 button Preview
+											143 button Restore
+								144 button Show more
+							145 container Notifications Alt+T
+			146 pop up button Tab search
+			147 container
+				148 tab group
+					149 tab (settable, boolean) Webflow - Tur.ai - High memory usage - 1.4 GB, Value: off
+						150 button Close
+					151 tab (selected, settable, boolean) Tur.ai - Backups - Webflow - Memory usage - 354 MB, Value: on
+						152 button Close
+			153 button New Tab
+	154 close button
+	155 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	156 minimize button
+157 menu bar
+	158 Chrome
+	159 File
+	160 Edit
+	161 View
+	162 History
+	163 Bookmarks
+	164 Profiles
+	165 Tab
+	166 Window
+	167 Help
+
+The focused UI element is 18 HTML content Tur.ai - Backups - Webflow, URL: webflow.com/dashboard/sites/tur-ai/backups

@@ -1,0 +1,1808 @@
+[
+  {
+    "section": "hero",
+    "label": "hero-1",
+    "ops": [
+      {
+        "field_id": "HOME-003",
+        "label": "HOME-003-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2f"
+        },
+        "expected_current_raw": "We ",
+        "approved_new_raw": "Enterprise ",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-003"
+      },
+      {
+        "field_id": "HOME-003",
+        "label": "HOME-003-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "2b066328-9a94-c967-16e0-a7eb5632acf0"
+        },
+        "expected_current_raw": "Automate ",
+        "approved_new_raw": "Process ",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-003"
+      },
+      {
+        "field_id": "HOME-003",
+        "label": "HOME-003-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "27e5d944-a647-2835-857a-f6cce18f23ad"
+        },
+        "expected_current_raw": "Enterprise Customer Operations with ",
+        "approved_new_raw": "Orchestration ",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-003"
+      },
+      {
+        "field_id": "HOME-003",
+        "label": "HOME-003-3",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "d289d6ed-e2cb-f2c5-ed95-3ce79ffdebe2"
+        },
+        "expected_current_raw": "AI",
+        "approved_new_raw": "Platform",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-003"
+      },
+      {
+        "field_id": "HOME-004",
+        "label": "HOME-004",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad4"
+        },
+        "expected_current_raw": "Achieve up to 90% resolution on initial contact and automate 50% of agent tasks with AI, all within less than 3 months to value.",
+        "approved_new_raw": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-004"
+      },
+      {
+        "field_id": "HOME-006",
+        "label": "HOME-006",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "8d0699a1-57c9-05de-24f3-854a2bc59025"
+        },
+        "expected_current_raw": "Experience Proven ROI in the First Year \u2013 Book a Demo to Discover How!",
+        "approved_new_raw": "See how to run, control and change a process across your systems.",
+        "section": "hero",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-006"
+      }
+    ]
+  },
+  {
+    "section": "metrics-and-proof-faq",
+    "label": "metrics-and-proof-faq-1",
+    "ops": [
+      {
+        "field_id": "HOME-007",
+        "label": "HOME-007-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "02b63847-bb12-574e-7515-0cb13b323593"
+        },
+        "expected_current_raw": "Unlock the ",
+        "approved_new_raw": "Work and ",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-007"
+      },
+      {
+        "field_id": "HOME-007",
+        "label": "HOME-007-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "fe6558be-54c4-407c-3abc-a8f7ab7277af"
+        },
+        "expected_current_raw": "Transformative Power",
+        "approved_new_raw": "change faster.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-007"
+      },
+      {
+        "field_id": "HOME-007",
+        "label": "HOME-007-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "3ba5231c-1e7a-2715-ec00-94c510a3243f"
+        },
+        "expected_current_raw": " of AI Tailored to Your Business Needs",
+        "approved_new_raw": " Results from banking engagements.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-007"
+      },
+      {
+        "field_id": "HOME-008",
+        "label": "HOME-008",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "3e9d6fb2-d26f-e0c2-d772-4f8959394279"
+        },
+        "expected_current_raw": "Less Human Interaction",
+        "approved_new_raw": "Shorter process cycles",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-008"
+      },
+      {
+        "field_id": "HOME-009",
+        "label": "HOME-009",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "7a1d631e-4a36-87c4-19b1-03c3c3a8489b"
+        },
+        "expected_current_raw": "50",
+        "approved_new_raw": "62",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-009"
+      },
+      {
+        "field_id": "HOME-011",
+        "label": "HOME-011",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "945818af-ca60-09a2-4eaf-60bf092ba087"
+        },
+        "expected_current_raw": "Cut down on repetitive queries with AI, reserving human expertise for complex cases.",
+        "approved_new_raw": "One European bank: customer onboarding fell from 16 days to 6.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-011"
+      },
+      {
+        "field_id": "HOME-012",
+        "label": "HOME-012",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0535"
+        },
+        "expected_current_raw": "Initial Resolution Rate",
+        "approved_new_raw": "Lower staffing needs",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-012"
+      },
+      {
+        "field_id": "HOME-013",
+        "label": "HOME-013",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff0538"
+        },
+        "expected_current_raw": "90",
+        "approved_new_raw": "82",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-013"
+      },
+      {
+        "field_id": "HOME-015",
+        "label": "HOME-015",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "740e8327-fe90-a3d4-a2e7-ced5e9ff053c"
+        },
+        "expected_current_raw": "Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.",
+        "approved_new_raw": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-015"
+      }
+    ]
+  },
+  {
+    "section": "metrics-and-proof-faq",
+    "label": "metrics-and-proof-faq-2",
+    "ops": [
+      {
+        "field_id": "HOME-016",
+        "label": "HOME-016",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2f8"
+        },
+        "expected_current_raw": "Tasks Automated",
+        "approved_new_raw": "Lower LLM costs",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-016"
+      },
+      {
+        "field_id": "HOME-017",
+        "label": "HOME-017",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2fb"
+        },
+        "expected_current_raw": "70",
+        "approved_new_raw": "83",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-017"
+      },
+      {
+        "field_id": "HOME-019",
+        "label": "HOME-019",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f9318e29-354a-45cd-23aa-0f92b790b2ff"
+        },
+        "expected_current_raw": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
+        "approved_new_raw": "Banking case: annual token spend fell from \u20ac1.8M to \u20ac300K.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-019"
+      },
+      {
+        "field_id": "HOME-020",
+        "label": "HOME-020",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd999"
+        },
+        "expected_current_raw": "Sales Productivity Boost",
+        "approved_new_raw": "Faster process delivery",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-020"
+      },
+      {
+        "field_id": "HOME-021",
+        "label": "HOME-021",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99c"
+        },
+        "expected_current_raw": "5",
+        "approved_new_raw": "3",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-021"
+      },
+      {
+        "field_id": "HOME-022",
+        "label": "HOME-022",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd99e"
+        },
+        "expected_current_raw": "%",
+        "approved_new_raw": "\u00d7",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-022"
+      },
+      {
+        "field_id": "HOME-023",
+        "label": "HOME-023",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ea335017-1cf5-c5c9-6756-e98bc54cd9a0"
+        },
+        "expected_current_raw": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
+        "approved_new_raw": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+        "section": "transform",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-023"
+      },
+      {
+        "field_id": "HOME-115",
+        "label": "HOME-115",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "89130b50-e358-e731-a5ac-42603b44f528"
+        },
+        "expected_current_raw": "How will Tur.ai enhance our capability to scale sales globally?",
+        "approved_new_raw": "How does Tur.ai keep AI costs under control as we scale?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-115"
+      },
+      {
+        "field_id": "HOME-116",
+        "label": "HOME-116",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "89130b50-e358-e731-a5ac-42603b44f530"
+        },
+        "expected_current_raw": "Imagine Tur.ai\u2019s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.",
+        "approved_new_raw": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from \u20ac1.8M to \u20ac300K. This is AI usage spend, not total ownership cost.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-116"
+      }
+    ]
+  },
+  {
+    "section": "metrics-and-proof-faq",
+    "label": "metrics-and-proof-faq-3",
+    "ops": [
+      {
+        "field_id": "HOME-117",
+        "label": "HOME-117",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fbd"
+        },
+        "expected_current_raw": "What can we expect in terms of improving our first response to customer inquiries?",
+        "approved_new_raw": "What do the results on this page actually measure?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-117"
+      },
+      {
+        "field_id": "HOME-118",
+        "label": "HOME-118",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "9d6cebfb-3c7c-806d-7942-dc7b42b43fc5"
+        },
+        "expected_current_raw": "Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution",
+        "approved_new_raw": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from \u20ac1.8M to \u20ac300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-118"
+      }
+    ]
+  },
+  {
+    "section": "quote",
+    "label": "quote-1",
+    "ops": [
+      {
+        "field_id": "HOME-024",
+        "label": "HOME-024-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "bc3c9039-c403-caaf-4f49-25eee512f379"
+        },
+        "expected_current_raw": "We democratized AI so every retailer can benefit from its transformative power - ",
+        "approved_new_raw": "We built Tur.ai so businesses can work and change faster without replacing their ",
+        "section": "quote",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-024"
+      },
+      {
+        "field_id": "HOME-024",
+        "label": "HOME-024-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e9e125d0-c254-c662-22df-63e5ebb3fe3b"
+        },
+        "expected_current_raw": "hassle-free",
+        "approved_new_raw": "core",
+        "section": "quote",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-024"
+      },
+      {
+        "field_id": "HOME-024",
+        "label": "HOME-024-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "6bda841c-a4f6-8e9e-a5fc-2f19270b02e1"
+        },
+        "expected_current_raw": ".",
+        "approved_new_raw": ".",
+        "section": "quote",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-024"
+      }
+    ]
+  },
+  {
+    "section": "streamline",
+    "label": "streamline-1",
+    "ops": [
+      {
+        "field_id": "HOME-027",
+        "label": "HOME-027-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "4012293c-11b6-5290-0192-440506bdd014"
+        },
+        "expected_current_raw": "Streamline",
+        "approved_new_raw": "Coordinate",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-027"
+      },
+      {
+        "field_id": "HOME-027",
+        "label": "HOME-027-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "b8ba1d74-ee1a-5251-102a-aa501377d683"
+        },
+        "expected_current_raw": " Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+        "approved_new_raw": " Systems, AI and People in One Governed Process.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-027"
+      },
+      {
+        "field_id": "HOME-029",
+        "label": "HOME-029",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "a81fe0b6-1eaa-db91-a3ad-953fed0a86d2"
+        },
+        "expected_current_raw": "Initial Contact",
+        "approved_new_raw": "Work intake",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-029"
+      },
+      {
+        "field_id": "HOME-030",
+        "label": "HOME-030",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "5f281bc3-2e17-7fb7-b9f1-7917698bd741"
+        },
+        "expected_current_raw": "Deliver meaningful, personalized, and engaging responses to customers within minutes.",
+        "approved_new_raw": "Bring requests, documents and system data into one process with shared context.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-030"
+      },
+      {
+        "field_id": "HOME-032",
+        "label": "HOME-032",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "d8136f0d-4ebe-3a6d-841a-c29436dcc1c1"
+        },
+        "expected_current_raw": "Smart Routing",
+        "approved_new_raw": "Task routing",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-032"
+      },
+      {
+        "field_id": "HOME-033",
+        "label": "HOME-033",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "811bf050-7e46-e70c-5cc4-9f06b2861a80"
+        },
+        "expected_current_raw": "Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.",
+        "approved_new_raw": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-033"
+      },
+      {
+        "field_id": "HOME-035",
+        "label": "HOME-035",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "6acbbf19-9d86-f21c-41fc-fcd0c69fad43"
+        },
+        "expected_current_raw": "Sales & Service Automation",
+        "approved_new_raw": "Controlled execution",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-035"
+      },
+      {
+        "field_id": "HOME-036",
+        "label": "HOME-036",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "58db77d7-9a5a-3631-9868-0f818a755175"
+        },
+        "expected_current_raw": "Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.",
+        "approved_new_raw": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-036"
+      },
+      {
+        "field_id": "HOME-038",
+        "label": "HOME-038",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "6d5b1297-45ef-e960-7cc0-17efb59b1ded"
+        },
+        "expected_current_raw": "Smooth Aftercare",
+        "approved_new_raw": "Human decisions",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-038"
+      },
+      {
+        "field_id": "HOME-039",
+        "label": "HOME-039",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "44410543-1595-11f8-4499-ee1256b3e143"
+        },
+        "expected_current_raw": "Automated returns and smart exchange processing.",
+        "approved_new_raw": "Route exceptions to the right person to decide.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-039"
+      }
+    ]
+  },
+  {
+    "section": "streamline",
+    "label": "streamline-2",
+    "ops": [
+      {
+        "field_id": "HOME-041",
+        "label": "HOME-041",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f38ba30e-1c8b-8607-e846-a7300aeab29d"
+        },
+        "expected_current_raw": "Satisfaction Ensured",
+        "approved_new_raw": "Traceable outcomes",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-041"
+      },
+      {
+        "field_id": "HOME-042",
+        "label": "HOME-042",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b6"
+        },
+        "expected_current_raw": "Consistent, pleasing resolutions for every customer.",
+        "approved_new_raw": "Record actions and decisions for review and audit.",
+        "section": "streamline",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-042"
+      }
+    ]
+  },
+  {
+    "section": "retail",
+    "label": "retail-1",
+    "ops": [
+      {
+        "field_id": "HOME-043",
+        "label": "HOME-043-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "188684cf-4252-7dc6-66e6-4fab8ab9d3e0"
+        },
+        "expected_current_raw": "Global Retail Leaders Employ ",
+        "approved_new_raw": "Real operations powered by ",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-043"
+      },
+      {
+        "field_id": "HOME-043",
+        "label": "HOME-043-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e27bb508-97d9-dcfd-5404-90e9ac73dece"
+        },
+        "expected_current_raw": "Tur.ai",
+        "approved_new_raw": "Tur.ai",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-043"
+      },
+      {
+        "field_id": "HOME-043",
+        "label": "HOME-043-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "366dbd54-6333-5a60-095b-ea35ea158053"
+        },
+        "expected_current_raw": ".",
+        "approved_new_raw": ".",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-043"
+      },
+      {
+        "field_id": "HOME-044",
+        "label": "HOME-044",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "3cff5fdb-d7b3-0353-9054-6422c25df8c8"
+        },
+        "expected_current_raw": "Lead to quote automation",
+        "approved_new_raw": "Lead-to-quote automation",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-044"
+      },
+      {
+        "field_id": "HOME-045",
+        "label": "HOME-045-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "c25331a6-b739-dd3d-8514-8d8256889ce2"
+        },
+        "expected_current_raw": "10x faster",
+        "approved_new_raw": "3x faster",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-045"
+      },
+      {
+        "field_id": "HOME-045",
+        "label": "HOME-045-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "71c19e01-c6f5-d8f8-4d91-6723beefee91"
+        },
+        "expected_current_raw": " response rate",
+        "approved_new_raw": " quotes",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-045"
+      },
+      {
+        "field_id": "HOME-047",
+        "label": "HOME-047",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cd"
+        },
+        "expected_current_raw": "Brand-owned cashback campaigns automation",
+        "approved_new_raw": "Cashback campaign operations",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-047"
+      },
+      {
+        "field_id": "HOME-048",
+        "label": "HOME-048",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "50b3e01d-5242-0803-f3c4-71fa3e1f4e3a"
+        },
+        "expected_current_raw": "Nation-wide campaigns managed by small team in parallel to day to day work",
+        "approved_new_raw": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-048"
+      },
+      {
+        "field_id": "HOME-051",
+        "label": "HOME-051",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "353d0820-b470-c4d5-b61c-fff519184750"
+        },
+        "expected_current_raw": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+        "approved_new_raw": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-051"
+      },
+      {
+        "field_id": "HOME-056",
+        "label": "HOME-056",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "c7a3014d-22ed-c91e-b538-158213fc630a"
+        },
+        "expected_current_raw": "Lead to quote automation",
+        "approved_new_raw": "Lead-to-quote automation",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-056"
+      }
+    ]
+  },
+  {
+    "section": "retail",
+    "label": "retail-2",
+    "ops": [
+      {
+        "field_id": "HOME-057",
+        "label": "HOME-057",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "1488f37f-c619-d847-7b40-8bda7209dbc5"
+        },
+        "expected_current_raw": "Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.",
+        "approved_new_raw": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-057"
+      },
+      {
+        "field_id": "HOME-059",
+        "label": "HOME-059",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2018"
+        },
+        "expected_current_raw": "Brand-owned cashback campaigns automation",
+        "approved_new_raw": "Cashback campaign operations",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-059"
+      },
+      {
+        "field_id": "HOME-060",
+        "label": "HOME-060",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e201a"
+        },
+        "expected_current_raw": "Nation-wide campaigns managed by small team in parallel to day to day work.",
+        "approved_new_raw": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-060"
+      },
+      {
+        "field_id": "HOME-063",
+        "label": "HOME-063",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfdb"
+        },
+        "expected_current_raw": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+        "approved_new_raw": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-063"
+      },
+      {
+        "field_id": "HOME-066",
+        "label": "HOME-066",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "5653bac9-a2a7-6f94-4da7-6d8ab7742d06"
+        },
+        "expected_current_raw": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI.",
+        "approved_new_raw": "Heineken cut vendor onboarding from months to weeks.",
+        "section": "retail",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-066"
+      }
+    ]
+  },
+  {
+    "section": "integration",
+    "label": "integration-1",
+    "ops": [
+      {
+        "field_id": "HOME-068",
+        "label": "HOME-068-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "b7c6a201-5e2f-770a-586c-f11a52d9aeb5"
+        },
+        "expected_current_raw": "Where AI Integration Meets ",
+        "approved_new_raw": "The operational plane: ",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-068"
+      },
+      {
+        "field_id": "HOME-068",
+        "label": "HOME-068-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "43a0cbff-d26a-524c-73ab-f58990897807"
+        },
+        "expected_current_raw": "Simplicity",
+        "approved_new_raw": "your rules",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-068"
+      },
+      {
+        "field_id": "HOME-068",
+        "label": "HOME-068-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "834dde35-c53b-2e6f-e2b0-6bfc896787d6"
+        },
+        "expected_current_raw": ", Bypassing Hassle and Lavish Outlays.",
+        "approved_new_raw": ", across your existing systems.",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-068"
+      },
+      {
+        "field_id": "HOME-069",
+        "label": "HOME-069-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151f"
+        },
+        "expected_current_raw": "Click to see features",
+        "approved_new_raw": "Click to see how",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-069"
+      },
+      {
+        "field_id": "HOME-069",
+        "label": "HOME-069-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d1521"
+        },
+        "expected_current_raw": "that make you smile",
+        "approved_new_raw": "Tur.ai changes this",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-069"
+      },
+      {
+        "field_id": "HOME-070",
+        "label": "HOME-070-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050b"
+        },
+        "expected_current_raw": "Click to see features",
+        "approved_new_raw": "Click to see how",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-070"
+      },
+      {
+        "field_id": "HOME-070",
+        "label": "HOME-070-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050d"
+        },
+        "expected_current_raw": "that make you smile",
+        "approved_new_raw": "Tur.ai changes this",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-070"
+      },
+      {
+        "field_id": "HOME-071",
+        "label": "HOME-071",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32359"
+        },
+        "expected_current_raw": "42",
+        "approved_new_raw": "01",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-071"
+      },
+      {
+        "field_id": "HOME-072",
+        "label": "HOME-072",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "8d7be475-aa0c-b63d-b172-a0c223302b3c"
+        },
+        "expected_current_raw": "%",
+        "approved_new_raw": ".",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-072"
+      },
+      {
+        "field_id": "HOME-073",
+        "label": "HOME-073",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "48b57b5c-3e24-204a-c4cc-5e69829f7fe5"
+        },
+        "expected_current_raw": "Are lacking talent with the right skills for AI",
+        "approved_new_raw": "One model for every task",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-073"
+      }
+    ]
+  },
+  {
+    "section": "integration",
+    "label": "integration-2",
+    "ops": [
+      {
+        "field_id": "HOME-074",
+        "label": "HOME-074",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe526"
+        },
+        "expected_current_raw": "30",
+        "approved_new_raw": "02",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-074"
+      },
+      {
+        "field_id": "HOME-075",
+        "label": "HOME-075",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe528"
+        },
+        "expected_current_raw": "%",
+        "approved_new_raw": ".",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-075"
+      },
+      {
+        "field_id": "HOME-076",
+        "label": "HOME-076",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "a0edc565-33f4-669d-bb64-10f688dbe52a"
+        },
+        "expected_current_raw": "Have silos blocking full AI solution implementation",
+        "approved_new_raw": "People bridging systems and teams",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-076"
+      },
+      {
+        "field_id": "HOME-077",
+        "label": "HOME-077",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262930"
+        },
+        "expected_current_raw": "24",
+        "approved_new_raw": "03",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-077"
+      },
+      {
+        "field_id": "HOME-078",
+        "label": "HOME-078",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262932"
+        },
+        "expected_current_raw": "%",
+        "approved_new_raw": ".",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-078"
+      },
+      {
+        "field_id": "HOME-079",
+        "label": "HOME-079",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "430b0ffe-6ee7-6925-1ff4-9c2888262934"
+        },
+        "expected_current_raw": "Are missing system and data compatibility",
+        "approved_new_raw": "Process changes held up by core releases",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-079"
+      },
+      {
+        "field_id": "HOME-080",
+        "label": "HOME-080",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "7fa98413-1326-a093-303c-f065fd623c35"
+        },
+        "expected_current_raw": "43",
+        "approved_new_raw": "04",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-080"
+      },
+      {
+        "field_id": "HOME-081",
+        "label": "HOME-081",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "7fa98413-1326-a093-303c-f065fd623c37"
+        },
+        "expected_current_raw": "%",
+        "approved_new_raw": ".",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-081"
+      },
+      {
+        "field_id": "HOME-082",
+        "label": "HOME-082",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "7fa98413-1326-a093-303c-f065fd623c39"
+        },
+        "expected_current_raw": "Don't have the tools for scaling ML Ops",
+        "approved_new_raw": "Retries that waste tokens and time",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-082"
+      },
+      {
+        "field_id": "HOME-083",
+        "label": "HOME-083",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a2962"
+        },
+        "expected_current_raw": "No special skills needed for AI tasks",
+        "approved_new_raw": "AI models matched to each task",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-083"
+      }
+    ]
+  },
+  {
+    "section": "integration",
+    "label": "integration-3",
+    "ops": [
+      {
+        "field_id": "HOME-084",
+        "label": "HOME-084",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a296f"
+        },
+        "expected_current_raw": "Orchestrated cross-functional AI integration",
+        "approved_new_raw": "One governed flow across systems and teams",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-084"
+      },
+      {
+        "field_id": "HOME-085",
+        "label": "HOME-085",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a297c"
+        },
+        "expected_current_raw": "Works with the systems and data you have",
+        "approved_new_raw": "Change processes above existing systems",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-085"
+      },
+      {
+        "field_id": "HOME-086",
+        "label": "HOME-086",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e2530e15-d39e-cf4d-b44e-19861a6a2989"
+        },
+        "expected_current_raw": "Ready-to-use AI models for your business context",
+        "approved_new_raw": "Bounded retries, checks and human decisions",
+        "section": "integration",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-086"
+      }
+    ]
+  },
+  {
+    "section": "process",
+    "label": "process-1",
+    "ops": [
+      {
+        "field_id": "HOME-088",
+        "label": "HOME-088-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "1bbb8a07-5871-c727-8eba-4792b70c7e2f"
+        },
+        "expected_current_raw": "Our ",
+        "approved_new_raw": "One ",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-088"
+      },
+      {
+        "field_id": "HOME-088",
+        "label": "HOME-088-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e700c5fc-6b44-fe9f-2c2b-e8b8069ba016"
+        },
+        "expected_current_raw": "Trademark Process",
+        "approved_new_raw": "platform",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-088"
+      },
+      {
+        "field_id": "HOME-088",
+        "label": "HOME-088-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f0bc4674-258a-d50b-f943-6fe16c2e828d"
+        },
+        "expected_current_raw": " Lets You Transform Your Retail Operations",
+        "approved_new_raw": " to pilot, run and scale your processes",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-088"
+      },
+      {
+        "field_id": "HOME-089",
+        "label": "HOME-089",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "bbd687c2-d28c-04a9-048d-f3640bee1447"
+        },
+        "expected_current_raw": "EXPLORE",
+        "approved_new_raw": "PILOT",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-089"
+      },
+      {
+        "field_id": "HOME-091",
+        "label": "HOME-091",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "2fd55856-84ab-2bf7-98fb-82b5f7186592"
+        },
+        "expected_current_raw": "EMPOWER",
+        "approved_new_raw": "LAUNCH",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-091"
+      },
+      {
+        "field_id": "HOME-093",
+        "label": "HOME-093",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e633f893-9851-606a-06f4-89cc869805ee"
+        },
+        "expected_current_raw": "THRIVE",
+        "approved_new_raw": "SCALE",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-093"
+      },
+      {
+        "field_id": "HOME-095",
+        "label": "HOME-095",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "22341e4b-d5cb-5fa3-2502-0f546b6c998e"
+        },
+        "expected_current_raw": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+        "approved_new_raw": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-095"
+      },
+      {
+        "field_id": "HOME-096",
+        "label": "HOME-096",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "6664dfe7-9884-cc17-824d-b1be819b5dcc"
+        },
+        "expected_current_raw": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+        "approved_new_raw": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-096"
+      },
+      {
+        "field_id": "HOME-097",
+        "label": "HOME-097",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "42240082-acf2-2393-855f-a3f33b96a468"
+        },
+        "expected_current_raw": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+        "approved_new_raw": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-097"
+      },
+      {
+        "field_id": "HOME-098",
+        "label": "HOME-098",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f30a751c-fe45-d11d-438a-056949caffe6"
+        },
+        "expected_current_raw": "EXPLORE",
+        "approved_new_raw": "PILOT",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-098"
+      }
+    ]
+  },
+  {
+    "section": "process",
+    "label": "process-2",
+    "ops": [
+      {
+        "field_id": "HOME-100",
+        "label": "HOME-100",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "05ba6d71-702b-b650-b513-b0f7010020b9"
+        },
+        "expected_current_raw": "In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+        "approved_new_raw": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-100"
+      },
+      {
+        "field_id": "HOME-101",
+        "label": "HOME-101",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6be"
+        },
+        "expected_current_raw": "EMPOWER",
+        "approved_new_raw": "LAUNCH",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-101"
+      },
+      {
+        "field_id": "HOME-103",
+        "label": "HOME-103",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ef3bf8af-3805-4bef-b0e2-633f8faec6c3"
+        },
+        "expected_current_raw": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+        "approved_new_raw": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-103"
+      },
+      {
+        "field_id": "HOME-104",
+        "label": "HOME-104",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ca70429a-1278-34ba-7dcf-289fc7780d95"
+        },
+        "expected_current_raw": "THRIVE",
+        "approved_new_raw": "SCALE",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-104"
+      },
+      {
+        "field_id": "HOME-106",
+        "label": "HOME-106",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "ca70429a-1278-34ba-7dcf-289fc7780d9a"
+        },
+        "expected_current_raw": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+        "approved_new_raw": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+        "section": "process",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-106"
+      }
+    ]
+  },
+  {
+    "section": "microsoft",
+    "label": "microsoft-1",
+    "ops": [
+      {
+        "field_id": "HOME-107",
+        "label": "HOME-107",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f026b1a3-2142-e335-b4f3-3291efb603ab"
+        },
+        "expected_current_raw": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.",
+        "approved_new_raw": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+        "section": "microsoft",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-107"
+      }
+    ]
+  },
+  {
+    "section": "faq",
+    "label": "faq-1",
+    "ops": [
+      {
+        "field_id": "HOME-109",
+        "label": "HOME-109",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "3d03967d-d43f-5775-5050-1246dca38874"
+        },
+        "expected_current_raw": "How difficult is it to start with your solution?",
+        "approved_new_raw": "How do we start and measure the first value?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-109"
+      },
+      {
+        "field_id": "HOME-110",
+        "label": "HOME-110-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71f"
+        },
+        "expected_current_raw": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months",
+        "approved_new_raw": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-110"
+      },
+      {
+        "field_id": "HOME-110",
+        "label": "HOME-110-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "d56f7ece-17cb-a71a-61a2-d9d2be0696d7"
+        },
+        "expected_current_raw": "Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start",
+        "approved_new_raw": "We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-110"
+      },
+      {
+        "field_id": "HOME-110",
+        "label": "HOME-110-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "0fdbc9fb-2347-fdf2-d394-ed83bf4f51cd"
+        },
+        "expected_current_raw": "Solution is suitable for efficient added value developments by any IT team",
+        "approved_new_raw": "Use measured results to decide whether to expand, adapt or stop.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-110"
+      },
+      {
+        "field_id": "HOME-111",
+        "label": "HOME-111",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "b2887f49-c191-5f40-4549-9d16283dcee8"
+        },
+        "expected_current_raw": "How complicated is the integration process for your AI solution?",
+        "approved_new_raw": "Can we change processes without replacing our existing systems?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-111"
+      },
+      {
+        "field_id": "HOME-112",
+        "label": "HOME-112",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "b2887f49-c191-5f40-4549-9d16283dcef0"
+        },
+        "expected_current_raw": "Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.",
+        "approved_new_raw": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-112"
+      },
+      {
+        "field_id": "HOME-113",
+        "label": "HOME-113",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "9a127a0e-e1b3-9d48-b589-0b23db682151"
+        },
+        "expected_current_raw": "Can we use your solution standalone ? How is our data protected?",
+        "approved_new_raw": "How do we fit Tur.ai into our security and data requirements?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-113"
+      },
+      {
+        "field_id": "HOME-114",
+        "label": "HOME-114-0",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "9a127a0e-e1b3-9d48-b589-0b23db682159"
+        },
+        "expected_current_raw": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only.",
+        "approved_new_raw": "Agree the deployment design with your IT and security teams: system access, data flows and model use.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-114"
+      },
+      {
+        "field_id": "HOME-114",
+        "label": "HOME-114-1",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "5f59265d-d1e2-9f06-6657-f84816fff9bb"
+        },
+        "expected_current_raw": "Your data never leaves the security perimeter of your organization this way. ",
+        "approved_new_raw": "Define where data is processed, who can access it and what is retained. ",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-114"
+      },
+      {
+        "field_id": "HOME-114",
+        "label": "HOME-114-2",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "3c563cdc-6309-3780-59ee-2f6fa93df589"
+        },
+        "expected_current_raw": "If you would like to use our solution as SaaS, it\u2019s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+        "approved_new_raw": "Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-114"
+      }
+    ]
+  },
+  {
+    "section": "faq",
+    "label": "faq-2",
+    "ops": [
+      {
+        "field_id": "HOME-119",
+        "label": "HOME-119",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f3fc0199-85e4-58ec-eed3-83315f5a4085"
+        },
+        "expected_current_raw": "In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?",
+        "approved_new_raw": "How does Tur.ai fit with our ERP, automation tools and AI?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-119"
+      },
+      {
+        "field_id": "HOME-120",
+        "label": "HOME-120",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "f3fc0199-85e4-58ec-eed3-83315f5a408d"
+        },
+        "expected_current_raw": "Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?\u2019. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated",
+        "approved_new_raw": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-120"
+      },
+      {
+        "field_id": "HOME-121",
+        "label": "HOME-121",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "21c1861b-473f-4876-442a-5bca042080aa"
+        },
+        "expected_current_raw": "How will Tur.ai help us minimize the need for human contact in our service without losing our touch?",
+        "approved_new_raw": "What happens when AI needs human judgment or an exception occurs?",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-121"
+      },
+      {
+        "field_id": "HOME-122",
+        "label": "HOME-122",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "21c1861b-473f-4876-442a-5bca042080b2"
+        },
+        "expected_current_raw": "Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts",
+        "approved_new_raw": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-122"
+      },
+      {
+        "field_id": "HOME-126",
+        "label": "HOME-126",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "1316a488-0c25-2701-ea9e-cb281008a5f1"
+        },
+        "expected_current_raw": "Book a call and learn more about AI's tailored impact on your operations.",
+        "approved_new_raw": "Discuss process delivery, AI costs and the controls you need.",
+        "section": "faq",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-126"
+      }
+    ]
+  },
+  {
+    "section": "contact",
+    "label": "contact-1",
+    "ops": [
+      {
+        "field_id": "HOME-133",
+        "label": "HOME-133",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "24d29c62-a38b-c16b-7920-6143552a7b99"
+        },
+        "expected_current_raw": "Dive into Your AI Goals",
+        "approved_new_raw": "Your process and goals",
+        "section": "contact",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-133"
+      },
+      {
+        "field_id": "HOME-135",
+        "label": "HOME-135",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe08"
+        },
+        "expected_current_raw": "Thank you! We'll get back to you soon!",
+        "approved_new_raw": "Thank you! We'll be in touch.",
+        "section": "contact",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-135"
+      },
+      {
+        "field_id": "HOME-136",
+        "label": "HOME-136",
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0b"
+        },
+        "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+        "approved_new_raw": "Your message was not sent. Please try again.",
+        "section": "contact",
+        "scope_component_id": null,
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-136"
+      }
+    ]
+  },
+  {
+    "section": "footer",
+    "label": "footer-1",
+    "ops": [
+      {
+        "field_id": "HOME-141",
+        "label": "HOME-141",
+        "id": {
+          "component": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+          "element": "d4775e29-0c8c-aca9-118d-34e001e49581"
+        },
+        "expected_current_raw": "\u00a9 2024 Tur.ai. All rights reserved.",
+        "approved_new_raw": "\u00a9 2026 Tur.ai. All rights reserved.",
+        "section": "footer",
+        "scope_component_id": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-141"
+      }
+    ]
+  },
+  {
+    "section": "modal_demo",
+    "label": "modal_demo-1",
+    "ops": [
+      {
+        "field_id": "HOME-143",
+        "label": "HOME-143",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9ad"
+        },
+        "expected_current_raw": "Enter your contact info to witness AI's tailored impact on your operations.",
+        "approved_new_raw": "See a process run across systems, with controls and task-matched AI.",
+        "section": "modal_demo",
+        "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-143"
+      },
+      {
+        "field_id": "HOME-149",
+        "label": "HOME-149",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cc"
+        },
+        "expected_current_raw": "Thank you! Your submission has been received!",
+        "approved_new_raw": "Thank you! We'll contact you about your demo.",
+        "section": "modal_demo",
+        "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-149"
+      },
+      {
+        "field_id": "HOME-150",
+        "label": "HOME-150",
+        "id": {
+          "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+          "element": "e7c0820d-4776-575f-b75a-443b3c55d9cf"
+        },
+        "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+        "approved_new_raw": "Your message was not sent. Please try again.",
+        "section": "modal_demo",
+        "scope_component_id": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-150"
+      }
+    ]
+  },
+  {
+    "section": "modal_contact",
+    "label": "modal_contact-1",
+    "ops": [
+      {
+        "field_id": "HOME-152",
+        "label": "HOME-152",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef476979"
+        },
+        "expected_current_raw": "Enter your contact info and we\u2019ll get back to you.",
+        "approved_new_raw": "Share your details to discuss orchestration.",
+        "section": "modal_contact",
+        "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-152"
+      },
+      {
+        "field_id": "HOME-158",
+        "label": "HOME-158",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef476999"
+        },
+        "expected_current_raw": "Thank you! Your submission has been received!",
+        "approved_new_raw": "Thank you! We'll contact you about your call.",
+        "section": "modal_contact",
+        "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-158"
+      },
+      {
+        "field_id": "HOME-159",
+        "label": "HOME-159",
+        "id": {
+          "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+          "element": "da519de6-fd09-ebd6-cb27-c995ef47699c"
+        },
+        "expected_current_raw": "Oops! Something went wrong while submitting the form.",
+        "approved_new_raw": "Your message was not sent. Please try again.",
+        "section": "modal_contact",
+        "scope_component_id": "da519de6-fd09-ebd6-cb27-c995ef476971",
+        "mapping_evidence": "same_element_uuid_and_structural_context",
+        "atomic_field_group": "HOME-159"
+      }
+    ]
+  }
+]

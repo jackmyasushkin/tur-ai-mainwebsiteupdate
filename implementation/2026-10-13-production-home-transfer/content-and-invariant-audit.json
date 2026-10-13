@@ -1,0 +1,2246 @@
+{
+  "exact_string_nodes": 122,
+  "editorial_fields": 104,
+  "all_exact": true,
+  "leaves": [
+    {
+      "field": "HOME-003",
+      "id": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2f",
+      "exact": true
+    },
+    {
+      "field": "HOME-003",
+      "id": "2b066328-9a94-c967-16e0-a7eb5632acf0",
+      "exact": true
+    },
+    {
+      "field": "HOME-003",
+      "id": "27e5d944-a647-2835-857a-f6cce18f23ad",
+      "exact": true
+    },
+    {
+      "field": "HOME-003",
+      "id": "d289d6ed-e2cb-f2c5-ed95-3ce79ffdebe2",
+      "exact": true
+    },
+    {
+      "field": "HOME-004",
+      "id": "fbe0ec56-d4fe-6874-de40-32e8aa8e5ad4",
+      "exact": true
+    },
+    {
+      "field": "HOME-006",
+      "id": "8d0699a1-57c9-05de-24f3-854a2bc59025",
+      "exact": true
+    },
+    {
+      "field": "HOME-007",
+      "id": "02b63847-bb12-574e-7515-0cb13b323593",
+      "exact": true
+    },
+    {
+      "field": "HOME-007",
+      "id": "fe6558be-54c4-407c-3abc-a8f7ab7277af",
+      "exact": true
+    },
+    {
+      "field": "HOME-007",
+      "id": "3ba5231c-1e7a-2715-ec00-94c510a3243f",
+      "exact": true
+    },
+    {
+      "field": "HOME-008",
+      "id": "3e9d6fb2-d26f-e0c2-d772-4f8959394279",
+      "exact": true
+    },
+    {
+      "field": "HOME-009",
+      "id": "7a1d631e-4a36-87c4-19b1-03c3c3a8489b",
+      "exact": true
+    },
+    {
+      "field": "HOME-011",
+      "id": "945818af-ca60-09a2-4eaf-60bf092ba087",
+      "exact": true
+    },
+    {
+      "field": "HOME-012",
+      "id": "740e8327-fe90-a3d4-a2e7-ced5e9ff0535",
+      "exact": true
+    },
+    {
+      "field": "HOME-013",
+      "id": "740e8327-fe90-a3d4-a2e7-ced5e9ff0538",
+      "exact": true
+    },
+    {
+      "field": "HOME-015",
+      "id": "740e8327-fe90-a3d4-a2e7-ced5e9ff053c",
+      "exact": true
+    },
+    {
+      "field": "HOME-016",
+      "id": "f9318e29-354a-45cd-23aa-0f92b790b2f8",
+      "exact": true
+    },
+    {
+      "field": "HOME-017",
+      "id": "f9318e29-354a-45cd-23aa-0f92b790b2fb",
+      "exact": true
+    },
+    {
+      "field": "HOME-019",
+      "id": "f9318e29-354a-45cd-23aa-0f92b790b2ff",
+      "exact": true
+    },
+    {
+      "field": "HOME-020",
+      "id": "ea335017-1cf5-c5c9-6756-e98bc54cd999",
+      "exact": true
+    },
+    {
+      "field": "HOME-021",
+      "id": "ea335017-1cf5-c5c9-6756-e98bc54cd99c",
+      "exact": true
+    },
+    {
+      "field": "HOME-022",
+      "id": "ea335017-1cf5-c5c9-6756-e98bc54cd99e",
+      "exact": true
+    },
+    {
+      "field": "HOME-023",
+      "id": "ea335017-1cf5-c5c9-6756-e98bc54cd9a0",
+      "exact": true
+    },
+    {
+      "field": "HOME-024",
+      "id": "bc3c9039-c403-caaf-4f49-25eee512f379",
+      "exact": true
+    },
+    {
+      "field": "HOME-024",
+      "id": "e9e125d0-c254-c662-22df-63e5ebb3fe3b",
+      "exact": true
+    },
+    {
+      "field": "HOME-024",
+      "id": "6bda841c-a4f6-8e9e-a5fc-2f19270b02e1",
+      "exact": true
+    },
+    {
+      "field": "HOME-027",
+      "id": "4012293c-11b6-5290-0192-440506bdd014",
+      "exact": true
+    },
+    {
+      "field": "HOME-027",
+      "id": "b8ba1d74-ee1a-5251-102a-aa501377d683",
+      "exact": true
+    },
+    {
+      "field": "HOME-029",
+      "id": "a81fe0b6-1eaa-db91-a3ad-953fed0a86d2",
+      "exact": true
+    },
+    {
+      "field": "HOME-030",
+      "id": "5f281bc3-2e17-7fb7-b9f1-7917698bd741",
+      "exact": true
+    },
+    {
+      "field": "HOME-032",
+      "id": "d8136f0d-4ebe-3a6d-841a-c29436dcc1c1",
+      "exact": true
+    },
+    {
+      "field": "HOME-033",
+      "id": "811bf050-7e46-e70c-5cc4-9f06b2861a80",
+      "exact": true
+    },
+    {
+      "field": "HOME-035",
+      "id": "6acbbf19-9d86-f21c-41fc-fcd0c69fad43",
+      "exact": true
+    },
+    {
+      "field": "HOME-036",
+      "id": "58db77d7-9a5a-3631-9868-0f818a755175",
+      "exact": true
+    },
+    {
+      "field": "HOME-038",
+      "id": "6d5b1297-45ef-e960-7cc0-17efb59b1ded",
+      "exact": true
+    },
+    {
+      "field": "HOME-039",
+      "id": "44410543-1595-11f8-4499-ee1256b3e143",
+      "exact": true
+    },
+    {
+      "field": "HOME-041",
+      "id": "f38ba30e-1c8b-8607-e846-a7300aeab29d",
+      "exact": true
+    },
+    {
+      "field": "HOME-042",
+      "id": "2749fb7c-13e2-f72c-9c08-3fe9b4d891b6",
+      "exact": true
+    },
+    {
+      "field": "HOME-043",
+      "id": "188684cf-4252-7dc6-66e6-4fab8ab9d3e0",
+      "exact": true
+    },
+    {
+      "field": "HOME-043",
+      "id": "e27bb508-97d9-dcfd-5404-90e9ac73dece",
+      "exact": true
+    },
+    {
+      "field": "HOME-043",
+      "id": "366dbd54-6333-5a60-095b-ea35ea158053",
+      "exact": true
+    },
+    {
+      "field": "HOME-044",
+      "id": "3cff5fdb-d7b3-0353-9054-6422c25df8c8",
+      "exact": true
+    },
+    {
+      "field": "HOME-045",
+      "id": "c25331a6-b739-dd3d-8514-8d8256889ce2",
+      "exact": true
+    },
+    {
+      "field": "HOME-045",
+      "id": "71c19e01-c6f5-d8f8-4d91-6723beefee91",
+      "exact": true
+    },
+    {
+      "field": "HOME-047",
+      "id": "ab1c2578-b5f3-6f2b-7c96-3be8cf0f36cd",
+      "exact": true
+    },
+    {
+      "field": "HOME-048",
+      "id": "50b3e01d-5242-0803-f3c4-71fa3e1f4e3a",
+      "exact": true
+    },
+    {
+      "field": "HOME-051",
+      "id": "353d0820-b470-c4d5-b61c-fff519184750",
+      "exact": true
+    },
+    {
+      "field": "HOME-056",
+      "id": "c7a3014d-22ed-c91e-b538-158213fc630a",
+      "exact": true
+    },
+    {
+      "field": "HOME-057",
+      "id": "1488f37f-c619-d847-7b40-8bda7209dbc5",
+      "exact": true
+    },
+    {
+      "field": "HOME-059",
+      "id": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e2018",
+      "exact": true
+    },
+    {
+      "field": "HOME-060",
+      "id": "4c03f6fa-0bb7-d0b6-959d-ac2ff59e201a",
+      "exact": true
+    },
+    {
+      "field": "HOME-063",
+      "id": "35b8f57e-ce7c-ec53-2a89-afb83cf3cfdb",
+      "exact": true
+    },
+    {
+      "field": "HOME-066",
+      "id": "5653bac9-a2a7-6f94-4da7-6d8ab7742d06",
+      "exact": true
+    },
+    {
+      "field": "HOME-068",
+      "id": "b7c6a201-5e2f-770a-586c-f11a52d9aeb5",
+      "exact": true
+    },
+    {
+      "field": "HOME-068",
+      "id": "43a0cbff-d26a-524c-73ab-f58990897807",
+      "exact": true
+    },
+    {
+      "field": "HOME-068",
+      "id": "834dde35-c53b-2e6f-e2b0-6bfc896787d6",
+      "exact": true
+    },
+    {
+      "field": "HOME-069",
+      "id": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151f",
+      "exact": true
+    },
+    {
+      "field": "HOME-069",
+      "id": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d1521",
+      "exact": true
+    },
+    {
+      "field": "HOME-070",
+      "id": "477ed19d-e1ac-fc79-f74b-c94e29c7050b",
+      "exact": true
+    },
+    {
+      "field": "HOME-070",
+      "id": "477ed19d-e1ac-fc79-f74b-c94e29c7050d",
+      "exact": true
+    },
+    {
+      "field": "HOME-071",
+      "id": "d9a22ef8-5d10-deaf-2bf3-7fa7fdf32359",
+      "exact": true
+    },
+    {
+      "field": "HOME-072",
+      "id": "8d7be475-aa0c-b63d-b172-a0c223302b3c",
+      "exact": true
+    },
+    {
+      "field": "HOME-073",
+      "id": "48b57b5c-3e24-204a-c4cc-5e69829f7fe5",
+      "exact": true
+    },
+    {
+      "field": "HOME-074",
+      "id": "a0edc565-33f4-669d-bb64-10f688dbe526",
+      "exact": true
+    },
+    {
+      "field": "HOME-075",
+      "id": "a0edc565-33f4-669d-bb64-10f688dbe528",
+      "exact": true
+    },
+    {
+      "field": "HOME-076",
+      "id": "a0edc565-33f4-669d-bb64-10f688dbe52a",
+      "exact": true
+    },
+    {
+      "field": "HOME-077",
+      "id": "430b0ffe-6ee7-6925-1ff4-9c2888262930",
+      "exact": true
+    },
+    {
+      "field": "HOME-078",
+      "id": "430b0ffe-6ee7-6925-1ff4-9c2888262932",
+      "exact": true
+    },
+    {
+      "field": "HOME-079",
+      "id": "430b0ffe-6ee7-6925-1ff4-9c2888262934",
+      "exact": true
+    },
+    {
+      "field": "HOME-080",
+      "id": "7fa98413-1326-a093-303c-f065fd623c35",
+      "exact": true
+    },
+    {
+      "field": "HOME-081",
+      "id": "7fa98413-1326-a093-303c-f065fd623c37",
+      "exact": true
+    },
+    {
+      "field": "HOME-082",
+      "id": "7fa98413-1326-a093-303c-f065fd623c39",
+      "exact": true
+    },
+    {
+      "field": "HOME-083",
+      "id": "e2530e15-d39e-cf4d-b44e-19861a6a2962",
+      "exact": true
+    },
+    {
+      "field": "HOME-084",
+      "id": "e2530e15-d39e-cf4d-b44e-19861a6a296f",
+      "exact": true
+    },
+    {
+      "field": "HOME-085",
+      "id": "e2530e15-d39e-cf4d-b44e-19861a6a297c",
+      "exact": true
+    },
+    {
+      "field": "HOME-086",
+      "id": "e2530e15-d39e-cf4d-b44e-19861a6a2989",
+      "exact": true
+    },
+    {
+      "field": "HOME-088",
+      "id": "1bbb8a07-5871-c727-8eba-4792b70c7e2f",
+      "exact": true
+    },
+    {
+      "field": "HOME-088",
+      "id": "e700c5fc-6b44-fe9f-2c2b-e8b8069ba016",
+      "exact": true
+    },
+    {
+      "field": "HOME-088",
+      "id": "f0bc4674-258a-d50b-f943-6fe16c2e828d",
+      "exact": true
+    },
+    {
+      "field": "HOME-089",
+      "id": "bbd687c2-d28c-04a9-048d-f3640bee1447",
+      "exact": true
+    },
+    {
+      "field": "HOME-091",
+      "id": "2fd55856-84ab-2bf7-98fb-82b5f7186592",
+      "exact": true
+    },
+    {
+      "field": "HOME-093",
+      "id": "e633f893-9851-606a-06f4-89cc869805ee",
+      "exact": true
+    },
+    {
+      "field": "HOME-095",
+      "id": "22341e4b-d5cb-5fa3-2502-0f546b6c998e",
+      "exact": true
+    },
+    {
+      "field": "HOME-096",
+      "id": "6664dfe7-9884-cc17-824d-b1be819b5dcc",
+      "exact": true
+    },
+    {
+      "field": "HOME-097",
+      "id": "42240082-acf2-2393-855f-a3f33b96a468",
+      "exact": true
+    },
+    {
+      "field": "HOME-098",
+      "id": "f30a751c-fe45-d11d-438a-056949caffe6",
+      "exact": true
+    },
+    {
+      "field": "HOME-100",
+      "id": "05ba6d71-702b-b650-b513-b0f7010020b9",
+      "exact": true
+    },
+    {
+      "field": "HOME-101",
+      "id": "ef3bf8af-3805-4bef-b0e2-633f8faec6be",
+      "exact": true
+    },
+    {
+      "field": "HOME-103",
+      "id": "ef3bf8af-3805-4bef-b0e2-633f8faec6c3",
+      "exact": true
+    },
+    {
+      "field": "HOME-104",
+      "id": "ca70429a-1278-34ba-7dcf-289fc7780d95",
+      "exact": true
+    },
+    {
+      "field": "HOME-106",
+      "id": "ca70429a-1278-34ba-7dcf-289fc7780d9a",
+      "exact": true
+    },
+    {
+      "field": "HOME-107",
+      "id": "f026b1a3-2142-e335-b4f3-3291efb603ab",
+      "exact": true
+    },
+    {
+      "field": "HOME-109",
+      "id": "3d03967d-d43f-5775-5050-1246dca38874",
+      "exact": true
+    },
+    {
+      "field": "HOME-110",
+      "id": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71f",
+      "exact": true
+    },
+    {
+      "field": "HOME-110",
+      "id": "d56f7ece-17cb-a71a-61a2-d9d2be0696d7",
+      "exact": true
+    },
+    {
+      "field": "HOME-110",
+      "id": "0fdbc9fb-2347-fdf2-d394-ed83bf4f51cd",
+      "exact": true
+    },
+    {
+      "field": "HOME-111",
+      "id": "b2887f49-c191-5f40-4549-9d16283dcee8",
+      "exact": true
+    },
+    {
+      "field": "HOME-112",
+      "id": "b2887f49-c191-5f40-4549-9d16283dcef0",
+      "exact": true
+    },
+    {
+      "field": "HOME-113",
+      "id": "9a127a0e-e1b3-9d48-b589-0b23db682151",
+      "exact": true
+    },
+    {
+      "field": "HOME-114",
+      "id": "9a127a0e-e1b3-9d48-b589-0b23db682159",
+      "exact": true
+    },
+    {
+      "field": "HOME-114",
+      "id": "5f59265d-d1e2-9f06-6657-f84816fff9bb",
+      "exact": true
+    },
+    {
+      "field": "HOME-114",
+      "id": "3c563cdc-6309-3780-59ee-2f6fa93df589",
+      "exact": true
+    },
+    {
+      "field": "HOME-115",
+      "id": "89130b50-e358-e731-a5ac-42603b44f528",
+      "exact": true
+    },
+    {
+      "field": "HOME-116",
+      "id": "89130b50-e358-e731-a5ac-42603b44f530",
+      "exact": true
+    },
+    {
+      "field": "HOME-117",
+      "id": "9d6cebfb-3c7c-806d-7942-dc7b42b43fbd",
+      "exact": true
+    },
+    {
+      "field": "HOME-118",
+      "id": "9d6cebfb-3c7c-806d-7942-dc7b42b43fc5",
+      "exact": true
+    },
+    {
+      "field": "HOME-119",
+      "id": "f3fc0199-85e4-58ec-eed3-83315f5a4085",
+      "exact": true
+    },
+    {
+      "field": "HOME-120",
+      "id": "f3fc0199-85e4-58ec-eed3-83315f5a408d",
+      "exact": true
+    },
+    {
+      "field": "HOME-121",
+      "id": "21c1861b-473f-4876-442a-5bca042080aa",
+      "exact": true
+    },
+    {
+      "field": "HOME-122",
+      "id": "21c1861b-473f-4876-442a-5bca042080b2",
+      "exact": true
+    },
+    {
+      "field": "HOME-126",
+      "id": "1316a488-0c25-2701-ea9e-cb281008a5f1",
+      "exact": true
+    },
+    {
+      "field": "HOME-133",
+      "id": "24d29c62-a38b-c16b-7920-6143552a7b99",
+      "exact": true
+    },
+    {
+      "field": "HOME-135",
+      "id": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe08",
+      "exact": true
+    },
+    {
+      "field": "HOME-136",
+      "id": "e59a2441-c32b-9f3c-7dfa-1cc0b20bfe0b",
+      "exact": true
+    },
+    {
+      "field": "HOME-141",
+      "id": "d4775e29-0c8c-aca9-118d-34e001e49581",
+      "exact": true
+    },
+    {
+      "field": "HOME-143",
+      "id": "e7c0820d-4776-575f-b75a-443b3c55d9ad",
+      "exact": true
+    },
+    {
+      "field": "HOME-149",
+      "id": "e7c0820d-4776-575f-b75a-443b3c55d9cc",
+      "exact": true
+    },
+    {
+      "field": "HOME-150",
+      "id": "e7c0820d-4776-575f-b75a-443b3c55d9cf",
+      "exact": true
+    },
+    {
+      "field": "HOME-152",
+      "id": "da519de6-fd09-ebd6-cb27-c995ef476979",
+      "exact": true
+    },
+    {
+      "field": "HOME-158",
+      "id": "da519de6-fd09-ebd6-cb27-c995ef476999",
+      "exact": true
+    },
+    {
+      "field": "HOME-159",
+      "id": "da519de6-fd09-ebd6-cb27-c995ef47699c",
+      "exact": true
+    },
+    {
+      "field": "HOME-123",
+      "id": "21cac69e-e7fd-6478-7bb2-95c1c20c2134",
+      "exact": true
+    },
+    {
+      "field": "HOME-124",
+      "id": "21cac69e-e7fd-6478-7bb2-95c1c20c213b",
+      "exact": true
+    }
+  ],
+  "scopes": [
+    {
+      "scope": "66368e29da23c5a1b0fe1396",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "f46e434a-026c-8e3d-9a39-3f09eb255c61",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "6e75afeb-ea0b-0674-7230-dec39e99b3b7",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "38e1ce34-89dc-8e51-8705-41d79264eaf0",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "ed545407-4d33-d0b8-cc9e-d37c0b006e1f",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "d4775e29-0c8c-aca9-118d-34e001e4956b",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "da519de6-fd09-ebd6-cb27-c995ef476971",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    },
+    {
+      "scope": "b353f866-47b7-dc8c-628c-624c3e4c4048",
+      "only_approved_changes": true,
+      "unexpected_differences": []
+    }
+  ],
+  "new_faq_native_shape_matches_template": true,
+  "seo_exact": true,
+  "open_graph_preserved": true,
+  "placeholder_verified_after_reload": true,
+  "keep_hold": {
+    "decisions": 124,
+    "present_mcp_fields": 90,
+    "absent_target_fields": 28,
+    "dom_only_fields": 6
+  },
+  "protected_dom_fields": {
+    "HOME-177": true,
+    "HOME-178": true,
+    "HOME-179": true,
+    "HOME-205": true,
+    "HOME-206": true,
+    "HOME-207": true
+  },
+  "rate_audit": {
+    "calls": 131,
+    "weighted_operations": 273,
+    "rate_limit_events": 1,
+    "rolling_peaks": {
+      "before_429": 23,
+      "after_429": 15
+    },
+    "violations": [],
+    "passed": true
+  },
+  "home_only_formatter": true,
+  "freeform_code_preserved": true,
+  "twelve_before_after_png_pairs": true,
+  "other_five_shared_pages_verified": true,
+  "source_hashes_match_pinned_plan": {
+    "content/home/rewrite.json": true,
+    "content/home/apply-plan.json": true,
+    "webflow/home-ordinal-format.js": true
+  },
+  "editorial_field_checks": [
+    {
+      "id": "HOME-003",
+      "exact": true
+    },
+    {
+      "id": "HOME-004",
+      "exact": true
+    },
+    {
+      "id": "HOME-006",
+      "exact": true
+    },
+    {
+      "id": "HOME-007",
+      "exact": true
+    },
+    {
+      "id": "HOME-008",
+      "exact": true
+    },
+    {
+      "id": "HOME-009",
+      "exact": true
+    },
+    {
+      "id": "HOME-011",
+      "exact": true
+    },
+    {
+      "id": "HOME-012",
+      "exact": true
+    },
+    {
+      "id": "HOME-013",
+      "exact": true
+    },
+    {
+      "id": "HOME-015",
+      "exact": true
+    },
+    {
+      "id": "HOME-016",
+      "exact": true
+    },
+    {
+      "id": "HOME-017",
+      "exact": true
+    },
+    {
+      "id": "HOME-019",
+      "exact": true
+    },
+    {
+      "id": "HOME-020",
+      "exact": true
+    },
+    {
+      "id": "HOME-021",
+      "exact": true
+    },
+    {
+      "id": "HOME-022",
+      "exact": true
+    },
+    {
+      "id": "HOME-023",
+      "exact": true
+    },
+    {
+      "id": "HOME-024",
+      "exact": true
+    },
+    {
+      "id": "HOME-027",
+      "exact": true
+    },
+    {
+      "id": "HOME-029",
+      "exact": true
+    },
+    {
+      "id": "HOME-030",
+      "exact": true
+    },
+    {
+      "id": "HOME-032",
+      "exact": true
+    },
+    {
+      "id": "HOME-033",
+      "exact": true
+    },
+    {
+      "id": "HOME-035",
+      "exact": true
+    },
+    {
+      "id": "HOME-036",
+      "exact": true
+    },
+    {
+      "id": "HOME-038",
+      "exact": true
+    },
+    {
+      "id": "HOME-039",
+      "exact": true
+    },
+    {
+      "id": "HOME-041",
+      "exact": true
+    },
+    {
+      "id": "HOME-042",
+      "exact": true
+    },
+    {
+      "id": "HOME-043",
+      "exact": true
+    },
+    {
+      "id": "HOME-044",
+      "exact": true
+    },
+    {
+      "id": "HOME-045",
+      "exact": true
+    },
+    {
+      "id": "HOME-047",
+      "exact": true
+    },
+    {
+      "id": "HOME-048",
+      "exact": true
+    },
+    {
+      "id": "HOME-051",
+      "exact": true
+    },
+    {
+      "id": "HOME-056",
+      "exact": true
+    },
+    {
+      "id": "HOME-057",
+      "exact": true
+    },
+    {
+      "id": "HOME-059",
+      "exact": true
+    },
+    {
+      "id": "HOME-060",
+      "exact": true
+    },
+    {
+      "id": "HOME-063",
+      "exact": true
+    },
+    {
+      "id": "HOME-066",
+      "exact": true
+    },
+    {
+      "id": "HOME-068",
+      "exact": true
+    },
+    {
+      "id": "HOME-069",
+      "exact": true
+    },
+    {
+      "id": "HOME-070",
+      "exact": true
+    },
+    {
+      "id": "HOME-071",
+      "exact": true
+    },
+    {
+      "id": "HOME-072",
+      "exact": true
+    },
+    {
+      "id": "HOME-073",
+      "exact": true
+    },
+    {
+      "id": "HOME-074",
+      "exact": true
+    },
+    {
+      "id": "HOME-075",
+      "exact": true
+    },
+    {
+      "id": "HOME-076",
+      "exact": true
+    },
+    {
+      "id": "HOME-077",
+      "exact": true
+    },
+    {
+      "id": "HOME-078",
+      "exact": true
+    },
+    {
+      "id": "HOME-079",
+      "exact": true
+    },
+    {
+      "id": "HOME-080",
+      "exact": true
+    },
+    {
+      "id": "HOME-081",
+      "exact": true
+    },
+    {
+      "id": "HOME-082",
+      "exact": true
+    },
+    {
+      "id": "HOME-083",
+      "exact": true
+    },
+    {
+      "id": "HOME-084",
+      "exact": true
+    },
+    {
+      "id": "HOME-085",
+      "exact": true
+    },
+    {
+      "id": "HOME-086",
+      "exact": true
+    },
+    {
+      "id": "HOME-088",
+      "exact": true
+    },
+    {
+      "id": "HOME-089",
+      "exact": true
+    },
+    {
+      "id": "HOME-091",
+      "exact": true
+    },
+    {
+      "id": "HOME-093",
+      "exact": true
+    },
+    {
+      "id": "HOME-095",
+      "exact": true
+    },
+    {
+      "id": "HOME-096",
+      "exact": true
+    },
+    {
+      "id": "HOME-097",
+      "exact": true
+    },
+    {
+      "id": "HOME-098",
+      "exact": true
+    },
+    {
+      "id": "HOME-100",
+      "exact": true
+    },
+    {
+      "id": "HOME-101",
+      "exact": true
+    },
+    {
+      "id": "HOME-103",
+      "exact": true
+    },
+    {
+      "id": "HOME-104",
+      "exact": true
+    },
+    {
+      "id": "HOME-106",
+      "exact": true
+    },
+    {
+      "id": "HOME-107",
+      "exact": true
+    },
+    {
+      "id": "HOME-109",
+      "exact": true
+    },
+    {
+      "id": "HOME-110",
+      "exact": true
+    },
+    {
+      "id": "HOME-111",
+      "exact": true
+    },
+    {
+      "id": "HOME-112",
+      "exact": true
+    },
+    {
+      "id": "HOME-113",
+      "exact": true
+    },
+    {
+      "id": "HOME-114",
+      "exact": true
+    },
+    {
+      "id": "HOME-115",
+      "exact": true
+    },
+    {
+      "id": "HOME-116",
+      "exact": true
+    },
+    {
+      "id": "HOME-117",
+      "exact": true
+    },
+    {
+      "id": "HOME-118",
+      "exact": true
+    },
+    {
+      "id": "HOME-119",
+      "exact": true
+    },
+    {
+      "id": "HOME-120",
+      "exact": true
+    },
+    {
+      "id": "HOME-121",
+      "exact": true
+    },
+    {
+      "id": "HOME-122",
+      "exact": true
+    },
+    {
+      "id": "HOME-123",
+      "exact": true
+    },
+    {
+      "id": "HOME-124",
+      "exact": true
+    },
+    {
+      "id": "HOME-126",
+      "exact": true
+    },
+    {
+      "id": "HOME-133",
+      "exact": true
+    },
+    {
+      "id": "HOME-135",
+      "exact": true
+    },
+    {
+      "id": "HOME-136",
+      "exact": true
+    },
+    {
+      "id": "HOME-141",
+      "exact": true
+    },
+    {
+      "id": "HOME-143",
+      "exact": true
+    },
+    {
+      "id": "HOME-149",
+      "exact": true
+    },
+    {
+      "id": "HOME-150",
+      "exact": true
+    },
+    {
+      "id": "HOME-152",
+      "exact": true
+    },
+    {
+      "id": "HOME-158",
+      "exact": true
+    },
+    {
+      "id": "HOME-159",
+      "exact": true
+    },
+    {
+      "id": "HOME-209",
+      "exact": true
+    },
+    {
+      "id": "HOME-227",
+      "exact": true
+    },
+    {
+      "id": "HOME-228",
+      "exact": true
+    }
+  ],
+  "no_write_field_checks": [
+    {
+      "id": "HOME-001",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-002",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-005",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-010",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-014",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-018",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-025",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-026",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-028",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-031",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-034",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-037",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-040",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-046",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-049",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-050",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-052",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-053",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-054",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-055",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-058",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-061",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-062",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-064",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-065",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-067",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-087",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-090",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-092",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-094",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-099",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-102",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-105",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-108",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-125",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-127",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "component_instance_prop",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-128",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-129",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-130",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-131",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-132",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-134",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-137",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-138",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-139",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-140",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-142",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-144",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-145",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-146",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-147",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-148",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-151",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-153",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-154",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-155",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-156",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-157",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-160",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-161",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-162",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-163",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-164",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-165",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-166",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-167",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-168",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-169",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-170",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-171",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-172",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-173",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-174",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-175",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-176",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "textContent",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-177",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-178",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-179",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "textContent",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-180",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-181",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-182",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-183",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-184",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-185",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-186",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-187",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-188",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-189",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-190",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-191",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-192",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-193",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-194",
+      "action": "hold",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-195",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-196",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-197",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-198",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-199",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-200",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-201",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-202",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-203",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-204",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-205",
+      "action": "keep",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-206",
+      "action": "keep",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-207",
+      "action": "hold",
+      "status": "value_unverified",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "protected_dom_fields"
+    },
+    {
+      "id": "HOME-208",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-210",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-211",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-212",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-213",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-214",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-215",
+      "action": "keep",
+      "status": "no_write_matches_baseline",
+      "source_field": "attribute:alt",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-216",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "attribute:data-wait",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-217",
+      "action": "hold",
+      "status": "no_write_node_absent_on_target_home",
+      "source_field": "attribute:value",
+      "home_instance_presence": true,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-218",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:0",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-219",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:1",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-220",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:2",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-221",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:3",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-222",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:4",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-223",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "option:5",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-224",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:placeholder",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-225",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:data-wait",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    },
+    {
+      "id": "HOME-226",
+      "action": "hold",
+      "status": "no_write_component_not_instanced_on_target_home",
+      "source_field": "attribute:value",
+      "home_instance_presence": false,
+      "verified": true,
+      "evidence": "scopes"
+    }
+  ],
+  "publication": "not performed",
+  "publication_metadata_unchanged": true,
+  "passed": true
+}

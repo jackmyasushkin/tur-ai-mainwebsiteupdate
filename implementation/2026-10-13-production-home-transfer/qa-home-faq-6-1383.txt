@@ -1,0 +1,387 @@
+Window: "Webflow - Tur.ai", App: Google Chrome.
+0 standard window Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, Secondary Actions: Raise, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&workflow=sitePreview
+	1 container Webflow - Tur.ai - High memory usage - 1.8 GB - Google Chrome - Tur.ai Organization, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&workflow=sitePreview
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop up button View site information
+					9 text field (settable) Address and search bar, Placeholder: Search Google or type a URL, Value: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&workflow=sitePreview
+					10 button Bookmark this tab
+				11 container
+					12 pop up button ChatGPT
+Has access to this site
+					13 pop up button Extensions
+				14 button Tur.ai Organization
+				15 pop up button Chrome
+			16 container
+				17 scroll area
+					18 HTML content Webflow - Tur.ai, URL: tur-ai.design.webflow.com/?app=dc8209c65e3ec02254d15275ca056539c89f6d15741893a0adf29ad6f381eb99&workflow=sitePreview
+						19 container
+							20 container
+							21 container
+								22 text Desktop Affects all resolutions
+							23 container Canvas on separate origin
+								24 HTML content Canvas App, URL: tur-ai.canvas.webflow.com/
+									25 container
+										26 container
+											27 link Tur.ai Logo - Full, Value: tur-ai.canvas.webflow.com/
+											28 link Book a Demo, Value: tur-ai.canvas.webflow.com/#
+											29 link Contact Us, Value: tur-ai.canvas.webflow.com/#
+										30 container
+											31 heading Enterprise Process Orchestration Platform, Value: 1
+												32 text Enterprise  Process  Orchestration  Platform
+											33 text Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.
+											34 link Book a Demo, Value: tur-ai.canvas.webflow.com/#
+											35 text See how to run, control and change a process across your systems.
+											36 image Heineken Logo - White
+											37 image Noordwest Logo - White
+											38 image Radio Holland - White
+											39 image NOC NSF Logo - White
+										40 heading Work and change faster. Results from banking engagements., Value: 2
+											41 text Work and  change faster.  Results from banking engagements.
+										42 text Shorter process cycles 62 % One European bank: customer onboarding fell from 16 days to 6. Lower staffing needs 82 % The same bank's onboarding staffing requirement fell from 34 FTE to 6.
+										43 text Lower LLM costs
+										44 text 83
+										45 text %
+										46 text Banking case: annual token spend fell from €1.8M to €300K.
+										47 text Faster process delivery 3 × A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.
+										48 image Image of Ievgen Miasushkin, CEO of Tur.ai
+										49 container
+											50 container
+												51 text We
+											52 container
+												53 text built
+											54 container
+												55 text Tur.ai
+											56 container
+												57 text so
+											58 container
+												59 text businesses
+											60 container
+												61 text can
+											62 container
+												63 text work
+											64 container
+												65 text and
+											66 container
+												67 text change
+											68 container
+												69 text faster
+											70 container
+												71 text without
+											72 container
+												73 text replacing
+											74 container
+												75 text their
+											76 container
+												77 text core
+											78 container
+												79 text .
+										80 text Ievgen Miasushkin
+										81 text CEO of Tur.ai
+										82 heading Coordinate Systems, AI and People in One Governed Process., Value: 2
+											83 text Coordinate  Systems, AI and People in One Governed Process.
+										84 image Message Icon
+										85 text / 01
+										86 heading Work intake, Value: 3
+											87 text Work intake
+										88 text Bring requests, documents and system data into one process with shared context.
+										89 image Filter Icon
+										90 text / 02
+										91 heading Task routing, Value: 3
+											92 text Task routing
+										93 text Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.
+										94 image Gears Icon
+										95 text / 03
+										96 heading Controlled execution, Value: 3
+											97 text Controlled execution
+										98 text Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.
+										99 image Activity Icon
+										100 text / 04
+										101 heading Human decisions, Value: 3
+											102 text Human decisions
+										103 text Route exceptions to the right person to decide.
+										104 image Tick Icon
+										105 text / 05
+										106 heading Traceable outcomes, Value: 3
+											107 text Traceable outcomes
+										108 text Record actions and decisions for review and audit.
+										109 heading Real operations powered by Tur.ai., Value: 2
+											110 text Real operations powered by  Tur.ai .
+										111 container carousel
+											112 image
+											113 image
+											114 container
+												115 container 3 of 4
+													116 image Noordwest Logo - Black
+													117 text Service desk automation
+													118 text Noordwest supported service enquiries through an ERP rollout with a small team.
+													119 container
+														120 link Learn More, Value: tur-ai.canvas.webflow.com/#
+												121 container 4 of 4
+													122 image Heineken Logo - Black
+													123 text Procurement automation
+													124 text Heineken cut vendor onboarding from months to weeks.
+													125 container
+														126 link Learn More, Value: tur-ai.canvas.webflow.com/heinekens-procurement-transformation-with-ai-automation
+												127 text Slide 2 of 2.
+											128 container
+												129 toggle button Show slide 1 of 2, Value: 0
+												130 toggle button Show slide 2 of 2, Value: 1
+										131 heading The operational plane: your rules, across your existing systems., Value: 2
+											132 text The operational plane:  your rules , across your existing systems.
+										133 container
+											134 text 01 . One model for every task
+										135 container
+											136 text 02 . People bridging systems and teams
+										137 container
+											138 text 03 . Process changes held up by core releases
+										139 container
+											140 text 04 . Retries that waste tokens and time
+										141 heading What people say about Tur.ai., Value: 2
+											142 text What people say about  Tur.ai .
+										143 heading Value: 3, “Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”
+											144 text “ Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them. ”
+										145 image Image of Faissel el Mourid
+										146 heading Faissel el Mouridi, Value: 4
+											147 text Faissel el Mouridi
+										148 text CFO, Radio Holland
+										149 heading One platform to pilot, run and scale your processes, Value: 2
+											150 text One  platform  to pilot, run and scale your processes
+										151 tab group
+											152 tab (settable, integer) PILOT / 01, Value: 0
+												153 container
+													154 text PILOT / 01
+											155 tab (settable, integer) LAUNCH / 02, Value: 0
+												156 container
+													157 text LAUNCH / 02
+											158 tab (selected) SCALE / 03, Value: 1
+												159 container
+													160 text SCALE / 03
+										161 container SCALE / 03
+											162 text Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.
+										163 image Microsoft for Startups Badge
+										164 text Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.
+										165 heading Your Questions Answered., Value: 2
+											166 text Your Questions  Answered .
+										167 pop up button How do we start and measure the first value?
+											168 text How do we start and measure the first value?
+										169 container How do we start and measure the first value?
+											170 container
+												171 text Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate. We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts. Use measured results to decide whether to expand, adapt or stop.
+										172 pop up button Can we change processes without replacing our existing systems?
+											173 text Can we change processes without replacing our existing systems?
+										174 container Can we change processes without replacing our existing systems?
+											175 text Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.
+										176 pop up button How do we fit Tur.ai into our security and data requirements?
+											177 text How do we fit Tur.ai into our security and data requirements?
+										178 container How do we fit Tur.ai into our security and data requirements?
+											179 container
+												180 text Agree the deployment design with your IT and security teams: system access, data flows and model use. Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.
+										181 pop up button How does Tur.ai keep AI costs under control as we scale?
+											182 text How does Tur.ai keep AI costs under control as we scale?
+										183 container How does Tur.ai keep AI costs under control as we scale?
+											184 text Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.
+										185 pop up button What do the results on this page actually measure?
+											186 text What do the results on this page actually measure?
+										187 container What do the results on this page actually measure?
+											188 text Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.
+										189 pop up button How does Tur.ai fit with our ERP, automation tools and AI?
+											190 text How does Tur.ai fit with our ERP, automation tools and AI?
+										191 container How does Tur.ai fit with our ERP, automation tools and AI?
+											192 text Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.
+										193 pop up button What happens when AI needs human judgment or an exception occurs?
+											194 text What happens when AI needs human judgment or an exception occurs?
+										195 container What happens when AI needs human judgment or an exception occurs?
+											196 text Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.
+										197 pop up button Which processes are a good fit for Tur.ai?
+											198 text Which processes are a good fit for Tur.ai?
+										199 container Which processes are a good fit for Tur.ai?
+											200 text Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.
+										201 text More Questions?
+										202 text Discuss process delivery, AI costs and the controls you need.
+										203 container
+											204 link Contact Us, Value: tur-ai.canvas.webflow.com/#
+										205 heading Tell us more about your goals., Value: 2
+											206 text Tell us more about your  goals .
+										207 container Email Form
+											208 text First Name
+											209 text field (settable) First Name
+											210 text Last Name
+											211 text field (settable) Last Name
+											212 text Email
+											213 email (settable) Email
+											214 text Company
+											215 text field (settable) Company
+											216 text Your process and goals
+											217 text entry area (settable) Your process and goals, Placeholder: Which process needs to change, and which systems and controls are involved?
+											218 button Submit
+										219 image Tur.ai Logo - Full
+										220 link LinkedIn, Value: nl.linkedin.com/company/tur-ai-automation
+										221 link Privacy Policy, Value: tur-ai.canvas.webflow.com/privacy-policy
+										222 link Imprint, Value: tur-ai.canvas.webflow.com/imprint
+										223 link Back to Top, Value: tur-ai.canvas.webflow.com/#
+										224 text © 2026 Tur.ai. All rights reserved.
+										225 image Top B2B Companies Ukraine 2023 - Clutch Award Logo
+										226 image Dutch Interactive Awards Logo
+										227 image Accenture Innovation Awards - Award Logo
+										228 image ML and Intelligent Automation Award Logo
+										229 image Spinawards - Award Logo
+						230 HTML content Webflow, URL: tur-ai.design.webflow.com/site/empty.html
+						231 container
+							232 image
+							233 image
+							234 image
+							235 container
+								236 button
+								237 toggle button Design, Value: 0
+									238 text Design
+								239 toggle button CMS, Value: 0
+									240 text CMS
+								241 toggle button Insights, Value: 0
+									242 text Insights
+								243 toggle button Home, Value: 0
+									244 text Home
+								245 container
+									246 button jack (active) on page Home
+									247 toggle button Comments (C), Value: 0
+								248 toggle button Preview (⌥P), Value: 1
+								249 button Share
+								250 pop up button Publish
+									251 button Publish
+							252 button
+							253 pop up button Canvas settings. Current viewport width is 1383px.
+							254 toggle button Desktop: Base breakpoint, Value: 1
+							255 toggle button Tablet: 991px and down, Value: 0
+							256 toggle button Mobile (L): 767px and down, Value: 0
+							257 toggle button Mobile: 479px and down, Value: 0
+							258 pop up button Larger breakpoints
+							259 pop up button Enable custom code?
+								260 container
+									261 switch Enable custom code?, Value: on
+							262 container
+								263 image Webflow MCP Bridge App
+								264 text Webflow MCP Bridge App
+								265 button Expand
+								266 container Webflow MCP Bridge App
+									267 HTML content 689e5ba67671442434f3ca39, URL: 689e5ba67671442434f3ca39.webflow-ext.com/6a5fa7060314e9a65a137eae/
+										268 container
+											269 heading Tool call logs, Value: 2
+												270 text Tool call logs
+											271 text 32
+											272 button
+											273 pop up button
+											274 container
+												275 text Element snapshot tool
+												276 text Running Element snapshot tool
+												277 pop up button
+												278 text Element snapshot tool completed
+												279 pop up button
+												280 text 824ms
+												281 text Element snapshot tool
+												282 text Running Element snapshot tool
+												283 pop up button
+												284 text Element snapshot tool completed
+												285 pop up button
+												286 text 821ms
+												287 text Element snapshot tool
+												288 text Running Element snapshot tool
+												289 pop up button
+												290 text Element snapshot tool completed
+												291 pop up button
+												292 text 984ms
+												293 text Element snapshot tool
+												294 text Running Element snapshot tool
+												295 pop up button
+												296 text Element snapshot tool completed
+												297 pop up button
+												298 text 945ms
+												299 text Element snapshot tool
+												300 text Running Element snapshot tool
+												301 pop up button
+												302 text Element snapshot tool completed
+												303 pop up button
+												304 text 1.0s
+												305 text Element snapshot tool
+												306 text Running Element snapshot tool
+												307 pop up button
+												308 text Element snapshot tool completed
+												309 pop up button
+												310 text 1.1s
+												311 text Element snapshot tool
+												312 text Running Element snapshot tool
+												313 pop up button
+												314 text Element snapshot tool completed
+												315 pop up button
+												316 text 1.1s
+												317 text Element snapshot tool
+												318 text Running Element snapshot tool
+												319 pop up button
+												320 text Element snapshot tool completed
+												321 pop up button
+												322 text 682ms
+												323 text Element snapshot tool
+												324 text Running Element snapshot tool
+												325 pop up button
+												326 text Element snapshot tool completed
+												327 pop up button
+												328 text 705ms
+												329 text Element snapshot tool
+												330 text Running Element snapshot tool
+												331 pop up button
+												332 text Element snapshot tool completed
+												333 pop up button
+												334 text 850ms
+												335 text Element snapshot tool
+												336 text Running Element snapshot tool
+												337 pop up button
+												338 text Element snapshot tool completed
+												339 pop up button
+												340 text 1.1s
+												341 text Reconnecting... Connected to the MCP server Disconnected from the MCP server Connection interrupted, reconnecting Connection timed out, reconnecting Element snapshot tool
+												342 text Running Element snapshot tool
+												343 pop up button
+												344 text Element snapshot tool completed
+												345 pop up button
+												346 text 1.4s
+												347 text Element snapshot tool
+												348 text Running Element snapshot tool
+												349 pop up button
+												350 text Element snapshot tool completed
+												351 pop up button
+												352 text 877ms
+												353 text Connected to the MCP server Webflow MCP 2.0 is live. Most design actions no longer require the Bridge app.
+												354 link Learn more about Webflow MCP 2.0 in the changelog, Value: developers.webflow.com/home/changelog/2026/7/21
+											355 container Notifications alt+T
+							356 container Notifications Alt+T
+			357 container Infobar Container
+				358 container Infobar
+					359 container
+						360 text "ChatGPT" started debugging this browser
+						361 button Cancel
+					362 button Close
+			363 pop up button Tab search
+			364 container
+				365 tab group
+					366 tab (selected, settable, boolean) Webflow - Tur.ai - High memory usage - 1.8 GB, Value: on
+						367 button Close
+			368 button New Tab
+	369 close button
+	370 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	371 minimize button
+372 menu bar
+	373 Chrome
+	374 File
+	375 Edit
+	376 View
+	377 History
+	378 Bookmarks
+	379 Profiles
+	380 Tab
+	381 Window
+	382 Help
+
+The focused UI element is 189 pop up button How does Tur.ai fit with our ERP, automation tools and AI?

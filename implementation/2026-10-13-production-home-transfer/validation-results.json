@@ -1,0 +1,16 @@
+{
+  "checked_at_utc": "2026-10-13T10:15:07.454466+00:00",
+  "python_unit_tests": 21,
+  "all_passed": true,
+  "commands": [
+    "python3 tools/check.py --complete",
+    "python3 -m unittest discover -s tools -p test_*.py",
+    "python3 tools/verify_home_handoff.py",
+    "node tools/test_webflow_rate_policy.cjs",
+    "node tools/test_home_ordinal_format.cjs",
+    "python3 tools/verify_home_implementation.py",
+    "python3 tools/verify_home_ordinal_implementation.py",
+    "python3 tools/verify_production_transfer.py"
+  ],
+  "scope": "Saved source and captured evidence; no independent acceptance or publication claim"
+}

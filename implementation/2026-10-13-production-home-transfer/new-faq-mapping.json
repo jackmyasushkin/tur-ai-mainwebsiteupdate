@@ -1,0 +1,208 @@
+{
+  "row_id": {
+    "component": "66368e29da23c5a1b0fe1396",
+    "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2131"
+  },
+  "template_id": {
+    "component": "66368e29da23c5a1b0fe1396",
+    "element": "21c1861b-473f-4876-442a-5bca042080a5"
+  },
+  "method": "Native Designer Cmd+D",
+  "operations": [
+    {
+      "field_id": "HOME-123",
+      "label": "HOME-123",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2134"
+      },
+      "expected_current_raw": "What happens when AI needs human judgment or an exception occurs?",
+      "approved_new_raw": "Which processes are a good fit for Tur.ai?",
+      "section": "new-faq",
+      "scope_component_id": null
+    },
+    {
+      "field_id": "HOME-124",
+      "label": "HOME-124",
+      "id": {
+        "component": "66368e29da23c5a1b0fe1396",
+        "element": "21cac69e-e7fd-6478-7bb2-95c1c20c213b"
+      },
+      "expected_current_raw": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+      "approved_new_raw": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+      "section": "new-faq",
+      "scope_component_id": null
+    }
+  ],
+  "before_duplicate": {
+    "id": {
+      "component": "66368e29da23c5a1b0fe1396",
+      "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2131"
+    },
+    "type": "DropdownWrapper",
+    "styleNames": [
+      "faq_question"
+    ],
+    "settings": {
+      "visibility": true
+    },
+    "children": [
+      {
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2132"
+        },
+        "type": "DropdownToggle",
+        "styleNames": [
+          "faq_toggle"
+        ],
+        "settings": {
+          "visibility": true
+        },
+        "children": [
+          {
+            "id": {
+              "component": "66368e29da23c5a1b0fe1396",
+              "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2133"
+            },
+            "type": "Block",
+            "styleNames": [
+              "faq_question-name"
+            ],
+            "settings": {
+              "tag": "div",
+              "visibility": true,
+              "block": {
+                "tag": "div"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "66368e29da23c5a1b0fe1396",
+                  "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2134"
+                },
+                "type": "String",
+                "textContent": "What happens when AI needs human judgment or an exception occurs?"
+              }
+            ]
+          },
+          {
+            "id": {
+              "component": "66368e29da23c5a1b0fe1396",
+              "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2135"
+            },
+            "type": "Block",
+            "styleNames": [
+              "faq_icon-wrap"
+            ],
+            "settings": {
+              "tag": "div",
+              "visibility": true,
+              "block": {
+                "tag": "div"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "66368e29da23c5a1b0fe1396",
+                  "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2136"
+                },
+                "type": "Block",
+                "styleNames": [
+                  "faq_icon-H"
+                ],
+                "settings": {
+                  "tag": "div",
+                  "visibility": true,
+                  "block": {
+                    "tag": "div"
+                  }
+                }
+              },
+              {
+                "id": {
+                  "component": "66368e29da23c5a1b0fe1396",
+                  "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2137"
+                },
+                "type": "Block",
+                "styleNames": [
+                  "faq_icon-V"
+                ],
+                "settings": {
+                  "tag": "div",
+                  "visibility": true,
+                  "block": {
+                    "tag": "div"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "component": "66368e29da23c5a1b0fe1396",
+          "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2138"
+        },
+        "type": "DropdownList",
+        "styleNames": [
+          "faq_answer-wrapper"
+        ],
+        "settings": {
+          "visibility": true
+        },
+        "children": [
+          {
+            "id": {
+              "component": "66368e29da23c5a1b0fe1396",
+              "element": "21cac69e-e7fd-6478-7bb2-95c1c20c2139"
+            },
+            "type": "Block",
+            "styleNames": [
+              "faq_answer-content"
+            ],
+            "settings": {
+              "tag": "div",
+              "visibility": true,
+              "block": {
+                "tag": "div"
+              }
+            },
+            "children": [
+              {
+                "id": {
+                  "component": "66368e29da23c5a1b0fe1396",
+                  "element": "21cac69e-e7fd-6478-7bb2-95c1c20c213a"
+                },
+                "type": "Block",
+                "styleNames": [
+                  "faq_answer-text"
+                ],
+                "settings": {
+                  "tag": "div",
+                  "visibility": true,
+                  "block": {
+                    "tag": "div"
+                  }
+                },
+                "children": [
+                  {
+                    "id": {
+                      "component": "66368e29da23c5a1b0fe1396",
+                      "element": "21cac69e-e7fd-6478-7bb2-95c1c20c213b"
+                    },
+                    "type": "String",
+                    "textContent": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

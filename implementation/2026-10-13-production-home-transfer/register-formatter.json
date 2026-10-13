@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Register approved v1.0.0 formatter on original Tur.ai\",\"action\":\"register_inline_script\",\"result\":{\"id\":\"turaihomeordinalformat\",\"canCopy\":true,\"displayName\":\"TuraiHomeOrdinalFormat\",\"hostedLocation\":\"https://cdn.prod.website-files.com/64e477696d41401ec48c50c6%2F689e5ba67671442434f3ca35%2F6acdf5466c396dcf232ac084%2Fturaihomeordinalformat-1.0.0.js\",\"createdOn\":\"2026-10-13T09:09:26.264Z\",\"version\":\"1.0.0\"}}"
+    }
+  ]
+}

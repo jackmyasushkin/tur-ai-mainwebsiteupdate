@@ -1,0 +1,712 @@
+[
+  {
+    "bodyScrollWidth": 1383,
+    "faqCount": 8,
+    "height": 12841,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 80,
+          "w": 329.2578125,
+          "x": 404.8671875,
+          "y": 180.25
+        },
+        {
+          "h": 80,
+          "w": 243.9921875,
+          "x": 734.125,
+          "y": 180.25
+        },
+        {
+          "h": 80,
+          "w": 243.9921875,
+          "x": 734.125,
+          "y": 180.25
+        },
+        {
+          "h": 80,
+          "w": 439.2578125,
+          "x": 339.9375,
+          "y": 256.4765625
+        },
+        {
+          "h": 80,
+          "w": 263.8515625,
+          "x": 779.1953125,
+          "y": 256.4765625
+        },
+        {
+          "h": 80,
+          "w": 263.8515625,
+          "x": 779.1953125,
+          "y": 256.4765625
+        }
+      ],
+      "rect": {
+        "bottom": 334.703125,
+        "h": 152.453125,
+        "right": 1326.75,
+        "w": 1270.5078125,
+        "x": 56.2421875,
+        "y": 182.25
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 1383
+  },
+  {
+    "bodyScrollWidth": 820,
+    "faqCount": 8,
+    "height": 13343,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 74.5,
+          "w": 304.9453125,
+          "x": 144.5390625,
+          "y": 167.09375
+        },
+        {
+          "h": 74.5,
+          "w": 225.9765625,
+          "x": 449.484375,
+          "y": 167.09375
+        },
+        {
+          "h": 74.5,
+          "w": 225.9765625,
+          "x": 449.484375,
+          "y": 167.09375
+        },
+        {
+          "h": 74.5,
+          "w": 406.828125,
+          "x": 84.3984375,
+          "y": 237.6953125
+        },
+        {
+          "h": 74.5,
+          "w": 244.3671875,
+          "x": 491.2265625,
+          "y": 237.6953125
+        },
+        {
+          "h": 74.5,
+          "w": 244.3671875,
+          "x": 491.2265625,
+          "y": 237.6953125
+        }
+      ],
+      "rect": {
+        "bottom": 310.296875,
+        "h": 141.203125,
+        "right": 775.875,
+        "w": 731.75,
+        "x": 44.125,
+        "y": 169.09375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 820
+  },
+  {
+    "bodyScrollWidth": 667,
+    "faqCount": 8,
+    "height": 12606,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 45.5,
+          "w": 186.4609375,
+          "x": 171.1796875,
+          "y": 157.8359375
+        },
+        {
+          "h": 45.5,
+          "w": 138.1796875,
+          "x": 357.640625,
+          "y": 157.8359375
+        },
+        {
+          "h": 45.5,
+          "w": 138.1796875,
+          "x": 357.640625,
+          "y": 157.8359375
+        },
+        {
+          "h": 45.5,
+          "w": 248.7578125,
+          "x": 134.40625,
+          "y": 201.0078125
+        },
+        {
+          "h": 45.5,
+          "w": 149.421875,
+          "x": 383.1640625,
+          "y": 201.0078125
+        },
+        {
+          "h": 45.5,
+          "w": 149.421875,
+          "x": 383.1640625,
+          "y": 201.0078125
+        }
+      ],
+      "rect": {
+        "bottom": 245.6796875,
+        "h": 86.34375,
+        "right": 645.4140625,
+        "w": 623.828125,
+        "x": 21.5859375,
+        "y": 159.3359375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 667
+  },
+  {
+    "bodyScrollWidth": 393,
+    "faqCount": 8,
+    "height": 14725,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 48,
+          "w": 197.9921875,
+          "x": 24.140625,
+          "y": 167.6640625
+        },
+        {
+          "h": 48,
+          "w": 146.71875,
+          "x": 222.1328125,
+          "y": 167.6640625
+        },
+        {
+          "h": 48,
+          "w": 146.71875,
+          "x": 222.1328125,
+          "y": 167.6640625
+        },
+        {
+          "h": 48,
+          "w": 256.6953125,
+          "x": 68.1484375,
+          "y": 213.5078125
+        },
+        {
+          "h": 48,
+          "w": 158.6640625,
+          "x": 117.1640625,
+          "y": 259.3515625
+        },
+        {
+          "h": 48,
+          "w": 158.6640625,
+          "x": 117.1640625,
+          "y": 259.3515625
+        }
+      ],
+      "rect": {
+        "bottom": 306.6953125,
+        "h": 137.53125,
+        "right": 370.0859375,
+        "w": 347.171875,
+        "x": 22.9140625,
+        "y": 169.1640625
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 393
+  },
+  {
+    "bodyScrollWidth": 320,
+    "faqCount": 8,
+    "height": 15310,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 46,
+          "w": 182.9140625,
+          "x": 68.5390625,
+          "y": 161.40625
+        },
+        {
+          "h": 46,
+          "w": 140.84375,
+          "x": 89.578125,
+          "y": 205.40625
+        },
+        {
+          "h": 46,
+          "w": 140.84375,
+          "x": 89.578125,
+          "y": 205.40625
+        },
+        {
+          "h": 46,
+          "w": 246.4140625,
+          "x": 36.7890625,
+          "y": 249.40625
+        },
+        {
+          "h": 46,
+          "w": 152.3125,
+          "x": 83.84375,
+          "y": 293.40625
+        },
+        {
+          "h": 46,
+          "w": 152.3125,
+          "x": 83.84375,
+          "y": 293.40625
+        }
+      ],
+      "rect": {
+        "bottom": 338.40625,
+        "h": 176,
+        "right": 298,
+        "w": 276,
+        "x": 22,
+        "y": 162.40625
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 320
+  },
+  {
+    "bodyScrollWidth": 1440,
+    "faqCount": 8,
+    "height": 12936,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 80.5,
+          "w": 331.71875,
+          "x": 431.234375,
+          "y": 181.59375
+        },
+        {
+          "h": 80.5,
+          "w": 245.8125,
+          "x": 762.953125,
+          "y": 181.59375
+        },
+        {
+          "h": 80.5,
+          "w": 245.8125,
+          "x": 762.953125,
+          "y": 181.59375
+        },
+        {
+          "h": 80.5,
+          "w": 442.5390625,
+          "x": 365.8203125,
+          "y": 258.390625
+        },
+        {
+          "h": 80.5,
+          "w": 265.8203125,
+          "x": 808.359375,
+          "y": 258.390625
+        },
+        {
+          "h": 80.5,
+          "w": 265.8203125,
+          "x": 808.359375,
+          "y": 258.390625
+        }
+      ],
+      "rect": {
+        "bottom": 337.1875,
+        "h": 153.59375,
+        "right": 1360,
+        "w": 1280,
+        "x": 80,
+        "y": 183.59375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 1440
+  },
+  {
+    "bodyScrollWidth": 991,
+    "faqCount": 8,
+    "height": 13099,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 75.5,
+          "w": 312.328125,
+          "x": 223.609375,
+          "y": 171.09375
+        },
+        {
+          "h": 75.5,
+          "w": 231.453125,
+          "x": 535.9375,
+          "y": 171.09375
+        },
+        {
+          "h": 75.5,
+          "w": 231.453125,
+          "x": 535.9375,
+          "y": 171.09375
+        },
+        {
+          "h": 75.5,
+          "w": 416.6796875,
+          "x": 162.015625,
+          "y": 243.40625
+        },
+        {
+          "h": 75.5,
+          "w": 250.2890625,
+          "x": 578.6953125,
+          "y": 243.40625
+        },
+        {
+          "h": 75.5,
+          "w": 250.2890625,
+          "x": 578.6953125,
+          "y": 243.40625
+        }
+      ],
+      "rect": {
+        "bottom": 317.71875,
+        "h": 144.625,
+        "right": 945.8046875,
+        "w": 900.609375,
+        "x": 45.1953125,
+        "y": 173.09375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 991
+  },
+  {
+    "bodyScrollWidth": 992,
+    "faqCount": 8,
+    "height": 12883,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 76,
+          "w": 312.3828125,
+          "x": 224.0625,
+          "y": 171.1171875
+        },
+        {
+          "h": 76,
+          "w": 231.4921875,
+          "x": 536.4453125,
+          "y": 171.1171875
+        },
+        {
+          "h": 76,
+          "w": 231.4921875,
+          "x": 536.4453125,
+          "y": 171.1171875
+        },
+        {
+          "h": 76,
+          "w": 416.75,
+          "x": 162.4609375,
+          "y": 243.4453125
+        },
+        {
+          "h": 76,
+          "w": 250.328125,
+          "x": 579.2109375,
+          "y": 243.4453125
+        },
+        {
+          "h": 76,
+          "w": 250.328125,
+          "x": 579.2109375,
+          "y": 243.4453125
+        }
+      ],
+      "rect": {
+        "bottom": 317.7734375,
+        "h": 144.65625,
+        "right": 946.8046875,
+        "w": 901.609375,
+        "x": 45.1953125,
+        "y": 173.1171875
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 992
+  },
+  {
+    "bodyScrollWidth": 767,
+    "faqCount": 8,
+    "height": 12588,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 46,
+          "w": 189.15625,
+          "x": 218.8359375,
+          "y": 160.1328125
+        },
+        {
+          "h": 46,
+          "w": 140.171875,
+          "x": 407.9921875,
+          "y": 160.1328125
+        },
+        {
+          "h": 46,
+          "w": 140.171875,
+          "x": 407.9921875,
+          "y": 160.1328125
+        },
+        {
+          "h": 46,
+          "w": 252.3515625,
+          "x": 181.53125,
+          "y": 203.9296875
+        },
+        {
+          "h": 46,
+          "w": 151.5859375,
+          "x": 433.8828125,
+          "y": 203.9296875
+        },
+        {
+          "h": 46,
+          "w": 151.5859375,
+          "x": 433.8828125,
+          "y": 203.9296875
+        }
+      ],
+      "rect": {
+        "bottom": 249.2265625,
+        "h": 87.59375,
+        "right": 745.1015625,
+        "w": 723.203125,
+        "x": 21.8984375,
+        "y": 161.6328125
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 767
+  },
+  {
+    "bodyScrollWidth": 768,
+    "faqCount": 8,
+    "height": 13406,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 73.5,
+          "w": 302.71875,
+          "x": 120.4765625,
+          "y": 165.859375
+        },
+        {
+          "h": 73.5,
+          "w": 224.328125,
+          "x": 423.1953125,
+          "y": 165.859375
+        },
+        {
+          "h": 73.5,
+          "w": 224.328125,
+          "x": 423.1953125,
+          "y": 165.859375
+        },
+        {
+          "h": 73.5,
+          "w": 403.8515625,
+          "x": 60.78125,
+          "y": 235.9453125
+        },
+        {
+          "h": 73.5,
+          "w": 242.5859375,
+          "x": 464.6328125,
+          "y": 235.9453125
+        },
+        {
+          "h": 73.5,
+          "w": 242.5859375,
+          "x": 464.6328125,
+          "y": 235.9453125
+        }
+      ],
+      "rect": {
+        "bottom": 308.03125,
+        "h": 140.171875,
+        "right": 724.203125,
+        "w": 680.40625,
+        "x": 43.796875,
+        "y": 167.859375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 768
+  },
+  {
+    "bodyScrollWidth": 479,
+    "faqCount": 8,
+    "height": 14793,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 50.5,
+          "w": 207.3203125,
+          "x": 59.0234375,
+          "y": 175.65625
+        },
+        {
+          "h": 50.5,
+          "w": 153.6328125,
+          "x": 266.34375,
+          "y": 175.65625
+        },
+        {
+          "h": 50.5,
+          "w": 153.6328125,
+          "x": 266.34375,
+          "y": 175.65625
+        },
+        {
+          "h": 50.5,
+          "w": 268.7890625,
+          "x": 105.1015625,
+          "y": 223.65625
+        },
+        {
+          "h": 50.5,
+          "w": 166.140625,
+          "x": 156.4296875,
+          "y": 271.65625
+        },
+        {
+          "h": 50.5,
+          "w": 166.140625,
+          "x": 156.4296875,
+          "y": 271.65625
+        }
+      ],
+      "rect": {
+        "bottom": 321.15625,
+        "h": 144,
+        "right": 455,
+        "w": 431,
+        "x": 24,
+        "y": 177.15625
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [],
+    "width": 479
+  },
+  {
+    "bodyScrollWidth": 512,
+    "faqCount": 8,
+    "height": 13204,
+    "hero": {
+      "highlight": "rgb(0, 40, 255)",
+      "html": "Enterprise <span data-w-id=\"1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae\" data-wf-id=\"[&quot;1c1bfae6-7d7b-d150-640f-9e2ebe5a76ae&quot;]\" class=\"h1-highlight\">Process </span>Orchestration <span data-w-id=\"07d9a01b-eb40-77d6-daf9-2ae1e94e0d80\" data-wf-id=\"[&quot;07d9a01b-eb40-77d6-daf9-2ae1e94e0d80&quot;]\">Platform</span>",
+      "lines": [
+        {
+          "h": 44.5,
+          "w": 181.4375,
+          "x": 82.0546875,
+          "y": 153.5234375
+        },
+        {
+          "h": 44.5,
+          "w": 134.453125,
+          "x": 263.4921875,
+          "y": 153.5234375
+        },
+        {
+          "h": 44.5,
+          "w": 134.453125,
+          "x": 263.4921875,
+          "y": 153.5234375
+        },
+        {
+          "h": 44.5,
+          "w": 242.046875,
+          "x": 46.28125,
+          "y": 195.53125
+        },
+        {
+          "h": 44.5,
+          "w": 145.390625,
+          "x": 288.328125,
+          "y": 195.53125
+        },
+        {
+          "h": 44.5,
+          "w": 145.390625,
+          "x": 288.328125,
+          "y": 195.53125
+        }
+      ],
+      "rect": {
+        "bottom": 239.0390625,
+        "h": 84.015625,
+        "right": 459,
+        "w": 438,
+        "x": 21,
+        "y": 155.0234375
+      },
+      "text": "Enterprise Process Orchestration Platform"
+    },
+    "outliers": [
+      {
+        "class": "footer_award-image",
+        "rect": {
+          "bottom": 13120.1484375,
+          "h": 42,
+          "right": 511.6328125,
+          "w": 100.9296875,
+          "x": 410.703125,
+          "y": 13078.1484375
+        },
+        "tag": "IMG",
+        "text": ""
+      }
+    ],
+    "width": 480
+  }
+]

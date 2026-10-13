@@ -16,4 +16,8 @@ assert.equal(P.rateLimited(s,null,100000).waitMs,122000);
 assert.equal(P.rateLimited(s,null,300000).waitMs,242000);
 assert.equal(P.rateLimited(s,null,600000).stop,true);
 assert.deepEqual(P.reconcile([{id:'A',before:'old',after:'new'},{id:'B',before:'old',after:'new'},{id:'C',before:'old',after:'new'}],{A:'new',B:'old',C:'other'}),[{id:'A',status:'applied'},{id:'B',status:'retry'},{id:'C',status:'conflict'}]);
+assert.equal(P.responseInfo({content:[{type:'text',text:JSON.stringify({error:{message:'GET /v2/pages returned 429',code:'RATE_LIMITED'}})}]}).is429,true);
+assert.equal(P.responseInfo({status:429,headers:{'Retry-After':'90','X-RateLimit-Limit':'12','X-RateLimit-Remaining':'0'}}).limit,12);
+assert.equal(P.responseInfo({content:[{type:'text',text:JSON.stringify({headers:{'Retry-After':'90'}})}]}).retryAfter,'90');
+assert.equal(P.responseInfo({content:[{text:'429 elements loaded successfully'}]}).is429,false);
 console.log('PASS: rolling budget, call spacing, batch size, Retry-After, fallback backoff, stop threshold, partial/unknown write reconciliation');

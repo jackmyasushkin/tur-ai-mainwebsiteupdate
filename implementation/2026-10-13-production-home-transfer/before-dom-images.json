@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"label\":\"Before DOM-only image 0\",\"action\":\"get_settings\",\"result\":[{\"status\":\"success\",\"message\":\"Settings retrieved\",\"data\":{\"type\":\"all_resolved_settings\",\"total_matches\":5,\"matches\":[{\"key\":\"domId\",\"value\":\"\"},{\"key\":\"assetId\",\"value\":\"6623750593ed75aef027d14b\"},{\"key\":\"altText\",\"value\":\"inherit\"},{\"key\":\"visibility\",\"value\":true},{\"key\":\"attributes\",\"value\":[]}]}}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Before DOM-only image 1\",\"action\":\"get_settings\",\"result\":[{\"status\":\"success\",\"message\":\"Settings retrieved\",\"data\":{\"type\":\"all_resolved_settings\",\"total_matches\":5,\"matches\":[{\"key\":\"domId\",\"value\":\"\"},{\"key\":\"assetId\",\"value\":\"6623750550414800d01be1fc\"},{\"key\":\"altText\",\"value\":\"inherit\"},{\"key\":\"visibility\",\"value\":true},{\"key\":\"attributes\",\"value\":[]}]}}]}"
+    },
+    {
+      "type": "text",
+      "text": "{\"label\":\"Before DOM-only image 2\",\"action\":\"get_settings\",\"result\":[{\"status\":\"success\",\"message\":\"Settings retrieved\",\"data\":{\"type\":\"all_resolved_settings\",\"total_matches\":5,\"matches\":[{\"key\":\"domId\",\"value\":\"\"},{\"key\":\"assetId\",\"value\":\"6634b2adabc8ed4be715c1ee\"},{\"key\":\"altText\",\"value\":\"inherit\"},{\"key\":\"visibility\",\"value\":true},{\"key\":\"attributes\",\"value\":[]}]}}]}"
+    }
+  ]
+}
