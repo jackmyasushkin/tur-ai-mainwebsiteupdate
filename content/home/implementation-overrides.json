@@ -1,0 +1,42 @@
+{
+  "exception_id": "H1-CATEGORY-2026-10-13",
+  "field_id": "HOME-003",
+  "approved_text": "Enterprise Process Orchestration Platform",
+  "approval_basis": "Owner accepted this exact category and subtitle, then instructed preparation of the implementation handoff. Segment allocation is an implementation derivation, not visual approval.",
+  "segments": [
+    "Enterprise ",
+    "Process ",
+    "Orchestration ",
+    "Platform"
+  ],
+  "original_segment_max_chars": [
+    2,
+    8,
+    35,
+    2
+  ],
+  "replacement_segment_lengths": [
+    10,
+    7,
+    13,
+    8
+  ],
+  "original_total_max_chars": 50,
+  "new_total_chars": 41,
+  "preserve": [
+    "all four source IDs and order",
+    "all classes/styles and the existing Process highlight",
+    "boundary whitespace",
+    "DOM structure",
+    "total field limit"
+  ],
+  "forbidden": [
+    "enlarging original source budgets",
+    "splitting words to fit old slots",
+    "adding an AI suffix",
+    "shrinking fonts",
+    "deleting spans",
+    "new manual line breaks"
+  ],
+  "visual_acceptance": "pending"
+}

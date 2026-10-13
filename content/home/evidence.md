@@ -21,6 +21,11 @@ clarification is recorded separately, not disguised as a quotation from that pos
 ## P1
 
 **Product and positioning.**
+Current homepage category: **Enterprise Process Orchestration Platform**.
+Owner approved exact hero wording and implementation preparation; see [decisions](decisions.md).
+The operational plane is the architectural role, not a replacement headline.
+Primary readers: Head of AI and Head of Transformation. No new product or performance certification is implied.
+
 Owner framing: operational plane for regulated processes above systems of record.
 Governed execution brings existing systems, people and AI into one process without
 positioning Tur.ai as a replacement core or a desktop operating system.

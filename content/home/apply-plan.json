@@ -1,0 +1,2797 @@
+{
+  "edition": "enterprise-orchestration-handoff-v2",
+  "site_id": "6899ffe04a85e00f2b8cf5ab",
+  "page_id": "6899ffe04a85e00f2b8cf5ac",
+  "site_name": "Copy of Tur.ai",
+  "page_name": "Home",
+  "language": "en",
+  "rewrite_sha256": "1eec9a705ecf93a3488500155617b45730a9bbfb8121e5e7be98a3e9cde30ab3",
+  "inventory_sha256": "4ddda53f6e79d39c69f17c953b553775027030a1130633d5d46ebd48a373f84d",
+  "source_inventory": "baseline/home/2026-10-12/inventory.json",
+  "lookup": "Join items[].id to inventory.records[].id; the source record contains the full Webflow target, field type, component chain and inline structure. Never use text search as a replacement for these bindings.",
+  "policy": "Write only action=rewrite after live preflight. keep/hold are no-write. All source addressing is inherited, not guessed. No publish.",
+  "counts": {
+    "rewrite": 104,
+    "keep": 88,
+    "hold": 36
+  },
+  "changed_since_v1": [
+    "HOME-003",
+    "HOME-004",
+    "HOME-006",
+    "HOME-027",
+    "HOME-032",
+    "HOME-033",
+    "HOME-068",
+    "HOME-088",
+    "HOME-119",
+    "HOME-120",
+    "HOME-126",
+    "HOME-143",
+    "HOME-152",
+    "HOME-209",
+    "HOME-227",
+    "HOME-228"
+  ],
+  "exception_file": "content/home/implementation-overrides.json",
+  "items": [
+    {
+      "id": "HOME-001",
+      "action": "keep",
+      "expected_original_text": "Book a Demo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-001",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-002",
+      "action": "keep",
+      "expected_original_text": "Contact Us",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-002",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-003",
+      "action": "rewrite",
+      "expected_original_text": "We Automate Enterprise Customer Operations with AI",
+      "target_text": "Enterprise Process Orchestration Platform",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "370cbcb9-ca44-e3fa-3af5-ffcc49e12e2f"
+          },
+          "original_raw": "We ",
+          "max_chars": 2,
+          "new_text": "Enterprise "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "2b066328-9a94-c967-16e0-a7eb5632acf0"
+          },
+          "original_raw": "Automate ",
+          "max_chars": 8,
+          "new_text": "Process "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "27e5d944-a647-2835-857a-f6cce18f23ad"
+          },
+          "original_raw": "Enterprise Customer Operations with ",
+          "max_chars": 35,
+          "new_text": "Orchestration "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "d289d6ed-e2cb-f2c5-ed95-3ce79ffdebe2"
+          },
+          "original_raw": "AI",
+          "max_chars": 2,
+          "new_text": "Platform"
+        }
+      ],
+      "source_record_id": "HOME-003",
+      "validation_exception": "H1-CATEGORY-2026-10-13",
+      "reason": "Exact owner-approved H1. Same four nodes/styles; explicit legacy segment-budget exception, not a larger field budget."
+    },
+    {
+      "id": "HOME-004",
+      "action": "rewrite",
+      "expected_original_text": "Achieve up to 90% resolution on initial contact and automate 50% of agent tasks with AI, all within less than 3 months to value.",
+      "target_text": "Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.",
+      "segments": [],
+      "source_record_id": "HOME-004",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-005",
+      "action": "keep",
+      "expected_original_text": "Book a Demo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-005",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-006",
+      "action": "rewrite",
+      "expected_original_text": "Experience Proven ROI in the First Year – Book a Demo to Discover How!",
+      "target_text": "See how to run, control and change a process across your systems.",
+      "segments": [],
+      "source_record_id": "HOME-006",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-007",
+      "action": "rewrite",
+      "expected_original_text": "Unlock the Transformative Power of AI Tailored to Your Business Needs",
+      "target_text": "Work and change faster. Results from banking engagements.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "02b63847-bb12-574e-7515-0cb13b323593"
+          },
+          "original_raw": "Unlock the ",
+          "max_chars": 10,
+          "new_text": "Work and "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "fe6558be-54c4-407c-3abc-a8f7ab7277af"
+          },
+          "original_raw": "Transformative Power",
+          "max_chars": 20,
+          "new_text": "change faster."
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "3ba5231c-1e7a-2715-ec00-94c510a3243f"
+          },
+          "original_raw": " of AI Tailored to Your Business Needs",
+          "max_chars": 37,
+          "new_text": " Results from banking engagements."
+        }
+      ],
+      "source_record_id": "HOME-007",
+      "validation_exception": null,
+      "reason": "Qualify all headline metrics as banking case results."
+    },
+    {
+      "id": "HOME-008",
+      "action": "rewrite",
+      "expected_original_text": "Less Human Interaction",
+      "target_text": "Shorter process cycles",
+      "segments": [],
+      "source_record_id": "HOME-008",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-009",
+      "action": "rewrite",
+      "expected_original_text": "50",
+      "target_text": "62",
+      "segments": [],
+      "source_record_id": "HOME-009",
+      "validation_exception": null,
+      "reason": "62% rounded down from 62.5%; cycle time, not implementation TTV."
+    },
+    {
+      "id": "HOME-010",
+      "action": "keep",
+      "expected_original_text": "%",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-010",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-011",
+      "action": "rewrite",
+      "expected_original_text": "Cut down on repetitive queries with AI, reserving human expertise for complex cases.",
+      "target_text": "One European bank: customer onboarding fell from 16 days to 6.",
+      "segments": [],
+      "source_record_id": "HOME-011",
+      "validation_exception": null,
+      "reason": "Same onboarding scope as M2, not a market benchmark."
+    },
+    {
+      "id": "HOME-012",
+      "action": "rewrite",
+      "expected_original_text": "Initial Resolution Rate",
+      "target_text": "Lower staffing needs",
+      "segments": [],
+      "source_record_id": "HOME-012",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-013",
+      "action": "rewrite",
+      "expected_original_text": "90",
+      "target_text": "82",
+      "segments": [],
+      "source_record_id": "HOME-013",
+      "validation_exception": null,
+      "reason": "82% rounded down from 82.35%; required FTE, not layoffs."
+    },
+    {
+      "id": "HOME-014",
+      "action": "keep",
+      "expected_original_text": "%",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-014",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-015",
+      "action": "rewrite",
+      "expected_original_text": "Achieve an impressive initial resolution rate with AI's help, keeping customers content from the start.",
+      "target_text": "The same bank's onboarding staffing requirement fell from 34 FTE to 6.",
+      "segments": [],
+      "source_record_id": "HOME-015",
+      "validation_exception": null,
+      "reason": "Same onboarding scope as M1; volume and measurement detail remain due diligence."
+    },
+    {
+      "id": "HOME-016",
+      "action": "rewrite",
+      "expected_original_text": "Tasks Automated",
+      "target_text": "Lower LLM costs",
+      "segments": [],
+      "source_record_id": "HOME-016",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-017",
+      "action": "rewrite",
+      "expected_original_text": "70",
+      "target_text": "83",
+      "segments": [],
+      "source_record_id": "HOME-017",
+      "validation_exception": null,
+      "reason": "Owner correction: token expenditure. 83% rounded down from 83.33%."
+    },
+    {
+      "id": "HOME-018",
+      "action": "keep",
+      "expected_original_text": "%",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-018",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-019",
+      "action": "rewrite",
+      "expected_original_text": "Free your team to innovate with 70% of routine tasks automated by Tur.ai.",
+      "target_text": "Banking case: annual token spend fell from €1.8M to €300K.",
+      "segments": [],
+      "source_record_id": "HOME-019",
+      "validation_exception": null,
+      "reason": "Annual token spend, not licenses, token count, unit-cost proof or total TCO."
+    },
+    {
+      "id": "HOME-020",
+      "action": "rewrite",
+      "expected_original_text": "Sales Productivity Boost",
+      "target_text": "Faster process delivery",
+      "segments": [],
+      "source_record_id": "HOME-020",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-021",
+      "action": "rewrite",
+      "expected_original_text": "5",
+      "target_text": "3",
+      "segments": [],
+      "source_record_id": "HOME-021",
+      "validation_exception": null,
+      "reason": "Case-reported process delivery speed; not a universal competitor comparison."
+    },
+    {
+      "id": "HOME-022",
+      "action": "rewrite",
+      "expected_original_text": "%",
+      "target_text": "×",
+      "segments": [],
+      "source_record_id": "HOME-022",
+      "validation_exception": null,
+      "reason": "Multiplier suffix replaces percent; preserve the existing node and style."
+    },
+    {
+      "id": "HOME-023",
+      "action": "rewrite",
+      "expected_original_text": "Enhance decision-making with actionable AI insights, nudging your sales productivity higher.",
+      "target_text": "A European bank: 3x faster process delivery; 2-3 to 12+ processes automated per year.",
+      "segments": [],
+      "source_record_id": "HOME-023",
+      "validation_exception": null,
+      "reason": "3x speed and annual delivery capacity are separate metrics."
+    },
+    {
+      "id": "HOME-024",
+      "action": "rewrite",
+      "expected_original_text": "We democratized AI so every retailer can benefit from its transformative power - hassle-free.",
+      "target_text": "We built Tur.ai so businesses can work and change faster without replacing their core.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "bc3c9039-c403-caaf-4f49-25eee512f379"
+          },
+          "original_raw": "We democratized AI so every retailer can benefit from its transformative power - ",
+          "max_chars": 80,
+          "new_text": "We built Tur.ai so businesses can work and change faster without replacing their "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "e9e125d0-c254-c662-22df-63e5ebb3fe3b"
+          },
+          "original_raw": "hassle-free",
+          "max_chars": 11,
+          "new_text": "core"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "6bda841c-a4f6-8e9e-a5fc-2f19270b02e1"
+          },
+          "original_raw": ".",
+          "max_chars": 1,
+          "new_text": "."
+        }
+      ],
+      "source_record_id": "HOME-024",
+      "validation_exception": null,
+      "reason": "Proposed founder statement for approval; not a verbatim historical quote."
+    },
+    {
+      "id": "HOME-025",
+      "action": "keep",
+      "expected_original_text": "Ievgen Miasushkin",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-025",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-026",
+      "action": "keep",
+      "expected_original_text": "CEO of Tur.ai",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-026",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-027",
+      "action": "rewrite",
+      "expected_original_text": "Streamline Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+      "target_text": "Coordinate Systems, AI and People in One Governed Process.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "4012293c-11b6-5290-0192-440506bdd014"
+          },
+          "original_raw": "Streamline",
+          "max_chars": 10,
+          "new_text": "Coordinate"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "b8ba1d74-ee1a-5251-102a-aa501377d683"
+          },
+          "original_raw": " Every Step, From a Customer's First 'Hello' to Resolving Your Needs.",
+          "max_chars": 68,
+          "new_text": " Systems, AI and People in One Governed Process."
+        }
+      ],
+      "source_record_id": "HOME-027",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-028",
+      "action": "keep",
+      "expected_original_text": "/ 01",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-028",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-029",
+      "action": "rewrite",
+      "expected_original_text": "Initial Contact",
+      "target_text": "Work intake",
+      "segments": [],
+      "source_record_id": "HOME-029",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-030",
+      "action": "rewrite",
+      "expected_original_text": "Deliver meaningful, personalized, and engaging responses to customers within minutes.",
+      "target_text": "Bring requests, documents and system data into one process with shared context.",
+      "segments": [],
+      "source_record_id": "HOME-030",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-031",
+      "action": "keep",
+      "expected_original_text": "/ 02",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-031",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-032",
+      "action": "rewrite",
+      "expected_original_text": "Smart Routing",
+      "target_text": "Task routing",
+      "segments": [],
+      "source_record_id": "HOME-032",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-033",
+      "action": "rewrite",
+      "expected_original_text": "Tur.ai automatically directs inquiries to the right resources, ensuring efficient and accurate handling without agent intervention.",
+      "target_text": "Match each step to a system action, an AI model or a human decision. Use the right model for each AI task.",
+      "segments": [],
+      "source_record_id": "HOME-033",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-034",
+      "action": "keep",
+      "expected_original_text": "/ 03",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-034",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-035",
+      "action": "rewrite",
+      "expected_original_text": "Sales & Service Automation",
+      "target_text": "Controlled execution",
+      "segments": [],
+      "source_record_id": "HOME-035",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-036",
+      "action": "rewrite",
+      "expected_original_text": "Tur.ai orchestrates complex workflows, reducing lead times and enhancing your CRM, ERP, and other business systems with 70% automation and 50% of tasks handled by AI.",
+      "target_text": "Coordinate AI, system actions and approvals under your process rules. Carry context and verification results forward, with bounded retries and clear ownership.",
+      "segments": [],
+      "source_record_id": "HOME-036",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-037",
+      "action": "keep",
+      "expected_original_text": "/ 04",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-037",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-038",
+      "action": "rewrite",
+      "expected_original_text": "Smooth Aftercare",
+      "target_text": "Human decisions",
+      "segments": [],
+      "source_record_id": "HOME-038",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-039",
+      "action": "rewrite",
+      "expected_original_text": "Automated returns and smart exchange processing.",
+      "target_text": "Route exceptions to the right person to decide.",
+      "segments": [],
+      "source_record_id": "HOME-039",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-040",
+      "action": "keep",
+      "expected_original_text": "/ 05",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-040",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-041",
+      "action": "rewrite",
+      "expected_original_text": "Satisfaction Ensured",
+      "target_text": "Traceable outcomes",
+      "segments": [],
+      "source_record_id": "HOME-041",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-042",
+      "action": "rewrite",
+      "expected_original_text": "Consistent, pleasing resolutions for every customer.",
+      "target_text": "Record actions and decisions for review and audit.",
+      "segments": [],
+      "source_record_id": "HOME-042",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-043",
+      "action": "rewrite",
+      "expected_original_text": "Global Retail Leaders Employ Tur.ai.",
+      "target_text": "Real operations powered by Tur.ai.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "188684cf-4252-7dc6-66e6-4fab8ab9d3e0"
+          },
+          "original_raw": "Global Retail Leaders Employ ",
+          "max_chars": 28,
+          "new_text": "Real operations powered by "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "e27bb508-97d9-dcfd-5404-90e9ac73dece"
+          },
+          "original_raw": "Tur.ai",
+          "max_chars": 6,
+          "new_text": "Tur.ai"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "366dbd54-6333-5a60-095b-ea35ea158053"
+          },
+          "original_raw": ".",
+          "max_chars": 1,
+          "new_text": "."
+        }
+      ],
+      "source_record_id": "HOME-043",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-044",
+      "action": "rewrite",
+      "expected_original_text": "Lead to quote automation",
+      "target_text": "Lead-to-quote automation",
+      "segments": [],
+      "source_record_id": "HOME-044",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-045",
+      "action": "rewrite",
+      "expected_original_text": "10x faster response rate",
+      "target_text": "3x faster quotes",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "c25331a6-b739-dd3d-8514-8d8256889ce2"
+          },
+          "original_raw": "10x faster",
+          "max_chars": 10,
+          "new_text": "3x faster"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "71c19e01-c6f5-d8f8-4d91-6723beefee91"
+          },
+          "original_raw": " response rate",
+          "max_chars": 13,
+          "new_text": " quotes"
+        }
+      ],
+      "source_record_id": "HOME-045",
+      "validation_exception": null,
+      "reason": "Published RH time-to-quote result, not response rate. Keep hidden state."
+    },
+    {
+      "id": "HOME-046",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-046",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-047",
+      "action": "rewrite",
+      "expected_original_text": "Brand-owned cashback campaigns automation",
+      "target_text": "Cashback campaign operations",
+      "segments": [],
+      "source_record_id": "HOME-047",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-048",
+      "action": "rewrite",
+      "expected_original_text": "Nation-wide campaigns managed by small team in parallel to day to day work",
+      "target_text": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "segments": [],
+      "source_record_id": "HOME-048",
+      "validation_exception": null,
+      "reason": "Published Heineken 12-campaign result; keep hidden state and case link."
+    },
+    {
+      "id": "HOME-049",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-049",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-050",
+      "action": "keep",
+      "expected_original_text": "Service desk automation",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-050",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-051",
+      "action": "rewrite",
+      "expected_original_text": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "target_text": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "segments": [],
+      "source_record_id": "HOME-051",
+      "validation_exception": null,
+      "reason": "Existing service-desk story, softened; public case link remains unresolved."
+    },
+    {
+      "id": "HOME-052",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-052",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-053",
+      "action": "hold",
+      "expected_original_text": "Procurement automation",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-053",
+      "validation_exception": null,
+      "reason": "Hold hidden procurement variant: client/logo conflict; do not activate. See review-questions.md."
+    },
+    {
+      "id": "HOME-054",
+      "action": "hold",
+      "expected_original_text": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-054",
+      "validation_exception": null,
+      "reason": "Hold hidden procurement variant: client/logo conflict; do not activate. See review-questions.md."
+    },
+    {
+      "id": "HOME-055",
+      "action": "hold",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-055",
+      "validation_exception": null,
+      "reason": "Hold hidden procurement variant: client/logo conflict; do not activate. See review-questions.md."
+    },
+    {
+      "id": "HOME-056",
+      "action": "rewrite",
+      "expected_original_text": "Lead to quote automation",
+      "target_text": "Lead-to-quote automation",
+      "segments": [],
+      "source_record_id": "HOME-056",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-057",
+      "action": "rewrite",
+      "expected_original_text": "Manual efforts on tasks were reduced by seven times, enabling the team to focus on revenue-generating activities.",
+      "target_text": "Radio Holland cut time-to-quote by 3x through coordinated requests, workflows and system updates.",
+      "segments": [],
+      "source_record_id": "HOME-057",
+      "validation_exception": null,
+      "reason": "Published RH time-to-quote result; do not reuse the conflicting 7x task-effort claim."
+    },
+    {
+      "id": "HOME-058",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-058",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-059",
+      "action": "rewrite",
+      "expected_original_text": "Brand-owned cashback campaigns automation",
+      "target_text": "Cashback campaign operations",
+      "segments": [],
+      "source_record_id": "HOME-059",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-060",
+      "action": "rewrite",
+      "expected_original_text": "Nation-wide campaigns managed by small team in parallel to day to day work.",
+      "target_text": "Heineken ran 12 nationwide campaigns with a small in-house team.",
+      "segments": [],
+      "source_record_id": "HOME-060",
+      "validation_exception": null,
+      "reason": "Same proof and wording as the hidden cashback variant."
+    },
+    {
+      "id": "HOME-061",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-061",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-062",
+      "action": "keep",
+      "expected_original_text": "Service desk automation",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-062",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-063",
+      "action": "rewrite",
+      "expected_original_text": "A small team efficiently managed all inquiries, despite the chaos from a new ERP system rollout.",
+      "target_text": "Noordwest supported service enquiries through an ERP rollout with a small team.",
+      "segments": [],
+      "source_record_id": "HOME-063",
+      "validation_exception": null,
+      "reason": "Same service-desk text as hidden variant; preserve the existing # link."
+    },
+    {
+      "id": "HOME-064",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-064",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-065",
+      "action": "keep",
+      "expected_original_text": "Procurement automation",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-065",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-066",
+      "action": "rewrite",
+      "expected_original_text": "Vendor onboarding time were reduced by 7x with 70% tasks done by AI.",
+      "target_text": "Heineken cut vendor onboarding from months to weeks.",
+      "segments": [],
+      "source_record_id": "HOME-066",
+      "validation_exception": null,
+      "reason": "Linked Heineken case: months to weeks, not unsupported 7x/70%."
+    },
+    {
+      "id": "HOME-067",
+      "action": "keep",
+      "expected_original_text": "Learn More",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-067",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-068",
+      "action": "rewrite",
+      "expected_original_text": "Where AI Integration Meets Simplicity, Bypassing Hassle and Lavish Outlays.",
+      "target_text": "The operational plane: your rules, across your existing systems.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "b7c6a201-5e2f-770a-586c-f11a52d9aeb5"
+          },
+          "original_raw": "Where AI Integration Meets ",
+          "max_chars": 26,
+          "new_text": "The operational plane: "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "43a0cbff-d26a-524c-73ab-f58990897807"
+          },
+          "original_raw": "Simplicity",
+          "max_chars": 10,
+          "new_text": "your rules"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "834dde35-c53b-2e6f-e2b0-6bfc896787d6"
+          },
+          "original_raw": ", Bypassing Hassle and Lavish Outlays.",
+          "max_chars": 38,
+          "new_text": ", across your existing systems."
+        }
+      ],
+      "source_record_id": "HOME-068",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-069",
+      "action": "rewrite",
+      "expected_original_text": "Click to see features that make you smile",
+      "target_text": "Click to see how Tur.ai changes this",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d151f"
+          },
+          "original_raw": "Click to see features",
+          "max_chars": 21,
+          "new_text": "Click to see how"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "f7dc3ce6-68d7-9eda-a0d0-b1102b0d1521"
+          },
+          "original_raw": "that make you smile",
+          "max_chars": 19,
+          "new_text": "Tur.ai changes this"
+        }
+      ],
+      "source_record_id": "HOME-069",
+      "validation_exception": null,
+      "reason": "Keep manual line break, highlight and toggle action."
+    },
+    {
+      "id": "HOME-070",
+      "action": "rewrite",
+      "expected_original_text": "Click to see features that make you smile",
+      "target_text": "Click to see how Tur.ai changes this",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050b"
+          },
+          "original_raw": "Click to see features",
+          "max_chars": 21,
+          "new_text": "Click to see how"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "477ed19d-e1ac-fc79-f74b-c94e29c7050d"
+          },
+          "original_raw": "that make you smile",
+          "max_chars": 19,
+          "new_text": "Tur.ai changes this"
+        }
+      ],
+      "source_record_id": "HOME-070",
+      "validation_exception": null,
+      "reason": "Synchronize with HOME-069; do not flatten spans."
+    },
+    {
+      "id": "HOME-071",
+      "action": "rewrite",
+      "expected_original_text": "42",
+      "target_text": "01",
+      "segments": [],
+      "source_record_id": "HOME-071",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-072",
+      "action": "rewrite",
+      "expected_original_text": "%",
+      "target_text": ".",
+      "segments": [],
+      "source_record_id": "HOME-072",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-073",
+      "action": "rewrite",
+      "expected_original_text": "Are lacking talent with the right skills for AI",
+      "target_text": "One model for every task",
+      "segments": [],
+      "source_record_id": "HOME-073",
+      "validation_exception": null,
+      "reason": "Operational problem to evaluate, not a market-prevalence or universal competitor claim."
+    },
+    {
+      "id": "HOME-074",
+      "action": "rewrite",
+      "expected_original_text": "30",
+      "target_text": "02",
+      "segments": [],
+      "source_record_id": "HOME-074",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-075",
+      "action": "rewrite",
+      "expected_original_text": "%",
+      "target_text": ".",
+      "segments": [],
+      "source_record_id": "HOME-075",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-076",
+      "action": "rewrite",
+      "expected_original_text": "Have silos blocking full AI solution implementation",
+      "target_text": "People bridging systems and teams",
+      "segments": [],
+      "source_record_id": "HOME-076",
+      "validation_exception": null,
+      "reason": "Operational problem to evaluate, not a market-prevalence or universal competitor claim."
+    },
+    {
+      "id": "HOME-077",
+      "action": "rewrite",
+      "expected_original_text": "24",
+      "target_text": "03",
+      "segments": [],
+      "source_record_id": "HOME-077",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-078",
+      "action": "rewrite",
+      "expected_original_text": "%",
+      "target_text": ".",
+      "segments": [],
+      "source_record_id": "HOME-078",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-079",
+      "action": "rewrite",
+      "expected_original_text": "Are missing system and data compatibility",
+      "target_text": "Process changes held up by core releases",
+      "segments": [],
+      "source_record_id": "HOME-079",
+      "validation_exception": null,
+      "reason": "Operational problem to evaluate, not a market-prevalence or universal competitor claim."
+    },
+    {
+      "id": "HOME-080",
+      "action": "rewrite",
+      "expected_original_text": "43",
+      "target_text": "04",
+      "segments": [],
+      "source_record_id": "HOME-080",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-081",
+      "action": "rewrite",
+      "expected_original_text": "%",
+      "target_text": ".",
+      "segments": [],
+      "source_record_id": "HOME-081",
+      "validation_exception": null,
+      "reason": "Ordinal for a problem/solution pair; retires an unsourced percentage."
+    },
+    {
+      "id": "HOME-082",
+      "action": "rewrite",
+      "expected_original_text": "Don't have the tools for scaling ML Ops",
+      "target_text": "Retries that waste tokens and time",
+      "segments": [],
+      "source_record_id": "HOME-082",
+      "validation_exception": null,
+      "reason": "Operational problem to evaluate, not a market-prevalence or universal competitor claim."
+    },
+    {
+      "id": "HOME-083",
+      "action": "rewrite",
+      "expected_original_text": "No special skills needed for AI tasks",
+      "target_text": "AI models matched to each task",
+      "segments": [],
+      "source_record_id": "HOME-083",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-084",
+      "action": "rewrite",
+      "expected_original_text": "Orchestrated cross-functional AI integration",
+      "target_text": "One governed flow across systems and teams",
+      "segments": [],
+      "source_record_id": "HOME-084",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-085",
+      "action": "rewrite",
+      "expected_original_text": "Works with the systems and data you have",
+      "target_text": "Change processes above existing systems",
+      "segments": [],
+      "source_record_id": "HOME-085",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-086",
+      "action": "rewrite",
+      "expected_original_text": "Ready-to-use AI models for your business context",
+      "target_text": "Bounded retries, checks and human decisions",
+      "segments": [],
+      "source_record_id": "HOME-086",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-087",
+      "action": "keep",
+      "expected_original_text": "What people say about Tur.ai.",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "ae54d5a3-a766-bbb7-7b42-16d26c12884a"
+          },
+          "original_raw": "What people say about ",
+          "max_chars": 21,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "d6372f62-757f-4938-f328-3e3208435882"
+          },
+          "original_raw": "Tur.ai",
+          "max_chars": 6,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "54d1fe56-87ac-4f7f-f265-3e76052a3de8"
+          },
+          "original_raw": ".",
+          "max_chars": 1,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-087",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-088",
+      "action": "rewrite",
+      "expected_original_text": "Our Trademark Process Lets You Transform Your Retail Operations",
+      "target_text": "One platform to pilot, run and scale your processes",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "1bbb8a07-5871-c727-8eba-4792b70c7e2f"
+          },
+          "original_raw": "Our ",
+          "max_chars": 3,
+          "new_text": "One "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "e700c5fc-6b44-fe9f-2c2b-e8b8069ba016"
+          },
+          "original_raw": "Trademark Process",
+          "max_chars": 17,
+          "new_text": "platform"
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "f0bc4674-258a-d50b-f943-6fe16c2e828d"
+          },
+          "original_raw": " Lets You Transform Your Retail Operations",
+          "max_chars": 41,
+          "new_text": " to pilot, run and scale your processes"
+        }
+      ],
+      "source_record_id": "HOME-088",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-089",
+      "action": "rewrite",
+      "expected_original_text": "EXPLORE",
+      "target_text": "PILOT",
+      "segments": [],
+      "source_record_id": "HOME-089",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-090",
+      "action": "keep",
+      "expected_original_text": "/ 01",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-090",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-091",
+      "action": "rewrite",
+      "expected_original_text": "EMPOWER",
+      "target_text": "LAUNCH",
+      "segments": [],
+      "source_record_id": "HOME-091",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-092",
+      "action": "keep",
+      "expected_original_text": "/ 02",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-092",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-093",
+      "action": "rewrite",
+      "expected_original_text": "THRIVE",
+      "target_text": "SCALE",
+      "segments": [],
+      "source_record_id": "HOME-093",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-094",
+      "action": "keep",
+      "expected_original_text": "/ 03",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-094",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-095",
+      "action": "rewrite",
+      "expected_original_text": "In the pilot phase, Tur.ai will collaborate to identify a use case focused on enhancing internal workflows or elevating the custom erexperience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "target_text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "segments": [],
+      "source_record_id": "HOME-095",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-096",
+      "action": "rewrite",
+      "expected_original_text": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "target_text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "segments": [],
+      "source_record_id": "HOME-096",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-097",
+      "action": "rewrite",
+      "expected_original_text": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "target_text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "segments": [],
+      "source_record_id": "HOME-097",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-098",
+      "action": "rewrite",
+      "expected_original_text": "EXPLORE",
+      "target_text": "PILOT",
+      "segments": [],
+      "source_record_id": "HOME-098",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-099",
+      "action": "keep",
+      "expected_original_text": "/ 01",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-099",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-100",
+      "action": "rewrite",
+      "expected_original_text": "In the pilot phase, Tur.ai will collaborate to identify a use case aimed at either enhancing internal workflows or elevating the customer experience. The goal is to develop a customized solution that clearly demonstrates tangible value.",
+      "target_text": "Choose a process with measurable value. Map its systems, decisions and controls, agree the baseline, and test a scoped workflow. Assess cycle time, staffing needs and AI costs before deciding whether to proceed.",
+      "segments": [],
+      "source_record_id": "HOME-100",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-101",
+      "action": "rewrite",
+      "expected_original_text": "EMPOWER",
+      "target_text": "LAUNCH",
+      "segments": [],
+      "source_record_id": "HOME-101",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-102",
+      "action": "keep",
+      "expected_original_text": "/ 02",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-102",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-103",
+      "action": "rewrite",
+      "expected_original_text": "Following the pilot, we will offer valuable insights and construct a compelling business case to proceed with the rollout of Tur.ai's AI solution. This strategic deployment is designed to align with your objectives and to significantly boost customer satisfaction.",
+      "target_text": "Move the agreed process into production with IT and process owners. Validate integrations, access, exceptions and required approvals. Compare results with the baseline and build the rollout case from measured outcomes, not assumed savings.",
+      "segments": [],
+      "source_record_id": "HOME-103",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-104",
+      "action": "rewrite",
+      "expected_original_text": "THRIVE",
+      "target_text": "SCALE",
+      "segments": [],
+      "source_record_id": "HOME-104",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-105",
+      "action": "keep",
+      "expected_original_text": "/ 03",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-105",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-106",
+      "action": "rewrite",
+      "expected_original_text": "Our service package includes comprehensive training and onboarding processes, ensuring a smooth team integration. This approach is aimed at delivering increased value across different business areas, supported by the continuous assistance from Tur.ai.",
+      "target_text": "Reuse the platform, integrations and controls for the next process. Train your teams to run and improve workflows, then track delivery speed, cost per accepted result and operating effort as volume and coverage grow.",
+      "segments": [],
+      "source_record_id": "HOME-106",
+      "validation_exception": null,
+      "reason": "Synchronized desktop/mobile pilot-launch-scale proposal; no fixed timing or ROI promise."
+    },
+    {
+      "id": "HOME-107",
+      "action": "rewrite",
+      "expected_original_text": "Powered by Microsoft Azure enterprise architecture, ensuring seamless integration with your existing IT infrastructure.",
+      "target_text": "Review deployment, integrations and data handling with our team, so the pilot fits your IT and security requirements.",
+      "segments": [],
+      "source_record_id": "HOME-107",
+      "validation_exception": null,
+      "reason": "Scoped IT review replaces unsupported seamless-integration promise."
+    },
+    {
+      "id": "HOME-108",
+      "action": "keep",
+      "expected_original_text": "Your Questions Answered.",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "e3f4a765-050a-8f2c-f46d-159d5ffc4d39"
+          },
+          "original_raw": "Your Questions ",
+          "max_chars": 14,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "8470feb3-3e5b-310d-98e1-de0f9ce23d80"
+          },
+          "original_raw": "Answered",
+          "max_chars": 8,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "e3d8bf01-57ff-7762-b138-65b71875ca56"
+          },
+          "original_raw": ".",
+          "max_chars": 1,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-108",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-109",
+      "action": "rewrite",
+      "expected_original_text": "How difficult is it to start with your solution?",
+      "target_text": "How do we start and measure the first value?",
+      "segments": [],
+      "source_record_id": "HOME-109",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-110",
+      "action": "rewrite",
+      "expected_original_text": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start Solution is suitable for efficient added value developments by any IT team",
+      "target_text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate. We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts. Use measured results to decide whether to expand, adapt or stop.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "a17923f8-9e7a-d97d-dcdb-9cea9a4fa71f"
+          },
+          "original_raw": "It is suitable for quick piloting with further scaling-up business models. In 3 months our customers are starting to get first value. And typically ROI is 9-12 months",
+          "max_chars": 166,
+          "new_text": "Start with one process and an agreed baseline for cycle time, staffing effort, AI usage and required controls. Define what a successful pilot must demonstrate."
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "d56f7ece-17cb-a71a-61a2-d9d2be0696d7"
+          },
+          "original_raw": "Solution is ready to use & accessible to non-technical users. Comes with out of the box AI-Automation workflows which will be pre-trained to your data and bespoke business needs, as part of 3 months start",
+          "max_chars": 204,
+          "new_text": "We scope the workflow, integrations, data and approvals with your business and IT teams. Timing depends on that scope and access to your systems; we agree milestones before work starts."
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "0fdbc9fb-2347-fdf2-d394-ed83bf4f51cd"
+          },
+          "original_raw": "Solution is suitable for efficient added value developments by any IT team",
+          "max_chars": 74,
+          "new_text": "Use measured results to decide whether to expand, adapt or stop."
+        }
+      ],
+      "source_record_id": "HOME-110",
+      "validation_exception": null,
+      "reason": "Agree pilot scope and milestones; no universal TTV or ROI guarantee."
+    },
+    {
+      "id": "HOME-111",
+      "action": "rewrite",
+      "expected_original_text": "How complicated is the integration process for your AI solution?",
+      "target_text": "Can we change processes without replacing our existing systems?",
+      "segments": [],
+      "source_record_id": "HOME-111",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-112",
+      "action": "rewrite",
+      "expected_original_text": "Our team prioritizes smooth integration, offering full support to ensure a seamless transition with minimal disruption to your operations.",
+      "target_text": "Tur.ai runs process logic, approvals and controls above your systems of record, so you can change operations without replacing your core.",
+      "segments": [],
+      "source_record_id": "HOME-112",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-113",
+      "action": "rewrite",
+      "expected_original_text": "Can we use your solution standalone ? How is our data protected?",
+      "target_text": "How do we fit Tur.ai into our security and data requirements?",
+      "segments": [],
+      "source_record_id": "HOME-113",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-114",
+      "action": "rewrite",
+      "expected_original_text": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only. Your data never leaves the security perimeter of your organization this way. If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+      "target_text": "Agree the deployment design with your IT and security teams: system access, data flows and model use. Define where data is processed, who can access it and what is retained. Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities.",
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "9a127a0e-e1b3-9d48-b589-0b23db682159"
+          },
+          "original_raw": "Yes, you can use our solution standalone from your existing infrastructure, currently we support Microsoft Azure only.",
+          "max_chars": 118,
+          "new_text": "Agree the deployment design with your IT and security teams: system access, data flows and model use."
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "5f59265d-d1e2-9f06-6657-f84816fff9bb"
+          },
+          "original_raw": "Your data never leaves the security perimeter of your organization this way. ",
+          "max_chars": 76,
+          "new_text": "Define where data is processed, who can access it and what is retained. "
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "3c563cdc-6309-3780-59ee-2f6fa93df589"
+          },
+          "original_raw": "If you would like to use our solution as SaaS, it’s also possible, your data then will be anonymized. Our SaaS infrastructure is secure and GDPR compliant.",
+          "max_chars": 155,
+          "new_text": "Review the architecture and evidence against your requirements before production. Confirm data residency, retention and operational responsibilities."
+        }
+      ],
+      "source_record_id": "HOME-114",
+      "validation_exception": null,
+      "reason": "Scope deployment and data requirements; no blanket residency/compliance claim."
+    },
+    {
+      "id": "HOME-115",
+      "action": "rewrite",
+      "expected_original_text": "How will Tur.ai enhance our capability to scale sales globally?",
+      "target_text": "How does Tur.ai keep AI costs under control as we scale?",
+      "segments": [],
+      "source_record_id": "HOME-115",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-116",
+      "action": "rewrite",
+      "expected_original_text": "Imagine Tur.ai’s AI analytics revealing in real-time what shoppers crave next. This allows you to align inventory with these emerging trends effortlessly, optimizing the product mix for market demand. As a result, +5% to Global Sales Productivity.",
+      "target_text": "Tur.ai uses models matched to each task rather than one model for everything. Governed execution limits unnecessary retries. In one banking engagement, annual token spend fell from €1.8M to €300K. This is AI usage spend, not total ownership cost.",
+      "segments": [],
+      "source_record_id": "HOME-116",
+      "validation_exception": null,
+      "reason": "Task-matched models and governed execution; token spend is not total TCO."
+    },
+    {
+      "id": "HOME-117",
+      "action": "rewrite",
+      "expected_original_text": "What can we expect in terms of improving our first response to customer inquiries?",
+      "target_text": "What do the results on this page actually measure?",
+      "segments": [],
+      "source_record_id": "HOME-117",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-118",
+      "action": "rewrite",
+      "expected_original_text": "Picture a customer inquiring about the status of a large order. Traditionally, this might require manual checks and cause delays. With Tur.ai, such inquiries will be instantly processed by AI, providing immediate, accurate updates to customers, reducing wait times, and significantly boosting satisfaction from the first interaction. As a result, +90% Initial Contact Resolution",
+      "target_text": "Selected banking results, not a forecast for every deployment: onboarding fell from 16 to 6 days, with staffing needs from 34 to 6 FTE. A separate engagement cut annual token spend from €1.8M to €300K. The 3x figure measures process-delivery speed, not onboarding time. FTE describes required capacity, not confirmed headcount cuts.",
+      "segments": [],
+      "source_record_id": "HOME-118",
+      "validation_exception": null,
+      "reason": "Explain denominators and distinct engagements in an existing FAQ."
+    },
+    {
+      "id": "HOME-119",
+      "action": "rewrite",
+      "expected_original_text": "In what ways will Tur.ai automate our customer service tasks to improve our agents' focus on more complex issues?",
+      "target_text": "How does Tur.ai fit with our ERP, automation tools and AI?",
+      "segments": [],
+      "source_record_id": "HOME-119",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-120",
+      "action": "rewrite",
+      "expected_original_text": "Envision Tur.ai handles common queries such as 'What's the delivery time for this couch?' or 'How do I assemble my new shelf?’. This automation gives your team the bandwidth to address more intricate customer concerns, like customized order requests or design advice. As a result, 70% Agent Activities Automated",
+      "target_text": "Tur.ai is an enterprise process orchestration platform above your systems of record. It coordinates systems, AI and people in one governed process. Keep core records where they belong while your teams run, control and change the work across them.",
+      "segments": [],
+      "source_record_id": "HOME-120",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-121",
+      "action": "rewrite",
+      "expected_original_text": "How will Tur.ai help us minimize the need for human contact in our service without losing our touch?",
+      "target_text": "What happens when AI needs human judgment or an exception occurs?",
+      "segments": [],
+      "source_record_id": "HOME-121",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-122",
+      "action": "rewrite",
+      "expected_original_text": "Think of Tur.ai as the first line of support, handling standard issues like payment questions or return policies quickly and efficiently. This allows your customer service experts to dedicate more time to providing personalized assistance where it truly matters. As a result, -50% Human Service Contacts",
+      "target_text": "Your rules determine what can execute. Required approvals and exceptions go to the responsible person; the process continues when the required conditions are met. Recorded context, actions and decisions support review. Autonomy does not remove accountability.",
+      "segments": [],
+      "source_record_id": "HOME-122",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-123",
+      "action": "rewrite",
+      "expected_original_text": "Can I preview changes before they go live?",
+      "target_text": "Which processes are a good fit for Tur.ai?",
+      "segments": [],
+      "source_record_id": "HOME-123",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-124",
+      "action": "rewrite",
+      "expected_original_text": "Yes. This test site is meant for preview-first review, so you can check updates in the preview URL before any publish step.",
+      "target_text": "Cross-system processes with documents, approvals and exceptions: customer onboarding, procurement and service operations.",
+      "segments": [],
+      "source_record_id": "HOME-124",
+      "validation_exception": null,
+      "reason": "Buyer qualification replaces internal preview FAQ; keep the same structure."
+    },
+    {
+      "id": "HOME-125",
+      "action": "keep",
+      "expected_original_text": "More Questions?",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-125",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-126",
+      "action": "rewrite",
+      "expected_original_text": "Book a call and learn more about AI's tailored impact on your operations.",
+      "target_text": "Discuss process delivery, AI costs and the controls you need.",
+      "segments": [],
+      "source_record_id": "HOME-126",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-127",
+      "action": "keep",
+      "expected_original_text": "Contact Us",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-127",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-128",
+      "action": "keep",
+      "expected_original_text": "Tell us more about your goals.",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "500cdcb9-ac37-3301-2aaa-f243dee5a4cf"
+          },
+          "original_raw": "Tell us more about your ",
+          "max_chars": 23,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "f788a44b-f6de-328c-b227-d18abaa8b807"
+          },
+          "original_raw": "goals",
+          "max_chars": 5,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "6899ffe04a85e00f2b8cf5ac",
+            "element": "d248a7be-80ec-4f7e-c4cb-7acf9ab08991"
+          },
+          "original_raw": ".",
+          "max_chars": 1,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-128",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-129",
+      "action": "keep",
+      "expected_original_text": "First Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-129",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-130",
+      "action": "keep",
+      "expected_original_text": "Last Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-130",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-131",
+      "action": "keep",
+      "expected_original_text": "Email",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-131",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-132",
+      "action": "keep",
+      "expected_original_text": "Company",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-132",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-133",
+      "action": "rewrite",
+      "expected_original_text": "Dive into Your AI Goals",
+      "target_text": "Your process and goals",
+      "segments": [],
+      "source_record_id": "HOME-133",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-134",
+      "action": "keep",
+      "expected_original_text": "Submit",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-134",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-135",
+      "action": "rewrite",
+      "expected_original_text": "Thank you! We'll get back to you soon!",
+      "target_text": "Thank you! We'll be in touch.",
+      "segments": [],
+      "source_record_id": "HOME-135",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-136",
+      "action": "rewrite",
+      "expected_original_text": "Oops! Something went wrong while submitting the form.",
+      "target_text": "Your message was not sent. Please try again.",
+      "segments": [],
+      "source_record_id": "HOME-136",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-137",
+      "action": "keep",
+      "expected_original_text": "LinkedIn",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-137",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-138",
+      "action": "keep",
+      "expected_original_text": "Privacy Policy",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-138",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-139",
+      "action": "keep",
+      "expected_original_text": "Imprint",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-139",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-140",
+      "action": "keep",
+      "expected_original_text": "Back to Top",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-140",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-141",
+      "action": "rewrite",
+      "expected_original_text": "© 2024 Tur.ai. All rights reserved.",
+      "target_text": "© 2026 Tur.ai. All rights reserved.",
+      "segments": [],
+      "source_record_id": "HOME-141",
+      "validation_exception": null,
+      "reason": "Propose copyright year 2026 only; check shared component scope."
+    },
+    {
+      "id": "HOME-142",
+      "action": "keep",
+      "expected_original_text": "Book a Demo",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+            "element": "e7c0820d-4776-575f-b75a-443b3c55d9a9"
+          },
+          "original_raw": "Book a ",
+          "max_chars": 6,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "e7c0820d-4776-575f-b75a-443b3c55d9a5",
+            "element": "e7c0820d-4776-575f-b75a-443b3c55d9ab"
+          },
+          "original_raw": "Demo",
+          "max_chars": 4,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-142",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-143",
+      "action": "rewrite",
+      "expected_original_text": "Enter your contact info to witness AI's tailored impact on your operations.",
+      "target_text": "See a process run across systems, with controls and task-matched AI.",
+      "segments": [],
+      "source_record_id": "HOME-143",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-144",
+      "action": "keep",
+      "expected_original_text": "First Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-144",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-145",
+      "action": "keep",
+      "expected_original_text": "Last Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-145",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-146",
+      "action": "keep",
+      "expected_original_text": "Email",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-146",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-147",
+      "action": "keep",
+      "expected_original_text": "Company",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-147",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-148",
+      "action": "keep",
+      "expected_original_text": "Submit",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-148",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-149",
+      "action": "rewrite",
+      "expected_original_text": "Thank you! Your submission has been received!",
+      "target_text": "Thank you! We'll contact you about your demo.",
+      "segments": [],
+      "source_record_id": "HOME-149",
+      "validation_exception": null,
+      "reason": "Acknowledge the demo request, not a confirmed booking."
+    },
+    {
+      "id": "HOME-150",
+      "action": "rewrite",
+      "expected_original_text": "Oops! Something went wrong while submitting the form.",
+      "target_text": "Your message was not sent. Please try again.",
+      "segments": [],
+      "source_record_id": "HOME-150",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-151",
+      "action": "keep",
+      "expected_original_text": "Book a Call",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+            "element": "da519de6-fd09-ebd6-cb27-c995ef476975"
+          },
+          "original_raw": "Book a ",
+          "max_chars": 6,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "da519de6-fd09-ebd6-cb27-c995ef476971",
+            "element": "da519de6-fd09-ebd6-cb27-c995ef476977"
+          },
+          "original_raw": "Call",
+          "max_chars": 4,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-151",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-152",
+      "action": "rewrite",
+      "expected_original_text": "Enter your contact info and we’ll get back to you.",
+      "target_text": "Share your details to discuss orchestration.",
+      "segments": [],
+      "source_record_id": "HOME-152",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-153",
+      "action": "keep",
+      "expected_original_text": "First Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-153",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-154",
+      "action": "keep",
+      "expected_original_text": "Last Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-154",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-155",
+      "action": "keep",
+      "expected_original_text": "Email",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-155",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-156",
+      "action": "keep",
+      "expected_original_text": "Company",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-156",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-157",
+      "action": "keep",
+      "expected_original_text": "Submit",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-157",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-158",
+      "action": "rewrite",
+      "expected_original_text": "Thank you! Your submission has been received!",
+      "target_text": "Thank you! We'll contact you about your call.",
+      "segments": [],
+      "source_record_id": "HOME-158",
+      "validation_exception": null,
+      "reason": "Acknowledge the call request, not a confirmed booking."
+    },
+    {
+      "id": "HOME-159",
+      "action": "rewrite",
+      "expected_original_text": "Oops! Something went wrong while submitting the form.",
+      "target_text": "Your message was not sent. Please try again.",
+      "segments": [],
+      "source_record_id": "HOME-159",
+      "validation_exception": null,
+      "reason": "Apply the agreed cross-industry execution story; see proposal.md."
+    },
+    {
+      "id": "HOME-160",
+      "action": "hold",
+      "expected_original_text": "Name",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-160",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-161",
+      "action": "hold",
+      "expected_original_text": "Email Address",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-161",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-162",
+      "action": "hold",
+      "expected_original_text": "Thank you! Your submission has been received!",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-162",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-163",
+      "action": "hold",
+      "expected_original_text": "Oops! Something went wrong while submitting the form.",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-163",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-164",
+      "action": "hold",
+      "expected_original_text": "Розблокуйте можливості автоматизації ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-164",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-165",
+      "action": "hold",
+      "expected_original_text": "Ім'я",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-165",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-166",
+      "action": "hold",
+      "expected_original_text": "Прізвище",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-166",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-167",
+      "action": "hold",
+      "expected_original_text": "Email",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-167",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-168",
+      "action": "hold",
+      "expected_original_text": "Компанія",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-168",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-169",
+      "action": "hold",
+      "expected_original_text": "Посада",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-169",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-170",
+      "action": "hold",
+      "expected_original_text": "Де зараз перебуває ваша організація на шляху впровадження ШІ?",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-170",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-171",
+      "action": "hold",
+      "expected_original_text": "Пориньте у свої цілі ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-171",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-172",
+      "action": "hold",
+      "expected_original_text": "Ми використовуватимемо вашу особисту інформацію лише для надання продуктів і послуг, які ви в нас запитували. Ми також хотіли б час від часу зв’язуватися з вами щодо наших продуктів і послуг:",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-172",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-173",
+      "action": "hold",
+      "expected_original_text": "Я погоджуюся отримувати новини та оновлення від Tur.ai",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-173",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-174",
+      "action": "hold",
+      "expected_original_text": "Я дозволяю Tur.ai зберігати та обробляти мої персональні дані",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286e9"
+          },
+          "original_raw": "Я дозволяю ",
+          "max_chars": 10,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "24ba9b94-33f2-db99-d513-0991cdc5ab74"
+          },
+          "original_raw": "Tur.ai",
+          "max_chars": 6,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ab11ba4d-faee-902c-5ae4-66a5e5acd82d"
+          },
+          "original_raw": " зберігати та обробляти мої персональні дані",
+          "max_chars": 43,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-174",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-175",
+      "action": "hold",
+      "expected_original_text": "Дякуємо! Ваш запит успішно відправлено.",
+      "target_text": null,
+      "segments": [
+        {
+          "source_id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286ee"
+          },
+          "original_raw": "Дякуємо!",
+          "max_chars": 8,
+          "new_text": null
+        },
+        {
+          "source_id": {
+            "component": "ddcbea1b-1392-25e9-9672-4d7ba34286b0",
+            "element": "ddcbea1b-1392-25e9-9672-4d7ba34286f0"
+          },
+          "original_raw": "Ваш запит успішно відправлено.",
+          "max_chars": 30,
+          "new_text": null
+        }
+      ],
+      "source_record_id": "HOME-175",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-176",
+      "action": "hold",
+      "expected_original_text": "Oh! An error occurred while submitting the form.",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-176",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-177",
+      "action": "hold",
+      "expected_original_text": "“Tur.ai has significantly enhanced our operational processes at Radio Holland, improving our efficiency and customer service. Their AI-driven solutions facilitate smooth and quick processing that meets our operational objectives. With Tur.ai, we are not only maintaining our industry standards but also striving to elevate them.”",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-177",
+      "validation_exception": null,
+      "reason": "Protected client quotation; keep verbatim."
+    },
+    {
+      "id": "HOME-178",
+      "action": "hold",
+      "expected_original_text": "Faissel el Mouridi",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-178",
+      "validation_exception": null,
+      "reason": "Hold testimonial attribution pending name/role/asset check."
+    },
+    {
+      "id": "HOME-179",
+      "action": "hold",
+      "expected_original_text": "CFO, Radio Holland",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-179",
+      "validation_exception": null,
+      "reason": "Hold testimonial attribution pending name/role/asset check."
+    },
+    {
+      "id": "HOME-180",
+      "action": "keep",
+      "expected_original_text": "Tur.ai Logo - Full",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-180",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-181",
+      "action": "keep",
+      "expected_original_text": "Heineken Logo - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-181",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-182",
+      "action": "keep",
+      "expected_original_text": "Noordwest Logo - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-182",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-183",
+      "action": "keep",
+      "expected_original_text": "Radio Holland - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-183",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-184",
+      "action": "keep",
+      "expected_original_text": "NOC NSF Logo - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-184",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-185",
+      "action": "keep",
+      "expected_original_text": "Image of Ievgen Miasushkin, CEO of Tur.ai",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-185",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-186",
+      "action": "keep",
+      "expected_original_text": "Message Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-186",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-187",
+      "action": "keep",
+      "expected_original_text": "Filter Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-187",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-188",
+      "action": "keep",
+      "expected_original_text": "Gears Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-188",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-189",
+      "action": "keep",
+      "expected_original_text": "Activity Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-189",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-190",
+      "action": "keep",
+      "expected_original_text": "Tick Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-190",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-191",
+      "action": "keep",
+      "expected_original_text": "Radio Holland Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-191",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-192",
+      "action": "keep",
+      "expected_original_text": "Heineken Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-192",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-193",
+      "action": "keep",
+      "expected_original_text": "Noordwest Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-193",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-194",
+      "action": "hold",
+      "expected_original_text": "NOC NSF Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-194",
+      "validation_exception": null,
+      "reason": "Hold hidden procurement variant: client/logo conflict; do not activate. See review-questions.md."
+    },
+    {
+      "id": "HOME-195",
+      "action": "keep",
+      "expected_original_text": "Radio Holland Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-195",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-196",
+      "action": "keep",
+      "expected_original_text": "Heineken Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-196",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-197",
+      "action": "keep",
+      "expected_original_text": "Noordwest Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-197",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-198",
+      "action": "keep",
+      "expected_original_text": "Heineken Logo - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-198",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-199",
+      "action": "keep",
+      "expected_original_text": "Left Arrow - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-199",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-200",
+      "action": "keep",
+      "expected_original_text": "Right Arrow - Black",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-200",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-201",
+      "action": "keep",
+      "expected_original_text": "Play Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-201",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-202",
+      "action": "keep",
+      "expected_original_text": "Arrow Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-202",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-203",
+      "action": "keep",
+      "expected_original_text": "Document+ Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-203",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-204",
+      "action": "keep",
+      "expected_original_text": "Document Icon",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-204",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-205",
+      "action": "keep",
+      "expected_original_text": "Left Arrow - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-205",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-206",
+      "action": "keep",
+      "expected_original_text": "Right Arrow - White",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-206",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-207",
+      "action": "hold",
+      "expected_original_text": "Image of Faissel el Mourid",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-207",
+      "validation_exception": null,
+      "reason": "Hold testimonial attribution pending name/role/asset check."
+    },
+    {
+      "id": "HOME-208",
+      "action": "keep",
+      "expected_original_text": "Microsoft for Startups Badge",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-208",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-209",
+      "action": "rewrite",
+      "expected_original_text": "Please share the benefits you expect from AI or challenges you aim to address.",
+      "target_text": "Which process needs to change, and which systems and controls are involved?",
+      "segments": [],
+      "source_record_id": "HOME-209",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-210",
+      "action": "keep",
+      "expected_original_text": "Tur.ai Logo - Full",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-210",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-211",
+      "action": "keep",
+      "expected_original_text": "Top B2B Companies Ukraine 2023 - Clutch Award Logo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-211",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-212",
+      "action": "keep",
+      "expected_original_text": "Dutch Interactive Awards Logo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-212",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-213",
+      "action": "keep",
+      "expected_original_text": "Accenture Innovation Awards - Award Logo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-213",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-214",
+      "action": "keep",
+      "expected_original_text": "ML and Intelligent Automation Award Logo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-214",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-215",
+      "action": "keep",
+      "expected_original_text": "Spinawards - Award Logo",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-215",
+      "validation_exception": null,
+      "reason": "Retain functional label or existing asset description."
+    },
+    {
+      "id": "HOME-216",
+      "action": "hold",
+      "expected_original_text": "Please wait...",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-216",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-217",
+      "action": "hold",
+      "expected_original_text": "Submit",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-217",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-218",
+      "action": "hold",
+      "expected_original_text": "Виберіть варіант",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-218",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-219",
+      "action": "hold",
+      "expected_original_text": "Дослідження можливостей ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-219",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-220",
+      "action": "hold",
+      "expected_original_text": "Експериментування з ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-220",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-221",
+      "action": "hold",
+      "expected_original_text": "Впровадження рішень на базі ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-221",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-222",
+      "action": "hold",
+      "expected_original_text": "Оптимізація систем ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-222",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-223",
+      "action": "hold",
+      "expected_original_text": "Розробка та адаптація власних рішень на базі ШІ",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-223",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-224",
+      "action": "hold",
+      "expected_original_text": "Поділіться перевагами, які ви очікуєте від штучного інтелекту, або проблемами, які ви збираєтеся вирішити. Крім того, якщо у вас є бажаний графік реалізації, повідомте нас.",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-224",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-225",
+      "action": "hold",
+      "expected_original_text": "Будь ласка, зачекайте...",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-225",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-226",
+      "action": "hold",
+      "expected_original_text": "Надіслати",
+      "target_text": null,
+      "segments": [],
+      "source_record_id": "HOME-226",
+      "validation_exception": null,
+      "reason": "Protected hidden test or UA field; no change in this English Home scope."
+    },
+    {
+      "id": "HOME-227",
+      "action": "rewrite",
+      "expected_original_text": "Tur.ai - Headless Hyperautomation platform",
+      "target_text": "Tur.ai | Enterprise Process Orchestration",
+      "segments": [],
+      "source_record_id": "HOME-227",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    },
+    {
+      "id": "HOME-228",
+      "action": "rewrite",
+      "expected_original_text": "Power Your Business Processes with AI Automation Tailored to Your Organisation's context. Deployed simply, scaled effectively. Book a demo.",
+      "target_text": "Run regulated processes across existing systems. Orchestrate systems, AI and people to work faster today and change faster tomorrow.",
+      "segments": [],
+      "source_record_id": "HOME-228",
+      "validation_exception": null,
+      "reason": "V2: owner-approved enterprise orchestration category and AI/transformation buyer context."
+    }
+  ]
+}

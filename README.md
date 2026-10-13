@@ -1,49 +1,32 @@
-# Оновлення основного сайту Tur.ai
+# Tur.ai Home: implementation handoff
 
-Робочий репозиторій для оновлення контенту Tur.ai через пісочницю Webflow. Починаємо з головної сторінки: тут збережено **228 текстових полів**, їхні оригінали, ліміти символів, прив’язки до елементів і початкові виміри верстки на п’яти ширинах.
+**Current edition: enterprise-orchestration-handoff-v2**
 
-**Поточний стан:** експорт підготовлено та перевірено; новий змістовий бриф очікується; тексти ще не переписано. Змін у Webflow та публікації не виконували.
+Start at **[the implementation handoff](docs/IMPLEMENTATION_HANDOFF.md)**.
 
-## З чого почати
+- [Exact replacements](content/home/rewrite.json) and [machine apply plan](content/home/apply-plan.json)
+- [Copy in page order](content/home/proposal.md)
+- [Approved direction](content/home/business-brief.md), [decisions](content/home/decisions.md), [evidence](content/home/evidence.md)
+- [Status](content/home/STATUS.md), [validation](content/home/validation.md), [known holds](content/home/review-questions.md)
 
-1. [Завдання наступному агенту](docs/NEXT_AGENT.md) — точка входу для роботи.
-2. [Змістовий бриф](content/home/business-brief.md) — сюди власник додає нове позиціонування та потрібні акценти.
-3. [Правила переписування](baseline/home/2026-10-12/00_BRIEF_FOR_AGENT.md) — обмеження текстів, виділень, форм і повторів.
-4. [Повний експорт текстів](baseline/home/2026-10-12/01_FULL_CONTENT_EXPORT.md) та [факти й розбіжності](baseline/home/2026-10-12/03_FACTS_AND_DUPLICATES.md).
-5. [Робочий файл нових текстів](content/home/rewrite.json) — заповнювати всі ID, обираючи `keep`, `rewrite` або `hold`.
-6. [Статус і приймання](content/home/STATUS.md) — що вже зроблено та що залишається.
+Approved hero:
 
-## Як зберігаємо роботу
+> **Enterprise Process Orchestration Platform**
+>
+> Run regulated processes across existing systems. Customers trust us to help them work faster today and change faster tomorrow.
 
-| Шлях | Призначення |
-|---|---|
-| `baseline/home/2026-10-12/` | Незмінний вихідний пакет, докази, виміри, знімки та контрольні суми |
-| `content/home/` | Поточний бриф, нові тексти, пояснення рішень і статус |
-| `docs/` | Порядок роботи й завдання агенту |
-| `tools/check.py` | Перевірка цілісності джерела та редакційних лімітів |
-| `.github/workflows/` | Автоматичні перевірки змін у репозиторії |
-
-Історію редакцій зберігаємо в Git. Для наступної редакції створюємо гілку та pull request із коротким описом змін. ZIP-пакети й папки `final-v2-final` більше не потрібні. Архівний README всередині `baseline` описує первинну передачу ZIP; для роботи через репозиторій користуємося цим README.
-
-## Перевірки
-
-Потрібен Python 3.10 або новіший, без сторонніх бібліотек. Команди запускати з кореня репозиторію.
+Prepare and validate, without writing to Webflow:
 
 ```sh
-python3 tools/check.py
 python3 tools/check.py --complete
+python3 -m unittest discover -s tools -p "test_*.py"
+python3 tools/verify_home_handoff.py
 ```
 
-Перша команда перевіряє збережений знімок і вже заповнені поля, дозволяючи незаповнену чернетку. Друга вимагає рішення для всіх 228 полів; до завершення редакції вона очікувано завершується помилкою. Коли тексти готові до змістового рев’ю, створити файл `content/home/READY_FOR_REVIEW` з коротким описом і запустити другу команду. Наявність цього файла вмикає повну перевірку в GitHub Actions; це позначка готовності до рев’ю, не схвалення текстів.
+HOME-003 has one explicit exact-copy segment exception. The original baseline and budgets are unchanged. See `implementation-overrides.json`; do not silence arbitrary validation errors.
 
-Проходження перевірки символів **не гарантує збереження верстки**. Після внесення схвалених текстів потрібне порівняння в Webflow на тих самих ширинах та в інтерактивних станах. Повний порядок — у [workflow](docs/WORKFLOW.md).
+Webflow changes, visual acceptance and publication have NOT been performed. PR #1 remains the review/change record; a merge does not publish the website.
 
-## Перегляд експорту
+## Source snapshot
 
-[HTML-перегляд](baseline/home/2026-10-12/index.html) із пошуком відкривається локально у браузері; GitHub показує його код. Це каталог текстів, а не копія макета сайту. Для читання без клонування використовуй Markdown-експорт вище.
-
-## Джерело
-
-[Copy of Tur.ai у Webflow Designer](https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.design.webflow.com/?workflow=canvas), сторінка Home. Site ID `6899ffe04a85e00f2b8cf5ab`, Page ID `6899ffe04a85e00f2b8cf5ac`. Знімок зроблено 12 жовтня 2026 UTC; репозиторій підготовлено 13 жовтня за київським часом. Це неопублікований стан Designer, який може відрізнятися від публічного tur.ai.
-
-Репозиторій містить контент та докази для оновлення; повного вихідного коду сайту тут немає. Репозиторій не підключено до автоматичного внесення змін у Webflow або публікації.
+The immutable [baseline](baseline/home/2026-10-12/README.md) contains the original 228 fields, bindings, layout measurements and source checksums. It is not the new page copy. Do not modify it.

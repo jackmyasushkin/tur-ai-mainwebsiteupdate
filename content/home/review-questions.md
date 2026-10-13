@@ -1,14 +1,10 @@
 # Review questions and implementation gates
 
-## Q1 — Approve the complete wording
+## Q1 - Approval scope and settled content
 
-Positioning direction and the owner correction from licenses to token expenditure
-are settled; do not reopen them as missing decisions. Review the complete
-replacement set, the proposed founder statement and the four case captions.
+The exact enterprise-orchestration hero is owner-approved. The owner directed the rest of Home to be aligned and prepared for an implementation agent. Use the current edition, not the rejected AI-first hero. Do not restart positioning or invent a new headline.
 
-This is a content-review package, not publication approval. Keep the bank
-anonymous. The metrics FAQ must stay with the shortened captions so the scope and
-denominators remain visible.
+Implementation starts only when explicitly assigned. Keep banks anonymous and retain metric captions plus the metrics FAQ. Full visual acceptance and publication are separate; preparation does not authorize publication.
 
 ## Q2 — Existing case assets
 
