@@ -292,13 +292,13 @@
     },
     {
       "path": "final-preview-1383.png",
-      "bytes": 48476,
-      "sha256": "e29f42d3062bcc64092b67b4c6e1f07978fe03768416a02ab0de2a116476bce6"
+      "bytes": 86212,
+      "sha256": "26980aa61c4da1e6356778992f35f35889e4dbb695a238542f1b5f23def9f04a"
     },
     {
       "path": "final-preview-320.png",
-      "bytes": 35790,
-      "sha256": "cf8558a360f9a3d178c4b90db2aa932e53e2c04977b44a2ec1f91a16fb692943"
+      "bytes": 55240,
+      "sha256": "672456294505400105eb139fa7380265cc15a792f428c27d6f3ea0e3b1dccc6c"
     },
     {
       "path": "final-preview-dom.json",
