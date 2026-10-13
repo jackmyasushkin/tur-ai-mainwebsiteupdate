@@ -1,0 +1,214 @@
+{
+  "site_id": "6899ffe04a85e00f2b8cf5ab",
+  "site_name": "Copy of Tur.ai",
+  "source": "Webflow MCP 2.1.0 list_pages and get_all_elements; 13 static published URL GET checks",
+  "inspection_date": "2026-10-13",
+  "webflow_mutations": 0,
+  "inventory": [
+    {
+      "id": "68dd251f9083156864d78be2",
+      "title": "Articles Template",
+      "path": "/articles",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2025-11-11T10:05:26.741Z",
+      "collectionId": "68dd251f9083156864d78bd3"
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf654",
+      "title": "Heineken Case - Procurement",
+      "path": "/heinekens-procurement-transformation-with-ai-automation",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-10-13T01:23:33.196Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf653",
+      "title": "Heineken Case",
+      "path": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-10-13T01:26:45.115Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf652",
+      "title": "Radio Holland Case",
+      "path": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-10-13T01:27:07.123Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf651",
+      "title": "Style Guide",
+      "path": "/style-guide",
+      "draft": true,
+      "archived": false,
+      "lastUpdated": "2025-08-11T14:36:25.447Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf5ac",
+      "title": "Home",
+      "path": "/",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-10-13T02:20:01.333Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf650",
+      "title": "Home EN Copy",
+      "path": "/home-copy-2",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2025-08-11T14:36:25.434Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf64f",
+      "title": "Imprint UA",
+      "path": "/ua/imprint",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2025-08-11T14:36:25.428Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf64e",
+      "title": "Imprint EN",
+      "path": "/imprint",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2025-08-11T14:36:25.422Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf64c",
+      "title": "Privacy Policy UA",
+      "path": "/ua/privacy-policy",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2025-08-11T14:36:25.410Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf64b",
+      "title": "Privacy Policy EN",
+      "path": "/privacy-policy",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-10-13T01:28:09.000Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf629",
+      "title": "Home UA",
+      "path": "/ua",
+      "draft": true,
+      "archived": false,
+      "lastUpdated": "2026-07-07T10:46:17.328Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf606",
+      "title": "Home test",
+      "path": "/home-copy",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-07-07T10:46:17.345Z",
+      "collectionId": null
+    },
+    {
+      "id": "6899ffe04a85e00f2b8cf5eb",
+      "title": "Old Home",
+      "path": "/old-home",
+      "draft": false,
+      "archived": false,
+      "lastUpdated": "2026-07-07T10:46:06.907Z",
+      "collectionId": null
+    }
+  ],
+  "variant_tree_summary": [
+    {
+      "title": "Old Home",
+      "node_count": 328,
+      "legacy_hero": true,
+      "components": [
+        {
+          "id": "df4f4fe4-659a-9bd1-cc45-48cfbeed0231",
+          "name": "header-en"
+        },
+        {
+          "id": "1c6ce5d6-e9d7-469b-2914-e4e8d92dd94b",
+          "name": "contact-us-modal-en"
+        },
+        {
+          "id": "0d127f47-e4f3-7e49-bd54-7122611836bf",
+          "name": "book-a-demo-en"
+        },
+        {
+          "id": "65c8df30-8acc-e4de-6291-29896f42a5a7",
+          "name": "cta-en"
+        },
+        {
+          "id": "bc9c8df7-888c-4958-8f98-b91c6bfd7410",
+          "name": "footer EN"
+        }
+      ],
+      "page_local_forms": []
+    },
+    {
+      "title": "Home test",
+      "node_count": 460,
+      "legacy_hero": true,
+      "components": [],
+      "page_local_forms": [
+        {
+          "name": "contact-form",
+          "method": "post",
+          "external_action": true
+        },
+        {
+          "name": "book-a-demo-form",
+          "method": "post",
+          "external_action": true
+        }
+      ]
+    },
+    {
+      "title": "Home EN Copy",
+      "node_count": 402,
+      "legacy_hero": true,
+      "components": [
+        {
+          "id": "df4f4fe4-659a-9bd1-cc45-48cfbeed0231",
+          "name": "header-en"
+        },
+        {
+          "id": "65c8df30-8acc-e4de-6291-29896f42a5a7",
+          "name": "cta-en"
+        },
+        {
+          "id": "bc9c8df7-888c-4958-8f98-b91c6bfd7410",
+          "name": "footer EN"
+        }
+      ],
+      "page_local_forms": [
+        {
+          "name": "contact-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "contact-form",
+          "method": "get",
+          "external_action": false
+        }
+      ]
+    }
+  ]
+}
