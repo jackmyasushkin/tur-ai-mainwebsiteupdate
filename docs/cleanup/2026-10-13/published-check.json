@@ -1,0 +1,285 @@
+{
+  "checked_at": "2026-10-13T06:43:08.097453+00:00",
+  "base_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io",
+  "requests_sent": "GET only; no forms submitted",
+  "pages": [
+    {
+      "path": "/heinekens-procurement-transformation-with-ai-automation",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/heinekens-procurement-transformation-with-ai-automation",
+      "sha256": "51e9f430a9e39eaaff8acec3ddf42ebc6fedcde1d81fccf2904351c24f374202",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Heineken’s Procurement Transformation with AI Automation"
+    },
+    {
+      "path": "/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/heinekens-transformation-of-cashback-campaigns-with-ai-automation",
+      "sha256": "0179fa52f1d7b2646ae80fb0f35c601ce94cef3062c7f4748063b78955f6e231",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "post",
+          "external_action": true
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Heineken's Transformation of Cashback Campaigns with AI Automation"
+    },
+    {
+      "path": "/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/how-tur-ai-revolutionizes-customer-service-for-radio-holland-with-ai",
+      "sha256": "731f71ca0089f4a530d35c5d856c3f00bc302fdf53598f2541b72db71f498d7b",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "post",
+          "external_action": true
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "The Invisible Workforce:"
+    },
+    {
+      "path": "/style-guide",
+      "status": 404
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/",
+      "sha256": "5ff038faea2ae2f508e38ae9aec6098d385a038702b9d4a035819677b1637a5a",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "post",
+          "external_action": true
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-book-a-demo-form",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Enterprise Process Orchestration Platform"
+    },
+    {
+      "path": "/home-copy-2",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/home-copy-2",
+      "sha256": "af46eb1e1497cd94b3d571ae09cc0830f49faf07bfb51e14d9468f0d976c4177",
+      "forms": [
+        {
+          "name": "wf-form-contact-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-contact-form",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Power Your Business Processes with AI Automation Unlock possibilities of AI automation Discover the true-state of your processes with AI transformation tools Streamline processes to empower your company’s capabilities Scale your business predictably & achieve quick time-to-value Components Intelligent process discovery Non-technical Interface AutoML Intelligent process editor QuickStart with Ready Solutions Smooth Data & System Sync Smart Comms Automation Effortless Deployment & Care AI-Enhanced Document Handling Intelligent Contexts Repository Integrated ML Labs Contextual Process Orchestration Hand-in-Hand Guidance Insightful Discovery Seamless Implementation Strategic Planning Risk Mitigation Continuous Optimization Cultural Adoption"
+    },
+    {
+      "path": "/ua/imprint",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/ua/imprint",
+      "sha256": "f777e89c02491e6035045df3aaf1a561cd1daf71b1cb2ce3e2d3dbb53977af3a",
+      "forms": [
+        {
+          "name": "wf-form-contact-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-book-a-demo-form",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Imprint"
+    },
+    {
+      "path": "/imprint",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/imprint",
+      "sha256": "bfdf28f2b559cc202ab7f001dc400af04609ac9ac1af01a96eb61b82fc439077",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Imprint"
+    },
+    {
+      "path": "/ua/privacy-policy",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/ua/privacy-policy",
+      "sha256": "e0eff44d97949c034ae931a637d385b502dcfb8dcbe5a749489b85994f38f1a5",
+      "forms": [
+        {
+          "name": "wf-form-book-a-demo-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-contact-form",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Introduction"
+    },
+    {
+      "path": "/privacy-policy",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/privacy-policy",
+      "sha256": "8b87d667e436eaaa8e3675bbf3248de4400767124f79e7bf160620284543cc96",
+      "forms": [
+        {
+          "name": "email-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Demo",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-Book-a-Call-2",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Introduction"
+    },
+    {
+      "path": "/ua",
+      "status": 404
+    },
+    {
+      "path": "/home-copy",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/home-copy",
+      "sha256": "74e2bf7eb5ba9c88438a5b4cc77aeca8dda82c2f00d731170f08b3e6694ed5b5",
+      "forms": [
+        {
+          "name": "wf-form-contact-form",
+          "method": "post",
+          "external_action": true
+        },
+        {
+          "name": "wf-form-book-a-demo-form",
+          "method": "post",
+          "external_action": true
+        }
+      ],
+      "all_h1_text_joined": "Power Your Business Processes with AI Automation Unlock possibilities of AI automation Discover the true-state of your processes with AI transformation tools Streamline processes to empower your company’s capabilities Scale your business predictably & achieve quick time-to-value Components Intelligent process discovery Non-technical Interface AutoML Intelligent process editor QuickStart with Ready Solutions Smooth Data & System Sync Smart Comms Automation Effortless Deployment & Care AI-Enhanced Document Handling Intelligent Contexts Repository Integrated ML Labs Contextual Process Orchestration Hand-in-Hand Guidance Insightful Discovery Strategic Planning Risk Mitigation Seamless Implementation Continual Optimization Cultural Adoption Ready to scale to the next level?"
+    },
+    {
+      "path": "/old-home",
+      "status": 200,
+      "final_url": "https://tur-ai-9ad25f67865b7ebb8e05b7460738fd68.webflow.io/old-home",
+      "sha256": "1e66ca5c91ec36963f495e6d6775d6fb56cd0134af0f0d85623bbf2ed9e022d4",
+      "forms": [
+        {
+          "name": "wf-form-contact-form",
+          "method": "get",
+          "external_action": false
+        },
+        {
+          "name": "wf-form-book-a-demo-form",
+          "method": "get",
+          "external_action": false
+        }
+      ],
+      "all_h1_text_joined": "Power Your Business Processes with AI Automation"
+    }
+  ],
+  "incoming_candidate_links": [
+    {
+      "source": "/home-copy-2",
+      "target": "/old-home",
+      "href": "/old-home"
+    },
+    {
+      "source": "/home-copy-2",
+      "target": "/old-home",
+      "href": "/old-home"
+    },
+    {
+      "source": "/home-copy-2",
+      "target": "/old-home",
+      "href": "/old-home"
+    },
+    {
+      "source": "/home-copy",
+      "target": "/old-home",
+      "href": "/old-home"
+    }
+  ],
+  "scope_limits": [
+    "Static anchors on 13 page URLs only; CMS item URLs, runtime-created links, redirects, external campaigns and traffic not audited.",
+    "Forms inspected without submissions; webhook URLs and lead data not retained."
+  ]
+}
